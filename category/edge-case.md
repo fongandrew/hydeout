@@ -19,7 +19,7 @@ Or ...
 ```md
 ---
 layout: category
-title: Fancy Tital
+title: Fancy Title
 category: My Category
 ---
 ```
