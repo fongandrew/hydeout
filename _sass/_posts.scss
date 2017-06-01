@@ -41,7 +41,11 @@
   border-bottom: 1px solid #eee;
 }
 
-.related-posts {
+.posts-by-tag h2 {
+  text-transform: capitalize;
+}
+
+.posts-list {
   padding-left: 0;
   list-style: none;
 

@@ -1,0 +1,13 @@
+.tags-list {
+  a {
+    margin-right: 1em;
+    white-space: nowrap;
+
+    .tag-count {
+      margin-left: 0.25em;
+      border-radius: 1000px;
+      font-size: 0.8em;
+      opacity: 0.8;
+    }
+  }
+}
