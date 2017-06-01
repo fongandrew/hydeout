@@ -1,0 +1,37 @@
+//
+//                        ___
+//                       /\_ \
+//  _____     ___     ___\//\ \      __
+// /\ '__`\  / __`\  / __`\\ \ \   /'__`\
+// \ \ \_\ \/\ \_\ \/\ \_\ \\_\ \_/\  __/
+//  \ \ ,__/\ \____/\ \____//\____\ \____\
+//   \ \ \/  \/___/  \/___/ \/____/\/____/
+//    \ \_\
+//     \/_/
+//
+// Designed, built, and released under MIT license by @mdo. Learn more at
+// https://github.com/poole/poole.
+
+@import "poole/variables";
+@import "base";
+@import "type";
+@import "syntax";
+@import "code";
+@import "layout";
+@import "masthead";
+@import "posts";
+@import "pagination";
+@import "message";
+
+/* Overrides + fixes for issues in Poole */
+
+// So long code doesn't stretch pass edge ofscreen
+pre {
+  max-width: 100%;
+  overflow: auto;
+}
+
+// Fix image being squashed if explicit height set and max-width: 100%
+img {
+  height: auto;
+}
