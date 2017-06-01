@@ -17,6 +17,13 @@ author:
   url:            https://twitter.com/mdo
 
 paginate:         5
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
 
 # Custom vars
 version:          3.0.0
