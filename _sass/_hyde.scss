@@ -36,6 +36,10 @@
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: $sidebar-bg-color;
+  background-image: linear-gradient(
+    to bottom,
+    lighten($sidebar-bg-color, 7%),
+    darken($sidebar-bg-color, 7%));
 }
 @media (min-width: $large-breakpoint) {
   .sidebar {
