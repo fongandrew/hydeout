@@ -33,13 +33,18 @@
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: $sidebar-bg-color;
   background-image: linear-gradient(
     to bottom,
     lighten($sidebar-bg-color, 7%),
     darken($sidebar-bg-color, 7%));
+
+  .container {
+    padding: 2rem;
+    max-height: 100vh;
+    overflow: auto;
+  }
 }
 @media (min-width: $large-breakpoint) {
   .sidebar {
@@ -110,11 +115,9 @@ a.sidebar-nav-item:focus {
 
 @if $sidebar-sticky {
   @media (min-width: $large-breakpoint) {
-    .sidebar .container {
-      position: absolute;
-      right:  1rem;
-      bottom: 1rem;
-      left:   1rem;
+    .sidebar {
+      display: flex;
+      align-items: flex-end;
     }
   }
 }
