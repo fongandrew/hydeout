@@ -3,18 +3,18 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        /:year/:month/:day/:title.html
 
 # Setup
-title:            Hyde
+title:            Hydeout
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, updated.'
 url:              http://hyde.getpoole.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 defaults:
@@ -33,4 +33,4 @@ gems:
   - jekyll-paginate
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/fongandrew/hydeout
