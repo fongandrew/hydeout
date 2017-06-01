@@ -115,3 +115,7 @@ a[href^="#fnref:"] {
   font-size: 1.25rem;
   font-weight: 300;
 }
+
+// SVG Icons
+.icon svg { height: 1em; width: auto; }
+a .icon svg { fill: $link-color; }
