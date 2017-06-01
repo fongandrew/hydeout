@@ -1,0 +1,39 @@
+---
+layout: page
+title: Tags
+---
+
+<!-- See https://blog.lanyonm.org/articles/2013/11/21/alphabetize-jekyll-page-tags-pure-liquid.html -->
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+<!-- site_tags: {{ site_tags }} -->
+{% assign tag_words = site_tags | split:',' | sort %}
+<!-- tag_words: {{ tag_words }} -->
+
+<div id="tags">
+  <div id="tags-list">
+    {% for tag in tag_words %}
+    <a href="#{{ tag | slugify }}" class="tag-link">
+      <span class="tag-name">{{ tag }}</span>
+      <span class="tag-count">{{ site.tags[tag] | size }}</span>
+    </a>
+    {% endfor %}
+  </div>
+
+  <hr/>
+
+  <div class="all-tags-posts">
+    {% for tag in tag_words %}
+    <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+    <ul class="tag-posts">
+      {% for post in site.tags[tag] %}
+        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+      <li>
+        {{ post.title }}
+      <small class="post-date">{{ post.date | date_to_string }}</small>
+      </li>
+      </a>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</div>
