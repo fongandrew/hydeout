@@ -1,12 +1,10 @@
-# Hydeout
+---
+layout: post
+title: Hello Hydeout
+---
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
+Hydeout updates the original [Hyde](https://hyde.getpoole.com)
 theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
-
-### Usage
-
-Hydeout currently isn't available as a Ruby Gem. I recommend just forking
-it at the moment
 
 ### Keep It Simple
 
