@@ -57,10 +57,11 @@
     small {
       font-size: 75%;
       color: #999;
+      white-space: nowrap;
     }
 
     a:hover {
-      color: #268bd2;
+      color: $link-color;
       text-decoration: none;
 
       small {

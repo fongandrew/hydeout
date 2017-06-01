@@ -1,13 +1,23 @@
 .tags-list {
   a {
-    margin-right: 1em;
+    margin-right: 0.5em;
     white-space: nowrap;
+    opacity: 0.75;
 
     .tag-count {
+      background: $link-color;
+      color: rgba(255, 255, 255, 0.8);
       margin-left: 0.25em;
       border-radius: 1000px;
-      font-size: 0.8em;
-      opacity: 0.8;
+      font-size: 0.75em;
+      padding-left: 0.6em;
+      padding-right: 0.6em;
+    }
+
+    // No underline because it looks weird with badge
+    &:hover {
+      text-decoration: none;
+      opacity: 1;
     }
   }
 }

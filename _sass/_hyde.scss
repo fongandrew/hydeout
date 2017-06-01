@@ -24,28 +24,6 @@
  * Themes
  */
 
-
-/*
- * Global resets
- *
- * Update the foundational and global aspects of the page.
- */
-
-html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
-@media (min-width: 48em) {
-  html {
-    font-size: 16px;
-  }
-}
-@media (min-width: 58em) {
-  html {
-    font-size: 20px;
-  }
-}
-
-
 /*
  * Sidebar
  *
@@ -57,9 +35,9 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: $sidebar-bg-color;
 }
-@media (min-width: 48em) {
+@media (min-width: $large-breakpoint) {
   .sidebar {
     position: fixed;
     top: 0;
@@ -101,16 +79,18 @@ a.sidebar-nav-item:focus {
 
 /* Sticky sidebar
  *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
+ * Set $sidebar-stick variable to affix sidebar contents to the bottom of the
+ * sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
-  .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+@if $sidebar-sticky {
+  @media (min-width: $large-breakpoint) {
+    .sidebar .container {
+      position: absolute;
+      right:  1rem;
+      bottom: 1rem;
+      left:   1rem;
+    }
   }
 }
 
@@ -126,7 +106,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: $large-breakpoint) {
   .content {
     max-width: 38rem;
     margin-left: 20rem;
@@ -134,7 +114,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: $xlarge-breakpoint) {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
@@ -148,103 +128,22 @@ a.sidebar-nav-item:focus {
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
+@if $layout-reverse {
+  @media (min-width: $large-breakpoint) {
+    .sidebar {
+      left: auto;
+      right: 0;
+    }
+    .content {
+      margin-left: 2rem;
+      margin-right: 20rem;
+    }
   }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
+
+  @media (min-width: $xlarge-breakpoint) {
+    .content {
+      margin-left: 4rem;
+      margin-right: 22rem;
+    }
   }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
-  }
-}
-
-
-
-/*
- * Themes
- *
- * As of v1.1, Hyde includes optional themes to color the sidebar and links
- * within blog posts. To use, add the class of your choosing to the `body`.
- */
-
-/* Base16 (http://chriskempson.github.io/base16/#default) */
-
-/* Red */
-.theme-base-08 .sidebar {
-  background-color: #ac4142;
-}
-.theme-base-08 .content a,
-.theme-base-08 .posts-list li a:hover {
-  color: #ac4142;
-}
-
-/* Orange */
-.theme-base-09 .sidebar {
-  background-color: #d28445;
-}
-.theme-base-09 .content a,
-.theme-base-09 .posts-list li a:hover {
-  color: #d28445;
-}
-
-/* Yellow */
-.theme-base-0a .sidebar {
-  background-color: #f4bf75;
-}
-.theme-base-0a .content a,
-.theme-base-0a .posts-list li a:hover {
-  color: #f4bf75;
-}
-
-/* Green */
-.theme-base-0b .sidebar {
-  background-color: #90a959;
-}
-.theme-base-0b .content a,
-.theme-base-0b .posts-list li a:hover {
-  color: #90a959;
-}
-
-/* Cyan */
-.theme-base-0c .sidebar {
-  background-color: #75b5aa;
-}
-.theme-base-0c .content a,
-.theme-base-0c .posts-list li a:hover {
-  color: #75b5aa;
-}
-
-/* Blue */
-.theme-base-0d .sidebar {
-  background-color: #6a9fb5;
-}
-.theme-base-0d .content a,
-.theme-base-0d .posts-list li a:hover {
-  color: #6a9fb5;
-}
-
-/* Magenta */
-.theme-base-0e .sidebar {
-  background-color: #aa759f;
-}
-.theme-base-0e .content a,
-.theme-base-0e .posts-list li a:hover {
-  color: #aa759f;
-}
-
-/* Brown */
-.theme-base-0f .sidebar {
-  background-color: #8f5536;
-}
-.theme-base-0f .content a,
-.theme-base-0f .posts-list li a:hover {
-  color: #8f5536;
 }
