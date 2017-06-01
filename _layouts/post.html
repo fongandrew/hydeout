@@ -4,14 +4,45 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+  <div class="post-meta">
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+    <span class="post-categories">
+      {% for category in page.categories %}
+        &bull;
+
+        {% comment %}
+          Check if this category has a corresponding page before decide
+          to link to it. This is an O(n^2) operations so consider removing
+          it and linking for all categories (or no categories) if this
+          site has a lot of pages and/or a lot of categories.
+        {% endcomment %}
+        {% assign category_page = false %}
+        {% for node in site.pages %}
+          {{ node.category }}
+          {% if node.category == category or node.title == category %}
+            {% assign category_page = node %}
+          {% endif %}
+        {% endfor %}
+
+        {% if category_page %}
+          <a href="{{ site.baseurl }}{{ category_page.url }}">
+            {{ category }}
+          </a>
+        {% else %}
+          {{ category }}
+        {% endif %}
+      {% endfor %}
+    </span>
+  </div>
+
   {{ content }}
 
   <div class="post-tags">
     {% for tag in page.tags %}
       <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}">
-        <span class="icon">{% include svg/tags.svg %}</span>
-        <span class="tag-name">{{ tag }}</span>
+        <span class="icon">
+          {% include svg/tags.svg %}
+        </span>&nbsp;<span class="tag-name">{{ tag }}</span>
       </a>
     {% endfor %}
   </div>

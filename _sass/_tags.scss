@@ -21,16 +21,3 @@
     }
   }
 }
-
-.post-tags a {
-  font-size: 0.8em;
-  margin-right: 0.5rem;
-  white-space:nowrap;
-  .tag-name { text-transform: capitalize; }
-
-  opacity: 0.75;
-  &:hover {
-    text-decoration: none;
-    opacity: 1;
-  }
-}
