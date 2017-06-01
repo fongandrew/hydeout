@@ -22,6 +22,7 @@ paginate:         5
 version:          3.0.0
 gems:
   - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
 
 github:
