@@ -1,8 +1,9 @@
 $gray-1: #f9f9f9 !default;
-$gray-2: #ccc !default;
-$gray-3: #767676 !default;
-$gray-4: #515151 !default;
-$gray-5: #313131 !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #767676 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
 
 $red: #ac4142 !default;
 $orange: #d28445 !default;
@@ -16,12 +17,15 @@ $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxy
 $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
-$body-color: #515151 !default;
+$body-color: $gray-5 !default;
 $body-bg: #fff !default;
 $link-color: $blue !default;
 
-$border-color: #e5e5e5 !default;
-$border-radius: 4px !default;
+$border-color: $gray-2 !default;
+$border-radius: 300px !default;
+$padding-v: 1em !default;
+$padding-h: 1.5em !default;
+$section-spacing: 2em !default;
 
 $large-breakpoint: 48rem !default;
 $large-font-size: 1.25rem !default;
