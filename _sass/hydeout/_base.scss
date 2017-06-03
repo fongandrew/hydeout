@@ -60,14 +60,14 @@ table {
   margin-bottom: 1rem;
   width: 100%;
   font-size: 85%;
-  border: 1px solid #e5e5e5;
+  border: 1px solid $border-color;
   border-collapse: collapse;
 }
 
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid $border-color;
 }
 
 th {
@@ -76,5 +76,27 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: $gray-1;
+}
+
+input[type="text"], input[type="search"], input[type="submit"], button {
+  padding: $padding-v $padding-h;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+}
+
+button, input[type="submit"] {
+  cursor: pointer;
+  background: transparent;
+  border-color: $border-color;
+  color: $link-color;
+  transition: color 0.6s ease-in-out,
+              border-color 0.6s ease-in-out,
+              background 0.6s ease-in-out;
+
+  &:hover {
+    background: $link-color;
+    border-color: $link-color;
+    color: white;
+  }
 }
