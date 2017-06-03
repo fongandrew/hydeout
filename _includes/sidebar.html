@@ -57,10 +57,17 @@
         {% include svg/feed.svg %}
         <span class="sr-only">Subscribe</span>
       </a>
-      <a class="sidebar-icon-link" title="Tags"
+      <a class="sidebar-icon-link{% if page.url == '/tags' %} active{% endif %}"
+         title="Tags"
          href="{{ site.baseurl }}/tags">
         {% include svg/tags.svg %}
         <span class="sr-only">Tags</span>
+      </a>
+      <a class="sidebar-icon-link{% if page.url == '/search' %} active{% endif %}"
+         title="Search"
+         href="{{ site.baseurl }}/search">
+        {% include svg/search.svg %}
+        <span class="sr-only">Search</span>
       </a>
     </nav>
 

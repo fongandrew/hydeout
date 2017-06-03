@@ -1,0 +1,28 @@
+.search-row {
+  display: flex;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: 2px;
+
+  input {
+    padding: 0.5rem 0.75rem;
+    border: 0;
+  }
+
+  input + input { margin-left: 2px; }
+
+  input[type="text"], input[type="search"] {
+    flex-grow: 1;
+  }
+
+  input[type="submit"] {
+    cursor: pointer;
+    background: fade-out($link-color, 0.2);
+    color: white;
+    border-radius: $border-radius;
+
+    &:hover {
+      background: $link-color;
+    }
+  }
+}
