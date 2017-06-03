@@ -12,7 +12,8 @@ it at the moment
 
 In keeping with the original Hyde theme, Hydeout aims to keep the overall
 design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus (if you use it).
+to Disqus and Google Analytics (and is only loaded if you provide configuration
+variables).
 
 ### Customization
 
@@ -71,6 +72,9 @@ disqus:
 
 If you don't want Disqus or want to use something else, override
 `comments.html`.
+
+For Google Analytics support, define a `google_analytics` variable with
+your property ID in your config file.
 
 There's also a bunch of minor tweaks and adjustments throughout the
 theme. Hope this works for you!
