@@ -28,7 +28,7 @@ pre code {
   background-color: transparent;
 }
 
-// Pygments via Jekyll
+// Pygments/Rouge via Jekyll
 .highlight {
   padding: 1rem;
   margin-bottom: 1rem;
@@ -54,6 +54,10 @@ pre code {
   }
 }
 
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
 
 // Gist via GitHub Pages
 // .gist .gist-file {

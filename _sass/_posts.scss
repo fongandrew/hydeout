@@ -5,10 +5,18 @@
 
 .page,
 .post {
-  margin-bottom: 4em;
+  padding-bottom: $section-spacing;
+  border-bottom: 1px solid $border-color;
+  margin-bottom: $section-spacing;
 
   li + li {
     margin-top: .25rem;
+  }
+
+  ~ * {
+    padding-bottom: $section-spacing;
+    border-bottom: 1px solid $border-color;
+    margin-bottom: $section-spacing;
   }
 }
 
@@ -43,15 +51,6 @@
   }
 }
 
-// Related posts
-.related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
-}
-
 .posts-by-tag h2 {
   text-transform: capitalize;
 }
@@ -80,4 +79,8 @@
       }
     }
   }
+}
+
+button.disqus-load {
+  margin-top: 1em;
 }
