@@ -30,6 +30,10 @@
 .post-title {
   margin-top: 0;
 }
+// h1-size h2
+h2.post-title, h2.page-title {
+  font-size: 2rem;
+}
 
 // Meta data line below post title
 .post-meta {

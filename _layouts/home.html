@@ -5,42 +5,12 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-
-    <div class="post-meta">
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-      <span class="post-categories">
-        {% for category in post.categories %}
-          &bull;
-
-          {% comment %}
-            Check if this category has a corresponding page before decide
-            to link to it. This is an O(n^2) operations so consider removing
-            it and linking for all categories (or no categories) if this
-            site has a lot of pages and/or a lot of categories.
-          {% endcomment %}
-          {% assign category_page = false %}
-          {% for node in site.pages %}
-            {{ node.category }}
-            {% if node.category == category or node.title == category %}
-              {% assign category_page = node %}
-            {% endif %}
-          {% endfor %}
-
-          {% if category_page %}
-            <a href="{{ site.baseurl }}{{ category_page.url }}">
-              {{ category }}
-            </a>
-          {% else %}
-            {{ category }}
-          {% endif %}
-        {% endfor %}
-      </span>
-    </div>
+    </h2>
+    {% include post-meta.html post=post %}
 
     {% if post.excerpt %}
       {{ post.excerpt }}
@@ -65,19 +35,4 @@ layout: default
   {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+{% include pagination.html %}

@@ -4,64 +4,10 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-meta">
-    <span class="post-date">{{ page.date | date_to_string }}</span>
-    <span class="post-categories">
-      {% for category in page.categories %}
-        &bull;
-
-        {% comment %}
-          Check if this category has a corresponding page before decide
-          to link to it. This is an O(n^2) operations so consider removing
-          it and linking for all categories (or no categories) if this
-          site has a lot of pages and/or a lot of categories.
-        {% endcomment %}
-        {% assign category_page = false %}
-        {% for node in site.pages %}
-          {{ node.category }}
-          {% if node.category == category or node.title == category %}
-            {% assign category_page = node %}
-          {% endif %}
-        {% endfor %}
-
-        {% if category_page %}
-          <a href="{{ site.baseurl }}{{ category_page.url }}">
-            {{ category }}
-          </a>
-        {% else %}
-          {{ category }}
-        {% endif %}
-      {% endfor %}
-    </span>
-  </div>
-
+  {% include post-meta.html post=page %}
   {{ content }}
-
-  <div class="post-tags">
-    {% for tag in page.tags %}
-      <a href="{{ site.baseurl }}/tags#{{ tag | slugify }}">
-        <span class="icon">
-          {% include svg/tags.svg %}
-        </span>&nbsp;<span class="tag-name">{{ tag }}</span>
-      </a>
-    {% endfor %}
-  </div>
+  {% include post-tags.html post=page %}
 </div>
 
 {% include comments.html %}
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="posts-list">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+{% include related_posts.html %}

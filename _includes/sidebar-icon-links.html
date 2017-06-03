@@ -1,0 +1,29 @@
+<nav class="sidebar-icon-links">
+  <a class="sidebar-icon-link" title="Github Project"
+      href="{{ site.github.repo }}">
+    {% include svg/github.svg %}
+    <span class="sr-only">Github Project</span>
+  </a>
+  <a class="sidebar-icon-link" title="Download"
+      href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
+    {% include svg/download.svg %}
+    <span class="sr-only">Download</span>
+  </a>
+  <a class="sidebar-icon-link" title="Subscribe"
+      href="{{ site.baseurl }}/feed.xml">
+    {% include svg/feed.svg %}
+    <span class="sr-only">Subscribe</span>
+  </a>
+  <a class="sidebar-icon-link{% if page.url == '/tags' %} active{% endif %}"
+      title="Tags"
+      href="{{ site.baseurl }}/tags">
+    {% include svg/tags.svg %}
+    <span class="sr-only">Tags</span>
+  </a>
+  <a class="sidebar-icon-link{% if page.url == '/search' %} active{% endif %}"
+      title="Search"
+      href="{{ site.baseurl }}/search">
+    {% include svg/search.svg %}
+    <span class="sr-only">Search</span>
+  </a>
+</nav>
