@@ -40,3 +40,8 @@ validation-report.json
 # Folders to ignore
 node_modules
 .sass-cache
+
+# Dev stuff
+Makefile
+Gemfile.lock
+_config.dev.yml
