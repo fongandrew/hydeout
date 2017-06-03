@@ -34,3 +34,8 @@ gems:
 
 github:
   repo:           https://github.com/fongandrew/hydeout
+
+disqus:
+  shortname:      hydeout
+
+google_analytics: UA-100461102-1
