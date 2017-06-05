@@ -106,6 +106,11 @@ body {
   }
 }
 
+// Index pages need more padding on bottom
+.index #sidebar {
+  margin-bottom: $section-spacing;
+}
+
 
 /* -----------------------------------------------------------
   Mobile view for home page)
@@ -161,6 +166,8 @@ body {
       display: block;
     }
   }
+
+  .index #sidebar { margin-bottom: 0; }
 
   // Make entire container background white to contrast against sidebar
   .container {
