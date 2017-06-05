@@ -1,29 +1,26 @@
 <nav id="sidebar-icon-links">
-  <a class="icon" title="Github Project"
-      href="{{ site.github.repo }}">
-    {% include svg/github.svg %}
-    <span class="sr-only">Github Project</span>
-  </a>
-  <a class="icon" title="Download"
-      href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
-    {% include svg/download.svg %}
-    <span class="sr-only">Download</span>
-  </a>
-  <a class="icon" title="Subscribe"
+  {% if site.github.repo %}
+    <a class="icon" title="Github Project" aria-label="Github Project"
+        href="{{ site.github.repo }}">
+      {% include svg/github.svg %}
+    </a>
+    <a class="icon" title="Download" aria-label="Download"
+        href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
+      {% include svg/download.svg %}
+    </a>
+  {% endif %}
+  <a class="icon" title="Subscribe" aria-label="Subscribe"
       href="{{ site.baseurl }}/feed.xml">
     {% include svg/feed.svg %}
-    <span class="sr-only">Subscribe</span>
   </a>
   <a class="icon{% if page.url == '/tags' %} active{% endif %}"
-      title="Tags"
+      title="Tags" aria-label="Tags"
       href="{{ site.baseurl }}/tags">
     {% include svg/tags.svg %}
-    <span class="sr-only">Tags</span>
   </a>
   <a class="icon{% if page.url == '/search' %} active{% endif %}"
-      title="Search"
+      title="Search" aria-label="Tags"
       href="{{ site.baseurl }}/search">
     {% include svg/search.svg %}
-    <span class="sr-only">Search</span>
   </a>
 </nav>
