@@ -22,6 +22,16 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
+permalink:        /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
+
 github:
   repo:           https://github.com/fongandrew/hydeout
 
