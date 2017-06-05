@@ -16,7 +16,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          3.0.0
+version:          3.1.0
 gems:
   - jekyll-feed
   - jekyll-gist
