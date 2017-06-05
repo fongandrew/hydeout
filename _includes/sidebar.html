@@ -1,16 +1,16 @@
-<div class="sidebar">
-  <div class="container">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}/">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
-
-    {% include sidebar-nav.html %}
-    {% include sidebar-icon-links.html %}
-    {% include copyright.html %}
-  </div>
+<div id="sidebar">
+  <header>
+    <{% if page.layout == "home" %}h1{% else %}div{% endif %} class="site-title">
+      <a href="{{ site.baseurl }}/">
+        {% unless page.url == "/" %}
+          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+        {% endunless %}
+        {{ site.title }}
+      </a>
+    </{% if page.layout == "home" %}h1{% else %}div{% endif %}>
+    <p class="lead">{{ site.description }}</p>
+  </header>
+  {% include sidebar-nav.html %}
+  {% include sidebar-icon-links.html %}
+  {% include copyright.html %}
 </div>

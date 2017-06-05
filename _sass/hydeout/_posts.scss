@@ -3,20 +3,17 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
-.page,
-.post {
-  padding-bottom: $section-spacing;
-  border-bottom: 1px solid $border-color;
-  margin-bottom: $section-spacing;
+.post-body + *, .post .post-body ~ * + * {
+  padding-top: $section-spacing;
+  border-top: 1px solid $border-color;
+  margin-top: $section-spacing;
+}
 
-  li + li {
-    margin-top: .25rem;
-  }
-
-  ~ * {
-    padding-bottom: $section-spacing;
-    border-bottom: 1px solid $border-color;
-    margin-bottom: $section-spacing;
+.post, .page {
+  .content {
+    li + li {
+      margin-top: .25rem;
+    }
   }
 }
 
@@ -24,12 +21,13 @@
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: $heading-color;
 }
 .page-title,
 .post-title {
   margin-top: 0;
 }
+
 // h1-size h2
 h2.post-title, h2.page-title {
   font-size: 2rem;
@@ -39,7 +37,7 @@ h2.post-title, h2.page-title {
 .post-meta {
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: $body-muted;
 }
 
 .post-tags a {

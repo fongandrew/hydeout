@@ -3,15 +3,14 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.layout }}">
 
     {% include sidebar.html %}
 
-    <div class="content container">
+    <div class="container">
       {{ content }}
     </div>
 
     {% include custom-foot.html %}
-
   </body>
 </html>

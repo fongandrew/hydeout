@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="posts">
+<div class="content">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post-body">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -33,6 +33,6 @@ layout: default
     {% endif %}
   </div>
   {% endfor %}
-</div>
 
-{% include pagination.html %}
+  {% include pagination.html %}
+</div>

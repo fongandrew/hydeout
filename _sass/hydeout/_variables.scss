@@ -18,18 +18,21 @@ $root-font-size: 1rem !default;
 $root-line-height: 1.5 !default;
 
 $body-color: $gray-5 !default;
+$body-muted: $gray-4 !default;
 $body-bg: #fff !default;
 $link-color: $blue !default;
+$heading-color: $gray-6 !default;
 
 $border-color: $gray-2 !default;
 $border-radius: 300px !default;
 $padding-v: 1em !default;
 $padding-h: 1.5em !default;
-$section-spacing: 2em !default;
+$heading-spacing: 0.5rem !default;
+$section-spacing: 2rem !default;
+$sidebar-width: 18rem !default;
 
 $large-breakpoint: 48rem !default;
 $large-font-size: 1.25rem !default;
-$xlarge-breakpoint: 64rem !default;
 
 $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;

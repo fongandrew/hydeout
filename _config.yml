@@ -2,13 +2,10 @@
 markdown:         kramdown
 highlighter:      rouge
 
-# Permalinks
-permalink:        /:year/:month/:day/:title.html
-
 # Setup
 title:            Hydeout
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, updated.'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
@@ -17,13 +14,6 @@ author:
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
-defaults:
-  - scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      excerpt_separator:  <!--more-->
-      layout: post
 
 # Custom vars
 version:          3.0.0
