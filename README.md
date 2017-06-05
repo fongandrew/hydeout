@@ -10,7 +10,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 3.1.0"` to your Gemfile and run
+Add `gem "jekyll-theme-hydeout", "~> 3.1"` to your Gemfile and run
 `bundle install`.
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
@@ -69,16 +69,39 @@ of the body (e.g. for custom JS) by defining your own
 
 ### New Features
 
-* Hydeout also adds a new tags page (accessible in the sidebar) and a new
-  "category" layout for dedicated category pages.
+* Hydeout adds a new tags page (accessible in the sidebar). Just create a
+  new page with the tags layout:
 
-* Category pages are automatically added to the sidebar. All other pages
+  ```
+  ---
+  layout: tags
+  title: Tags
+  ---
+  ```
+
+* Hydeout and a new "category" layout for dedicated category pages.
+  Category pages are automatically added to the sidebar. All other pages
   must have `sidebar_link: true` in their front matter to show up in
-  the sidebar.
+  the sidebar. To create a category page, use the `category` layout"
 
-* A simple redirect-to-Google search is available. If you want to use
-  Google Custom Search or Algolia or something with more involved,
-  override the `search.html`.
+  ```
+  ---
+  layout: category
+  title: My Category
+  ---
+
+  Description of "My Category"
+  ```
+
+* A simple redirect-to-Google search is available. Just create a page with
+  the `search` layout.
+
+  ```
+  ---
+  layout: search
+  title: Google Search
+  ---
+  ```
 
 * Disqus integration is ready out of the box. Just add the following to
   your config file:

@@ -12,7 +12,6 @@
       {% endcomment %}
       {% assign category_page = false %}
       {% for node in site.pages %}
-        {{ node.category }}
         {% if node.category == category or node.title == category %}
           {% assign category_page = node %}
         {% endif %}
