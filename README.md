@@ -3,6 +3,10 @@
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 
+![Desktop](/_screenshots/1.png?raw=true)
+![Mobile home page](/_screenshots/2.png?raw=true)
+![Mobile post page](/_screenshots/3.png?raw=true)
+
 ### Usage
 
 Hydeout currently isn't available as a Ruby Gem. I recommend just forking
