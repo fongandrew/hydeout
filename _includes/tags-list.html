@@ -21,19 +21,21 @@
   <div class="posts-by-tag">
     {% for tag_pair in tag_words %}
     {% assign tag = tag_pair | split:'|' | last %}
-    <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
-    <ul class="posts-list">
-      {% for post in site.tags[tag] %}
-        <li>
-          <h3>
-            <a href="{{ site.baseurl }}{{ post.url }}">
-              {{ post.title }}
-              <small>{{ post.date | date_to_string }}</small>
-            </a>
-          </h3>
-        </li>
-      {% endfor %}
-    </ul>
+    <div id="{{ tag | slugify }}" class="posts-for-tag">
+      <h2>{{ tag }}</h2>
+      <ul class="posts-list">
+        {% for post in site.tags[tag] %}
+          <li>
+            <h3>
+              <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+                <small>{{ post.date | date_to_string }}</small>
+              </a>
+            </h3>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
     {% endfor %}
   </div>
 </div>
