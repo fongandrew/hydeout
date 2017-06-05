@@ -10,7 +10,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 3.2"` to your Gemfile and run
+Add `gem "jekyll-theme-hydeout", "~> 3.3"` to your Gemfile and run
 `bundle install`.
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
