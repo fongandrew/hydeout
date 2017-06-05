@@ -5,47 +5,37 @@
 
 .pagination {
   overflow: hidden; // clearfix
-  margin: 0 -1.5rem 1rem;
+  margin: $section-spacing 0;
   color: $gray-3;
   text-align: center;
-}
+  display: flex;
+  width: 100%;
 
-// Pagination items can be `span`s or `a`s
-.pagination-item {
-  display: block;
-  padding: $padding-v $padding-h;
-  border: solid $border-color;
-  border-width: 1px 0;
-
-  &:first-child {
-    margin-bottom: -1px;
-  }
-}
-
-// Only provide a hover state for linked pagination items
-a.pagination-item:hover {
-  background-color: $border-color;
-}
-
-@media (min-width: 30em) {
-  .pagination {
-    margin: 3rem 0;
-  }
-
-  .pagination-item {
-    float: left;
-    width: 50%;
+  > * {
+    display: block;
+    padding: $padding-v $padding-h;
+    border: solid $border-color;
     border-width: 1px;
+    flex-grow: 1;
+    margin-left: -1px;
 
     &:first-child {
-      margin-bottom: 0;
+      margin-left: 0;
       border-top-left-radius:    $border-radius;
       border-bottom-left-radius: $border-radius;
     }
+
     &:last-child {
-      margin-left: -1px;
       border-top-right-radius:    $border-radius;
       border-bottom-right-radius: $border-radius;
     }
   }
+}
+
+/*
+  Pagination items can be `span`s or `a`s but
+  only provide a hover state for linked pagination items
+*/
+a.pagination-item:hover {
+  background-color: $border-color;
 }

@@ -1,26 +1,26 @@
-<nav class="sidebar-icon-links">
-  <a class="sidebar-icon-link" title="Github Project"
+<nav id="sidebar-icon-links">
+  <a class="icon" title="Github Project"
       href="{{ site.github.repo }}">
     {% include svg/github.svg %}
     <span class="sr-only">Github Project</span>
   </a>
-  <a class="sidebar-icon-link" title="Download"
+  <a class="icon" title="Download"
       href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">
     {% include svg/download.svg %}
     <span class="sr-only">Download</span>
   </a>
-  <a class="sidebar-icon-link" title="Subscribe"
+  <a class="icon" title="Subscribe"
       href="{{ site.baseurl }}/feed.xml">
     {% include svg/feed.svg %}
     <span class="sr-only">Subscribe</span>
   </a>
-  <a class="sidebar-icon-link{% if page.url == '/tags' %} active{% endif %}"
+  <a class="icon{% if page.url == '/tags' %} active{% endif %}"
       title="Tags"
       href="{{ site.baseurl }}/tags">
     {% include svg/tags.svg %}
     <span class="sr-only">Tags</span>
   </a>
-  <a class="sidebar-icon-link{% if page.url == '/search' %} active{% endif %}"
+  <a class="icon{% if page.url == '/search' %} active{% endif %}"
       title="Search"
       href="{{ site.baseurl }}/search">
     {% include svg/search.svg %}
