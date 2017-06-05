@@ -14,11 +14,11 @@ Add `gem "jekyll-theme-hydeout", "~> 3.1.0"` to your Gemfile and run
 `bundle install`.
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
-it with an `index.html` that uses the `home` layout:
+it with an `index.html` that uses the `index` layout:
 
 ```
 ---
-layout: home
+layout: index
 title: Home
 ---
 ```
