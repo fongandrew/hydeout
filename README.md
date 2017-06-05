@@ -10,7 +10,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 3.1"` to your Gemfile and run
+Add `gem "jekyll-theme-hydeout", "~> 3.2"` to your Gemfile and run
 `bundle install`.
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
@@ -62,10 +62,33 @@ $sidebar-sticky: false;
 See the [_variables](_sass/hydeout/_variables.scss) file for other variables
 you can override.
 
-You can also insert custom head tags (e.g. to load your own stylesheets) by
-defining your own `_includes/custom-head.html` or insert tags at the end
-of the body (e.g. for custom JS) by defining your own
-`_includes/custom-foot.html`.
+You can see the full set of partials you can replace in the
+[`_includes`](_includes) folder, but there are a few worth noting:
+
+* `_includes/copyright.html` - Insert your own copyright here.
+
+* `_includes/custom-head.html` - Insert custom head tags (e.g. to load your
+  own stylesheets)
+
+* `_includes/custom-foot.html` - Insert custom elements at the end of the
+  body (e.g. for custom JS)
+
+* `_includes/custom-nav-links.html` - Additional nav links to insert at the
+  end of the list of links in the sidebar.
+
+  Pro-tip: The `nav`s in the sidebar are flexboxes. Use the `order` property
+  to order your links.
+
+* `_includes/custom-icon-links.html`- Additional icon links to insert at the
+  end of the icon links at the bottom of the sidebar. You can use the `order`
+  property to re-order.
+
+* `_includes/favicons.html` - Replace references to `favicon.ico` and
+  `favicon.png` with your own favicons references.
+
+* `_includes/font-includes.html` - The Abril Fatface font used for the site
+  title is loaded here. If you're overriding that font in the CSS, be sure
+  to also remove the font load reference here.
 
 ### New Features
 

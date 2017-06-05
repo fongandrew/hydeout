@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hydeout"
-  spec.version       = "3.1.3"
+  spec.version       = "3.2.0"
   spec.authors       = ["Andrew Fong"]
   spec.email         = ["id@andrewfong.com"]
 

@@ -37,12 +37,7 @@ body {
 
 #sidebar {
   flex: 0 0 auto;
-
-  // Use header + last-child to control vertical spacing so we can make
-  // certain elements appear to be part of sidebar
-  padding: 0 $section-spacing;
-  header { margin-top: $section-spacing; }
-  header ~ *:last-child { margin-bottom: $section-spacing; }
+  padding: $section-spacing;
 
   .site-title {
     font-family: "Abril Fatface", serif;
@@ -50,7 +45,7 @@ body {
     font-size: $large-font-size;
     color: rgba(255,255,255,.75);
     margin-top: 0;
-    margin-bottom: 0;
+    margin-bottom: $heading-spacing;
 
     a {
       color: inherit;
@@ -86,7 +81,7 @@ body {
 // Hide secondary nav content in sidebar
 // Hide lead paragraph in sidebar
 #sidebar {
-  header ~ *, p.lead {
+  header ~ *, header ~ nav, p.lead {
     display: none;
   }
 }
@@ -95,7 +90,7 @@ body {
 .container > header {
   background: transparent;
   color: white;
-  margin: 0 $section-spacing $section-spacing;
+  margin: -$section-spacing $section-spacing $section-spacing;
 
   h1, h2 {
     color: white;
@@ -104,11 +99,6 @@ body {
       margin-bottom: 0;
     }
   }
-}
-
-// Index pages need more padding on bottom
-.index #sidebar {
-  margin-bottom: $section-spacing;
 }
 
 
@@ -132,6 +122,16 @@ body {
   header ~ *, p.lead {
     display: block;
   }
+
+  header ~ nav {
+    display: flex;
+  }
+
+  // Slightly more bottom padding to compensate for heading not match 100% of
+  // line-height on top
+  > *:last-child {
+    margin-bottom: 0.5rem;
+  }
 }
 
 
@@ -147,12 +147,17 @@ body {
     > * { max-height: 100vh; overflow: auto; }
   }
 
+  /* Undo mobile CSS */
+
   #sidebar, .home #sidebar {
     width: $sidebar-width;
     text-align: left;
+
+    > *:last-child {
+      margin-bottom: 0;
+    }
   }
 
-  // Undo mobile CSS
   #sidebar {
     .site-title {
       font-size: 3.25rem;
@@ -165,6 +170,12 @@ body {
     p.lead, header ~ * {
       display: block;
     }
+
+    header ~ nav {
+      display: flex;
+    }
+
+
   }
 
   .index #sidebar { margin-bottom: 0; }
@@ -223,8 +234,24 @@ body {
   }
 }
 
-#sidebar-nav {
-  margin-bottom: 1rem;
+#sidebar nav {
+  display: flex;
+}
+
+#sidebar-nav-links {
+  flex-flow: column nowrap;
+}
+
+#sidebar-icon-links {
+  max-width: 100%;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 1rem;
+
+  @media (min-width: $large-breakpoint) {
+    margin-left: -0.25em;
+    justify-content: flex-start;
+  }
 }
 
 #sidebar nav > * {
@@ -235,7 +262,7 @@ body {
 #sidebar nav > .icon {
   font-size: 1.5rem;
   display: inline-block;
-  + a { margin-left: 0.5em; }
+  margin: 0 0.25em;
 }
 
 
