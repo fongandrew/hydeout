@@ -84,13 +84,20 @@ body {
   header ~ *, header ~ nav, p.lead {
     display: none;
   }
+
+  // Adjust heading spacing since nothing underneath it
+  header > .site-title {
+    margin-bottom: 0;
+  }
 }
 
 // Make header elements blend into sidebar / background
 .container > header {
   background: transparent;
   color: white;
-  margin: -$section-spacing $section-spacing $section-spacing;
+  margin: ($heading-spacing - $section-spacing)
+          $section-spacing
+          $section-spacing;
 
   h1, h2 {
     color: white;
@@ -123,8 +130,14 @@ body {
     display: block;
   }
 
-  header ~ nav {
-    display: flex;
+  header {
+    ~ nav {
+      display: flex;
+    }
+
+    > .site-title {
+      margin-bottom: $heading-spacing;
+    }
   }
 
   // Slightly more bottom padding to compensate for heading not match 100% of
@@ -174,8 +187,6 @@ body {
     header ~ nav {
       display: flex;
     }
-
-
   }
 
   .index #sidebar { margin-bottom: 0; }
