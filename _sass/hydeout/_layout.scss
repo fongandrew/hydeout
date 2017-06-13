@@ -90,7 +90,9 @@ body {
 .container > header {
   background: transparent;
   color: white;
-  margin: -$section-spacing $section-spacing $section-spacing;
+  margin: ($heading-spacing - $section-spacing)
+          $section-spacing
+          $section-spacing;
 
   h1, h2 {
     color: white;
@@ -114,7 +116,6 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    margin-bottom: $heading-spacing;
     color: white;
   }
 
@@ -123,8 +124,10 @@ body {
     display: block;
   }
 
-  header ~ nav {
-    display: flex;
+  header {
+    ~ nav {
+      display: flex;
+    }
   }
 
   // Slightly more bottom padding to compensate for heading not match 100% of
@@ -161,7 +164,6 @@ body {
   #sidebar {
     .site-title {
       font-size: 3.25rem;
-      margin-bottom: $heading-spacing;
 
       a { color: white; }
       .back-arrow { display: none; }
@@ -174,8 +176,6 @@ body {
     header ~ nav {
       display: flex;
     }
-
-
   }
 
   .index #sidebar { margin-bottom: 0; }

@@ -98,5 +98,6 @@ button, input[type="submit"] {
     background: $link-color;
     border-color: $link-color;
     color: white;
+    box-shadow: $default-box-shadow;
   }
 }

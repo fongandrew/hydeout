@@ -34,6 +34,13 @@ $sidebar-width: 18rem !default;
 $large-breakpoint: 48rem !default;
 $large-font-size: 1.25rem !default;
 
+$box-shadow-size: 1px !default;
+$box-shadow-opacity: 0.16 !default;
+$default-box-shadow: $box-shadow-size
+                     $box-shadow-size
+                     $box-shadow-size
+                     rgba(0, 0, 0, $box-shadow-opacity);
+
 $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
 

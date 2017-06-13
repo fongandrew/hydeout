@@ -3,6 +3,8 @@ layout: default
 ---
 
 <div class="content">
+  {% include pagination-newer.html %}
+
   {{ content }}
 
   {% for post in paginator.posts %}
@@ -36,5 +38,5 @@ layout: default
   </article>
   {% endfor %}
 
-  {% include pagination.html %}
+  {% include pagination-older.html %}
 </div>
