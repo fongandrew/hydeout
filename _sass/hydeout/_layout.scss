@@ -84,11 +84,6 @@ body {
   header ~ *, header ~ nav, p.lead {
     display: none;
   }
-
-  // Adjust heading spacing since nothing underneath it
-  header > .site-title {
-    margin-bottom: 0;
-  }
 }
 
 // Make header elements blend into sidebar / background
@@ -121,7 +116,6 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    margin-bottom: $heading-spacing;
     color: white;
   }
 
@@ -133,10 +127,6 @@ body {
   header {
     ~ nav {
       display: flex;
-    }
-
-    > .site-title {
-      margin-bottom: $heading-spacing;
     }
   }
 
@@ -174,7 +164,6 @@ body {
   #sidebar {
     .site-title {
       font-size: 3.25rem;
-      margin-bottom: $heading-spacing;
 
       a { color: white; }
       .back-arrow { display: none; }

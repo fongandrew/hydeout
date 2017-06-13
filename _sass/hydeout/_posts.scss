@@ -3,10 +3,14 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
-.post-body + *, .post .post-body ~ * + * {
+article + *, .post-body ~ section {
   padding-top: $section-spacing;
   border-top: 1px solid $border-color;
   margin-top: $section-spacing;
+
+  > h2:first-child, > h3:first-child {
+    margin-top: 0;
+  }
 }
 
 .post, .page {

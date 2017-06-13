@@ -1,41 +1,67 @@
-// Pagination
-//
-// Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
-// there are no more previous or next posts to show.
+/*
+  Pagination
+
+  Super lightweight (HTML-wise) blog pagination. Should only be visible
+  when there is navigation available -- single buttons at top or bottom
+  of each page.
+*/
 
 .pagination {
-  overflow: hidden; // clearfix
-  margin: $section-spacing 0;
+  margin-bottom: $section-spacing;
   color: $gray-3;
   text-align: center;
-  display: flex;
-  width: 100%;
 
-  > * {
-    display: block;
+  > a {
+    display: inline-block;
     padding: $padding-v $padding-h;
     border: solid $border-color;
+    border-radius: $border-radius;
     border-width: 1px;
-    flex-grow: 1;
-    margin-left: -1px;
+    width: 60%;
+    max-width: $sidebar-width;
+    background: $body-bg;
+    box-shadow: $default-box-shadow;
 
-    &:first-child {
-      margin-left: 0;
-      border-top-left-radius:    $border-radius;
-      border-bottom-left-radius: $border-radius;
-    }
-
-    &:last-child {
-      border-top-right-radius:    $border-radius;
-      border-bottom-right-radius: $border-radius;
+    &:hover {
+      background-color: $border-color;
     }
   }
 }
 
-/*
-  Pagination items can be `span`s or `a`s but
-  only provide a hover state for linked pagination items
-*/
-a.pagination-item:hover {
-  background-color: $border-color;
+// Bottom -> margin-top;
+* + .pagination {
+  margin-top: $section-spacing;
+}
+
+// Push above header if newer on mobile
+.content .pagination:first-child {
+  margin-top: -$section-spacing * 2;
+}
+
+// Make room for larger header by extending margin below title
+.index #sidebar {
+  padding-bottom: calc(#{$section-spacing} + #{$padding-v});
+}
+
+// Undo for larger screens
+@media (min-width: $large-breakpoint) {
+  .pagination > a {
+    box-shadow: none;
+
+    &:hover { box-shadow: $default-box-shadow; }
+  }
+
+  .content .pagination:first-child {
+    margin-top: 0;
+
+    + * {
+      padding-top: $section-spacing;
+      border-top: 1px solid $border-color;
+      margin-top: $section-spacing;
+    }
+  }
+
+  .index #sidebar {
+    padding-bottom: $section-spacing;
+  }
 }
