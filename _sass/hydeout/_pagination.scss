@@ -43,6 +43,11 @@
   padding-bottom: calc(#{$section-spacing} + #{$padding-v});
 }
 
+// But not on page1
+.home.index #sidebar {
+  padding-bottom: $section-spacing;
+}
+
 // Undo for larger screens
 @media (min-width: $large-breakpoint) {
   .pagination > a {
