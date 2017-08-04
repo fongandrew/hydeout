@@ -15,7 +15,7 @@ author:
 
 paginate:         5
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
