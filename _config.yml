@@ -14,6 +14,7 @@ author:
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
+#paginate_path:    '/page:num'
 
 plugins:
   - jekyll-feed
@@ -23,5 +24,6 @@ plugins:
 # Custom vars
 version:            3.4.1
 sidebar_home_link:  true
+#sidebar_blog_link:  '/'
 github:
   repo:             https://github.com/fongandrew/hydeout
