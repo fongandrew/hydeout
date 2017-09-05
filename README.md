@@ -102,7 +102,7 @@ You can see the full set of partials you can replace in the
   ---
   ```
 
-* Hydeout and a new "category" layout for dedicated category pages.
+* Hydeout adds a new "category" layout for dedicated category pages.
   Category pages are automatically added to the sidebar. All other pages
   must have `sidebar_link: true` in their front matter to show up in
   the sidebar. To create a category page, use the `category` layout"
