@@ -44,7 +44,7 @@ defaults:
       layout: post
 
 # Custom vars
-version:            3.5.0
+version:            3.5.1
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
@@ -57,6 +57,3 @@ disqus:
   shortname:      hydeout
 
 google_analytics: UA-100461102-1
-
-version:            3.4.3
-sidebar_home_link:  true
