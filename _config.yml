@@ -53,7 +53,7 @@ disqus:
 
 google_analytics: UA-100461102-1
 
-version:            3.4.1
+version:            3.5.2
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
