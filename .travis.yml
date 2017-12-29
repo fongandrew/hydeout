@@ -1,7 +1,7 @@
 language: ruby
 sudo: false
 install: 
-  gem install jekyll jekyll-paginate  jekyll-gist
+  gem install jekyll jekyll-feed jekyll-paginate  jekyll-gist
 script: jekyll build
 deploy:
   provider: s3
