@@ -29,6 +29,8 @@ plugins:
 disqus:
   shortname: nageshdn
 
+google_analytics: UA-111754253-1
+
 # Custom vars
 
 #version:            3.5.3
