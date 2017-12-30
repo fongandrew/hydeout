@@ -8,7 +8,6 @@ With a plan  to build self managed blog platform which would inifinetly scale ,s
 
 ### Design Principles: 
 * Scale
- 
  - To support large scale, the content should be static with no web servers to manage, AWS S3 serves supports this out of box.
  - By going with static pages, it also helps to improve latency by take advantage of content delivert networks (CDN), Hence will use Cloudfront 
  - DNS routing to the TLD will make use of Alias Feature using Route 53
