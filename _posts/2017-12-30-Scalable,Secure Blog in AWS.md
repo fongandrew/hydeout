@@ -3,13 +3,13 @@ layout: post
 title: Scalable,Secure Blog in AWS
 ---
 
-With a plan  to build self managed blog platform which would inifinetly scale ,secure,flexible and cost effectiveness as key design principles. Here are the details 
+With a plan  to build self managed blog platform which would inifinetly scale ,secure,flexible and cost effectiveness as key design principles. 
 
 
 ### Design Principles: 
 
 * Scale
-  - To support large scale, the content should be static with no web servers to manage, AWS S3 serves supports this out of box.
+  - The content should be static with no web servers to manage, AWS S3 serves supports this out of box.
   - By going with static pages, it also helps to improve latency by take advantage of content delivert networks (CDN), Hence will use Cloudfront 
   - DNS routing to the TLD will make use of Alias Feature using Route 53
  
@@ -23,14 +23,10 @@ With a plan  to build self managed blog platform which would inifinetly scale ,s
   
 * Cost Effectiveness
   - Fixed costs in this setup is incurred only at Route 53 Hosted zone, which costs $0.5/month for one TLD
- 
   - by using cloudfront we get free https/certification for the domain ,hence does not costs
   - DNS resolution costs are aoided by using Alias record set by pointing to cloudfront distribution
-  
-  - variable costs based on traffic is incurred at
-      - S3 & Cloudfront data out to Internet
-      - S3 & Cloudfront data storage cost 
-   - Overall all the costs may not exceed $2/month for few thousand hits
+  - variable costs based on traffic is incurred data out to Internet and storage 
+  - Overall all the costs should not exceed $2/month for few thousand hits
    
     
 
