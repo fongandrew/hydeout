@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Scalable,Secure Blog in AWS
 ---
 
 After reviewing multiple blogging platform setups such as wordpress,blogspot and other open source framework, I planned to build my own blogging platform
