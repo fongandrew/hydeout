@@ -11,7 +11,7 @@ With a plan  to build self managed blog platform which would inifinetly scale ,s
 * Scale
   - The content should be static with no web servers to manage, AWS S3 supports this out of box.
   - By going with static pages, it also helps to improve latency by take advantage of content delivert networks (CDN), Hence will use Cloudfront 
-  - uses of Alias Feature from Route 53
+  - uses of Alias Feature from Route 53, which can scale to millions of requests
   
  
 * Secure
