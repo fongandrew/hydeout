@@ -7,9 +7,9 @@ deploy:
   provider: s3
   access_key_id: $S3_ACCESS_KEY_ID
   secret_access_key: $S3_SECRET_KEY
-  bucket: nageshdn-temp.com
-  local_dir: _site
+  bucket: $S3_BUCKET
   region: ap-south-1
+  local_dir: _site
   skip_cleanup: true
   on:
     repo: ndn97/ndn97.github.io
