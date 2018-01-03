@@ -16,6 +16,8 @@ With a plan  to build self managed blog platform which would inifinetly scale ,s
  
 * Secure
   - all traffic should be https (TLS1.1), will make use of cloudfront to redirect http traffic to https 
+  - As this site uses github to host data, should ensure that no sensitive information is exposed 
+ 
  
 * Flexibility
   - should leverage existing open source framework, hence this uses Jekyll based Hydeout theme
