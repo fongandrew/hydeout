@@ -1,0 +1,15 @@
+language: ruby
+sudo: false
+install: 
+  gem install jekyll jekyll-feed jekyll-paginate  jekyll-gist
+script: jekyll build
+deploy:
+  provider: s3
+  access_key_id: $S3_ACCESS_KEY_ID
+  secret_access_key: $S3_SECRET_KEY
+  bucket: $S3_BUCKET
+  region: ap-south-1
+  local_dir: _site
+  skip_cleanup: true
+  on:
+    repo: ndn97/ndn97.github.io
