@@ -7,7 +7,7 @@
   {% if node.title != null %}
     {% if node.sidebar_link %}
       <a class="page-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+          href="{{ site.baseurl }}{{ node.url }}.html">{{ node.title }}</a>
     {% endif %}
   {% endif %}
 {% endfor %}
