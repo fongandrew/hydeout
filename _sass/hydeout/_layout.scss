@@ -49,7 +49,7 @@ body {
 
     a {
       color: inherit;
-      &:hover { color: white; }
+      &:hover { color: $sidebar-title-color; }
     }
 
     .back-arrow { margin-right: 0.5rem; }
@@ -116,7 +116,7 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    color: white;
+    color: $sidebar-title-color;
   }
 
   // Show secondary nav content + lead
@@ -165,7 +165,7 @@ body {
     .site-title {
       font-size: 3.25rem;
 
-      a { color: white; }
+      a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
     }
 
