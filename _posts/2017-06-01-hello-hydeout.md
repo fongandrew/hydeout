@@ -24,6 +24,7 @@ of the following SASS variables:
 
 ```scss
 $sidebar-bg-color: #202020 !default;
+$sidebar-title-color: #ffffff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
