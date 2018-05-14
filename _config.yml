@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            blog
-tagline:          'A Jekyll theme'
+tagline:          'start'
 description:      ''
 url:              https://leunge.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
