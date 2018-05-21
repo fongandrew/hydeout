@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            blog
-tagline:          'start'
+title:            undefined
+tagline:          'home'
 description:      ''
 url:              https://leunge.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
