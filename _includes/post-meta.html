@@ -19,7 +19,7 @@
 
       {% if category_page %}
         <a href="{{ site.baseurl }}{{ category_page.url }}">
-          {{ category }}
+          {{ category_page.title | default: category_page.category }}
         </a>
       {% else %}
         {{ category }}

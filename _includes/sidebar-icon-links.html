@@ -14,7 +14,7 @@
 
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.baseurl }}/feed.xml">
+     href="{{ site.baseurl }}/{{ site.feed.path | default: 'feed.xml' }}">
     {% include svg/feed.svg %}
   </a>
 
