@@ -119,6 +119,22 @@ You can see the full set of partials you can replace in the
   Description of "My Category"
   ```
 
+* You can control how pages are sorted by using the `sidebar_sort_order`
+  parameter in the front matter. This works for both category and non-category
+  pages, although non-category pages will always come first. Take a look at
+  [`_includes/sidebar-nav-links.html`](./_includes/sidebar-nav-links.html) if
+  you want to customize this behavior.
+
+  ```
+  ---
+  layout: page
+  title: My page
+  sort_order: 123
+  ---
+
+  Some content.
+  ```
+
 * A simple redirect-to-Google search is available. Just create a page with
   the `search` layout.
 

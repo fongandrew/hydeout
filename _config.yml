@@ -45,7 +45,7 @@ defaults:
       layout: post
 
 # Custom vars
-version:            3.6.0
+version:            3.7.0
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
