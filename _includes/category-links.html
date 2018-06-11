@@ -1,7 +1,7 @@
 {% comment %}
   Dynamically generate list of links to all category pages
 {% endcomment %}
-{% assign pages_list = site.pages %}
+{% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
 {% for node in pages_list %}
   {% if node.title != null %}
     {% if node.layout == "category" %}
