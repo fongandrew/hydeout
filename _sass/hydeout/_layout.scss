@@ -64,6 +64,7 @@ body {
 
   > .content {
     flex-grow: 1;
+    padding-bottom: $section-spacing * 2;
   }
 }
 
@@ -184,7 +185,9 @@ body {
   .container {
     background: $body-bg;
     color: $body-color;
-    padding: $section-spacing * 2;
+    padding: $section-spacing * 2
+             $section-spacing * 2
+             0;
     height: 100vh;
 
     > header {
