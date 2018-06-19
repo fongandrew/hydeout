@@ -146,9 +146,12 @@ body {
   body {
     flex-direction: row;
     height: 100vh;
-    overflow: auto;
-    > * { max-height: 100vh; overflow: auto; }
-  }
+    overflow-y: scroll; /* has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
+    > * { max-height: 100vh; 
+          overflow-y: scroll; 
+          -webkit-overflow-scrolling: touch;
+          }
 
   /* Undo mobile CSS */
 
