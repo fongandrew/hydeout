@@ -129,7 +129,7 @@ You can see the full set of partials you can replace in the
   ---
   layout: page
   title: My page
-  sort_order: 123
+  sidebar_sort_order: 123
   ---
 
   Some content.
