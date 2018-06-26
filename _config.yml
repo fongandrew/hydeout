@@ -7,7 +7,7 @@ title:            Hydeout
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
