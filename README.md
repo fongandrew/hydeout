@@ -23,7 +23,7 @@ title: Home
 ---
 ```
 
-You'll also need to add a setting to `config.yml` telling Jekyll how many posts
+You'll also need to add a setting to `_config.yml` telling Jekyll how many posts
 to include per page (e.g. `paginate: 5`).
 
 ### Keep It Simple
