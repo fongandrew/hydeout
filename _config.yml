@@ -58,3 +58,5 @@ disqus:
   shortname:      hydeout
 
 google_analytics: UA-100461102-1
+
+theme: jekyll-theme-hacker
