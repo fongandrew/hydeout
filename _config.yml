@@ -27,6 +27,23 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - .gitignore
+
+permalink:        /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
+
 # Custom vars
 version:            3.7.0
 sidebar_home_link:  true
@@ -35,4 +52,9 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:           https://github.com/fongandrew/hydeout
+
+disqus:
+  shortname:      hydeout
+
+google_analytics: UA-100461102-1

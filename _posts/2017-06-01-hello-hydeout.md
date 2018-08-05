@@ -24,6 +24,7 @@ of the following SASS variables:
 
 ```scss
 $sidebar-bg-color: #202020 !default;
+$sidebar-title-color: #ffffff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
@@ -43,7 +44,7 @@ $sidebar-sticky: false;
 @import "hydeout";
 ```
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
+See the [_variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss) file for other variables
 you can override.
 
 You can also insert custom head tags (e.g. to load your own stylesheets) by
