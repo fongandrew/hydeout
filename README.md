@@ -13,6 +13,10 @@ Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
 Add `gem "jekyll-theme-hydeout", "~> 3.4"` to your Gemfile and run
 `bundle install`.
 
+If you're installing on Github pages, you may also have to add
+`remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
+instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
+
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
 it with an `index.html` that uses the `index` layout:
 
