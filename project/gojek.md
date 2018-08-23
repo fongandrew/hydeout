@@ -1,7 +1,8 @@
 ---
-layout: category
-title: Gojek
-excerpt_separator:  <!--more-->
+layout: page
+short-title: Gojek
+title: Solving problems at Gojek scale
+sidebar_link: true
 ---
 Gojek is not just another South East Asian startup. Founded in 2010, the company is Indonesia’s first unicorn, and ranked #17 on Fortune magazine’s list of [*50 companies that Changes the World*](https://web.archive.org/web/20171124191700/http://fortune.com/change-the-world/list/) in 2017. It started with 20 motorbike drivers ferrying riders across Jakarta. Today, there are over a million drivers on the platform.
 The company has gone on to become central to an Indonesian internet-user’s life, expanding beyond bike-based ride shares to taxis, payments, food and grocery delivery, beauty and massage services and a lot more.
