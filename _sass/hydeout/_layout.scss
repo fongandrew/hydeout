@@ -268,9 +268,14 @@ body {
 }
 
 #sidebar nav > .icon {
-  font-size: 1.5rem;
+  font-size: 1rem;
   display: inline-block;
   margin: 0 0.25em;
+  color: rgba(255,255,255,.75)
+}
+
+#sidebar nav > .icon:hover {
+  color: rgba(255, 255, 255, 1)
 }
 
 
