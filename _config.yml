@@ -34,5 +34,8 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-github:
-  repo:             https://github.com/fongandrew/hydeout
+links:
+  github:             https://github.com/raveeshbhalla
+  twitter:            https://twitter.com/raveeshbhalla
+  medium:             https://medium.com/@raveeshbhalla
+  linkedin:           https://linkedin.com/in/raveeshbhalla
