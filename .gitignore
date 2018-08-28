@@ -47,3 +47,4 @@ Gemfile.lock
 _config.dev.yml
 .vscode
 *.gem
+.firebase/
