@@ -1,18 +1,20 @@
-# Ruby CircleCI 2.0 configuration file
+### Taken from https://github.com/Hyperparticle/hyperparticle.github.io/blob/2365749469b1eea3e8c4b18af24a4865fc426fd3/.circleci/config.yml
+
+# Javascript Node CircleCI 2.0 configuration file
 #
-# Check https://circleci.com/docs/2.0/language-ruby/ for more details
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
 #
 version: 2
 jobs:
   build:
     docker:
       # specify the version you desire here
-       - image: circleci/ruby:2.4.1-node-browsers
+      - image: starefossen/ruby-node:2-8
       
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
       # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/postgres:9.4
+      # - image: circleci/mongo:3.4.4
 
     working_directory: ~/repo
 
@@ -22,40 +24,28 @@ jobs:
       # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "Gemfile.lock" }}
+          - v2-dependencies-{{ checksum "Gemfile.lock" }}
           # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
+          - v2-dependencies-
 
       - run:
-          name: install dependencies
-          command: |
-            bundle install --jobs=4 --retry=3 --path vendor/bundle
+          name: Ruby dependencies
+          command: bundle install
+
+      - run:
+          name: Node dependencies
+          command: npm install -g firebase-tools@3.9.1 --unsafe-perm
 
       - save_cache:
           paths:
-            - ./vendor/bundle
-          key: v1-dependencies-{{ checksum "Gemfile.lock" }}
-        
-      # Database setup
-      - run: bundle exec rake db:create
-      - run: bundle exec rake db:schema:load
+            - /usr/local/bundle
+            - /usr/local/lib/node_modules
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
 
-      # run tests!
       - run:
-          name: run tests
-          command: |
-            mkdir /tmp/test-results
-            TEST_FILES="$(circleci tests glob "spec/**/*_spec.rb" | circleci tests split --split-by=timings)"
-            
-            bundle exec rspec --format progress \
-                            --format RspecJunitFormatter \
-                            --out /tmp/test-results/rspec.xml \
-                            --format progress \
-                            $TEST_FILES
-
-      # collect reports
-      - store_test_results:
-          path: /tmp/test-results
-      - store_artifacts:
-          path: /tmp/test-results
-          destination: test-results
+          name: Build
+          command: bundle exec jekyll build --verbose
+      
+      - run:
+          name: Test
+          command: bundle exec htmlproofer ./_site --check-html --disable-external
