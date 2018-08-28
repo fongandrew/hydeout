@@ -4,10 +4,10 @@
 {% endcomment %}
 {% assign pages_list = site.pages|sort:"sidebar_sort_order" %}
 {% for node in pages_list %}
-  {% if node.title != null %}
+  {% if node.short-title != null %}
     {% if node.sidebar_link %}
       <a class="page-link {% if page.url == node.url %} active{% endif %}"
-          href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+          href="{{ site.baseurl }}{{ node.url }}">{{ node.short-title }}</a>
     {% endif %}
   {% endif %}
 {% endfor %}

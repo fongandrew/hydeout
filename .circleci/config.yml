@@ -1,0 +1,51 @@
+### Taken from https://github.com/Hyperparticle/hyperparticle.github.io/blob/2365749469b1eea3e8c4b18af24a4865fc426fd3/.circleci/config.yml
+
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  build:
+    docker:
+      # specify the version you desire here
+      - image: starefossen/ruby-node:2-8
+      
+      # Specify service dependencies here if necessary
+      # CircleCI maintains a library of pre-built images
+      # documented at https://circleci.com/docs/2.0/circleci-images/
+      # - image: circleci/mongo:3.4.4
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v2-dependencies-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v2-dependencies-
+
+      - run:
+          name: Ruby dependencies
+          command: bundle install
+
+      - run:
+          name: Node dependencies
+          command: npm install -g firebase-tools@3.9.1 --unsafe-perm
+
+      - save_cache:
+          paths:
+            - /usr/local/bundle
+            - /usr/local/lib/node_modules
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Build
+          command: bundle exec jekyll build --verbose
+      
+      - run:
+          name: Test
+          command: bundle exec htmlproofer ./_site --check-html --disable-external
