@@ -3,7 +3,7 @@ layout: post
 title: Acceptance-Rejection versus Inverse transformation
 ---
 
-'''r
+'''
 alpha <- 4
 beta <- 3
 rejection <- function(f, M, g, rg,n) {
