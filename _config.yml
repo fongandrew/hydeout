@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Yongs Data Homepage
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://fongandrew.github.io
@@ -15,8 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Yong Rhee'
+  url:            https://www.facebook.com/yong.h.lee.77
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -36,3 +36,5 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 github:
   repo:             https://github.com/fongandrew/hydeout
+
+theme: jekyll-theme-cayman
