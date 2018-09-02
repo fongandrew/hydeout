@@ -58,9 +58,11 @@ columns = c("test","replications","elapsed","relative","user.self","sys.self"))
 ```
 
 - We confirm that for this scenario, Inverse transform method is faster than Acceptance-rejection method.
-                  test replications elapsed relative user.self sys.self
-1 Acceptance-rejection            5    3.45      2.5      3.37     0.01
-2  Inverse-transformed            5    1.38      1.0      1.37     0.00
+                  
+test|replications|elapsed|relative|user.self|sys.self
+----|------------|-------|--------|---------|--------
+1|Acceptance-rejection|5|3.45|2.5|3.37|0.01
+2|Inverse-transformed|5|1.38|1.0|1.37|0.00
 
 However, this is not always true.
 For example, for generating incomplete beta distribution, Acceptance-Rejection method could be faster.
