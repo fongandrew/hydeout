@@ -23,7 +23,7 @@
 */
 
 body {
-  color: rgba(255,255,255,.75);
+  color: $sidebar-text-color;
   background-color: $sidebar-bg-color;
   background-image: linear-gradient(
     to bottom,
@@ -43,14 +43,8 @@ body {
     font-family: "Abril Fatface", serif;
     font-weight: normal;
     font-size: $large-font-size;
-    color: rgba(255,255,255,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
-
-    a {
-      color: inherit;
-      &:hover { color: $sidebar-title-color; }
-    }
 
     .back-arrow { margin-right: 0.5rem; }
   }
@@ -89,14 +83,14 @@ body {
 
 // Make header elements blend into sidebar / background
 .container > header {
+  color: $sidebar-title-color;
   background: transparent;
-  color: white;
   margin: ($heading-spacing - $section-spacing)
           $section-spacing
           $section-spacing;
 
   h1, h2 {
-    color: white;
+    color: inherit;
 
     &:last-child {
       margin-bottom: 0;
@@ -117,7 +111,6 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
-    color: $sidebar-title-color;
   }
 
   // Show secondary nav content + lead
@@ -170,8 +163,6 @@ body {
   #sidebar {
     .site-title {
       font-size: 3.25rem;
-
-      a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
     }
 
@@ -220,14 +211,14 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: #fff;
+  color: $sidebar-link-color;
 
   svg {
-    fill: rgba(255, 255, 255, 0.85);
+    fill: $sidebar-icon-color;
   }
 
   &:hover, &:focus, &.active {
-    svg { fill: #fff; }
+    svg { fill: $sidebar-icon-color; }
   }
 
   &:hover, &:focus {
@@ -242,6 +233,10 @@ body {
   }
 }
 
+#sidebar .site-title {
+  color: $sidebar-title-color;
+  a { color: inherit; }
+}
 #sidebar nav {
   display: flex;
 }
