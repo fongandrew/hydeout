@@ -196,7 +196,7 @@ body {
     height: 100vh;
 
     > header {
-      color: inherit;
+      color: $heading-color;
       margin: 0;
       h1, h2 {
         color: inherit;
