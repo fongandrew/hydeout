@@ -46,6 +46,11 @@ $code-color: #bf616a !default;
 
 // Hyde theming
 $sidebar-bg-color: #202020 !default;
-$sidebar-title-color: #ffffff !default;
+$sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
+
+$sidebar-title-color: $sidebar-fg-color !default;
+$sidebar-link-color: $sidebar-fg-color !default;
+$sidebar-text-color: rgba($sidebar-fg-color, 0.75) !default;
+$sidebar-icon-color: rgba($sidebar-fg-color, 0.85) !default;
