@@ -29,9 +29,37 @@ plugins:
   - jekyll-include-cache
   - jemoji
 
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - .gitignore
+
+permalink:        /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout: post
+
 # Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+disqus:
+  shortname:      hydeout
+
+google_analytics: UA-100461102-1
+
+# Used for Hydeout's own Github page. Feel free to remove for your
+# own fork.
+hydeout:
+  version:          3.7.1
+  repo:             https://github.com/fongandrew/hydeout
