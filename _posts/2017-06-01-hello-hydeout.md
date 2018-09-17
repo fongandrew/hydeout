@@ -44,7 +44,7 @@ $sidebar-sticky: false;
 @import "hydeout";
 ```
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
+See the [_variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss) file for other variables
 you can override.
 
 You can also insert custom head tags (e.g. to load your own stylesheets) by
