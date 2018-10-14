@@ -4,10 +4,10 @@ highlighter:      rouge
 remote_theme:     fongandrew/hydeout
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
+title:            Kevin Eifingers Blog
+tagline:          'IoT and More'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+url:              http://blog.kevineifinger.de
 baseurl:          #'/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -16,8 +16,8 @@ baseurl:          #'/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Kevin Eifinger'
+  url:            https://twitter.com/KevinEifinger
 
 paginate:         5
 # paginate_path:    '/page:num'
