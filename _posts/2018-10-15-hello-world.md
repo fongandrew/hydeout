@@ -2,6 +2,15 @@
 layout: post
 title: Hello World
 excerpt_separator: "<!--more-->"
+categories: 
+  - Archive
+tags:
+  - Azure
+  - AI
+  - Vision
+  - Handwriting
+  - Slackbot
+  - Twitter
 ---
 
 Hello World.
