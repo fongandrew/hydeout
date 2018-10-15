@@ -1,1 +1,30 @@
 <!-- Optional additional links to insert for icons links -->
+<!-- social buttons -->
+{% if site.twitter_username %}
+<a id="twitter-link"
+  class="icon" title="{ site.twitter_username }} @ Twitter"
+  href="https://twitter.com/{{ site.twitter_username }}">
+  {% include svg/twitter-box.svg %}
+</a>
+{% endif %}
+{% if site.github_username %}
+<a id="github-link"
+  class="icon" title="{{site.github_username}} @ GitHub"
+  href="https://github.com/{{site.github_username}}">
+  {% include svg/github.svg %}
+</a>
+{% endif %}
+{% if site.linkedin_username %}
+<a id="linkedin-link"
+  class="icon" title="{{ site.linkedin_username }} @ LinkedIn"
+  href="https://linkedin.com/in/{{ site.linkedin_username }}">
+  {% include svg/linkedin-box.svg %}
+</a>
+{% endif %}
+{% if site.xing_username %}
+<a id="xing-link"
+  class="icon" title="{{ site.xing_username }} @ Xing"
+  href="https://www.xing.com/profile/{{ site.xing_username }}">
+  {% include svg/xing-box.svg %}
+</a>
+{% endif %}
