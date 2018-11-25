@@ -29,7 +29,7 @@ $padding-v: 1em !default;
 $padding-h: 1.5em !default;
 $heading-spacing: 0.5rem !default;
 $section-spacing: 2rem !default;
-$sidebar-width: 18rem !default;
+$sidebar-width: 16rem !default;
 
 $large-breakpoint: 49rem !default;
 $large-font-size: 1.25rem !default;
@@ -47,7 +47,7 @@ $code-color: #bf616a !default;
 // Hyde theming
 $sidebar-bg-color: #202020 !default;
 $sidebar-fg-color: white !default;
-$sidebar-sticky: true !default;
+$sidebar-sticky: false !default;
 $layout-reverse: false !default;
 
 $sidebar-title-color: $sidebar-fg-color !default;

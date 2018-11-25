@@ -1,13 +1,17 @@
 ---
 layout: page
-title: About
+title: whoami
 sidebar_link: true
 ---
 
+<img alt="headshot" src="/assets/headshot.jpg" width="200px" />
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Put a quote here.
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+Hey! I'm Joseph, aka rezo. Thanks for checking out the site. 
+
+I'm a Christian, husband, and father, as well as a cybersecurity engineer & analyst.
+I love life in general, but I'm particularly fond of running, napping, and eating
+sweet potato casserole.

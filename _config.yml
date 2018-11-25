@@ -3,11 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            REZO
-tagline:          'Josephs Blog'
-description:      'A site on cybersecurity, automation, faith, and more.'
-url:              http://localhost:4000
-baseurl:          '/hydeout'
+title:            rezo
+tagline:          'rezos blog'
+description:      'my thoughts on cybersecurity, faith, tech, and more.'
+host:             0.0.0.0
+port:             4000
+#url:              http://localhost:4000
+#baseurl:          '/blog'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -28,7 +30,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
