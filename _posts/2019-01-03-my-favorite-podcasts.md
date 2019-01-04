@@ -7,7 +7,7 @@ tags:
   - personal
 ---
 
-I love podcasts. I've listened to quite a few in the last few years. Here's my favorites for a few categories:
+I love podcasts. I've listened to a bunch in the last few years. Here's my favorites for a few categories:
 
 ## Security: Security Now
 <img src="https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg" width="20%">
