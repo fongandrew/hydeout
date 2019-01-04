@@ -10,8 +10,7 @@ sidebar_link: true
 Hey! I'm Joseph, aka rezo. Thanks for checking out the site. 
 
 I'm a Christian, husband, father, and cybersecurity professional.
-I pretty much just love life, but I'm particularly fond of running, technology, and eating
-sweet potato casserole.
+I pretty much just love life, but I'm particularly fond of running, technology, podcasts, and sweet potato casserole.
 
 <p class="message">
   "As water reflects the face, so one's life reflects the heart." Proverbs 27:19
