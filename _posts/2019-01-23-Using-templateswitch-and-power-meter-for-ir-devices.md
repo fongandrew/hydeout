@@ -27,6 +27,7 @@ the idea to use it with a [TP-Link Smart Plug HS110](https://amzn.to/2wPNJ7F) wh
 is drawing power it means that it is propably on.
 
 Long story short, here is the template switch config I now use to avoid accidentically switching my TV on:
+{% raw %}
 
 ```yaml
 - platform: template
@@ -50,5 +51,6 @@ Long story short, here is the template switch config I now use to avoid accident
             entity_id: switch.broadlink_tv
 ```
 
+{% endraw %}
 It works great and I quickly adopted it to my old receiver in the bedroom and my RF controlled sunblind.
 You can find these in my whole config under [https://github.com/eifinger/homeassistant-config](https://github.com/eifinger/homeassistant-config)
