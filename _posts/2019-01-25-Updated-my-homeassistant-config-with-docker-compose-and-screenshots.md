@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updated my Homeassistant config with docker compose and Screenshots
+title: Updated my Homeassistant config with docker-compose and Screenshots
 excerpt_separator: "<!--more-->"
 categories: 
   - Archive
