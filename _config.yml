@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Lukas Gehrke
+title:            LG
 tagline:          'I am studying Computer Science at Leipzig University.'
 description:      ''
 url:              https://lukasgehrke.github.io
