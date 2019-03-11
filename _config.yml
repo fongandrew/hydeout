@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            lugenat.de
+title:            lugenat.tk
 tagline:          'I am studying Computer Science at Leipzig University.'
 description:      ''
 url:              https://lukasgehrke.github.io
