@@ -53,6 +53,5 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 github:
-  profile: 'https://github.com/lukasgehrke'
+  profile: 'https://github.com/lugenat'
 
-theme: jekyll-theme-cayman
