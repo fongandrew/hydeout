@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            lugenat.tk
+title:            Lukas Gehrke
 tagline:          'I am studying Computer Science at Leipzig University.'
 description:      ''
 url:              https://lukasgehrke.github.io
@@ -15,7 +15,7 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Lukas Gehrke'
-  url:            lukasgehrke.de
+  url:            https://lukasgehrke.tk
 
 paginate:         10
 # paginate_path:    '/page:num'
