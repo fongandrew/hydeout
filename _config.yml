@@ -54,3 +54,5 @@ sidebar_home_link:  true
 
 github:
   profile: 'https://github.com/lukasgehrke'
+
+theme: jekyll-theme-cayman
