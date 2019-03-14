@@ -26,4 +26,4 @@ I headed over to the [source code](https://github.com/plantuml/plantuml-server/b
 
 This worked perfectly. I love PlantUML!
 
-You can find my repo under [https://github.com/eifinger/appdaemon-config](https://github.com/eifinger/appdaemon-config)
+You can find my repo under [https://github.com/eifinger/homeassistant-config](https://github.com/eifinger/homeassistant-config)
