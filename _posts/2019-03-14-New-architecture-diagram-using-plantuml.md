@@ -8,7 +8,7 @@ tags:
   - Homeassistant
   - PlantUML
 ---
-The newest addition to my homeassitant-config: A architecture diagram of all the important hardware and software parts in setup
+The newest addition to my homeassistant-config: A architecture diagram of all the important hardware and software parts in setup
 <!--more-->
 
 I wanted this overview for some time, mostly for myself and to show how intertwined a home-automation setup.
