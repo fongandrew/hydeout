@@ -5,9 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  Hello there!
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+This page is my personal homepage. Right know I do mostly use it for posting my progress on Paul Hudsons [Tutorial '100 Days of Swift'](https://www.hackingwithswift.com/100).
