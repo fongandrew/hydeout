@@ -21,6 +21,9 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
+google_analytics_id: UA-142415437-1
+
+
 plugins:
   - jekyll-feed
   - jekyll-gist
