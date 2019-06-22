@@ -17,14 +17,14 @@
   {% include google-analytics.html %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   {% include font-includes.html %}
 
   <!-- Icons -->
   {% include favicons.html %}
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/{{ site.feed.path | default: 'feed.xml' }}" />
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" />
 
   {% include custom-head.html %}
 </head>

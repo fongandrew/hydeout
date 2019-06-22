@@ -10,7 +10,7 @@
     {% assign url = url | replace_first: 'spdy://', '' %}
     {% assign url = url | replace_first: '//', '' %}
     <input name="sitesearch" type="hidden"
-           value="{{ url }}{{ site.baseurl }}" />
+           value="{{ url }}{{ "/" | relative_url }}" />
 
     <input type="submit" value="Search" />
   </div>
