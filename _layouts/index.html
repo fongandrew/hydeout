@@ -10,7 +10,7 @@ layout: default
   {% for post in paginator.posts %}
   <article class="post-body">
     <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
     </h2>
@@ -32,7 +32,7 @@ layout: default
       {% endcapture %}
 
       {% if content_words != excerpt_words %}
-        <a href="{{ site.baseurl }}{{ post.url }}">More &hellip;</a>
+        <a href="{{ post.url | relative_url }}">More &hellip;</a>
       {% endif %}
     {% endif %}
   </article>
