@@ -17,7 +17,7 @@ url:              https://timothyas.github.io
 
 author:
   name:           'Tim Smith'
-  url:            https://timothyas.github.io
+  url:            # creates a "follow" button ... https://timothyas.github.io
   github:         'timothyas'
 
 paginate:         1
