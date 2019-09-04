@@ -16,8 +16,8 @@ url:              https://timothyas.github.io
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Tim Smith'
+  url:            https://timothyas.github.io
 
 paginate:         1
 # paginate_path:    '/page:num'
@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-#sidebar_home_link:  true
+sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
