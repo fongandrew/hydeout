@@ -1,22 +1,27 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
-    <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.hydeout.repo }}">
-      {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
-      {% include svg/download.svg %}
-    </a>
-  {% endif %}
 
+  <!-- Link to Github Profile -->
+  <a id="github-link"
+     class="icon" title="Github Profile" aria-label="Github Profile"
+     href="{{ github.com/timothyas }}">
+    {% include svg/github.svg %}
+  </a>
+
+  <!-- Link to Google Scholar Profile -->
+  <a id="github-link"
+     class="icon" title="Github Profile" aria-label="Github Profile"
+     href="{{ github.com/timothyas }}">
+    {% include svg/github.svg %}
+  </a>
+
+
+  <!-- Github feed?
   <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
   </a>
+  -->
 
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
@@ -31,6 +36,7 @@
     {% endif %}
   {% endfor %}
 
+  <!-- Tags, need to uncomment tags.html
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -39,7 +45,9 @@
       {% include svg/tags.svg %}
     </a>
   {% endif %}
+  -->
 
+  <!-- Search button, need to uncomment search.html
   {% if search_page %}
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
@@ -48,6 +56,7 @@
       {% include svg/search.svg %}
     </a>
   {% endif %}
+  -->
 
   {% include custom-icon-links.html %}
 </nav>
