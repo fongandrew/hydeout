@@ -19,14 +19,14 @@ author:
   name:             # creates "follow" link 'Tim Smith'
   url:              # not necessary ...  https://timothyas.github.io
   github:           'timothyas'
-  bitbucket:        'timothys'
-  linkedin:         'timothy-smith-a44a9a57'
+  bitbucket:        #'timothys'
+  linkedin:         #'timothy-smith-a44a9a57'
   googlescholar:    '8YnR6wMAAAAJ&hl=en'
   orcid:            '0000-0003-4463-6126'
   researchgate:     'Timothy_Smith15'
 
 
-paginate:         1
+paginate:         2
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
