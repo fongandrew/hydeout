@@ -6,7 +6,7 @@ remote-theme:   fongandrew/hydeout
 # Setup
 title:            Tim Smith
 tagline:          ''
-description:      'Hellow world'
+description:      ''
 url:              https://timothyas.github.io
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
