@@ -18,6 +18,7 @@ url:              https://timothyas.github.io
 author:
   name:           'Tim Smith'
   url:            https://timothyas.github.io
+  github:         'timothyas'
 
 paginate:         1
 # paginate_path:    '/page:num'
