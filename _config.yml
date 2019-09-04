@@ -16,9 +16,11 @@ url:              https://timothyas.github.io
                   # sidebar_blog_link below.
 
 author:
-  name:           'Tim Smith'
-  url:            # creates a "follow" button ... https://timothyas.github.io
-  github:         'timothyas'
+  name:             # creates "follow" link 'Tim Smith'
+  url:              # not necessary ...  https://timothyas.github.io
+  github:           'timothyas'
+  googlescholar:    '8YnR6wMAAAAJ&hl=en'
+  #orcid:            '
 
 paginate:         1
 # paginate_path:    '/page:num'
