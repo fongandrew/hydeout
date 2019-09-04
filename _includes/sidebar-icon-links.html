@@ -1,15 +1,17 @@
 <nav id="sidebar-icon-links">
 
   <!-- Link to Github Profile -->
-  <a id="github-link"
-     class="icon" title="Github Profile" aria-label="Github Profile"
-     href="{{ github.com/timothyas }}">
-    {% include svg/github.svg %}
-  </a>
+  {% if author.github %}
+    <a id="github-link"
+        class="icon" title="Github Profile" aria-label="Github Profile"
+        href="{{ github.com/timothyas }}">
+        {% include svg/github.svg %}
+    </a>
+  {% endif %}
 
   <!-- Link to Google Scholar Profile -->
-  <a id="github-link"
-     class="icon" title="Github Profile" aria-label="Github Profile"
+  <a id="google-scholar-link"
+     class="icon" title="Google Scholar Profile" aria-label"Google Scholar Profile"
      href="{{ github.com/timothyas }}">
     {% include svg/github.svg %}
   </a>
