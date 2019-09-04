@@ -2,14 +2,11 @@
 markdown:         kramdown
 highlighter:      rouge
 
-# Theme
-remote_theme: fongandrew/hydeout
-
 # Setup
-title:            Tim Smith
-tagline:          'A human'
-description:      'Hello World!'
-url:              https://timothyas.github.io
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -18,8 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Timothy Smith'
-  url:            https://timothyas.github.io
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
 paginate:         5
 # paginate_path:    '/page:num'
