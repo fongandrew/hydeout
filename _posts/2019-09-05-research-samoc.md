@@ -33,9 +33,9 @@ in the region.
 
 
 
-ECCOv4r2                   |  Argo
-:-------------------------:|:-------------------------:
-<img src="/assets/img/theta_1000m_ecco_mercator.png" style="width:300px;"> |  <img src="/assets/img/argo_theta_1000m.png" style="width:300px;">
+ECCOv4r2                   |  Argo |    
+:-------------------------:|:-------------------------:|  
+<img src="/assets/img/theta_1000m_ecco_mercator.png" style="width:300px;"> |  <img src="/assets/img/argo_theta_1000m.png" style="width:300px;"> | <img src="/assets/img/theta_1000m_ecco_colorbar.png" style="width:35px;">
 
 This shows time mean temperature at 1000m depth, 
 where the Argo figure is taken from Dong et al. (2014). 
