@@ -12,13 +12,13 @@ layout: page
     <li>
 
       {% if post.img %}
-        <span style="white-space:nowrap">
+        <span style="padding:10px">
             <img src="/assets/img/{{ post.img | relative_url }}" 
-              style="width:300px;border:0;"
+              style="width:300px;border:0;padding:20px"
+              align="left"
             >
             <h3>
-              <a href="{{ post.url | relative_url }}" 
-                 style="white-space:normal">
+              <a href="{{ post.url | relative_url }}" >
                   {{  post.title  }}
               </a>
             </h3>
