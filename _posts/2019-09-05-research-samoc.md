@@ -6,16 +6,7 @@ categories:
     - Research
 ---
 
-Insights from the [RAPID–MOCHA observation network](https://www.rapid.ac.uk/rapidmoc/) in the North Atlantic have
-motivated a recent focus on the South Atlantic, where water masses are
-exchanged with the neighboring Indian and Pacific ocean basins.
-Moreover, the [South Atlantic meridional overturning
-circulation basin-wide array (SAMBA)](https://www.aoml.noaa.gov/phod/SAMOC_international/)
-was recently launched to monitor
-variability in the South Atlantic MOC (SAMOC) at 34.5$$^\circ$$S.
-In this work, we were interested in understanding the processes which
-generate volume transport variability that would be observed at this
-latitude band. 
+Insights from the [RAPID–MOCHA observation network](https://www.rapid.ac.uk/rapidmoc/) in the North Atlantic have motivated a recent focus on the South Atlantic, where water masses are exchanged with the neighboring Indian and Pacific ocean basins. Moreover, the [South Atlantic meridional overturning circulation basin-wide array (SAMBA)](https://www.aoml.noaa.gov/phod/SAMOC_international/) was recently launched to monitor variability in the South Atlantic MOC (SAMOC) at 34.5$$^\circ$$S. In this work, we were interested in understanding the processes which generate volume transport variability that would be observed at this latitude band.
 
 
 ### The ECCO State Estimate
@@ -35,14 +26,18 @@ in the region.
 
 ECCOv4r2                   |  Argo |    
 :-------------------------:|:-------------------------:|  
-<img src="/assets/img/theta_1000m_ecco_mercator.png" style="width:300px;"> |  <img src="/assets/img/argo_theta_1000m.png" style="width:300px;"> | <img src="/assets/img/theta_1000m_ecco_colorbar.png" style="width:35px;">
+<img src="/assets/img/theta_1000m_ecco_mercator.png" style="width:300px;"> |  <img src="/assets/img/argo_theta_1000m.png" style="width:275px;">   | <img src="/assets/img/theta_1000m_ecco_colorbar.png" style="width:35px;">
+    | <span style="width:300px;text-align:center;"> <small>from Dong et al. (2014) <br> used with permission from <br> John Wiley and Sons. 
 
 This shows time mean temperature at 1000m depth, 
 where the Argo figure is taken from Dong et al. (2014). 
 The match is not perfect, but it is quite close and gives us confidence 
 that the model has water masses more or less in the right place.
-See Dong et al. (2014) for a comparison to commonly used climate models and
-more discussion, e.g. on the importance of having the 
+Check out the paper, Smith and Heimbach (2019) for a more detailed 
+comparison to Argo estimates. 
+See Dong et al. (2014) for an in depth comparison of Argo to 
+commonly used climate models and
+a great discussion, for instance, on the importance of having the 
 [Brazil-Malvinas Confluence](https://en.wikipedia.org/wiki/Brazil%E2%80%93Malvinas_Confluence)
 at around 38$$^\circ$$S.
 
