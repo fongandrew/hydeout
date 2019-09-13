@@ -7,6 +7,45 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
 <img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
+### Local build
+
+Instructions to build this locally. See [here](https://bundler.io/) and [here](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/).
+See the bottom of the latter link for stuff to add to `.gitignore`
+
+0. **Install bundler**
+    This may require root privileges, or one can modify with `--install-dir`
+
+    ```
+    $ gem install bundler 
+    ```
+
+1. **Initialize and configure bundle** 
+    It's a good idea to do this locally for the specific project (website).
+    The final line installs the necessary dependencies for the project
+    in the local directory `vendor/bundle`
+
+    ```
+    $ cd my-jekyll-website
+    $ bundle init
+    $ bundle install --path vendor/bundle
+    ```
+
+2. **I can't remember if these are necessary...**
+    ```
+    $ bundle add jekyll ## Maybe not necessary
+    $ bundle exec jekyll new --force --skip-bundle .
+    $ bundle install
+    ```
+3. **Serve it up**
+
+    ```
+    $ bundle exec jekyll serve
+    ```
+
+    and then open it up at localhost:4000
+
+    
+
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
