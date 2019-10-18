@@ -15,7 +15,7 @@ Why not use this great system I have at home the one which is focused on privacy
 
 # Available Stock Sensors
 
-Homeassistant does have the built in component [alpha_vantage](https://www.home-assistant.io/integrations/alpha_vantage/) which requires an API key and in return offers you information on stocks and cryptocoins. Unfortunately the stock information is currently broken and I can only use it to track my Monero investment.
+[Homeassistant](https://www.home-assistant.io) does have the built in component [alpha_vantage](https://www.home-assistant.io/integrations/alpha_vantage/) which requires an API key and in return offers you information on stocks and cryptocoins. Unfortunately the stock information is currently broken and I can only use it to track my Monero investment.
 
 I took a short look in the [HACS](https://hacs.xyz/) store and found the custom component [avanza_stock](https://github.com/custom-components/sensor.avanza_stock).
 
@@ -78,7 +78,7 @@ sensor:
 I am not sure if I will not all the attributes but I can always get rid of them again later.
 To display the sensor in the form of a stock tracker I chose the custom card [mini-graph-card](https://github.com/kalkih/mini-graph-card):
 
-![mini_graph_card_microsoft_stock](../assets/pictures/mini_graph_card_microsoft_stock.png)
+![mini_graph_card_microsoft_stock](https://raw.githubusercontent.com/eifinger/blog.kevineifinger.de/master/assets/pictures/mini_graph_card_microsoft_stock.png)
 
 The configuration for this card is as follows:
 
@@ -141,11 +141,11 @@ I use [Telegram](https://www.home-assistant.io/integrations/telegram_webhooks/) 
 
 The whole sensor with the stock alert controls looks like this:
 
-![complete_microsoft_stock](../assets/pictures/complete_microsoft_stock.png)
+![complete_microsoft_stock](https://raw.githubusercontent.com/eifinger/blog.kevineifinger.de/master/assets/pictures/complete_microsoft_stock.png)
 
 As soon as the sensor reaches a treshold I get a notification:
 
-![stock_alert_johnson_and_johnson](../assets/pictures/stock_alert_johnson_and_johnson.png)
+![stock_alert_johnson_and_johnson](https://raw.githubusercontent.com/eifinger/blog.kevineifinger.de/master/assets/pictures/stock_alert_johnson_and_johnson.png)
 
 The Microsoft Alert did not trigger yet so I had to choose another stock ;-)
 
