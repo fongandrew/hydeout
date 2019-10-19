@@ -9,7 +9,7 @@ tags:
   - Brokerage
   - Stock
 ---
-I recently start to take an interest into the stock markets and investing into stocks directly instead of fonds or the like. For some interesting stocks I was looking for an online stock alert website or app but soon realized that all of them required at least my email and would start sending me tons of spam mails.
+I recently start to take an interest into the stock markets and investing into stocks directly instead of funds or the like. For some interesting stocks I was looking for an online stock alert website or app but soon realized that all of them required at least my email and would start sending me tons of spam mails.
 Why not use this great system I have at home the one which is focused on privacy?
 <!--more-->
 
