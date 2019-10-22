@@ -84,8 +84,15 @@ As Frenck I also want to know whether my config will work for upcoming versions 
 
 The way to get this to work was to crate a separate worflow file which does exactly the same as the previous one, only with the latest version of homeassistant.
 
-This way I get two emails whenever I push a change to my repo. One which tells me if the change will work for my current version I have running and one which will tell me if it will keep running if I want to change to a newer version.
-
 You can find the workflow for the latest homeassistant version [here](https://github.com/eifinger/homeassistant-config/blob/master/.github/workflows/homeassistant-latest.yaml).
+
+# Conclusion
+
+I now get two emails whenever I push a change to my repo. One which tells me if the change will work for my current version I have running and one which will tell me if it will keep running if I want to change to a newer version.
+
+A run takes around 2 minutes and 20 seconds. I think thats reasonably fast.
+The configuration of the workflow is very similar to Azure DevOps pipelines but currently lacks a good and thorough documentation.
+
+However it was fun setting this up and I am definitely satisfied with the result.
 
 As always you can find the whole configuration in my repo under [https://github.com/eifinger/homeassistant-config](https://github.com/eifinger/homeassistant-config)
