@@ -49,7 +49,7 @@ if __name__ == '__main__':
 This script is located under `<config>/packages/avanza_stock` and uses the following template to create new yaml files under the same directory. These will get picked up by Homeassistant via the packages mechanism.
 
 ```yaml
----
+{% raw %}---
 sensor:
   - platform: avanza_stock
     stock: ${id}
@@ -131,7 +131,7 @@ automation:
             {{ states('sensor.avanza_${name}') }} {{ state_attr('sensor.avanza_${name}','currency') }}.
             Under threshold of {{ states('input_text.avanza_${name}_min') }}"
             {% endif %}
-
+{% endraw %}
 ```
 
 I can now use the following command to create a new sensor without the need for copy pasting:
