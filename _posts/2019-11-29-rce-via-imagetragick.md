@@ -39,6 +39,7 @@ content, counturl, dest_url, document, domain, download, file, http, https, imag
 
 I am pretty frugal, and I hadn't made any money from bug bounty at this point, so I didn't have Burp Pro and collaborator. So here was the steps I took:
 1. Start a simple server on my VPS with 
+
 `python3 -m http.server <random port number>`
 2. Run the following command. I used return code 777 because I didn't really want to save off any repsponses.  
 ```
@@ -88,4 +89,4 @@ So, with imagetragick, an attacker can replace everything to the right of the pi
 * Creativity and huge data sets can lead to interesting findings.
 * Don't assume old CVEs aren't still around. ImageTragick is a 2016 CVE and this was found on a well-known public bug bounty program.
 
-I hope you enjoyed the write-up. I've got a few more from the last few months that might be interesting. 
+I hope you enjoyed the write-up. I've got a few more from the last few months that might be interesting to write up as well. Let me know if you'd like to see those. 
