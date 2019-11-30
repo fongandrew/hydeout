@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            rezo
-tagline:          'rezos blog'
+title:            rez0
+tagline:          'rez0s blog'
 description:      'my thoughts on cybersecurity, faith, tech, and more.'
 host:             0.0.0.0
 port:             4000

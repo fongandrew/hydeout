@@ -7,10 +7,10 @@ sidebar_link: true
 <img alt="headshot" src="/assets/headshot.jpg" width="200px" />
 
 
-Hey! I'm Joseph, aka rezo. Thanks for checking out the site. 
+Hey! I'm Joseph, aka rez0. Thanks for checking out the site. 
 
-I'm a Christian, husband, father, and cybersecurity professional.
-I pretty much just love life, but I'm particularly fond of running, technology, podcasts, and sweet potato casserole.
+I'm a Christian, husband, father, hacker, and cybersecurity professional.
+I love most things in life, but I'm particularly fond of hacking, running, podcasts, and sweet potato casserole.
 
 <p class="message">
   "As water reflects the face, so one's life reflects the heart." Proverbs 27:19
