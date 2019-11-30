@@ -7,8 +7,7 @@ tags:
   - hacking
 ---
 
-## Summary (tldr)
-Through the help of two friends, some bash tricks, the use of Tomnomnom's tool `meg`, and a service vulnerable to [ImageTragick](https://imagetragick.com/), I found my first RCE (and my first critical!) within the first two months of bug bounty hunting.
+TLDR: Through the help of two friends, some bash tricks, the use of Tomnomnom's tool `meg`, and a service vulnerable to [ImageTragick](https://imagetragick.com/), I found my first RCE (and my first critical!) within the first two months of bug bounty hunting.
 
 ## Good friends and good ideas
 I have always found value in surrounding myself with people I can learn from. In my professional work life, that's choosing to be around the most talented team member when possible. 
