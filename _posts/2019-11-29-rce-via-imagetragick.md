@@ -7,7 +7,7 @@ tags:
   - hacking
 ---
 
-## Summary 
+## Summary (tldr)
 Through the help of two friends, some bash tricks, the use of Tomnomnom's tool `meg`, and a service vulnerable to [ImageTragick](https://imagetragick.com/), I found my first RCE (and my first critical!) within the first two months of bug bounty hunting.
 
 ## Good friends and good ideas
@@ -38,9 +38,7 @@ content, counturl, dest_url, document, domain, download, file, http, https, imag
 ```
 
 I am pretty frugal, and I hadn't made any money from bug bounty at this point, so I didn't have Burp Pro and collaborator. So here was the steps I took:
-1. Start a simple server on my VPS with 
-
-`python3 -m http.server <random port number>`
+1. Start a simple server on my VPS with `python3 -m http.server`
 2. Run the following command. I used return code 777 because I didn't really want to save off any repsponses.  
 ```
 meg -c 100 -d 100 -s 777 "/?url=http://{my-server-ip}&file=http://{my-server-ip}&path=..." all_hosts.txt
