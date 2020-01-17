@@ -29,9 +29,9 @@ body {
     to bottom,
     lighten($sidebar-bg-color, 7%),
     darken($sidebar-bg-color, 7%));
+  background-attachment: fixed;
   display: flex;
   flex-direction: column;
-  min-width: 100vw;
   min-height: 100vh;
 }
 
@@ -139,11 +139,10 @@ body {
 @media (min-width: $large-breakpoint) {
   body {
     flex-direction: row;
-    height: 100vh;
+    min-height: 100vh;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     > * {
-      max-height: 100vh; 
       overflow-y: auto; 
       -webkit-overflow-scrolling: touch;
     }
@@ -173,6 +172,23 @@ body {
     header ~ nav {
       display: flex;
     }
+
+    position: fixed;
+    // Attach to bottom or top of window
+    @if $sidebar-sticky {
+      bottom: 0;
+    }
+    @else {
+      top: 0
+    }
+
+    // Attach to right or left of window
+    @if $layout-reverse {
+      right: 0;
+    }
+    @else {
+      left: 0;
+    }
   }
 
   .index #sidebar { margin-bottom: 0; }
@@ -184,7 +200,14 @@ body {
     padding: $section-spacing * 2
              $section-spacing * 2
              0;
-    height: 100vh;
+    min-height: 100vh;
+
+    @if $layout-reverse {
+      margin-right: $sidebar-width;
+    }
+    @else {
+      margin-left: $sidebar-width;
+    }
 
     > header {
       color: $heading-color;
@@ -266,36 +289,4 @@ body {
   font-size: 1.5rem;
   display: inline-block;
   margin: 0 0.25em;
-}
-
-
-/* -----------------------------------------------------------
-  Sticky sidebar
-
-  Set $sidebar-stick variable to affix sidebar contents to the
-  bottom of the sidebar in tablets and up.
------------------------------------------------------------ */
-
-@if $sidebar-sticky {
-  @media (min-width: $large-breakpoint) {
-    body {
-      align-items: flex-end;
-    }
-  }
-}
-
-
-/* -----------------------------------------------------------
-  Reverse layout
-
-  Flip the orientation of the page by placing the `#sidebar`
-  on the right.
------------------------------------------------------------ */
-
-@if $layout-reverse {
-  @media (min-width: $large-breakpoint) {
-    .container {
-      order: -1;
-    }
-  }
 }
