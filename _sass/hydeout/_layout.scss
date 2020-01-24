@@ -290,3 +290,28 @@ body {
   display: inline-block;
   margin: 0 0.25em;
 }
+
+@media print {
+  #sidebar {
+    display: none;
+  }
+
+  body {
+    display: block;
+  }
+
+  .container {
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+
+    > * {
+      max-width: 100%;
+    }
+  }
+
+  html {
+    font-size: normal;
+  }
+}
