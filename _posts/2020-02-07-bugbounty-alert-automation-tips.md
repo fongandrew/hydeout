@@ -9,7 +9,7 @@ tags:
 
 ## Automation is Awesome
 I have always loved automation. Being a computer science student in college, as well as getting really into Instagram around 2011 (back when people would follow you if you liked their photo or left a single comment on it) led me to try and automate gathering Instagram followers. 
-<img alt="ig" src="/assets/ig.jpg" width="500px" />
+<img alt="ig" src="/assets/ig.png" width="500px" />
 There was no web version of instagram at the time, but a site called Statigram existed. I wrote a little [AutoHotKey](https://www.autohotkey.com/)'s script to refresh on a popular hashtag, click the heart to like the top 5 photos and then refresh. I was getting _some_ followers. Then eventually I added the ability to add comments of the form: 
 ```
 I {really|very much|null|etc} {like|love} this {photo|pic|pictures}{!|!!|!!!}
