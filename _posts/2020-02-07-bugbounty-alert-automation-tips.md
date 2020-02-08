@@ -1,5 +1,5 @@
 ---
-title: "Bugbounty automation tips"
+title: "Bugbounty alert automation tips"
 layout: post
 categories:
   - hacking
