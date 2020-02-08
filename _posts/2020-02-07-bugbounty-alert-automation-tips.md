@@ -7,16 +7,16 @@ tags:
   - hacking
 ---
 
-## Automation is Awesome
 I have always loved automation. Being a computer science student in college, as well as getting really into Instagram around 2011 (back when people would follow you if you liked their photo or left a single comment on it) led me to try and automate gathering Instagram followers. 
-<img alt="ig" src="/assets/ig.png" width="500px" />
+
+<img alt="ig" src="/assets/ig.png" width="600px" />
 There was no web version of instagram at the time, but a site called Statigram existed. I wrote a little [AutoHotKey](https://www.autohotkey.com/)'s script to refresh on a popular hashtag, click the heart to like the top 5 photos and then refresh. I was getting _some_ followers. Then eventually I added the ability to add comments of the form: 
-```
-I {really|very much|null|etc} {like|love} this {photo|pic|pictures}{!|!!|!!!}
-```
+
+`I {really|very much|etc} {like|love} this {photo|pic|pictures}{!|!!|!!!}`
+
 Shortly after realizing people put irrelevant hashtags on nsfw pictures (and that I had commented "I really love this pic!" on some lewd images), I stopped automating that task. But when I started doing bug bounty hunting last August, I knew I would use automation whenever possible.
 
-## Goal
+## The Goal
 Let's start with a goal: Get automated alerts for interesting stuff. I knew I wanted to get alerted via slack. I also love chaining commands together in bash, so I wanted it to take stdin as input and write to my slack as output. Here's the 2 line script to do so: https://github.com/jthack/toslack
 
 ```
@@ -26,7 +26,7 @@ message=`cat`
 curl -X POST -H 'Content-type: application/json' --data "{\"text\":\"$message\"}" $SLACK_WEBHOOK_URL
 ```
 
-## Easy Execution 
+## Useful Use-Cases
 I've got lots of ideas for alerting. Some are easier to implement than others. Almost all of them have challenges. Let's focus on two for this blog post:
 1. New domains
 2. Newly alive domains (because a new certificate doesn't mean it's pointed at a server yet)
