@@ -17,7 +17,7 @@ There was no web version of instagram at the time, but a site called Statigram e
 Shortly after realizing people put irrelevant hashtags on nsfw pictures (and that I had commented "I really love this pic!" on some lewd images), I stopped automating that task. But when I started doing bug bounty hunting last August, I knew I would use automation whenever possible.
 
 ## The Goal
-Let's start with a goal: Get automated alerts for interesting stuff. I knew I wanted to get alerted via slack. I also love chaining commands together in bash, so I wanted it to take stdin as input and write to my slack as output. Here's the 2 line script to do so: https://github.com/jthack/toslack
+Let's start with a goal: Get automated alerts for interesting stuff. I knew I wanted to get alerted via slack. I also love chaining commands together in bash, so I wanted it to take stdin as input and write to my slack as output. Here's the 2 line script to do so: [https://github.com/jthack/toslack](https://github.com/jthack/toslack)
 
 ```
 #!/bin/bash
