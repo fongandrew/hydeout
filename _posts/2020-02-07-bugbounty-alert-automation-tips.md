@@ -51,5 +51,7 @@ There are nearly endless way to use these tips to set up quick and easy monitori
 
 ## Thanks!
 I hope you enjoyed the write-up. Let me know if you set up any cool alerts with these tips!
+
 Twitter: [rez0\_\_](https://twitter.com/rez0__)
+
 Subscribe to get an email when I write a new blog: [click here](http://eepurl.com/c5WVgj)
