@@ -7,4 +7,38 @@ $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+
+
+/* Image alignment */
+img[alt$=">"] {
+    float: right;
+}
+  
+img[alt$="<"] {
+    float: left;
+}
+
+img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+
+/* Publication styles */
+.post-authors {
+    font-style: italic;
+}
+.post-type {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+/* Nav */
+.logo {
+    width: 40%;
+}
+
 @import "hydeout";

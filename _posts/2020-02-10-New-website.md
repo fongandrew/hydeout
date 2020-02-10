@@ -1,5 +1,5 @@
 ---
-title: "New personal site"
+title: "New website"
 layout: post
 categories:
   - Blog

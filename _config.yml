@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            RW
+title:            Ruben Wiersma
 tagline:          'Computer Graphics, Art, and ML'
 description:      'PhD candidate at TU Delft. Computer Graphics, Art, and ML.'
 url:              https://rubenwiersma.github.io
@@ -17,6 +17,8 @@ baseurl:          '/'
 author:
   name:           'Ruben Wiersma'
   url:            https://twitter.com/wiersma_ruben
+  github:         https://github.com/rubenwiersma
+  linkedin:       https://linkedin.com/rubenwiersma
 
 paginate:         5
 # paginate_path:    '/page:num'

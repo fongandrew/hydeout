@@ -1,0 +1,21 @@
+---
+layout: page
+---
+{% unless page.content == '' %}
+  {{ content }}
+{% endunless %}
+
+<ul class="posts-list">
+  {% assign category = page.category | default: page.title %}
+  {% for post in site.categories[category] %}
+    <li>
+      <h3>
+          <small>{{ post.date | date: "%B %Y" }}</small><br />
+        <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+          <small><span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span> at {{ post.venue }}</small>
+        </a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>

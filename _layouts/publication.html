@@ -3,15 +3,42 @@ layout: default
 ---
 
 <header>
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">
+    {{ page.title }}
+  </h1>
+  <span class="post-type">{{ page.type }}</span><br />
+  <span class="post-authors">{{ page.authors }}</span>
 </header>
 <div class="content">
-  <div class"post-meta">
-    <span class="post-date">{{ include.post.date | date_to_string }}</span>
-  </div>
 
   <div class="post-body">
-    {{ post.abstract }}
     {% include post-tags.html post=page %}
+
+    <h4 class="abstract-title">Abstract</h4>
+    {{ page.abstract }}
+
+    {% if page.venue %}
+    <h4>Venue</h4>
+    {{ page.venue }}
+    {% endif %}
+
+    {% if page.link or page.link_pdf or page.link_code %}
+        <h4>Links</h4>
+        {% if page.link %}
+        <a href="{{ page.link }}">[HTML]</a>
+        {% endif %}
+        {% if page.link_pdf %}
+        <a href="{{ page.link_pdf }}">[PDF]</a>
+        {% endif %}
+        {% if page.link_code %}
+        <a href="{{ page.link_code }}">[code]</a>
+        {% endif %}
+    {% endif %}
+
+    {% if page.bib %}
+    <h4>Cite</h4>
+    <code>{{ page.bib }}</code>
+    {% endif %}
+
   </div>
 </div>
