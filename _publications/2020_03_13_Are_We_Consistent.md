@@ -1,7 +1,7 @@
 ---
 title: "Are We Consistent? The Effects of Digitized Exams Grading"
-venue: "SIGCSE 2020"
 layout: publication
+venue: "SIGCSE 2020"
 abstract: "Many universities digitize exams or the process of grading the exams. This potentially allows for faster grading, is less labor intensive and less error-prone. But are the grades produced by online grading consistent with how we grade on paper? In this paper we present preliminary results of the comparison between scores given by grading online and grading on paper."
 authors: "Gosia Migut, Ruben Wiersma"
 type: "Poster"
