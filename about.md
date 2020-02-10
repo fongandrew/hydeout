@@ -8,12 +8,12 @@ Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics a
 
 I have gathered experience as a graphic designer, filmmaker, and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well.
 
-#### Contact
+### Contact
 - r.t.wiersma [at] tudelft.nl
 
 <hr/>
 
-## Resume
+# Resume
 
 An overview of my [publications can be found here](/category/publications.html).
 
@@ -66,7 +66,7 @@ _GeoPhy_
 #### [2012 - present] Video producer, graphic designer
 _Wiersma Brothers, Torchbearers International, freelance_
 - [Wiersma Brothers](http://wiersmabros.nl): founder, producing video's and short films.
-- [Torchbearers International](https://torchbearers.org): creative director and web development.
+- [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](/creative%20portfolio/2018/09/01/Torchbearers-International.html).
 - Freelance work in graphic design and web development.
 
 <hr/>

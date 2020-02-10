@@ -13,9 +13,10 @@ layout: page
       <h3>
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
+          <small>{{ post.date | date: "%B %Y" }}</small>
         </a>
       </h3>
+      {% include post-tags.html post=post %}<br />
     </li>
   {% endfor %}
 </ul>
