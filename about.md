@@ -13,8 +13,9 @@ r.t.wiersma [at] tudelft.nl
 
 ### Links
 [Graphics at TU Delft](http://graphics.tudelft.nl/ruben-wiersma/)
+[GitHub](https://github.com/rubenwiersma)
 
 ### IRL
-Room 6E.420
-Van Mourik Broekmanweg 6
+Room 6E.420<br/>
+Van Mourik Broekmanweg 6<br/>
 2628XE Delft

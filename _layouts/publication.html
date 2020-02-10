@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="post-title">{{ page.title }}</h1>
+</header>
+<div class="content">
+  <div class"post-meta">
+    <span class="post-date">{{ include.post.date | date_to_string }}</span>
+  </div>
+
+  <div class="post-body">
+    {{ post.abstract }}
+    {% include post-tags.html post=page %}
+  </div>
+</div>
