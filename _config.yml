@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ruben Wiersma
+title:            RW
 tagline:          'Computer Graphics, Art, and ML'
-description:      'Personal research page for Ruben Wiersma, MSc, PhD candidate at TU Delft.'
+description:      'PhD candidate at TU Delft. Computer Graphics, Art, and ML.'
 url:              https://rubenwiersma.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
