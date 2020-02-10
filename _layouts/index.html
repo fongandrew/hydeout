@@ -3,9 +3,11 @@ layout: default
 ---
 
 <div class="content">
-  {% include pagination-newer.html %}
-
+  <h1>Welcome</h1>
   {{ content }}
+
+  <h1>From the blog</h1>
+  {% include pagination-newer.html %}
 
   {% for post in paginator.posts %}
   <article class="post-body">
