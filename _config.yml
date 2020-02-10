@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Ruben Wiersma
 tagline:          'Computer Graphics, Art, and ML'
 description:      'PhD candidate TU Delft. Computer Graphics, Art, and ML.'
-url:              https://rubenwiersma.github.io
+url:              https://rubenwiersma.nl/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
