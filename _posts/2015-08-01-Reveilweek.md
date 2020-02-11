@@ -20,8 +20,10 @@ The Reveilweek is a yearly summer conference for families. The youth program has
 ![](https://pro2-bar-s3-cdn-cf4.myportfolio.com/1526bf775aea4708701ddfe21e6f0983/f4c29cf9499c148b7c54e47b_rw_1920.jpg?h=8e72cca1d230254875fe47d0a69b3625)
 
 Logo animation:
-<iframe src="https://player.vimeo.com/video/196871262" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width:800px; height:450px;" class="embed-content"></iframe>
-
+<div style="position:relative; padding-top: 56.25%; margin-bottom: 20px">
+  <iframe src="https://player.vimeo.com/video/196871262" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+ 
 ![](https://pro2-bar-s3-cdn-cf.myportfolio.com/1526bf775aea4708701ddfe21e6f0983/b1264e718b34c3ee2de1ee17_rw_1920.jpg?h=3a347dbc2db073f6f50c83d04dc7a3b7)
 
 ![](https://pro2-bar-s3-cdn-cf5.myportfolio.com/1526bf775aea4708701ddfe21e6f0983/6c346f4a17339db21e4e0378_rw_1920.jpg?h=d9752bea36f19b0dc1bb4dec40e8bd7a)

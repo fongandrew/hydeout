@@ -25,7 +25,9 @@ In 2017, while in Suriname, I designed, laid out, and edited the commemorative l
 
 ## Presentation film
 
-<iframe src="https://player.vimeo.com/video/170873111?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="position:relative; padding-top: 56.25%; margin-bottom: 20px">
+  <iframe src="https://player.vimeo.com/video/170873111?title=0&byline=0&portrait=0" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 ## Book presentation
 ![Book presentation 1](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f255a069547299.5b8558a2f0b59.jpg)

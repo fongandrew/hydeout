@@ -13,8 +13,9 @@ Motown Fever celebrates the music, artists and history of Motown records in the 
 
 [View on Behance.](https://www.behance.net/gallery/74429845/Motown-Fever)
 
-<iframe src="https://player.vimeo.com/video/307124288?color=e9610a&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<div style="position:relative; padding-top: 56.25%; margin-bottom: 20px">
+  <iframe src="https://player.vimeo.com/video/307124288?color=e9610a&title=0&byline=0&portrait=0" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 <hr/>
 
 ![Motown Fever Committee](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/66ff2a74429845.5c2f7e4d1816d.jpg)

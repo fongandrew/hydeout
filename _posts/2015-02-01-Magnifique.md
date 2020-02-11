@@ -16,8 +16,9 @@ Every year, the fraternity C.S.R. Delft celebrates their anniversary with a big 
 [View on Behance.](https://www.behance.net/44818107/Magnifique)
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/1a97f644818107.582121b014647.jpg)
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/kWs9rxfamyo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative; padding-top: 56.25%; margin-bottom: 20px">
+  <iframe src="https://www.youtube.com/embed/kWs9rxfamyo" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 *Video presentation of the theme. I was responsible for writing, directing and editing the video. The video was intended to maximize the tension building up to the presentation of the festival theme. In the room where the video was shown, 'real life' timed elements like confetti where added to give the attendees a more immersive experience.*
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/f6d93d44818107.58211a92521cf.jpg)

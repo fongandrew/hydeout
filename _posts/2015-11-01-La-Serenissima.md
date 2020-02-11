@@ -13,7 +13,9 @@ La Serenissima is a short film shot in Venice. Originally intended as an announc
 
 [View on Behance.](https://www.behance.net/gallery/46660773/La-Serenissima-Short-Film)
 
-<iframe src="https://player.vimeo.com/video/149290094?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="position:relative; padding-top: 56.25%">
+  <iframe src="https://player.vimeo.com/video/149290094?title=0&byline=0&portrait=0" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/daa69346660773.585d5dda96da4.png)
 
