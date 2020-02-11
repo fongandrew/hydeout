@@ -2,11 +2,17 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
-$sidebar-bg-color: #2F4E4D !default;
+$sidebar-bg-color: #2b375c !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+
+body {
+    background-image: url(/assets/img/flowers.jpg);
+    background-blend-mode: soft-light;
+    background-position: top left;
+}
 
 
 /* Image alignment */
