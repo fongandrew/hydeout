@@ -8,7 +8,7 @@ Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics a
 
 I have gathered experience as a graphic designer, filmmaker, and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well.
 
-Credits for the sidebar-painting go to Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
+Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
 
 ### Contact
 - r.t.wiersma [at] tudelft.nl
