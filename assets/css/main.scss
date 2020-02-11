@@ -54,19 +54,23 @@ img[alt$="><"] {
 
 /* Nav */
 .logo {
-    width: 40%;
+    width: 4rem;
 }
 
 @media (max-width: $large-breakpoint) {
+    body {
+        background-size: cover;
+    }
+
     .home #sidebar .logo {
         display: block;
-        width: 10%;
-        margin: 10px auto;
+        width: 3rem;
+        margin: 20px auto;
     }
 
     #sidebar .logo {
         display: inline;
-        width: 5%;
+        width: 1.3rem;
         margin: 0 5px -3px 0;
     }
   }
