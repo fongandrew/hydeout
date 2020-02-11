@@ -2,11 +2,13 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
+
 $sidebar-bg-color: #2b375c !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+$large-breakpoint: 49rem !default;
 
 body {
     background-image: url(/assets/img/flowers.jpg);
@@ -32,6 +34,13 @@ img[alt$="><"] {
     float: none!important;
 }
 
+@media (max-width: $large-breakpoint) {
+    img[alt$=">"], img[alt$="<"] {
+        display: block;
+        float: none;
+    }
+}
+
 /* Publication styles */
 .post-authors {
     font-style: italic;
@@ -46,5 +55,19 @@ img[alt$="><"] {
 .logo {
     width: 40%;
 }
+
+@media (max-width: $large-breakpoint) {
+    .home #sidebar .logo {
+        display: block;
+        width: 10%;
+        margin: 10px auto;
+    }
+
+    #sidebar .logo {
+        display: inline;
+        width: 5%;
+        margin: 0 5px -3px 0;
+    }
+  }
 
 @import "hydeout";

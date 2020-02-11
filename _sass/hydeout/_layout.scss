@@ -33,6 +33,7 @@ body {
   flex-direction: column;
   min-width: 100vw;
   min-height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 #sidebar {
@@ -40,9 +41,10 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: "Abril Fatface", serif;
+    font-family: 'Calistoga', sans-serif;
     font-weight: normal;
     font-size: $large-font-size;
+    line-height:  1.1em;
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
@@ -110,7 +112,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 0; /*3.25rem;*/
+    font-size: 2.25rem;
   }
 
   // Show secondary nav content + lead
@@ -128,16 +130,6 @@ body {
   // line-height on top
   > *:last-child {
     margin-bottom: 0.5rem;
-  }
-}
-
-@media (max-width: $large-breakpoint) {
-  #sidebar .logo {
-      display: none;
-  }
-
-  .home #sidebar .site-title {
-    font-size: 3.25rem;
   }
 }
 
@@ -172,7 +164,7 @@ body {
 
   #sidebar {
     .site-title {
-      font-size: 0; /*3.25rem;*/
+      font-size: 2.25rem;
       .back-arrow { display: none; }
     }
 

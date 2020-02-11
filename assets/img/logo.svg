@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="185.00008mm"
+   height="184.99956mm"
+   viewBox="0 0 185.00008 184.99956"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/ruben/Dev/rubenwiersma.github.io/favicon.png"
+   inkscape:export-xdpi="19.708351"
+   inkscape:export-ydpi="19.708351"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="rw_logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="406.7808"
+     inkscape:cy="314.15759"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1019"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="92.499988,130.4016"
+       orientation="1,0"
+       id="guide825"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.500012,-36.405013)">
+    <path
+       style="fill:#ffffff;fill-opacity:0.78431373;stroke:none;stroke-width:8.22171307;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="M 396.84961,137.59375 A 349.6063,349.6063 0 0 0 47.244141,487.19922 349.6063,349.6063 0 0 0 396.84961,836.80469 349.6063,349.6063 0 0 0 746.45703,487.19922 349.6063,349.6063 0 0 0 396.84961,137.59375 Z m -279.2168,178.40039 h 186.20313 186.20312 93.1875 93.1875 l -46.59375,80.70313 -46.59375,80.70312 -46.59375,80.70313 -46.59375,80.70312 -46.59375,80.70313 -46.5957,80.70507 -46.59375,-80.70507 -46.59375,-80.70313 h 93.1875 93.18945 L 443.44531,558.10352 396.84961,477.40039 303.83594,638.50781 210.73438,477.25195 Z M 583.22656,477.40039 536.63281,396.69727 490.03906,315.99414 396.9375,477.25 l -0.0859,0.15039 h 93.1875 z"
+       transform="scale(0.26458333)"
+       id="path4531"
+       inkscape:export-filename="/home/ruben/Dev/rubenwiersma.github.io/assets/img/logo.png"
+       inkscape:export-xdpi="27.459999"
+       inkscape:export-ydpi="27.459999"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g831"
+       transform="translate(-0.04140705,25.324404)" />
+  </g>
+</svg>

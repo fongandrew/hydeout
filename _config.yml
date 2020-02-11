@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Ruben Wiersma
 tagline:          'Computer Graphics, Art, and ML'
-description:      'PhD candidate TU Delft. Computer Graphics, Art, and ML.'
+description:      'Computer Graphics, Art, and ML.'
 url:              https://rubenwiersma.nl/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
