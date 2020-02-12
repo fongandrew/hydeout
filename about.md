@@ -6,7 +6,7 @@ sidebar_link: true
 ![Ruben >](https://avatars3.githubusercontent.com/u/9115743?s=200)
 Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics and Visualization group](http://graphics.tudelft.nl). My interests include computer graphics, machine learning, storytelling (movies, experiences, books, etc.) and art. After graduating _Cum Laude_ with a thesis on geometric deep learning, I will now work on applications of computer graphics and machine learning for painting analysis under supervision of Prof. Dr. Elmar Eisemann and Prof. Dr. Joris Dik.
 
-I have gathered experience as a graphic designer, filmmaker and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well.
+I have gathered experience as a graphic designer, filmmaker and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well. Outside of academia, I enjoy making music, reading, biking, soccer and walking.
 
 Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
 
