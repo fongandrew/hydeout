@@ -8,6 +8,7 @@ tagline:          'Computer Graphics, Art, and ML'
 description:      'Computer Graphics, Art, and ML.'
 url:              https://rubenwiersma.nl/
 baseurl:          '/'
+google_analytics: 'UA-22932336-1'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
