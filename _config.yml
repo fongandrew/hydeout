@@ -56,8 +56,4 @@ disqus:
 
 google_analytics: UA-100461102-1
 
-# Used for Hydeout's own Github page. Feel free to remove for your
-# own fork.
-hydeout:
-  version:          4.1.0
-  repo:             https://github.com/fongandrew/hydeout
+remote_theme: fongandrew/hydeout
