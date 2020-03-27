@@ -10,7 +10,7 @@ venue: "\series"
 abstract: "\format[HTMLChars]{\abstract}"
 authors: "\format[Authors(FirstFirst)]{\author}"
 type: "\entrytype"
-link: "\format[DOICheck]{\doi}"
+\begin{doi} link: "\format[DOICheck]{\doi}" \end{doi}
 bib: "@\entrytype{\bibtexkey,<br />
   &nbsp;&nbsp;author    = {\author},<br />
   &nbsp;&nbsp;booktitle = {\booktitle},<br />
