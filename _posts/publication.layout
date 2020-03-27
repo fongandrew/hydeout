@@ -12,16 +12,16 @@ authors: "\format[Authors(FirstFirst)]{\author}"
 type: "\entrytype"
 link: "\format[DOICheck]{\doi}"
 bib: "@\entrytype{\bibtexkey,<br />
-  author    = {\author},<br />
-  booktitle = {\booktitle},<br />
-  title     = {\title},<br />
-  year      = {\year},<br />
-  month     = {\month},<br />
-  pages     = {\pages},<br />
-  publisher = {\publisher},<br />
-  series    = {\series},<br />
-  doi       = {\doi},<br />
-  isbn      = {\isbn},<br />
+  &nbsp;&nbsp;author    = {\author},<br />
+  &nbsp;&nbsp;booktitle = {\booktitle},<br />
+  &nbsp;&nbsp;title     = {\title},<br />
+  &nbsp;&nbsp;year      = {\year},<br />
+  &nbsp;&nbsp;month     = {\month},<br />
+  &nbsp;&nbsp;pages     = {\pages},<br />
+  &nbsp;&nbsp;publisher = {\publisher},<br />
+  &nbsp;&nbsp;series    = {\series},<br />
+  &nbsp;&nbsp;doi       = {\doi},<br />
+  &nbsp;&nbsp;isbn      = {\isbn},<br />
 }"
 \begin{link} pdf: "\link" \end{link}
 ---
