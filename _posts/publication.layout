@@ -23,5 +23,5 @@ bib: "@\entrytype{\bibtexkey,<br />
   &nbsp;&nbsp;doi       = {\doi},<br />
   &nbsp;&nbsp;isbn      = {\isbn},<br />
 }"
-\begin{link} pdf: "\link" \end{link}
+\begin{url} pdf: "\url" \end{url}
 ---
