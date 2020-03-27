@@ -5,23 +5,23 @@ categories:
   - Publications
 tags:
   - \format[Replace(\, ,\n  - )]{\keywords}
-last_modified_at: \date
+last_modified_at: \format[CurrentDate]{yyyy-MM-dd}T\format[CurrentDate]{hh:mm:ss}-01:00
 venue: "\series"
 abstract: "\format[HTMLChars]{\abstract}"
 authors: "\format[Authors(FirstFirst)]{\author}"
 type: "\entrytype"
 link: "\format[DOICheck]{\doi}"
-bib: "@\entrytype{\bibtexkey,\n\n
-  author    = {\author},\n\n
-  booktitle = {\booktitle},\n\n
-  title     = {\title},\n\n
-  year      = {\year},\n\n
-  month     = {\month},\n\n
-  pages     = {\pages},\n\n
-  publisher = {\publisher},\n\n
-  series    = {\series},\n\n
-  doi       = {\doi},\n\n
-  isbn      = {\isbn},\n\n
+bib: "@\entrytype{\bibtexkey,\\n
+  author    = {\author},\\n
+  booktitle = {\booktitle},\\n
+  title     = {\title},\\n
+  year      = {\year},\\n
+  month     = {\month},\\n
+  pages     = {\pages},\\n
+  publisher = {\publisher},\\n
+  series    = {\series},\\n
+  doi       = {\doi},\\n
+  isbn      = {\isbn},\\n
 }"
 \begin{link} pdf: "\link" \end{link}
 ---
