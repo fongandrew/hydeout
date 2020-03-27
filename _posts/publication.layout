@@ -11,17 +11,17 @@ abstract: "\format[HTMLChars]{\abstract}"
 authors: "\format[Authors(FirstFirst)]{\author}"
 type: "\entrytype"
 link: "\format[DOICheck]{\doi}"
-bib: "@\entrytype{\bibtexkey,\\n
-  author    = {\author},\\n
-  booktitle = {\booktitle},\\n
-  title     = {\title},\\n
-  year      = {\year},\\n
-  month     = {\month},\\n
-  pages     = {\pages},\\n
-  publisher = {\publisher},\\n
-  series    = {\series},\\n
-  doi       = {\doi},\\n
-  isbn      = {\isbn},\\n
+bib: "@\entrytype{\bibtexkey,<br />
+  author    = {\author},<br />
+  booktitle = {\booktitle},<br />
+  title     = {\title},<br />
+  year      = {\year},<br />
+  month     = {\month},<br />
+  pages     = {\pages},<br />
+  publisher = {\publisher},<br />
+  series    = {\series},<br />
+  doi       = {\doi},<br />
+  isbn      = {\isbn},<br />
 }"
 \begin{link} pdf: "\link" \end{link}
 ---
