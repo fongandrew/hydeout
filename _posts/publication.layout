@@ -5,7 +5,7 @@ categories:
   - Publications
 tags:
   - \format[Replace(\, ,\n  - )]{\keywords}
-last_modified_at: \format[CurrentDate]{yyyy-MM-dd}T\format[CurrentDate]{hh:mm:ss}-01:00
+last_modified_at: \format[CurrentDate]{yyyy-MM-dd}T\format[CurrentDate]{HH:mm:ss}-01:00
 venue: "\series"
 abstract: "\format[HTMLChars]{\abstract}"
 authors: "\format[Authors(FirstFirst)]{\author}"

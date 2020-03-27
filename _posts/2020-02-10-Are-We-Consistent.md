@@ -12,7 +12,7 @@ venue: "SIGCSE ’20"
 abstract: "Many universities digitize exams or the process of grading the exams. This potentially allows for faster grading, is less labor intensive and less error-prone. But are the grades produced by online grading consistent with how we grade on paper? In this paper we present preliminary results of the comparison between scores given by grading online and grading on paper."
 authors: "G. Migut and R. Wiersma"
 type: "InProceedings"
-link: "https://doi.org/10.1145/3328778.3372630"
+doi: "https://doi.org/10.1145/3328778.3372630"
 bib: "@InProceedings{Migut2020,<br />
   &nbsp;&nbsp;author    = {Migut, Gosia and Wiersma, Ruben},<br />
   &nbsp;&nbsp;booktitle = {Proceedings of the 51st ACM Technical Symposium on Computer Science Education},<br />
