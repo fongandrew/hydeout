@@ -22,7 +22,7 @@ layout: default
     {{ page.venue }}
     {% endif %}
 
-    {% if page.doi or page.link_pdf or page.link_code %}
+    {% if page.doi or page.pdf or page.code %}
         <h4>Links</h4>
         {% if page.link %}
         <a href="https://doi.org/{{ page.doi }}">[DOI]</a>
