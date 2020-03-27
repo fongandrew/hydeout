@@ -1,27 +1,29 @@
 ---
-title: "Harmonic Surface Networks"
+title: "Are We Consistent? The Effects of Digitized Exams Grading"
 layout: publication
 categories:
   - Publications
 tags:
-  - Deep learning
-  - Surfaces
-  - Geometry processing
-  - Convolutional Neural Networks
-  - Rotational Equivariance
-  - Machine Learning
-last_modified_at: 2019-10-08T15:10:40-01:00
-venue: "Thesis"
-abstract: "We present a new approach for deep learning on surfaces, combining geometric convolutional networks with rotationally equivariant networks. Existing work either learns rotationally invariant filters, or learns filters in the tangent plane without correctly relating orientations between different tangent planes (orientation ambiguity). We propose a solution to both problems by applying Harmonic Networks on surfaces in the tangent plane: Harmonic Surface Networks (HSN).Harmonic Networks constrain their filters to circular harmonics, which output complexvalued, rotatable feature maps. Considering these complex features as vectors inside the tangent plane, we can use parallel transport along shortest geodesics to transport them along the surface in a natural way. Additionally, Harmonic Networks can be configured so that the output is rotationally invariant, while containing rotationally equivariant filters in hidden layers. This property solves the orientation ambiguity problem, while learning directional filters. We evaluate HSN on three different problems: classification on Rotated MNIST in a plane and mapped to a sphere, correspondence on FAUST, and shape segmentation on FAUST. The results suggest that HSN could improve on state of the art approaches."
-authors: "R. Wiersma"
-type: "MastersThesis"
-bib: "@MastersThesis{Wiersma2019,<br />
-  &nbsp;&nbsp;author   = {Wiersma, Ruben},<br />
-  &nbsp;&nbsp;school   = {Delft University of Technology},<br />
-  &nbsp;&nbsp;title    = {Harmonic Surface Networks},<br />
-  &nbsp;&nbsp;year     = {2019},<br />
-  &nbsp;&nbsp;month    = oct,<br />
-  &nbsp;&nbsp;url      = {http://resolver.tudelft.nl/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba},<br />
+  - digitized exams
+  - online grading
+  - higher education
+last_modified_at: 2020-03-27T12:20:55-01:00
+venue: "SIGCSE ’20"
+abstract: "Many universities digitize exams or the process of grading the exams. This potentially allows for faster grading, is less labor intensive and less error-prone. But are the grades produced by online grading consistent with how we grade on paper? In this paper we present preliminary results of the comparison between scores given by grading online and grading on paper."
+authors: "G. Migut and R. Wiersma"
+type: "InProceedings"
+doi: "https://doi.org/10.1145/3328778.3372630"
+bib: "@InProceedings{Migut2020,<br />
+  &nbsp;&nbsp;author    = {Migut, Gosia and Wiersma, Ruben},<br />
+  &nbsp;&nbsp;booktitle = {Proceedings of the 51st ACM Technical Symposium on Computer Science Education},<br />
+  &nbsp;&nbsp;title     = {Are We Consistent? The Effects of Digitized Exams Grading},<br />
+  &nbsp;&nbsp;year      = {2020},<br />
+  &nbsp;&nbsp;month     = {02},<br />
+  &nbsp;&nbsp;pages     = {1338},<br />
+  &nbsp;&nbsp;publisher = {Association for Computing Machinery},<br />
+  &nbsp;&nbsp;series    = {SIGCSE ’20},<br />
+  &nbsp;&nbsp;doi       = {10.1145/3328778.3372630},<br />
+  &nbsp;&nbsp;isbn      = {9781450367936},<br />
 }"
- pdf: "http://resolver.tudelft.nl/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba" 
+
 ---
