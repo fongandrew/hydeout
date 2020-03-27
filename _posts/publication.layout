@@ -1,0 +1,27 @@
+---
+title: "\format[HTMLChars]{\title}"
+layout: publication
+categories:
+  - Publications
+tags:
+  - \format[Replace(\, ,\n  - )]{\keywords}
+last_modified_at: \date
+venue: "\series"
+abstract: "\format[HTMLChars]{\abstract}"
+authors: "\format[Authors(FirstFirst)]{\author}"
+type: "\entrytype"
+link: "\format[DOICheck]{\doi}"
+bib: "@\entrytype{\bibtexkey,\n\n
+  author    = {\author},\n\n
+  booktitle = {\booktitle},\n\n
+  title     = {\title},\n\n
+  year      = {\year},\n\n
+  month     = {\month},\n\n
+  pages     = {\pages},\n\n
+  publisher = {\publisher},\n\n
+  series    = {\series},\n\n
+  doi       = {\doi},\n\n
+  isbn      = {\isbn},\n\n
+}"
+\begin{link} pdf: "\link" \end{link}
+---
