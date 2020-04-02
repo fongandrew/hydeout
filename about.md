@@ -88,8 +88,8 @@ _The Veritas Forum Delft_
 _C.S.R. Delft_
 - Researched and advised on election reform that has since been adapted
 - Organised festivities for society anniversary
-- Produced several narrative short films
-- Produced, designed and launched anniversary book
+- Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html)
+- Produced, designed and launched [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html)
 
 <hr/>
 
