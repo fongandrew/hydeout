@@ -24,7 +24,7 @@ layout: default
 
     {% if page.doi or page.pdf or page.code %}
         <h4>Links</h4>
-        {% if page.link %}
+        {% if page.doi %}
         <a href="https://doi.org/{{ page.doi }}">[DOI]</a>
         {% endif %}
         {% if page.pdf %}
