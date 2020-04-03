@@ -52,7 +52,7 @@ _TU Delft_
 
 <span class="post-type">Work</span>
 
-#### [2019] Teaching Assistant
+#### [2019] Teaching Assistant yayad
 _TU Delft_
 - Developed assignments for new datamining and Machine Learning courses.
 - Assistance to students during lab sessions.
