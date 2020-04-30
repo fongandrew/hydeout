@@ -5,8 +5,13 @@
     background-image: none;
     background-color: white;
 
-    img {
+    img.featured {
         margin: 0 auto;
+    }
+
+    img.inline {
+        display: inline;
+        margin-bottom: -0.5em;
     }
 
     i {
@@ -24,6 +29,15 @@
     }
 
     @media (max-width: 59rem) {
+
+        h1 {
+            font-size: 1.5em;
+        }
+
+        h2 {
+            font-size: 1.2em;
+        }
+
         .container {
             max-width: 90%;
             margin: 0 auto;

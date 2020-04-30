@@ -8,16 +8,16 @@ sidebar_link: false
 [Ruben Wiersma](https://rubenwiersma.nl/), [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/), and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<br />
 Delft University of Technology
 
-<img src="assets/img/hsn_abstract.jpg" width="80%">
+<img src="assets/img/hsn_abstract.jpg" class="featured" width="80%">
 
 <a id="github-link"
       class="icon" title="HSN Github Repo" aria-label="Github Project"
       href="https://github.com/rubenwiersma/hsn" target="_blank">
-    <i class="fa fa-2x fa-github"></i> Code + datasets</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <i class="fa fa-2x fa-github"></i> Code + datasets</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
       href="#" target="_blank">
-    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
@@ -28,6 +28,9 @@ This paper is concerned with a fundamental problem in geometric deep learning th
 
 ## Contact
 r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
+
+
+<a href="http://graphics.tudelft.nl" target="_blank"><img src="assets/img/CGV_logo.svg" class="inline" width="50px"> Computer Graphics and Visualization group TU Delft</a>
 
 ## Cite
 ```
