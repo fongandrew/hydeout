@@ -1,0 +1,35 @@
+/*
+    CSS for dedicated project pages.
+*/
+.project {
+    background-image: none;
+    background-color: white;
+
+    img {
+        margin: 0 auto;
+    }
+
+    i {
+        margin-right: 0.3em;
+    }
+
+    @media (min-width: 59rem) {
+        .container {
+            max-width: 60rem;
+            margin: 0 auto;
+        }
+        .container > * {
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 59rem) {
+        .container {
+            max-width: 90%;
+            margin: 0 auto;
+        }
+        .container > * {
+            max-width: 100%;
+        }
+    }
+}
