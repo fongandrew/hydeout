@@ -8,7 +8,7 @@ sidebar_link: false
 [Ruben Wiersma](https://rubenwiersma.nl/), [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/), and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<br />
 Delft University of Technology
 
-<img src="assets/img/hsn_abstract.jpg" class="featured" width="80%">
+<img src="assets/img/publications/hsn_abstract.jpg" class="featured" width="80%">
 
 <a id="github-link"
       class="icon" title="HSN Github Repo" aria-label="Github Project"

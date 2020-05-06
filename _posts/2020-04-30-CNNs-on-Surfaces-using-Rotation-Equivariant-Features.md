@@ -21,7 +21,7 @@ doi: "{10.1145/3386569.3392437}"
 pdf: "/assets/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf"
 projectpage: "/hsn"
 code: "https://github.com/rubenwiersma/hsn"
-
+img: "/assets/img/publications/hsn_abstract.jpg"
 bib: "@Article{Wiersma2020,<br />
   &nbsp;&nbsp;author    = {Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt},<br />
   &nbsp;&nbsp;journal   = {Transactions on Graphics},<br />

@@ -10,7 +10,7 @@ layout: page
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
-      <h3>
+      <h3 class="post-title">
         <a href="{{ post.url | relative_url }}">
           {{ post.title }}
           <small>{{ post.date | date: "%B %Y" }}</small>

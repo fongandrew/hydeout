@@ -6,10 +6,14 @@ layout: default
   <h1>Welcome</h1>
   {{ content }}
   <hr />
+  <h2>Latest posts</h2>
+  <hr />
   {% include pagination-newer.html %}
-
   {% for post in paginator.posts %}
   <article class="post-body">
+    {% if post.img %}
+    <img src="{{ post.img }}" class="post-featured">
+    {% endif %}
     <h3 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}

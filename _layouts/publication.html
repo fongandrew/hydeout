@@ -12,15 +12,17 @@ layout: default
 <div class="content">
 
   <div class="post-body">
-    {% include post-tags.html post=page %}
-
-    <h4 class="abstract-title">Abstract</h4>
-    {{ page.abstract }}
-
     {% if page.venue %}
     <h4>Venue</h4>
     {{ page.venue }}
     {% endif %}
+
+    {% if page.img %}
+    <img src="{{ page.img }}" width="80%">
+    {% endif %}
+
+    <h4 class="abstract-title">Abstract</h4>
+    {{ page.abstract }}
 
     {% if page.doi or page.pdf or page.code %}
         <h4>Links</h4>
@@ -37,6 +39,9 @@ layout: default
         <a href="{{ page.projectpage }}">[project page]</a>
         {% endif %}
     {% endif %}
+
+    <h4>Tags</h4>
+    {% include post-tags.html post=page %}
 
     {% if page.bib %}
     <h4>Cite</h4>

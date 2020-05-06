@@ -51,6 +51,10 @@ img[alt$="><"] {
     font-weight: bold;
     font-size: 0.8em;
 }
+img.post-featured {
+    height: 5rem;
+    float: right;
+}
 
 /* Nav */
 .logo {
@@ -72,6 +76,10 @@ img[alt$="><"] {
         display: inline;
         width: 1.3rem;
         margin: 0 5px -3px 0;
+    }
+
+    img.post-featured {
+        float: none;
     }
   }
 
