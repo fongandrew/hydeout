@@ -19,16 +19,18 @@ authors: "R. Wiersma, E. Eisemann and K. Hildebrandt"
 type: "Article"
 doi: "{10.1145/3386569.3392437}" 
 pdf: "/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf"
+projectpage: "/hsn"
+code: "https://github.com/rubenwiersma/hsn"
+
 bib: "@Article{Wiersma2020,<br />
   &nbsp;&nbsp;author    = {Ruben Wiersma, Elmar Eisemann, Klaus Hildebrandt},<br />
-  &nbsp;&nbsp;booktitle = {},<br />
+  &nbsp;&nbsp;journal   = {Transactions on Graphics},<br />
   &nbsp;&nbsp;title     = {CNNs on Surfaces using Rotation-Equivariant Features},<br />
   &nbsp;&nbsp;year      = {2020},<br />
   &nbsp;&nbsp;month     = {July},<br />
-  &nbsp;&nbsp;pages     = {},<br />
+  &nbsp;&nbsp;number    = {4},<br />
+  &nbsp;&nbsp;volume    = {39},<br />
   &nbsp;&nbsp;publisher = {ACM},<br />
-  &nbsp;&nbsp;series    = {},<br />
   &nbsp;&nbsp;doi       = {10.1145/3386569.3392437},<br />
-  &nbsp;&nbsp;isbn      = {},<br />
 }"
 ---
