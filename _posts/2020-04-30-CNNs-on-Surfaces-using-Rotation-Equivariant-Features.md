@@ -18,7 +18,7 @@ abstract: "This paper is concerned with a fundamental problem in geometric deep 
 authors: "R. Wiersma, E. Eisemann and K. Hildebrandt"
 type: "Article"
 doi: "{10.1145/3386569.3392437}" 
-pdf: "/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf"
+pdf: "/assets/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf"
 projectpage: "/hsn"
 code: "https://github.com/rubenwiersma/hsn"
 
