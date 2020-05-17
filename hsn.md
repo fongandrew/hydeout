@@ -26,6 +26,57 @@ Delft University of Technology
 ## Abstract
 This paper is concerned with a fundamental problem in geometric deep learning that arises in the construction of convolutional neural networks on surfaces. Due to curvature, the transport of filter kernels on surfaces results in a rotational ambiguity, which prevents a uniform alignment of these kernels on the surface. We propose a network architecture for surfaces that consists of vector-valued, rotation-equivariant features. The equivariance property makes it possible to locally align features, which were computed in arbitrary coordinate systems, when aggregating features in a convolution layer. The resulting network is agnostic to the choices of coordinate systems for the tangent spaces on the surface. We implement our approach for triangle meshes. Based on circular harmonic functions, we introduce convolution filters for meshes that are rotation-equivariant at the discrete level. We evaluate the resulting networks on shape correspondence and shape classifications tasks and compare their performance to other approaches.
 
+## Summary
+
+### Rotation ambiguity
+
+<p><img src="/assets/img/publications/hsn/rotationambiguity.gif" style="float: right">Geometric deep learning is an exciting field that attempts to generalize the succes of deep learning on images to graphs and manifolds. Among many other approaches, we focus on the charting-based methods, which are particularly good at learning on deformable shapes. These methods learn a kernel in the tangent plane, and apply it to a surface with a mapping, like the Riemannian exponential map.<br /><br />The problem these methods face is that there is no global orientation to orient kernels in the tangent plane. We call this problem <i>rotation ambiguity</i>.</p>
+
+### Different locations, different orientations
+
+Previous approaches either solve this by aligning kernels to a smoothed field (like principal curvature direction), or applying the kernel at multiple directions and either taking the maximum activation or propagating these directions throughout the network. The latter seems inefficient, since you have to compute and store multiple rotated copies of a kernel that you don't use. Both approaches have a hard time dealing with points that lie further away from each other, as the difference between orientations grows.
+
+<img src="/assets/img/publications/hsn/orientations.png" style="margin: 0 auto" width="500px">
+
+### Our solution
+Inspired by research on rotation-invariant learning on images [Worrall et al. 2017], we provide a fundamental solution to the rotation ambiguity problem by restricting our kernels to circular harmonics. The resulting complex features are organized in streams of rotation order (see teaser image). Our networks employ rotation orders 0, being rotation-invariant (left), and 1, being rotation-equivariant (right).
+
+<img src="/assets/img/publications/hsn/rotation_orders.gif" style="margin: 0 auto">
+
+The result is a network that learns completely independent from choices of coordinate systems.
+
+### Parallel transport
+
+But wait, rotation-equivariant features do depend on the choice of coordinate system and rotate with the chosen orientation of the kernel. We correctly propagate these features by parallel transporting them along shortest geodesics. This transport amounts to a rotation, which can simply be applied to the rotation-equivariant features.
+
+<img src="/assets/img/publications/hsn/paralleltransport.gif" style="margin: 0 auto">
+
+## Results
+
+We evaluated our network on multiple tasks (classification, segmentation, correspondence) using a U-ResNet architecture (see the paper for details). The results show improved performance.
+
+<img src="/assets/img/publications/hsn/errormap_faust.png" width="45%" style="float: left"><img src="/assets/img/publications/hsn/classification_samples.png" width="45%" style="float: right">
+
+By visualising the features as tangent vectors on the surface, we get a glimpse into what our network learns. These features from the rotation-equivariant stream in the second-to-last layer clearly activate on legs and hands, irregardless of deformation:
+
+<img src="/assets/img/publications/hsn/shapeseg_vis.png" style="margin: 0 auto" width="60%">
+
+## Learn more
+
+Find out more about our technique in our paper, or come see our presentation at SIGGRAPH 2020.
+
+<a id="github-link"
+      class="icon" title="HSN Github Repo" aria-label="Github Project"
+      href="https://github.com/rubenwiersma/hsn" target="_blank">
+    <i class="fa fa-2x fa-github"></i> Code + datasets</a>&nbsp;&nbsp;
+<a id="pdf-link"
+      class="icon" title="HSN PDF" aria-label="PDF link"
+      href="/assets/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf" target="_blank">
+    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
+<a id="pdf-link"
+      class="icon" title="Cite" aria-label="Cite"
+      href="#cite">
+    <i class="fa fa-2x fa-quote-right"></i> Cite</a>
 ## Contact
 r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
 

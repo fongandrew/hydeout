@@ -21,7 +21,7 @@ author:
   github:         https://github.com/rubenwiersma
   linkedin:       https://linkedin.com/rubenwiersma
 
-paginate:         3
+paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
