@@ -63,7 +63,7 @@ By visualising the features as tangent vectors on the surface, we get a glimpse 
 
 ## Learn more
 
-Find out more about our technique in our paper, or come see our presentation at SIGGRAPH 2020.
+Find out more about our technique in our paper, or come see our (virtual) presentation at SIGGRAPH 2020.
 
 <a id="github-link"
       class="icon" title="HSN Github Repo" aria-label="Github Project"
@@ -80,8 +80,7 @@ Find out more about our technique in our paper, or come see our presentation at 
 ## Contact
 r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
 
-
-<a href="http://graphics.tudelft.nl" target="_blank"><img src="assets/img/CGV_logo.svg" class="inline" width="50px"> Computer Graphics and Visualization group TU Delft</a>
+<a href="http://graphics.tudelft.nl" target="_blank">Computer Graphics and Visualization group TU Delft</a>
 
 ## Cite
 ```
