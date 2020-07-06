@@ -6,6 +6,7 @@ categories:
   - Archive
 tags:
   - Homeassistant
+  - Appdaemon
 ---
 I created an Appdaemon App so I can dimm my smart LEDs using a Xiaomi Round Button
 <!--more-->
