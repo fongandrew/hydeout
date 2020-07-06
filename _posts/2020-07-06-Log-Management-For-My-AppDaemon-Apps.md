@@ -61,27 +61,27 @@ so that the container would use the splunk logging plugin and log directly to sp
 
 ```yaml
 appdaemon:
-    container_name: appdaemon
-    restart: unless-stopped
-    image: acockburn/appdaemon:3.0.5
-    volumes:
-      - /etc/localtime:/etc/localtime:ro
-      - /home/admin/appdaemon:/conf
-      - /home/admin/homeassistant/www:/config/www
-    environment:
-      - HA_URL="https://hidden.de"
-      - TOKEN="secure"
-      - DASH_URL="http://hidden:5050"
-    ports:
-      - "5050:5050"
-      - "8124:8124"
-   logging:
-     driver: splunk
-     options:
-       splunk-token: secure
-       splunk-url: http://servername:8088
-       splunk-insecureskipverify: "true"
-       splunk-verify-connection: "false"
+  container_name: appdaemon
+  restart: unless-stopped
+  image: acockburn/appdaemon:3.0.5
+  volumes:
+    - /etc/localtime:/etc/localtime:ro
+    - /home/admin/appdaemon:/conf
+    - /home/admin/homeassistant/www:/config/www
+  environment:
+    - HA_URL="https://hidden.de"
+    - TOKEN="secure"
+    - DASH_URL="http://hidden:5050"
+  ports:
+    - "5050:5050"
+    - "8124:8124"
+  logging:
+    driver: splunk
+    options:
+      splunk-token: secure
+      splunk-url: http://servername:8088
+      splunk-insecureskipverify: "true"
+      splunk-verify-connection: "false"
 ```
 
 This worked very well until I found out, that stack traces of crashing apps where ingested as distinct log events.
@@ -115,15 +115,15 @@ added it to [my docker-compose.yaml](https://github.com/eifinger/homeassistant-c
 
 ```yaml
 seq:
-    container_name: seq
-    image: datalust/seq:2020.1.4212
-    volumes:
-      - /home/admin/seq/data:/data
-    ports:
-      - "5340:80"
-      - "5341:5341"
-    environment:
-      - "ACCEPT_EULA=Y"
+  container_name: seq
+  image: datalust/seq:2020.1.4212
+  volumes:
+    - /home/admin/seq/data:/data
+  ports:
+    - "5340:80"
+    - "5341:5341"
+  environment:
+    - "ACCEPT_EULA=Y"
 ```
 
 I chose to map port `5340` to the container port `80` under which the dashboard is hosted because it was still free
