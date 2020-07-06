@@ -176,8 +176,8 @@ def log_message_callback(self, app_name, ts, level, log_type, message, kwargs):
 ```
 
 So I went ahead and got into the sourcecode of seqlog trying to find out how it sends it messages to Seq.
-Turns out it is only building a dictionary and then sending it with requests. I recreated the functionality for my
-AppDaemon app:
+Turns out it is only building a dictionary and then sending it with requests. I recreated the functionality for
+[my AppDaemon app](https://github.com/eifinger/appdaemon-scripts/blob/master/seqSink/seqSink.py):
 
 ```python
 class SeqSink(hass.Hass):
