@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
-sidebar_link: true
+title: Timothy Smith
+sidebar_link: false
 ---
 
-<img src="/assets/img/ICES-SIAMGS.jpg"
-    style="width:300px;"
-    align="right">
+<div class="row">
+  <div class="left" style="text-align:left;">
 
 I am currently a Ph.D. candidate at the Oden Institute for 
 Computational Engineering and Science, which is part of the University 
@@ -16,3 +15,10 @@ I am broadly interested in developing and implementing computational tools to
 system and
 (2) quantify uncertainties in ocean models.
 
+  </div>
+  <div class="right">
+   <img src="/assets/img/ICES-SIAMGS.jpg"
+      align="right">
+  </div>
+
+<div>
