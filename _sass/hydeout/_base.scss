@@ -101,3 +101,47 @@ button, input[type="submit"] {
     box-shadow: $default-box-shadow;
   }
 }
+
+
+  .left {
+    float: left;
+    width: 50%;
+    padding: 0%;
+  }
+  .right {
+    float: right;
+    width: 50%;
+    padding: 1%;
+    display: flex;
+    text-align: center;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .left {
+      width: 100%;
+    }
+    .right {
+      width: 100%;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .table{
+      display:table;
+      height: 100%;
+      width: 100%;
+}
+    .table-cell{
+      display:table-cell;
+      vertical-align: middle;
+}
+  }
