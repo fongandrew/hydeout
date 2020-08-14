@@ -2,7 +2,7 @@
 title: "New website"
 layout: post
 categories:
-  - Blog
+  - News
 tags:
   - blog
   - personal
