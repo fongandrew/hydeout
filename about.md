@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 ![Ruben >](/assets/img/profielfoto.jpg)
-Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include computer graphics, machine learning, storytelling (movies, experiences, books, etc.) and art. After graduating cum laude with a thesis on geometric deep learning, I will now work on applications of computer graphics and machine learning for painting analysis under supervision of Prof. Dr. Elmar Eisemann and Prof. Dr. Joris Dik.
+Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include computer graphics, machine learning, storytelling (movies, experiences, books, etc.) and art. After graduating with a thesis on geometric deep learning, I will now work on applications of computer graphics and machine learning for painting analysis under supervision of Prof. Dr. Elmar Eisemann and Prof. Dr. Joris Dik.
 
 I have gathered experience as a graphic designer, filmmaker and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well. Outside of academia, I enjoy making music, reading, biking, soccer and walking.
 
