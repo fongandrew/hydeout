@@ -33,7 +33,7 @@ _TU Delft_
 #### [2017 - 2019] MSc Computer Science _Cum Laude_
 _TU Delft_
 - Focus on data science and computer graphics.
-- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download)
+- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download) (Published at SIGGRAPH in paper form)
 - Toolkit: C++, Python, PyTorch
 
 <hr />
