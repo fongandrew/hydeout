@@ -27,7 +27,7 @@ i: case insensitive
 
 a: process a binary file as if it were text
 
-I remember those flags by just thinking "hernia". Pretty weird, but it works. 
+I remember those flags by thinking "hernia". Pretty weird, but it works. 
 
 I also use the above command when grepping through source code because I pulled the source from all pages I was fuzzing with `meg` or the`-od` flag in ffuf (that's the flag to save all responses into the (o)utput (d)irectory that you pass to the `-od` flag.)
 
@@ -48,7 +48,7 @@ https://target.com/js/main.js
 https://target.com/login
 https://target.com/photo.jpg
 ```
-fff just returns the url with a status, space delimited `https://target.com/login 200`
+fff returns the url with a status, space delimited `https://target.com/login 200`
 ```bash
 gau target.com | grep -vE "jpg|gif|png" | fff | grep " 200" > live.txt
 ```
