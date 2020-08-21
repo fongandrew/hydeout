@@ -12,21 +12,22 @@ Welcome to part 1 of a blog series I'm going to do on command line tools, and ho
 **Disclaimer:** This is mostly going to be use-cases for the tools related to how they are useful to me when bug hunting. I still rely on tools like ffuf, httprobe, aquatone, etc. but this series will cover how I use these command line tools to save time, process data, automate steps, and quickly extract meaningful conclusions. 
 
 ## Finding a specific thing
-<img src="https://i.imgur.com/DE5BO7i.png" width="400px" />
 
 Anyone who has used grep knows it's really great at finding a single string in a file or entire directory. My use-case is digging up some old endpoint or subdomain, or grepping for specific string like api\_key. This is usually the command I use:
 
 `grep -Hrnia search_term`
 
-H: with filename
+<img src="https://i.imgur.com/DE5BO7i.png" width="500px" />
 
-r: recursive in all subfolders
+`-H`: show filename in output
 
-n: show line number
+`-r`: recursive in all subfolders
 
-i: case insensitive 
+`-n`: show line number
 
-a: process a binary file as if it were text
+`-i`: case insensitive 
+
+`-a`: process a binary file as if it were text
 
 I remember those flags by thinking "hernia". Pretty weird, but it works. 
 
