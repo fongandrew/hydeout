@@ -18,9 +18,13 @@ Anyone who has used grep knows it's really great at finding a single string in a
 `grep -Hrnia search_term`
 
 H: with filename
+
 r: recursive
+
 n: show line number
+
 i: case insensitive 
+
 a: process a binary file as if it were text
 
 I remember those flags by just thinking "hernia". Pretty weird, but it works. 
@@ -35,11 +39,7 @@ The only flag I added was `E` which is the indicator to treat the search as a re
 
 ## As a filter
 
-The second major use case for `grep` in my workflow is filtering the output from a tool down to something I specifically want or for excluding things I don't want. For example, let's say I'm using [fff](https://github.com/tomnomnom/fff)  by [tomnomnom](https://twitter.com/tomnomnom) to validate all the urls which I found by using [Corbens](https://twitter.com/hacker_?lang=en) tool gau with a command like the following:
-
-```bash
-gau target.com | grep -vE "jpg|gif|png" | fff | grep " 200" > live.txt
-```
+My second major use case for `grep` is filtering output from a tool. Sometimes it's to get what I want. Sometimes it's to exclude what I don't want. For example, let's say I'm using [fff](https://github.com/tomnomnom/fff)  by [tomnomnom](https://twitter.com/tomnomnom) to validate all the urls which I found by using [Corben's](https://twitter.com/hacker_?lang=en) tool [gau](https://github.com/lc/gau) with a command such as this:
 
 gau takes a domain as input, and outputs links like:
 
@@ -48,12 +48,14 @@ https://target.com/js/main.js
 https://target.com/login
 https://target.com/photo.jpg
 ```
+fff just returns the url with a status, space delimited `https://target.com/login 200`
+```bash
+gau target.com | grep -vE "jpg|gif|png" | fff | grep " 200" > live.txt
+```
 
-The first use of grep is filtering out and jpegs, gifs, or pngs. Those aren't usually super relevant for hunting. The `-v` is the flag that excludes matches. The `-E` is the flag for regular expression. This allows me to OR (via the `|` pipe) a bunch of things I want to exclude. 
+The first use of grep is filtering out any jpegs, gifs, or pngs. Those aren't usually relevant for hunting. The `-v` is the flag that excludes matches. The `-E` is the flag which indicates the use of a regular expression. This allows me to use the OR operator (via the `|` pipe) to filter out a bunch of strings I want to exclude. 
 
-fff is a "fairly fast fetcher" built by tomnomnom and is linked above. It attempts to fetch the urls and returns a status code for each one. 
-
-Then I used another grep filter to only keep the results that are 200 return codes. To be completely. honest, that is a simplified version of one step in my scanner. I paired it down so that it was easier to understand. Here's the full command for those of you who want to dig deeper.
+Then I used another grep filter to only keep the results that are 200 return codes. To be completely honest, this is only a simplified version of a line in my scanning script. I paired it down so that it was easier to understand. Here's the full command for those of you who want to dig deeper.
 
 ```bash
 while read line;do gau $line | grep -v -e '^$' | grep -vE "jpg|gif|png|css|jpeg|ttf|woff|svg" | tee -a gau.txt | fff --delay 100 | grep -E " 200| 403| 401| 405" | anew endpoints_live.txt;done < target.com.txt
@@ -62,10 +64,10 @@ while read line;do gau $line | grep -v -e '^$' | grep -vE "jpg|gif|png|css|jpeg|
 ## Smaller use cases (more free #bugbountytips)
 
 - I use `grep ?` to filter links from `gau` and `waybackurls` which have params.
-- I use `grep -v http` if there's a tool that returns full links and partial links like some uses of `linkfinder` and `hakrawler`
+- I use `grep -v http` if there's a tool that returns full links and relative links like some uses of `linkfinder` and `hakrawler` and I deicde that I only want the relative links.
 - I use `grep target.com` as a filter when I'm worried the output from a crawling or scanning tool might pass something out of scope into another part of my script.
 - I use `grep -v -e '^$'` to remove empty lines from output. Probably a better way to do this.
 
-Well, that's about it. I hope you learned something. If you enjoyed this, you can tweet or follow me at [https://twitter.com/rez0__](https://twitter.com/rez0__) and/or subscribe to [my newsletter](http://eepurl.com/c5WVgj) 
+Well, that's about it. I hope you learned something. If you enjoyed this, you can tweet or follow me at [https://twitter.com/rez0\_\_](https://twitter.com/rez0__) and/or subscribe to [my newsletter](http://eepurl.com/c5WVgj) 
 
 - rez0
