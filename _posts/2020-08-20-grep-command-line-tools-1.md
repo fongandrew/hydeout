@@ -43,6 +43,10 @@ The only flag I added was `E` which is the indicator to treat the search as a re
 
 My second major use case for `grep` is filtering output from a tool. Sometimes it's to get what I want. Sometimes it's to exclude what I don't want. For example, let's say I'm using [fff](https://github.com/tomnomnom/fff)  by [tomnomnom](https://twitter.com/tomnomnom) to validate all the urls which I found by using [Corben's](https://twitter.com/hacker_?lang=en) tool [gau](https://github.com/lc/gau) with a command such as this:
 
+```bash
+gau target.com | grep -vE "jpg|gif|png" | fff | grep " 200" > live.txt
+```
+
 gau takes a domain as input, and outputs links like:
 
 ```
@@ -51,9 +55,6 @@ https://target.com/login
 https://target.com/photo.jpg
 ```
 fff returns the url with a status, space delimited `https://target.com/login 200`
-```bash
-gau target.com | grep -vE "jpg|gif|png" | fff | grep " 200" > live.txt
-```
 
 The first use of grep is filtering out any jpegs, gifs, or pngs. Those aren't usually relevant for hunting. The `-v` is the flag that excludes matches. The `-E` is the flag which indicates the use of a regular expression. This allows me to use the OR operator (via the `|` pipe) to filter out a bunch of strings I want to exclude. 
 
