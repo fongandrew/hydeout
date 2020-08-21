@@ -13,7 +13,7 @@ Welcome to part 1 of a blog series I'm going to do on command line tools, and ho
 
 ## Finding a specific thing
 
-Anyone who has used grep knows it's really great at finding a single string in a file or entire directory. My use-case is digging up some old endpoint or subdomain that I remember hacking on when I find out a new piece of information that makes me believe I can find a bug  in it. This is usually the command I use:
+Anyone who has used grep knows it's really great at finding a single string in a file or entire directory. My use-case is digging up some old endpoint or subdomain, or grepping for specific string like api\_key. This is usually the command I use:
 
 `grep -Hrnia search_term`
 
