@@ -1,5 +1,5 @@
 ---
-title: "grep - command-tools #1"
+title: "grep: command-line tools #1"
 layout: post
 categories:
   - hacking
