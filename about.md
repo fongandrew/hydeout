@@ -15,3 +15,7 @@ I love most things in life, but I'm particularly fond of hacking, running, podca
 <p class="message">
   "As water reflects the face, so one's life reflects the heart." Proverbs 27:19
 </p>
+
+twitter: [rez0\_\_](https://twitter.com/rez0__)
+hackerone: [rez0](https://hackerone.com/rez0)
+linkedin: [https://www.linkedin.com/in/josephthacker/](https://www.linkedin.com/in/josephthacker/)
