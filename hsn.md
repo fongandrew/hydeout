@@ -10,6 +10,11 @@ Delft University of Technology
 
 <img src="assets/img/publications/hsn_abstract.jpg" class="featured" width="80%">
 
+
+<a id="youtube-link"
+      class="icon" title="HSN Presentation" aria-label="Presentation"
+      href="https://youtu.be/kg1wRBGUYqk" target="_blank">
+    <i class="fa fa-2x fa-video"></i> Presentation</a>&nbsp;&nbsp;
 <a id="github-link"
       class="icon" title="HSN Github Repo" aria-label="Github Project"
       href="https://github.com/rubenwiersma/hsn" target="_blank">
