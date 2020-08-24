@@ -11,14 +11,15 @@ Delft University of Technology
 <img src="assets/img/publications/hsn_abstract.jpg" class="featured" width="80%">
 
 
-<a id="youtube-link"
-      class="icon" title="HSN Presentation" aria-label="Presentation"
-      href="https://youtu.be/kg1wRBGUYqk" target="_blank">
-    <i class="fa fa-2x fa-video"></i> Presentation</a>&nbsp;&nbsp;
+
 <a id="github-link"
       class="icon" title="HSN Github Repo" aria-label="Github Project"
       href="https://github.com/rubenwiersma/hsn" target="_blank">
     <i class="fa fa-2x fa-github"></i> Code + datasets</a>&nbsp;&nbsp;
+<a id="presentation-link"
+      class="icon" title="HSN Presentation" aria-label="Presentation"
+      href="https://youtu.be/kg1wRBGUYqk" target="_blank">
+    <i class="fa fa-2x fa-film"></i> Presentation</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
       href="/assets/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf" target="_blank">
@@ -74,6 +75,10 @@ Find out more about our technique in our paper, or come see our (virtual) presen
       class="icon" title="HSN Github Repo" aria-label="Github Project"
       href="https://github.com/rubenwiersma/hsn" target="_blank">
     <i class="fa fa-2x fa-github"></i> Code + datasets</a>&nbsp;&nbsp;
+<a id="presentation-link"
+      class="icon" title="HSN Presentation" aria-label="Presentation"
+      href="https://youtu.be/kg1wRBGUYqk" target="_blank">
+    <i class="fa fa-2x fa-film"></i> Presentation</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
       href="/assets/pdf/CNNs_Surfaces_Rotation_Equivariant_Features.pdf" target="_blank">
