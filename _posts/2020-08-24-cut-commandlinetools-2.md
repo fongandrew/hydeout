@@ -43,7 +43,9 @@ While typing this up, I remembered another good use-case for `cut`. Sometimes I'
 rev | cut -d/ -f2- | rev
 ```
 `rev` reverses the line (for example `a/b/c` becomes `c/b/a`)
+
 `cut` with `/` as the delimiter and `-f2-` means the second field to the end
+
 `rev` reverses the line back to normal
 
 Here it is in action:
