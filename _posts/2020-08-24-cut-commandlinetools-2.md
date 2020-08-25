@@ -31,8 +31,11 @@ https://br.mail.yahoo.com/healthcheck,200,2
 ```
 
 As you can see, I was quickly able to pull out the url, status code, and response size (in bytes) of my output. I also prefer spaces over commas so I'll replace all the commas with spaces either:
+
 in `vim` with `:%s/,/ /`
+
 OR
+
 from the command line: `cat output.csv | cut -d, -f2,5,6 | sed 's/,/ /g'`
 
 ## Oh actually, one other use-case
