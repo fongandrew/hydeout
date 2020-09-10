@@ -153,7 +153,9 @@ input[type='submit'] {
     width: 100%;
   }
   .right {
-    width: 100%;
+    float: right;
+    width: 50%;
+    padding: 1%;
     text-align: center;
     display: flex;
     flex-direction: column;

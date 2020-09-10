@@ -23,7 +23,7 @@ title: Publications
 
 4. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
     Xgcm: a python package for analyzing data from general circulation models.
-    *Manuscript to be submitted to Journal of Open Source Software upon reopening.*
+    *Manuscript in review at Journal of Open Source Software.*
 
 **Journal Articles**
 
