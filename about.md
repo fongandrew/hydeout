@@ -4,9 +4,9 @@ title: About
 sidebar_link: true
 ---
 ![Ruben >](/assets/img/profielfoto.jpg)
-Hi, I'm Ruben! I recently started as a PhD candidate at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include geometry processing, machine learning, storytelling (movies, experiences, books, etc.) and art. After graduating with a thesis on geometric deep learning, I will now work on applications of computer graphics and machine learning for painting analysis under supervision of Prof. Dr. Elmar Eisemann and Prof. Dr. Joris Dik.
+Hi, I'm Ruben! I am a first-year PhD candidate at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include geometry processing, machine learning, storytelling (movies, experiences, books, etc.) and art. I am working on applications of computer graphics and machine learning for painting analysis and continuing my Master's thesis work on geometric deep learning. I'm supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~elmar) and Prof. Dr. Joris Dik.
 
-I have gathered experience as a graphic designer, filmmaker and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html) as well. Outside of academia, I enjoy making music, reading, biking, soccer and walking.
+I have gathered experience as a graphic designer, filmmaker and teacher during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy making music, reading and discussing books, watching movies, biking, and playing soccer.
 
 Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
 
