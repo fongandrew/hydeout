@@ -2,8 +2,10 @@
 title: 내가 보려고 만든 hexo cheat sheet
 comments: true
 date: 2020-09-07 15:52:17
-tags: hexo
-categories: ETC
+tags: 
+    - hexo
+categories: 
+    - ETC
 description: 간단하면서도 블로그 운영 중 알고 있어야 할 명령어 모음
 top_img:
 cover:
