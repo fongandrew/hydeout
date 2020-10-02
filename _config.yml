@@ -27,6 +27,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-asset-path
+  - jekyll-asset-path-tag
+  - asset-path-tag
 
 exclude:
   - Gemfile
@@ -39,11 +42,11 @@ permalink:        /:year/:month/:day/:title.html
 
 defaults:
   - scope:
-      path: "_posts"
-      type: "posts"
+      path:       "_posts"
+      type:       "posts"
     values:
       excerpt_separator:  <!--more-->
-      layout: post
+      layout:     post
 
 # Sidebar link settings
 sidebar_home_link:  true
@@ -60,5 +63,8 @@ google_analytics: UA-100461102-1
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
 hydeout:
-  version:          4.1.0
-  repo:             https://github.com/JadeTheZapper/JadeTheZapper.github.io
+  version:        4.1.0
+  repo:           https://github.com/JadeTheZapper/JadeTheZapper.github.io
+
+
+img_path:         /assets/posts 
