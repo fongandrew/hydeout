@@ -4,9 +4,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+title:            |
+                  Jade
+                  TheZapper
+tagline:          '재퍼의 블로그'
+description:      '<a href="https://github.com/JadeTheZapper" target="_blank">Zapper</a>, Loving to experience various, uncommon challenges.'
 url:              https://jadethezapper.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
@@ -53,7 +55,7 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 disqus:
-  shortname:      hydeout
+  shortname:      https-jadethezapper-github-io
 
 google_analytics: UA-100461102-1
 
@@ -61,4 +63,4 @@ google_analytics: UA-100461102-1
 # own fork.
 hydeout:
   version:          4.1.0
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/JadeTheZapper/JadeTheZapper.github.io
