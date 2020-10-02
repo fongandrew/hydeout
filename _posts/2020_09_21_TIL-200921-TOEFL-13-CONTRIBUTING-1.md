@@ -10,8 +10,6 @@ description:
 top_img:
 cover:
 ---
-
-# [TIL] 200921 TOEFL 13 & CONTRIBUTING 1
 ## 목표
 - TOEFL VOCA 
     - 학습

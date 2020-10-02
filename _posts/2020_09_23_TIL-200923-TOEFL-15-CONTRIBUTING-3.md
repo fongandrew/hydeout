@@ -11,9 +11,6 @@ description:
 top_img:
 cover:
 ---
-
-# [TIL] 200923 TOEFL 15 & CONTRIBUTING 3
-
 ## 목표
 - TOEFL VOCA 
     - 복습
