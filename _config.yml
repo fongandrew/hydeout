@@ -4,7 +4,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            JadeTheZapper
+title:            Jade The Zapper
 tagline:          '재퍼의 블로그'
 description:      '<a href="https://github.com/JadeTheZapper" target="_blank">You</a> must try <a href="" target="_blank">HARDER</a>'
 url:              https://jadethezapper.github.io
