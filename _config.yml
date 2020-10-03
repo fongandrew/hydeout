@@ -27,9 +27,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-asset-path
-  - jekyll-asset-path-tag
-  - asset-path-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
