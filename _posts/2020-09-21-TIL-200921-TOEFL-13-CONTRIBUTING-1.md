@@ -21,10 +21,10 @@ cover:
     - 대상 프로젝트 선정
 
 ## DAY 23 인증샷
-![]({{site.img_path}}/2020-09-21-TIL-200921-TOEFL-WORD-13-CONTRIBUTING-1/Day23.png)
+![]({{site.img_path}}/2020-09-21-TIL-200921-TOEFL-13-CONTRIBUTING-1/Day23.png)
 
 ## DAY 24 인증샷
-![]({{site.img_path}}/2020-09-21-TIL-200921-TOEFL-WORD-13-CONTRIBUTING-1/Day24.png)
+![]({{site.img_path}}/2020-09-21-TIL-200921-TOEFL-13-CONTRIBUTING-1/Day24.png)
 
 ## 첫 오픈 소스 기여 1
 작년부터 오픈소스 기여를 경험해보고 싶었다. 여러가지 이유가 있었는데 가장 큰 이유는 코드 기여 경험 자체가 개발자의 역량(협업 및 최소한의 실력)을 보장하지 않을까 하는 근거없는 생각이었다.  
