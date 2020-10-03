@@ -23,15 +23,15 @@ cover:
     - 첫 PR 후기
 
 ## DAY 23 인증샷
-![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTIN-3/Day23.png)
+![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTING-3/Day23.png)
 
 ## DAY 24 인증샷
-![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTIN-3/Day24.png)
+![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTING-3/Day24.png)
 
 ## 첫 오픈 소스 기여 3
 어제 풀 리퀘스트를 날린지 하루 만에 머지가 되었다.
 
-![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTIN-3/Merged.png)
+![]({{site.img_path}}/2020-09-23-TIL-200923-TOEFL-15-CONTRIBUTING-3/Merged.png)
 
 뭔가 아쉽다. 굉장히 싱겁게 끝나버렸다.
 그래도 이번 기회에 약소하게 나마 오픈소스 기여 프로세스를 경험할 수 있었고, 기분 좋은 결과를 얻을 수 있었다. 또 하나 얻은 것은 마크다운 문서를 번역할 시 링크를 검증하는 절차가 까다롭다는 것이다.
