@@ -1,0 +1,3 @@
+ser-agent: *
+Allow: /
+Sitemap: http://jadethezapper.github.io/sitemap.xml
