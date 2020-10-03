@@ -1,13 +1,14 @@
 # Dependencies
+remote-theme:     fongandrew/hydeout
 markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+title:            JadeTheZapper
+tagline:          '재퍼의 블로그'
+description:      '<a href="https://github.com/JadeTheZapper" target="_blank">You</a> must try <a href="" target="_blank">HARDER</a>'
+url:              https://jadethezapper.github.io
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +16,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Zapper'
+  url:            https://github.com/JadeTheZapper
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -26,6 +27,26 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-asset-path
+  - jekyll-asset-path-tag
+  - asset-path-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - .gitignore
+
+permalink:        /:year/:month/:day/:title.html
+
+defaults:
+  - scope:
+      path:       "_posts"
+      type:       "posts"
+    values:
+      excerpt_separator:  <!--more-->
+      layout:     post
 
 # Sidebar link settings
 sidebar_home_link:  true
@@ -33,3 +54,16 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+disqus:
+  shortname:      https-jadethezapper-github-io
+
+google_analytics: UA-100461102-1
+
+# Used for Hydeout's own Github page. Feel free to remove for your
+# own fork.
+hydeout:
+  version:        4.1.0
+  repo:           https://github.com/JadeTheZapper/JadeTheZapper.github.io
+
+img_path:         /assets/posts 
