@@ -1,6 +1,5 @@
 ---
 layout: category
 title: TIL
+published: true
 ---
-
-Another sample category page.
