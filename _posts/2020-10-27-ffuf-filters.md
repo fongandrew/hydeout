@@ -17,7 +17,7 @@ I essentially said the best way to remove false positives from ffuf is the autoc
 
 **401 & 403** - If the whole host is 401 or 403, I filter it, but that will usually be caught by -ac. I left it off because I like to try and bypass it via path traversal or verb tampering. If it’s not caught by -ac, it’s likely a rule in the ACL.
 
-**301** - Some hosts hit 301 way too frequently to be directories, but usually they represent directories, which means more fuzzing :) 302 isprobably the next best return code besides 200.
+**301** - Some hosts hit 301 way too frequently to be directories, but usually they represent directories, which means more fuzzing :) 301 is probably the next best return code besides 200.
 
 ## Now, the reasoning behind the codes in the list and why they are sometimes actually awesome.
 
