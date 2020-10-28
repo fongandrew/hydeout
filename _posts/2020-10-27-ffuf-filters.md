@@ -19,7 +19,7 @@ I essentially said the best way to remove false positives from ffuf is the autoc
 
 **301** - Some hosts hit 301 way too frequently to be directories, but usually they represent directories, which means more fuzzing :) 302 isprobably the next best return code besides 200.
 
-## Now, the reasoning behind the codes in list and why they are sometimes actually awesome.
+## Now, the reasoning behind the codes in the list and why they are sometimes actually awesome.
 
 **302** is almost always junk, but I’ve seen 302s to other hosts that were not in my word list.
 
