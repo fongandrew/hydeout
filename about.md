@@ -18,4 +18,3 @@ I love most things in life, but I'm particularly fond of hacking, running, podca
 
 twitter: [rez0\_\_](https://twitter.com/rez0__)
 hackerone: [rez0](https://hackerone.com/rez0)
-linkedin: [https://www.linkedin.com/in/josephthacker/](https://www.linkedin.com/in/josephthacker/)
