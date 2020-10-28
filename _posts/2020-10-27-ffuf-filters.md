@@ -21,7 +21,7 @@ I essentially said the best way to remove false positives from ffuf is the autoc
 
 ## Now, the reasoning behind the codes in the list and why they are sometimes actually awesome.
 
-**302** is almost always junk, but I’ve seen 302s to other hosts that were not in my word list.
+**302** is almost always junk, but I’ve seen 302s to other hosts that were not in my subdomain list.
 
 **400 & 404** are often noise, but if you have -ac in your request and you see a 400 or 404, that’s interesting because it’s a different response size. I will usually check into it. 
 
@@ -33,8 +33,8 @@ I essentially said the best way to remove false positives from ffuf is the autoc
 .
 ## Other Tips
 
-1. Always use `-mc all -ac`. You’re not at much risk of false positives due to matching ever response code since the autocalibrate will catch most issues it would cause. Also, I’ve seen response codes that are non-standard like 999.
-2. If you’re using `-mc all -ac` and there’s a small number of results 
+1. Always use `-mc all -ac`. You’re not at much risk of false positives due to matching every response code since the autocalibrate will catch most issues it would cause. Also, I’ve seen response codes that are non-standard like 999.
+2. If you’re using `-mc all -ac` and there’s a small number of results, look into them! It's often interesting behavior. 
 3. Honestly, watching the results come in is really useful. I like a terminal which auto-makes links into links so I can click the results to go straight to the site. Ubuntu’s terminal does this. I also like to ffuf multiple sites at the same time so I can watch it all in split tmux windows. 
 
 I have lots of tips for how to save off all your ffuf data and also parse it after the fact, but most of that will be in my bash alias / bash profile blog post that I plan to do soon.
