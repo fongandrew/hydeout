@@ -30,9 +30,6 @@ title: Publications
     Research: Oceans, 125(11), e2020JC016370.
     <https://doi.org/10.1029/2020JC016370>
 
-    *In Review at Journal of Geophysical Research - Oceans.*
-    Preprint: <https://doi.org/10.1002/essoar.10503016.2>
-
 2. **Smith, T.** & Heimbach, P. (2019). 
     Atmospheric Origins of Variability in the South Atlantic Meridional
     Overturning Circulation.
