@@ -5,10 +5,7 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. Goldberg, D., **Smith, T.**, Narayanan, S., Heimbach, P.,
-    & Morlighem, M. Bathymetric influences on Antarctic ice-shelf melt rates.
-    *In Review at Journal of Geophysical Research - Oceans.*
-    Preprint: <https://doi.org/10.1002/essoar.10503016.2>
+
 
 2. Kostov, Y., Johnson, H., Marshall, D., Forget, G., Heimbach, P.,
     Holliday, P., Li, F., Lozier, S., Pillar, H., & **Smith, T.**
@@ -27,13 +24,22 @@ title: Publications
 
 **Journal Articles**
 
-1. **Smith, T.** & Heimbach, P. (2019). 
+1. Goldberg, D. N., **Smith, T. A.**, Narayanan, S. H. K., 
+    Heimbach, P., & Morlighem, M. (2020). Bathymetric Influences on
+    Antarctic Ice-Shelf Melt Rates. Journal of Geophysical
+    Research: Oceans, 125(11), e2020JC016370.
+    <https://doi.org/10.1029/2020JC016370>
+
+    *In Review at Journal of Geophysical Research - Oceans.*
+    Preprint: <https://doi.org/10.1002/essoar.10503016.2>
+
+2. **Smith, T.** & Heimbach, P. (2019). 
     Atmospheric Origins of Variability in the South Atlantic Meridional
     Overturning Circulation.
     Journal of Climate, 32(5), 14831500.
     <https://doi.org/10.1175/JCLI-D-18-0311.1>
 
-2. Stoll, B. L., **Smith, T. A.**, & Deinert, M. R. (2013).
+3. Stoll, B. L., **Smith, T. A.**, & Deinert, M. R. (2013).
     Potential for rooftop photovoltaics in Tokyo to replace nuclear capacity.
     Environmental Research Letters, 8(1), 014042.
     <https://doi.org/10.1088/1748-9326/8/1/014042>
