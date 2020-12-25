@@ -73,6 +73,12 @@ _Wiersma Brothers, Torchbearers International, freelance_
 - [Torchbearers International](https://torchbearers.org): creative director and web development. View [samples of my work](/creative%20portfolio/2018/09/01/Torchbearers-International.html).
 - Freelance work in [graphic design](/tags.html#graphic-design) and web development.
 
+<hr />
+
+#### [2008-2010] Programmer
+_GoPublic_
+- Back-end developer for websites and and business administration webapps.
+
 <hr/>
 
 <span class="post-type">Volunteering</span>
