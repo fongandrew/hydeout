@@ -19,7 +19,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 # Resume
 
-An overview of my [publications can be found here](/category/publications.html).
+[Download a PDF version](/assets/pdf/cv_rubenwiersma.pdf) of this resume. An overview of my [publications can be found here](/category/publications.html).
 
 <span class="post-type">Education</span>
 
