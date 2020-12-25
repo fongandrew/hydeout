@@ -78,6 +78,7 @@ _Wiersma Brothers, Torchbearers International, freelance_
 #### [2008-2010] Programmer
 _GoPublic_
 - Back-end developer for websites and and business administration webapps.
+- Toolkit: PHP, JavaScript, HTML
 
 <hr/>
 
