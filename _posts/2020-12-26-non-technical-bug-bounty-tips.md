@@ -7,7 +7,7 @@ tags:
   - hacking
 ---
 
-<img src="https://i.pinimg.com/originals/24/ae/51/24ae51a74dc129549d1c2b69b6415c1f.jpg">
+<img src="https://i.imgflip.com/4rpyat.jpg">
 
 There are a lot of [#bugbountytips](https://twitter.com/hashtag/bugbountytips) on twitter, but very few are non-technical. I’ve had a number of top hackers tell me some measure of their success in bug bounty can be attributed to being kind. Without networking and collaboration, I would have made about ¼th of my total bounties this year. *The meme is just a joke. I love nearly all bug bounty tweets.*
 
