@@ -53,7 +53,11 @@ I’ll keep it short. If you give up on 100 “potential bugs” in a year, you 
 
 Example:
 ```
-Hey fellow hacker, I noticed you were a Top Hacker on <private program>. I’m also in that program. I think the parameter user at path /profile is vulnerable to xss, but I keep getting stopped by the WAF. Here’s the payload I’m using. Would you mind giving it a try? I’d happily collaborate on the report! No problem if not, thanks!
+Hey fellow hacker, I noticed you were a Top Hacker on <private program>. 
+I’m also in that program. I think the parameter user at path /profile is 
+vulnerable to xss, but I keep getting stopped by the WAF. 
+Here’s the payload I’m using. Would you mind giving it a try? 
+I’d happily collaborate on the report! No problem if not, thanks!
 ```
 
 ## 4. “Interesting” notes
