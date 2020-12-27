@@ -7,7 +7,9 @@ tags:
   - hacking
 ---
 
-There are a lot of [#bugbountytips](https://twitter.com/hashtag/bugbountytips) on twitter, but very few are non-technical. I’ve had a number of top hackers tell me some measure of their success in bug bounty can be attributed to being kind. Without networking and collaboration, I would have made about ¼th of my total bounties this year.
+<img src="https://i.pinimg.com/originals/24/ae/51/24ae51a74dc129549d1c2b69b6415c1f.jpg">
+
+There are a lot of [#bugbountytips](https://twitter.com/hashtag/bugbountytips) on twitter, but very few are non-technical. I’ve had a number of top hackers tell me some measure of their success in bug bounty can be attributed to being kind. Without networking and collaboration, I would have made about ¼th of my total bounties this year. *The meme is just a joke. I love nearly all bug bounty tweets.*
 
 Being kind and collaborating are only the tip of the iceberg when it comes to the non-technical side of bug bounty. Here are some tips that have helped me as hacker, but also in other areas of life. I’ve included examples to be more helpful.
 
@@ -69,9 +71,14 @@ etc.
 ## 5. Join the community
 Maybe you’ve found your way here because you’re a twitter lurker. Well lurk no more, hacker. Messaging other bug hunters, replying to their tweets, being in hacker slacks or discords, posting in subreddits, and going to local hacker meetups are all ways you can get involved in the hacker community. Find and engage your peers. Peers are awesome because they are source of collaboration, help, mentorship, and most importantly, friendship. We could all use a little more friendship. And if you don’t need others, they certainly need you. 
 
+<img src="https://i.pinimg.com/originals/24/ae/51/24ae51a74dc129549d1c2b69b6415c1f.jpg">
+
 Example:
+
 HackerOne’s discord
+
 Reddit: /r/netsec
+
 Follow #bugbountytips or any of the hundreds of popular hackers on twitter
 
 ## 6. Learn the programs
@@ -83,6 +90,6 @@ I’ve heard a lot of hackers mention that they don’t report low severity bugs
 That said, please don’t report junk. They receive enough of that already. If you aren’t sure, ask for a few hunters’ opinions. Feel free to tweet or dm me: https://twitter.com/rez0__
 
 ## Thanks
-Thanks for reading! I this helps you. If you want, you can follow me at [https://twitter.com/rez0\_\_](https://twitter.com/rez0__) 
+Thanks for reading! I hope this helps you. If you want, you can follow me at [https://twitter.com/rez0\_\_](https://twitter.com/rez0__) 
 
 rez0
