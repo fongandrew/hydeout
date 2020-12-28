@@ -34,7 +34,7 @@ We’ve all had the experience of reporting a bug and it not going too well. For
 
 The first is being disrespectful in their reply. This isn’t likely to get a triager or platform to help you remediate the issue. In fact, being overly disrespectful can get you a temporary ban. 
 
-The second pitfall is assuming you the matter is settled and you have no course of action to take. If there is a legitimate issue, respectfully ask the team to reconsider. If that isn’t fruitful, request support. Be firm, but respectful. 
+The second pitfall is assuming that the matter is settled, and you have no course of action to take. If there is a legitimate issue, respectfully ask the team to reconsider. If that isn’t fruitful, request support. Be firm, but respectful. 
 
 
 Example:
@@ -86,7 +86,7 @@ Reddit: /r/netsec
 Follow #bugbountytips or any of the hundreds of popular hackers on twitter
 
 ## 6. Learn the programs
-All programs handle reports differently. Some care more about PII exposure. Some will well for XSS, some won’t. Some pay bounties per endpoint. Some don’t. Learning the programs allows you to set yourself up for success by looking for what they care about, reporting bugs in an optimal way, and knowing which red flags to look for which indicate to you personally when to move on to a different program.
+All programs handle reports differently. Some care more about PII exposure. Some will pay well for XSS, some won’t. Some pay bounties per endpoint. Some don’t. Learning the programs allows you to set yourself up for success by looking for what they care about, reporting bugs in an optimal way, and knowing which red flags to look for which indicate to you personally when to move on to a different program.
 
 ## 7. Default to reporting
 I’ve heard a lot of hackers mention that they don’t report low severity bugs, and I’ve had conversations where hackers tell me a bug that they didn’t report because they didn’t think it was good enough. It’s often a legitimate vulnerability. If you find a legitimate bug, even if it’s a low, report it!!! Or at least hand it off to another hacker to report. They’ll be thankful, and you’ll make some money! Otherwise, you’re leaving money on the table. You’re leaving the company’s customers at risk. 
