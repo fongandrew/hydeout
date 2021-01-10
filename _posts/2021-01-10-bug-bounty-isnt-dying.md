@@ -11,7 +11,7 @@ tags:
 
 <img src="https://i.imgur.com/MuwhWTr.png">
 
-There’s been some negativity towards bug bounty lately. Not only do I think is ill-placed, I believe bug bounty is the future of security. Here’s why:
+There’s been some negativity towards bug bounty lately. Not only do I think it's ill-placed, I believe bug bounty is the future of security. Here’s why:
 
 1. **Bug bounty is continual instead of point-in-time.** A penetration test or vulnerability assessment can assess your defenses at a single point in time. The pentest ends and, two day later, a developer accidentally exposes your customer database to the internet. You won’t know about it til your next assessment. A quality bug bounty program continually tests your defenses.
 
