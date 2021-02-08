@@ -7,20 +7,20 @@ tags:
   - hacking
 ---
 
-Welcome back to my command-line tools series. Here is [part one on grep](http://rez0.blog/hacking/2020/08/20/grep-command-line-tools-1.html) and [part two on cut](http://rez0.blog/hacking/2020/08/24/cut-commandlinetools-2.html). This post is going to highlight many of my bash aliases. I'm sure many of these can be improved. I'd love to know how if you are willing to tweet me: [https://twitter.com/rez0\_\_](https://twitter.com/rez0__)
+Welcome back to my command-line tools series. Here is [part one on grep](http://rez0.blog/hacking/2020/08/20/grep-command-line-tools-1.html) and [part two on cut](http://rez0.blog/hacking/2020/08/24/cut-commandlinetools-2.html). This post is going to highlight many of my bash aliases. I'm sure many of these can be improved. If you know how to improve one, please tweet me about it: [https://twitter.com/rez0\_\_](https://twitter.com/rez0__)
 
 ## ffuf
 
-These are my ffuf scripts. In general they all do a few things:
+This first set of aliases are my ffuf aliases. The shared flags & behavior are listed here at the top:
 
 - [unfurl](https://github.com/tomnomnom/unfurl) the domain to use as the output file
-- `-mc all -ac` match all codes, but auto calibrate. greatly reduces noise
+- `-mc all -ac` match all status codes, but auto-calibrate. greatly reduces noise
 - set a custom bug bounty header (in case they need to request me to stop fuzzing)
 - output in csv format
 - limit the max time of the ffuf run
-- setting a custom user agent because ffuf is getting blocked more often
+- set a custom user agent because ffuf is getting blocked more often
 
-I particularly like my naming convention. It allows for auto-naming without passing in an output filename.
+I particularly like my naming convention. It allows for auto-naming without typing an output filename each time.
 
 ffuf with my personal quickhits list:
 
@@ -34,7 +34,7 @@ ffuf_quick(){
 }
 ```
 
-ffuf deep recursive (one difference with this alias is it takes a wordlist as the 2nd param):
+ffuf deep recursive (this alias takes a wordlist as a parameter unlike ffuf_quick):
 
 ```bash
 ffuf_recursive(){
@@ -160,9 +160,7 @@ This was made by [https://twitter.com/healthyoutlet](https://twitter.com/healthy
 
 Usage: `rez0@vps:~$ tamper https://rez0.blog`
 
-Example output:
 
-[`https://rez0.blog](https://rez0.blog/): GET-200 POST-405 HEAD-200 PUT-405 DELETE-405 CONNECT-405 OPTIONS-405 TRACE-405 PATCH-405 ASDF-405`
 
 ```bash
 tamper() {
@@ -170,6 +168,12 @@ tamper() {
 	do echo "echo -n \"$i-$(curl -k -s -X $i $1 -o /dev/null -w '%{http_code}') \""; done \
 	| parallel -j 10 ; echo
 }
+```
+
+Example output:
+
+```
+[https://rez0.blog]: GET-200 POST-405 HEAD-200 PUT-405 DELETE-405 CONNECT-405 OPTIONS-405 TRACE-405 PATCH-405 ASDF-405
 ```
 
 ## linkfinder wrapper
