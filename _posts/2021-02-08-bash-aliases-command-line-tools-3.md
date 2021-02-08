@@ -42,7 +42,7 @@ ffuf_recursive(){
   dom=$(echo $1 | unfurl format %s%d)
   ffuf -c -v -u $1/FUZZ -w $2 -H "User-Agent: Mozilla Firefox Mozilla/5.0" \
   -H "X-Bug-Bounty: rez0" -recursion -recursion-depth 5 -mc all -ac \
-	-o recursive/recursive_$dom.csv -of csv $3
+  -o recursive/recursive_$dom.csv -of csv $3
 }
 ```
 
@@ -212,7 +212,7 @@ makefleet(){
 
 ## two ways to find large files
 
-I usually work off a tiny Digital Ocean droplet. Here's a referral link for your first month free. But anyways, my recon data sometimes fills up the disk, so I'm looking for huge files to delete. These both do the trick, but `largefiles` seems to be faster.
+I usually work off a tiny Digital Ocean droplet. Here's a referral link for your first month free [https://m.do.co/c/284d41aeba27](https://m.do.co/c/284d41aeba27). But anyways, my recon data sometimes fills up the disk, so I'm looking for huge files to delete. These both do the trick, but `largefiles` seems to be faster.
 
 ```bash
 bigfiles(){
