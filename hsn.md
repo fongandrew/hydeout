@@ -38,9 +38,9 @@ This paper is concerned with a fundamental problem in geometric deep learning th
 
 <p><img src="/assets/img/publications/hsn/rotationambiguity.gif" style="float: right">After the succes of deep learning on images, researchers have worked to generalise deep learning to graphs and manifolds. One of the approaches for manifolds is based on charting. Charting-based methods learn a kernel in the tangent plane, and apply it to a surface with a mapping, like the Riemannian exponential map (chart).<br /><br />Each of these charting-based methods faces the problem that there is no global orientation to orient kernels in the tangent plane. We call this problem <i>rotation ambiguity</i>.</p>
 
-### Different locations, different orientations
+### Different locations, different coordinate systems
 
-Previous approaches either solve rotation ambiguity by aligning kernels to a smoothed field (e.g., principal curvature direction), or applying the kernel at multiple directions and taking the maximum activation within or at the end of the network. The latter seems inefficient, since the network has to compute and store multiple rotated copies of each kernel. Both approaches have a hard time accurately relating points that lie further away from each other, as the difference between orientations grows.
+Previous approaches either solve rotation ambiguity by aligning kernels to a smoothed field (e.g., principal curvature direction), or applying the kernel at multiple directions and taking the maximum activation within or at the end of the network. The latter seems inefficient, since the network has to compute and store multiple rotated copies of each kernel. Both approaches have a hard time accurately relating points that lie further away from each other, as the difference between coordinate systems grows.
 
 <img src="/assets/img/publications/hsn/orientations.png" style="margin: 0 auto" width="500px">
 
@@ -53,7 +53,7 @@ The result is a network that is invariant to choices of coordinate systems withi
 
 ### Parallel transport
 
-But wait, rotation-equivariant features do depend on the choice of coordinate system and rotate with the chosen orientation of the kernel. We correctly propagate these features with parallel transport along shortest geodesics. This transport amounts to a rotation, which can be directly applied to the rotation-equivariant features.
+But wait, rotation-equivariant features are encoded using a coordinate system and this encoding changes with the chosen coordinate system. We correctly propagate these features with parallel transport along shortest geodesics. This transport amounts to a rotation, which can be directly applied to the rotation-equivariant features.
 
 <img src="/assets/img/publications/hsn/paralleltransport.gif" style="margin: 0 auto">
 
