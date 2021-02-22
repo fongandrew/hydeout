@@ -1,0 +1,4 @@
+I"Â<p>This post has been updated and should show a modified date if <code class="language-plaintext highlighter-rouge">last_modified_at</code> is used in the layout.</p>
+
+<p>Plugins like <a href="https://github.com/jekyll/jekyll-feed"><strong>jekyll-sitemap</strong></a> use this field to add a <code class="language-plaintext highlighter-rouge">&lt;lastmod&gt;</code> tag your <code class="language-plaintext highlighter-rouge">sitemap.xml</code>.</p>
+:ET

@@ -1,0 +1,14 @@
+I"Z<p>This post title has a long word that could potentially overflow the content area.</p>
+
+<p>A few things to check for:</p>
+
+<ul>
+  <li>Non-breaking text in the title should have no adverse effects on layout or functionality.</li>
+  <li>Check the browser window / tab title.</li>
+</ul>
+
+<p>The following CSS property will help you support non-breaking text.</p>
+
+<div class="language-css highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">word-wrap</span><span class="o">:</span> <span class="nt">break-word</span><span class="o">;</span>
+</code></pre></div></div>
+:ET

@@ -1,0 +1,7 @@
+I"t<p>Using Markdown in the title should have no adverse effect on the layout or functionality.</p>
+
+<p><strong><code class="language-plaintext highlighter-rouge">page.title</code> example:</strong></p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">title</span><span class="pi">:</span> <span class="s2">"</span><span class="s">Markup:</span><span class="nv"> </span><span class="s">Title</span><span class="nv"> </span><span class="s">*with*</span><span class="nv"> </span><span class="s">**Markdown**"</span><span class="s2">"</span>
+</code></pre></div></div>
+:ET

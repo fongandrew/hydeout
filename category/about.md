@@ -3,6 +3,8 @@ layout: page
 title: About
 sidebar_link: true
 ---
+Go ahead and write about yourself here
+
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it

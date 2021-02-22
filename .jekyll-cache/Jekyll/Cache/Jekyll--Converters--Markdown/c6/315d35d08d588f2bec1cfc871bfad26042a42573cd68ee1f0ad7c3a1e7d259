@@ -1,0 +1,236 @@
+I"B<p>A variety of common HTML elements to demonstrate the theme’s stylesheet and verify they have been styled appropriately.</p>
+
+<h1 id="header-one">Header one</h1>
+
+<h2 id="header-two">Header two</h2>
+
+<h3 id="header-three">Header three</h3>
+
+<h4 id="header-four">Header four</h4>
+
+<h5 id="header-five">Header five</h5>
+
+<h6 id="header-six">Header six</h6>
+
+<h2 id="blockquotes">Blockquotes</h2>
+
+<p>Single line blockquote:</p>
+
+<blockquote>
+  <p>Stay hungry. Stay foolish.</p>
+</blockquote>
+
+<p>Multi line blockquote with a cite reference:</p>
+
+<blockquote>
+  <p>People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.</p>
+</blockquote>
+
+<p class="small"><cite>Steve Jobs</cite> — Apple Worldwide Developers’ Conference, 1997</p>
+
+<h2 id="tables">Tables</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Employee</th>
+      <th>Salary</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#">John Doe</a></td>
+      <td>$1</td>
+      <td>Because that’s all Steve Jobs needed for a salary.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Jane Doe</a></td>
+      <td>$100K</td>
+      <td>For all the blogging she does.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Fred Bloggs</a></td>
+      <td>$100M</td>
+      <td>Pictures are worth a thousand words, right? So Jane × 1,000.</td>
+    </tr>
+    <tr>
+      <td><a href="#">Jane Bloggs</a></td>
+      <td>$100B</td>
+      <td>With hair like that?! Enough said.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Header1</th>
+      <th style="text-align: center">Header2</th>
+      <th style="text-align: right">Header3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align: left">cell1</td>
+      <td style="text-align: center">cell2</td>
+      <td style="text-align: right">cell3</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">cell4</td>
+      <td style="text-align: center">cell5</td>
+      <td style="text-align: right">cell6</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td style="text-align: left">Foot1</td>
+      <td style="text-align: center">Foot2</td>
+      <td style="text-align: right">Foot3</td>
+    </tr>
+  </tfoot>
+</table>
+
+<h2 id="definition-lists">Definition Lists</h2>
+
+<dl>
+  <dt>Definition List Title</dt>
+  <dd>Definition list division.</dd>
+  <dt>Startup</dt>
+  <dd>A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.</dd>
+  <dt>#dowork</dt>
+  <dd>Coined by Rob Dyrdek and his personal body guard Christopher “Big Black” Boykins, “Do Work” works as a self motivator, to motivating your friends.</dd>
+  <dt>Do It Live</dt>
+  <dd>I’ll let Bill O’Reilly <a href="https://www.youtube.com/watch?v=O_HyZ5aW76c" title="We'll Do It Live">explain</a> this one.</dd>
+</dl>
+
+<h2 id="unordered-lists-nested">Unordered Lists (Nested)</h2>
+
+<ul>
+  <li>List item one
+    <ul>
+      <li>List item one
+        <ul>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+          <li>List item four</li>
+        </ul>
+      </li>
+      <li>List item two</li>
+      <li>List item three</li>
+      <li>List item four</li>
+    </ul>
+  </li>
+  <li>List item two</li>
+  <li>List item three</li>
+  <li>List item four</li>
+</ul>
+
+<h2 id="ordered-list-nested">Ordered List (Nested)</h2>
+
+<ol>
+  <li>List item one
+    <ol>
+      <li>List item one
+        <ol>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+          <li>List item four</li>
+        </ol>
+      </li>
+      <li>List item two</li>
+      <li>List item three</li>
+      <li>List item four</li>
+    </ol>
+  </li>
+  <li>List item two</li>
+  <li>List item three</li>
+  <li>List item four</li>
+</ol>
+
+<h2 id="address-element">Address element</h2>
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+<h2 id="anchor-element-aka-link">Anchor element (aka. Link)</h2>
+
+<p>This is an example of a <a href="http://apple.com" title="Apple">link</a>.</p>
+
+<h2 id="abbreviation-element">Abbreviation element</h2>
+
+<p>The abbreviation <abbr title="Cascading Style Sheets">CSS</abbr> stands for “Cascading Style Sheets”.</p>
+
+<h2 id="cite-element">Cite element</h2>
+
+<p>“Code is poetry.” —<cite>Automattic</cite></p>
+
+<h2 id="code-element">Code element</h2>
+
+<p>You will learn later on in these tests that <code class="language-plaintext highlighter-rouge">word-wrap: break-word;</code> will be your best friend.</p>
+
+<h2 id="strike-element">Strike element</h2>
+
+<p>This element will let you <strike>strikeout text</strike>.</p>
+
+<h2 id="emphasize-element">Emphasize element</h2>
+
+<p>The emphasize element should <em>italicize</em> text.</p>
+
+<h2 id="insert-element">Insert element</h2>
+
+<p>This element should denote <ins>inserted</ins> text.</p>
+
+<h2 id="keyboard-element">Keyboard element</h2>
+
+<p>This scarcely known element emulates <kbd>keyboard text</kbd>, which is usually styled like the <code class="language-plaintext highlighter-rouge">&lt;code&gt;</code> element.</p>
+
+<h2 id="preformatted-element">Preformatted element</h2>
+
+<p>This element styles large blocks of code.</p>
+
+<pre>
+.post-title {
+	margin: 0 0 5px;
+	font-weight: bold;
+	font-size: 38px;
+	line-height: 1.2;
+	and here's a line of some really, really, really, really long text, just to see how the PRE element handles it and to find out how it overflows;
+}
+</pre>
+
+<h2 id="quote-element">Quote element</h2>
+
+<p><q>Developers, developers, developers…</q> –Steve Ballmer</p>
+
+<h2 id="strong-element">Strong element</h2>
+
+<p>This element shows <strong>bold text</strong>.</p>
+
+<h2 id="subscript-element">Subscript element</h2>
+
+<p>Getting our science styling on with H<sub>2</sub>O, which should push the “2” down.</p>
+
+<h2 id="superscript-element">Superscript element</h2>
+
+<p>Still sticking with science and Einstein’s E = MC<sup>2</sup>, which should lift the 2 up.</p>
+
+<h2 id="variable-element">Variable element</h2>
+
+<p>This allows you to denote <var>variables</var>.</p>
+:ET

@@ -1,0 +1,24 @@
+I"ù<div class="embed-responsive embed-responsive-16by9">
+  <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<p>This post tests YouTube video embeds.</p>
+
+<p>Simply wrap embeds with a <code class="language-plaintext highlighter-rouge">&lt;div&gt;</code> element and the appropriate classes:</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">&lt;!-- 16:9 aspect ratio --&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"embed-responsive embed-responsive-16by9"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;iframe</span> <span class="na">class=</span><span class="s">"embed-responsive-item"</span> <span class="na">src=</span><span class="s">"..."</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+
+<span class="c">&lt;!-- 4:3 aspect ratio --&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"embed-responsive embed-responsive-4by3"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;iframe</span> <span class="na">class=</span><span class="s">"embed-responsive-item"</span> <span class="na">src=</span><span class="s">"..."</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+
+<span class="c">&lt;!-- responsive iframe. The framesize reduces proportionately when viewing in mobile --&gt;</span>
+<span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"video-container"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;iframe</span> <span class="na">class=</span><span class="s">"embed-responsive-item"</span> <span class="na">src=</span><span class="s">"..."</span><span class="nt">&gt;&lt;/iframe&gt;</span>
+<span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+:ET

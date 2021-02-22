@@ -1,0 +1,37 @@
+I"	<p>Hyde is a brazen two-column <a href="http://jekyllrb.com">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. It’s based on <a href="http://getpoole.com">Poole</a>, the Jekyll butler.</p>
+
+<h3 id="built-on-poole">Built on Poole</h3>
+
+<p>Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by <a href="https://twitter.com/mdo">@mdo</a>. Poole, and every theme built on it (like Hyde here) includes the following:</p>
+
+<ul>
+  <li>Complete Jekyll setup included (layouts, config, <a href="/404">404</a>, <a href="/feed.xml">RSS feed</a>, posts, and <a href="/about">example page</a>)</li>
+  <li>Mobile friendly design and development</li>
+  <li>Easily scalable text and component sizing with <code class="language-plaintext highlighter-rouge">rem</code> units in the CSS</li>
+  <li>Support for a wide gamut of HTML elements</li>
+  <li>Related posts (time-based, because Jekyll) below each post</li>
+  <li>Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)</li>
+</ul>
+
+<h3 id="hyde-features">Hyde features</h3>
+
+<p>In addition to the features of Poole, Hyde adds the following:</p>
+
+<ul>
+  <li>Sidebar includes support for textual modules and a dynamically generated navigation with active link support</li>
+  <li>Two orientations for content and sidebar, default (left sidebar) and <a href="https://github.com/poole/hyde#reverse-layout">reverse</a> (right sidebar), available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+  <li><a href="https://github.com/poole/hyde#themes">Eight optional color schemes</a>, available via <code class="language-plaintext highlighter-rouge">&lt;body&gt;</code> classes</li>
+</ul>
+
+<p><a href="https://github.com/poole/hyde#readme">Head to the readme</a> to learn more.</p>
+
+<h3 id="browser-support">Browser support</h3>
+
+<p>Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.</p>
+
+<h3 id="download">Download</h3>
+
+<p>Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.</p>
+
+<p>Thanks!</p>
+:ET

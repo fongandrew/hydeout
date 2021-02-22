@@ -1,0 +1,5 @@
+I"<p>This is the post content. Archive-index pages should display an <a href="https://jekyllrb.com/docs/posts/#post-excerpts">auto-generated excerpt</a> of all the content preceding the <code class="language-plaintext highlighter-rouge">excerpt_separator</code>, as defined in the YAML Front Matter or globally in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</p>
+
+<p>Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn’t create any layout problems.</p>
+
+:ET
