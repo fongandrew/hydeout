@@ -161,7 +161,7 @@ You can see the full set of partials you can replace in the
   If you don't want Disqus or want to use something else, override
   `comments.html`.
 
-* For Google Analytics support, define a `google_analytics` variable with
+* For Google Analytics support, you can define a `google_analytics` variable for **Universal Analytics** or a `google_analytics_4` variable for **Google Analytics 4** with
   your property ID in your config file.
 
 There's also a bunch of minor tweaks and adjustments throughout the
