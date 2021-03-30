@@ -1,3 +1,5 @@
+remote_theme: fongandrew/hydeout
+
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
