@@ -1,8 +1,7 @@
-remote_theme: fongandrew/hydeout
-
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme: fongandrew/hydeout
 
 # Setup
 title:            Hydeout
