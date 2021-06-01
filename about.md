@@ -85,6 +85,18 @@ _GoPublic_
 
 <span class="post-type">Volunteering</span>
 
+#### [2020 - present] Committee member
+_SIGGRAPH research and career development committee_
+- Organizing the conference coffee event.
+- Setup [committee website](https://research.siggraph.org).
+
+<hr/>
+
+#### [2020 - present] Reviewer
+_Transactions on Graphics, Pacific Graphics_
+
+<hr/>
+
 #### [2018 - 2019] Program manager
 _The Veritas Forum Delft_
 - Organized three public debates for audiences of 50-200 attendees.
