@@ -16,7 +16,7 @@ baseurl:          ''
                   # sidebar_blog_link below.
 
 author:
-  name:           'Zapper'
+  name:           'Jade'
   url:            https://github.com/seokjeon
 
 paginate:         5
@@ -54,7 +54,7 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 disqus:
-  shortname:      https-seokjeon-github-io
+  shortname:      seokjeon
 
 google_analytics: UA-100461102-1
 
