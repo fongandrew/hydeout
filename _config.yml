@@ -5,9 +5,9 @@ highlighter:      rouge
 
 # Setup
 title:            Jade The Zapper
-tagline:          '재퍼의 블로그'
-description:      '<a href="https://github.com/JadeTheZapper" target="_blank">You</a> must try <a href="" target="_blank">HARDER</a>'
-url:              https://jadethezapper.github.io
+tagline:          'Jade의 블로그'
+description:      '<a href="https://github.com/seokjeon" target="_blank">You</a> must try <a href="" target="_blank">HARDER</a>'
+url:              https://seokjeon.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,7 +17,7 @@ baseurl:          ''
 
 author:
   name:           'Zapper'
-  url:            https://github.com/JadeTheZapper
+  url:            https://github.com/seokjeon
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -54,7 +54,7 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 disqus:
-  shortname:      https-jadethezapper-github-io
+  shortname:      https-seokjeon-github-io
 
 google_analytics: UA-100461102-1
 
@@ -62,6 +62,6 @@ google_analytics: UA-100461102-1
 # own fork.
 hydeout:
   version:        4.1.0
-  repo:           https://github.com/JadeTheZapper/JadeTheZapper.github.io
+  repo:           https://github.com/seokjeon/seokjeon.github.io
 
 img_path:         /assets/posts 
