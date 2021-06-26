@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 ![Ruben >](/assets/img/Ruben_Wiersma_profile.png)
-Hi, I'm Ruben! I am a second-year PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include expressive computer graphics, geometry processing, storytelling and art. I am working on applications of computer graphics and machine learning for painting analysis. I'm also continuing research that I started in my Master on geometric deep learning. I'm supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
+Hi, I'm Ruben! I am a second-year PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include expressive computer graphics, geometry processing, storytelling and art. I am working on applications of computer graphics and machine learning for painting analysis. I'm also continuing research that I started in my Master on geometric deep learning, advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus). I'm supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
 
@@ -26,16 +26,17 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 #### [2019 - present] PhD Computer Graphics
 _TU Delft_
 - Studying applications of Computer Graphics and Machine Learning to painting analysis, generation, and rendering.
+- Studying fundamentals of geometric deep learning.
 - Additional responsibilities: lecturing, lab assistance, creating assignments.
-- Toolkit: C++, OpenGL, Python, PyTorch
+- Toolkit: C++, OpenGL, Python, PyTorch, Blender.
 
 <hr />
 
 #### [2017 - 2019] MSc Computer Science _Cum Laude_
 _TU Delft_
 - Focus on data science and computer graphics.
-- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download) (Published at SIGGRAPH in paper form)
-- Toolkit: C++, Python, PyTorch
+- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download) (Published at SIGGRAPH as a technical paper)
+- Toolkit: C++, Python, PyTorch.
 
 <hr />
 
@@ -57,14 +58,14 @@ _TU Delft_
 _TU Delft_
 - Developed assignments for new datamining and Machine Learning courses.
 - Assistance to students during lab sessions.
-- Toolkit: Python, Jupyter, NumPy
+- Toolkit: Python, Jupyter, NumPy.
 
 <hr />
 
 #### [2017] Development Internship
 _GeoPhy_
 - End-to-end machine learning solution for estimating real-estate value.
-- Toolkit: Scala, Apache Kafka
+- Toolkit: Scala, Apache Kafka.
 
 <hr />
 
@@ -79,7 +80,7 @@ _Wiersma Brothers, Torchbearers International, freelance_
 #### [2008-2010] Programmer
 _GoPublic_
 - Back-end developer for websites and and business administration webapps.
-- Toolkit: PHP, JavaScript, HTML
+- Toolkit: PHP, JavaScript, HTML.
 
 <hr/>
 
@@ -87,35 +88,29 @@ _GoPublic_
 
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
-- Organizing the conference coffee event.
-- Setup [committee website](https://research.siggraph.org).
+- Organizing conference coffee event (social event) at SIGGRAPH '21.
+- Creating and maintaining [committee website](https://research.siggraph.org).
 
 <hr/>
 
 #### [2020 - present] Reviewer
-_Transactions on Graphics, Pacific Graphics_
-
-<hr/>
-
-#### [2018 - 2019] Program manager
-_The Veritas Forum Delft_
-- Organized three public debates for audiences of 50-200 attendees.
-- Moderator for two events.
+_ACM Transactions on Graphics, Pacific Graphics_
 
 <hr/>
 
 #### [2013 - 2019] Committee member, committee chair
-_C.S.R. Delft_
-- Researched and advised on election reform that has since been adapted
-- Organised festivities for society anniversary
-- Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html)
-- Produced, designed and launched [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html)
+_C.S.R. Delft (student association)_
+- Researched and advised on the association leadership election reform.
+- Organised festivities for society anniversary (> 200 participants).
+- Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html).
+- Produced, designed and launched [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
+- Organized several academic debates and hosted lectures (20-200 audience members).
 
 <hr/>
 
 #### [2014 - 2017] Restaurant staff manager, PR
 _Happietaria, Hartige Samaritaan_<br />
 Pop-up restaurant for charity lasting one month. Hartige Samaritaan was set up together with Refugees.
-- Managed the restaurant staff for the Happietaria (November 2014)
-- Together with all the volunteers for Happietaria, raised €78.913
-- Communications manager for Hartige Samaritaan (February 2017)
+- Managed the restaurant staff for the Happietaria (November 2014).
+- Together with all the volunteers for Happietaria, raised €78.913.
+- Communications manager for Hartige Samaritaan (February 2017).
