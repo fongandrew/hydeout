@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge Case: Many Categories"
+title: 'Edge Case: Many Categories'
 categories:
   - aciform
   - antiquarianism
@@ -15,6 +15,7 @@ categories:
 tags:
   - categories
   - edge case
+published: false
 ---
 
 This post has many categories.
