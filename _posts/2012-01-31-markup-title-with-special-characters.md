@@ -1,6 +1,9 @@
 ---
+published: false
+---
+---
 layout: post
-title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
+title: "Markup: Title with Special Characters"
 categories:
   - Markup
 tags:
