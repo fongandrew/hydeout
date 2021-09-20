@@ -1,14 +1,15 @@
 ---
 title: 내가 보려고 만든 hexo cheat sheet
 comments: true
-date: 2020-09-07 15:52:17
-tags: 
-    - hexo
-categories: 
-    - ETC
+date: {}
+tags:
+  - hexo
+categories:
+  - ETC
 description: 간단하면서도 블로그 운영 중 알고 있어야 할 명령어 모음
-top_img:
-cover:
+top_img: null
+cover: null
+published: false
 ---
 [두번 참고해야 하는 사이트](https://ciweigg2.github.io/2019/07/04/hexo-theme-butterfly-zhu-ti-an-zhuang-ya/#toc-heading-22)  
 위 게시글은 중국어로 작성 되어있지만 butterfly theme 사용법을 사진까지 넣어가며 자세히 적어 놓았다. 특히나 butterfly의 설정 파일 yml 파일의 내용과 그 설정 방법에 대해 잘 설명되어 있다.  
