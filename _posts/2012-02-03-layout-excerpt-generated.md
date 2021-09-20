@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Layout: Excerpt (Generated with Separator Tag)"
-excerpt_separator: "<!--more-->"
+title: 'Layout: Excerpt (Generated with Separator Tag)'
+excerpt_separator: <!--more-->
 categories:
   - Layout
 tags:
   - content
   - excerpt
   - layout
-last_modified_at: 2012-02-03T12:32:16-05:00
+last_modified_at: {}
+published: false
 ---
 
 This is the post content. Archive-index pages should display an [auto-generated excerpt](https://jekyllrb.com/docs/posts/#post-excerpts) of all the content preceding the `excerpt_separator`, as defined in the YAML Front Matter or globally in `_config.yml`.
