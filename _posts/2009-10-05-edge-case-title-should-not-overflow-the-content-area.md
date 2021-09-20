@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antidisestablishmentarianism"
+title: Antidisestablishmentarianism
 categories:
   - Edge Case
 tags:
@@ -10,7 +10,8 @@ tags:
   - html
   - layout
   - title
-last_modified_at: 2017-03-09T14:10:02-05:00
+last_modified_at: {}
+published: false
 ---
 
 This post title has a long word that could potentially overflow the content area.
