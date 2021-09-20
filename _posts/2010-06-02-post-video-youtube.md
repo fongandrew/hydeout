@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Post: Video (YouTube)"
+title: 'Post: Video (YouTube)'
 categories:
   - Post Formats
 tags:
   - Post Formats
-last_modified_at: 2017-03-23T15:33:37-04:00
+last_modified_at: {}
+published: false
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
