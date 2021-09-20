@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Markup: HTML Elements and Formatting"
-sub_title: "The common elements"
+title: 'Markup: HTML Elements and Formatting'
+sub_title: The common elements
 categories:
   - Markup
 elements:
@@ -10,7 +10,8 @@ elements:
   - formatting
   - html
   - markup
-last_modified_at: 2017-03-09T10:55:59-05:00
+last_modified_at: {}
+published: false
 ---
 
 A variety of common HTML elements to demonstrate the theme's stylesheet and verify they have been styled appropriately.
