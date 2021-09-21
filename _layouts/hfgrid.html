@@ -1,0 +1,109 @@
+---
+layout: default
+---
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="assets/css/normalize.min.css" />
+
+{{ content }}
+
+<body>
+  <style>
+    
+    /* entire page */
+
+    .container {
+        display: grid;
+        grid-gap: 1em;
+        justify-items: stretch;
+        grid-template-columns: repeat(1fr);
+        grid-template-rows: minmax (100px, auto);
+        grid-template-areas: "mon mon mon" "concept concept concept" "promo promo promo" "cards cards cards"
+    }
+
+    .container>div {
+        background: #eee;
+        padding: 1em;
+    }
+
+    .container>div:nth-child(odd) {
+        background: #ddd;
+    }
+
+
+    /* entire section dimension ie. concept, promo */
+
+    .mon {
+        grid-area: mon;
+        grid-column: 1/4;
+    }
+
+    .concept {
+        grid-area: concept;
+        grid-column: 1/4;
+    }
+
+    .promo {
+        grid-area: promo;
+        grid-column: 1/4;
+    }
+
+    .cards {
+        grid-area: cards;
+        grid-column: 1/4;
+    }
+
+
+    /* image dimension / placement */
+
+    .subitem1 {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: 120px;
+        grid-gap: 1em;
+    }
+
+    .subitem1>div {
+        border: #333 1px solid;
+    }
+
+    .subitem2 {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .subitem2>div {
+        margin: 1em;
+        border: #333 1px solid;
+    }
+
+    .subitem2>.wide {
+        width: 280px;
+    }
+
+
+
+    .subitem3 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-auto-rows: 120px;
+        grid-gap: 1em;
+    }
+
+    .subitem3>div {
+        border: #333 1px solid;
+    }
+
+    .subitem4 {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-auto-rows: 300px;
+        grid-gap: 1em;
+    }
+
+    .subitem4>div {
+        border: #333 1px solid;
+    }
+
+</style>
+</body>
