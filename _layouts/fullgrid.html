@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="css/normalize.min.css" />
+
+{{ content }}
+
+<body>
+  <style>
+
+/* reset for out of date browsers */
+
+    html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* mobile version */
+
+.flex-container {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 0 1rem;
+}
+.responsive-image {
+  max-width: 100%;
+}
+.cell img {
+  display: block;
+  margin: 1rem;
+}
+
+/* tablet version */
+
+@media screen and (min-width: 600px) {
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .cell {
+    width: calc(50% - 2rem);
+    margin: 1rem;
+  }
+}
+
+/* desktop version */
+
+@media screen and (min-width: 1000px) {
+  .cell {
+    width: calc(33.3333% - 2rem);
+    margin: 1rem;
+  }
+}
+</style>
+</body>
