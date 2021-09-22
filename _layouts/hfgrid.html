@@ -8,10 +8,14 @@ layout: default
 
 <body>
   <style>
-    
+
     /* entire page */
 
-    .container {
+    .responsive-image {
+      max-width: 100%;
+    }
+
+    .containerhf {
         display: grid;
         grid-gap: 1em;
         justify-items: stretch;
@@ -20,12 +24,12 @@ layout: default
         grid-template-areas: "mon mon mon" "concept concept concept" "promo promo promo" "cards cards cards"
     }
 
-    .container>div {
+    .containerhf>div {
         background: #eee;
         padding: 1em;
     }
 
-    .container>div:nth-child(odd) {
+    .containerhf>div:nth-child(odd) {
         background: #ddd;
     }
 
