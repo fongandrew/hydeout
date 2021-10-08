@@ -33,21 +33,30 @@ layout: default
  justify-content: center;
  background-color: black;
  opacity: 85%;
- height: 30%;
+ height: 25%;
  width: 100%;
  bottom: 0;
  /* text-align: center;
  margin: 10% 0 3% 10%; */
 }
 
-
+/* top text */
 h1 {
+  height: 85%;
+  width: 100%;
+  margin-top: 2px;
+  margin-bottom: auto;
   font-size: min(32px,3.5vw);
   word-break: break-word;
   color: white;
 }
 
+/* bottom text */
 h5 {
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 100%;
+  width: 100%;
   font-size: min(16px,2vw);
   word-break: break-all;
   color: white;
@@ -62,6 +71,7 @@ h5 {
   align-items: center;
   margin-bottom: 3rem;
   margin-left: 40px;
+
 }
 
 .indexgrid {
@@ -104,6 +114,88 @@ h5 {
       text-align: center;
       position:relative;
     }
+
+    /* for index text */
+    .indextext {
+     display: flex;
+     position: absolute;
+     flex-direction: column;
+     flex-wrap: nowrap;
+     justify-content: center;
+     background-color: black;
+     opacity: 85%;
+     height: 25%;
+     width: 100%;
+     bottom: 0;
+     /* text-align: center;
+     margin: 10% 0 3% 10%; */
+    }
+
+    /* top text */
+    h1 {
+      height: 85%;
+      width: 100%;
+      margin-top: 5px;
+      margin-bottom: auto;
+      font-size: min(32px,3.5vw);
+      word-break: break-word;
+      color: white;
+    }
+
+    /* bottom text */
+    h5 {
+      margin-top: auto;
+      margin-bottom: auto;
+      height: 100%;
+      width: 100%;
+      font-size: min(16px,2vw);
+      word-break: break-all;
+      color: white;
+    }
+}
+
+/* desktop version */
+
+@media screen and (min-width: 1000px) {
+
+  /* for index text */
+  .indextext {
+   display: flex;
+   position: absolute;
+   flex-direction: column;
+   flex-wrap: nowrap;
+   justify-content: center;
+   background-color: black;
+   opacity: 85%;
+   height: 25%;
+   width: 100%;
+   bottom: 0;
+   /* text-align: center;
+   margin: 10% 0 3% 10%; */
+  }
+
+  /* top text */
+  h1 {
+    height: 85%;
+    width: 100%;
+    margin-top: 2px;
+    margin-bottom: auto;
+    font-size: min(32px,3.5vw);
+    word-break: break-word;
+    color: white;
+  }
+
+  /* bottom text */
+  h5 {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+    width: 100%;
+    font-size: min(16px,2vw);
+    word-break: break-all;
+    color: white;
+  }
+
 }
 
 </style>
