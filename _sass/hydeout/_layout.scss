@@ -243,6 +243,8 @@ body {
 
 #sidebar a {
   color: $sidebar-link-color;
+  opacity: 1;
+  transition: 250ms ease-in-out;
 
   svg {
     fill: $sidebar-icon-color;
@@ -257,7 +259,9 @@ body {
 
 #sidebar a:hover,
 #sidebar a:focus {
-  text-decoration: underline;
+  // text-decoration: underline;
+  opacity: .5;
+  transition: 250ms ease-in-out;
 
   &.icon {
     text-decoration: none;
@@ -266,11 +270,13 @@ body {
 
 #sidebar a.active {
   font-weight: bold;
+  color: #35AFA1;
 }
 
 #sidebar .site-title {
   color: $sidebar-title-color;
   a { color: inherit; }
+
 }
 
 #sidebar nav {

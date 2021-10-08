@@ -23,38 +23,70 @@ layout: default
 /* mobile version */
 
 .flex-container {
-  margin: 0 auto;
   max-width: 1200px;
+  justify-content: center;
   padding: 0 1rem;
+  margin-bottom: 3rem;
 }
+
 .responsive-image {
   max-width: 100%;
 }
 .cell img {
   display: block;
-  margin: 1rem;
+  margin: 0 0 1rem;
 }
+
+.illuscell {
+  display: block;
+  margin: 0 0 1rem;
+}
+
+
 
 /* tablet version */
 
 @media screen and (min-width: 600px) {
+
   .grid {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+     justify-content: center;
   }
+
+  .fourgrid {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+     justify-content: center;
+  }
+
   .cell {
     width: calc(50% - 2rem);
-    margin: 1rem;
+    margin: 0 1rem 1rem;
+  }
+
+  .illuscell {
+    width: calc(50% - 2rem);
+    margin: 0 1rem 1rem;
   }
 }
+
 
 /* desktop version */
 
 @media screen and (min-width: 1000px) {
   .cell {
     width: calc(33.3333% - 2rem);
-    margin: 1rem;
+    margin: 0 1rem 1rem;
+  }
+
+  .fourgrid {
+          display: flex;
+          flex-wrap: nowrap;
+          flex-direction: row;
+           justify-content: center;
   }
 }
 </style>

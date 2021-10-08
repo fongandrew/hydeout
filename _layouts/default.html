@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<meta content="width=device-width, initial-scale=1" name="viewport" />
+
 <html lang="{{ page.lang | default: 'en-us'}}">
 
   {% include head.html %}
@@ -13,8 +15,29 @@
 
     {% include custom-foot.html %}
 
+
 <!-- prevent links from turning into lightbox with 'no-lightbox' class: {:.no-lightbox} -->
     <script type="text/javascript" src="assets/js/lightbox.js"></script>
     <link rel="stylesheet" href="assets/css/lightbox.css">
   </body>
 </html>
+
+<style>
+
+ion-icon {
+  font-size: 32px;
+  padding: 5px;
+  color: #35AFA1;
+}
+
+  hr.new1 {
+    border: 0px solid #818589; border-bottom-width: 1px; width:40%; margin:10px auto;
+  }
+
+@media screen and (min-width: 600px) {
+  hr.new1 {
+    border: 0px solid #818589; border-bottom-width: 1px; width:100%; margin:10px auto;
+  }
+}
+
+  </style>

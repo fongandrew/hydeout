@@ -1,6 +1,110 @@
 ---
 layout: default
 ---
-<div class="content">
+
 {{ content }}
-</div>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="css/normalize.min.css" />
+
+
+<body>
+  <style>
+
+/* reset for out of date browsers */
+
+    html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+
+/* for index text */
+.indextext {
+ display: flex;
+ position: absolute;
+ flex-direction: column;
+ flex-wrap: nowrap;
+ justify-content: center;
+ background-color: black;
+ opacity: 85%;
+ height: 30%;
+ width: 100%;
+ bottom: 0;
+ /* text-align: center;
+ margin: 10% 0 3% 10%; */
+}
+
+
+h1 {
+  font-size: min(32px,3.5vw);
+  word-break: break-word;
+  color: white;
+}
+
+h5 {
+  font-size: min(16px,2vw);
+  word-break: break-all;
+  color: white;
+}
+
+/* mobile version */
+
+.index-container {
+  display: block;
+  max-width: 1200px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+  margin-left: 40px;
+}
+
+.indexgrid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 90%;
+  text-align: center;
+}
+
+.indexcell {
+  width: 100%;
+  margin: 1rem 1rem 1rem;
+  text-align: center;
+  position:relative;
+}
+
+/* tablet version */
+
+@media screen and (min-width: 600px) {
+
+  .index-container {
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+  }
+
+    .indexcell {
+      width: calc(50% - 2rem);
+      margin: 0 1rem 1rem;
+      text-align: center;
+    }
+
+    .indexgrid {
+      display: flex;
+      flex-wrap: nowrap;
+      width: 90vh;
+      text-align: center;
+      position:relative;
+    }
+}
+
+</style>
+</body>

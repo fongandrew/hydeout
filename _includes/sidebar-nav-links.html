@@ -1,4 +1,7 @@
 <nav id="sidebar-nav-links">
+
+<br>
+
   {% if site.sidebar_home_link %}
     <a class="home-link {% if page.url == '/' %} active{% endif %}"
         href="{{ "/" | relative_url }}">Home</a>
@@ -7,6 +10,12 @@
     <a class="page-link {% if page.url == site.sidebar_blog_link %} active{% endif %}"
 	href="{{ site.sidebar_blog_link | relative_url }}">Blog</a>
   {% endif %}
+
+
+    <a class= "page-link" href="/portfolio/about.html">About</a>
+
+
+  <hr class="new1">
 
   {% comment %}
     The code below dynamically generates a sidebar nav of pages with
@@ -17,4 +26,5 @@
   {% include category-links.html %}
 
   {% include custom-nav-links.html %}
+
 </nav>

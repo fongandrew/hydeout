@@ -40,7 +40,7 @@ a {
   // `:focus` is linked to `:hover` for basic accessibility
   &:hover,
   &:focus {
-    text-decoration: underline;
+    // text-decoration: underline;
   }
 
   strong {
@@ -52,7 +52,7 @@ img {
   border-radius: 5px;
   display: block;
   height: auto; // prevent max-width from squishing images with defined height
-  margin: 0 0 1rem;
+  // margin: 0 0 1rem;
   max-width: 100%;
 }
 

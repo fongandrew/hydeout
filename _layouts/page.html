@@ -9,3 +9,33 @@ layout: default
   {{ content }}
 </div>
 {% include back-link.html %}
+
+<style>
+  .resize {
+  max-width:50%;
+  max-height:50%;
+}
+
+.abt-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+    }
+
+.abt-pic {
+    order: 1;
+    flex: 0 1 auto;
+    align-self: auto;
+    margin: 0 0 1rem;
+    }
+
+.abt-text {
+    order: 2;
+    flex: 0 1 auto;
+    align-self: auto;
+    margin: 0 0 1rem;
+    }
+</style>
