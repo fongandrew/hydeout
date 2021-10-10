@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories:
   - 번역
@@ -130,4 +130,3 @@ React.js를 **프로젝트**로 배우고 싶다면 , 아래 링크를 확인해
 
 👉🏻 트위터 팔로우 : https://twitter.com/The_Nerdy_Dev
 👉🏻 디스코드 서버 : https://discord.gg/fgbtN2a
-
