@@ -1,6 +1,6 @@
 # Dependencies
 remote-theme:     fongandrew/hydeout
-markdown:         kramdown
+markdown:         GFM
 highlighter:      rouge
 
 # Setup
