@@ -203,10 +203,7 @@ body {
     background: $body-bg;
     color: $body-color;
     min-height: 100vh;
-    padding:
-      $section-spacing * 2
-      $section-spacing * 2
-      0;
+    padding: 3%;
 
     @if $layout-reverse {
       margin-right: $sidebar-width;
@@ -276,6 +273,7 @@ body {
 #sidebar .site-title {
   color: $sidebar-title-color;
   a { color: inherit; }
+
 
 }
 

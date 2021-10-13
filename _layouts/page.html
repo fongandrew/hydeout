@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
 <header>
   {% include back-link.html %}
   <h1 class="page-title">{{ page.title }}</h1>
@@ -11,31 +14,100 @@ layout: default
 {% include back-link.html %}
 
 <style>
-  .resize {
-  max-width:50%;
-  max-height:50%;
+
+  /* reset for out of date browsers */
+
+      html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+/* mobile version */
+
+
+.abtcontainer {
+  max-width: 1200px;
+  justify-content: center;
+  padding: 0 1rem;
+  margin-bottom: 3rem;
 }
 
-.abt-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-content: flex-start;
-    align-items: center;
+.image {
+  display: block;
+  align: center;
+  max-width: 100%;
+  padding: 3em;
     }
 
-.abt-pic {
-    order: 1;
-    flex: 0 1 auto;
-    align-self: auto;
-    margin: 0 0 1rem;
+    .text{
+      color: #5C5C5C;
+      text-align: left;
+        }
+
+        hr.abt {
+              border: 0px solid #929292; border-bottom-width: 1px; width:60%; margin:10px auto;
+            }
+
+
+/* tablet version */
+  @media screen and (min-width: 600px) {
+
+    .image {
+      display: flex;
+      max-width: 50%;
+      padding: 1em;
+      margin: auto;
+        }
+
+        .text{
+          color: #5C5C5C;
+          margin: 0 2rem 0;
+          font-size: min(17px,2vw);
+          max-width:50%;
+          padding: 1em;
+          text-align: left;
+          word-break: break-word;
+            }
+  }
+
+/* desktop version */
+  @media screen and (min-width: 1025px) {
+
+.abtcontainer {
+  max-width: 1200px;
+  margin: auto;
     }
 
-.abt-text {
-    order: 2;
-    flex: 0 1 auto;
-    align-self: auto;
-    margin: 0 0 1rem;
+.abtgrid {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 140vh;
+  max-height: 100vh;
     }
+
+.image {
+  display: flex;
+  min-width: 40%;
+  padding: 1em;
+  margin: auto;
+    }
+
+    .text{
+      color: #5C5C5C;
+      margin: 0 2rem 0;
+      font-size: min(17px,2vw);
+      max-width:50%;
+      padding: 1em;
+      text-align: left;
+      word-break: break-word;
+        }
+
+        hr.abt {
+              display: none;
+            }
+  }
 </style>
