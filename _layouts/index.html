@@ -42,9 +42,9 @@ layout: default
 h1 {
   height: 85%;
   width: 100%;
-  margin-top: 2px;
+  margin-top: 4px;
   margin-bottom: auto;
-  font-size: min(32px,3.5vw);
+  font-size: min(32px,3.8vw);
   word-break: break-word;
   color: white;
 }
@@ -55,7 +55,7 @@ h5 {
   margin-bottom: auto;
   height: 100%;
   width: 100%;
-  font-size: min(16px,2vw);
+  font-size: min(16px,2.3vw);
   word-break: break-all;
   color: white;
 }
@@ -64,25 +64,26 @@ h5 {
 
 .index-container {
   display: block;
+  position: absolute
   max-width: 1200px;
-  justify-content: center;
-  align-items: center;
   margin-bottom: 3rem;
-  margin-left: 40px;
-
 }
 
 .indexgrid {
   display: flex;
+  position: relative;
+  bottom: 20px;
   flex-direction: row;
   flex-wrap: nowrap;
   width: 90%;
+  margin: auto;
   text-align: center;
 }
 
 .indexcell {
   width: 100%;
-  margin: 1rem 1rem 1rem;
+  margin: 0 10px 10px;
+  padding: 0;
   text-align: center;
   position: relative;
 }
@@ -92,25 +93,30 @@ h5 {
 @media screen and (min-width: 600px) {
 
   .index-container {
+    display: block;
+    position: absolute
     max-width: 1200px;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
+    margin-top: 2rem;
   }
 
-    .indexcell {
-      width: calc(50% - 2rem);
-      margin: 0 1rem 1rem;
-      text-align: center;
-    }
+  .indexcell {
+    width: 100%;
+    margin: 0 10px 10px;
+    padding: 0;
+    text-align: center;
+    position: relative;
+  }
 
-    .indexgrid {
-      display: flex;
-      flex-wrap: nowrap;
-      width: 58vw;
-      text-align: center;
-      position: relative;
-    }
+  .indexgrid {
+    display: flex;
+    position: relative;
+    bottom: 20px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+  }
 
     /* for index text */
     .indextext {
@@ -152,9 +158,32 @@ h5 {
     }
 }
 
+
 /* desktop version */
 
 @media screen and (min-width: 1025px) {
+
+
+    .index-container {
+      max-width: 1200px;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+    }
+
+      .indexcell {
+        width: calc(50% - 2rem);
+        margin: 0 1rem 1rem;
+        text-align: center;
+      }
+
+      .indexgrid {
+        display: flex;
+        flex-wrap: nowrap;
+        width: 58vw;
+        text-align: center;
+        position: relative;
+      }
 
   /* for index text */
   .indextext {
