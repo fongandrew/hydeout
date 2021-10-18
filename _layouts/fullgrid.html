@@ -4,10 +4,7 @@ layout: default
 
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<header>
-  {% include back-link.html %}
-  <h1 class="page-title">{{ page.title }}</h1>
-</header>
+
 <div class="content">
   {{ content }}
 </div>
@@ -33,7 +30,7 @@ layout: default
   max-width: 1200px;
   justify-content: center;
   padding: 0 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .responsive-image {
@@ -47,6 +44,10 @@ layout: default
 .illuscell {
   display: block;
   margin: 0 0 1rem;
+}
+
+.titleimage {
+  display: none;
 }
 
 .pagetext{
@@ -79,7 +80,7 @@ layout: default
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    justify-content: left;
+    justify-content: center;
 
   }
 
@@ -98,6 +99,11 @@ layout: default
   .illuscell {
     width: calc(50% - 2rem);
     margin: 0 1rem 1rem;
+  }
+
+  .titleimage {
+    display: block;
+    margin-bottom: 1rem;
   }
 
   hr.flex-container{
