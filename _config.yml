@@ -4,7 +4,7 @@ markdown:         GFM
 highlighter:      rouge
 
 # Setup
-title:            Jade The Zapper
+title:            Jade the Zapper
 tagline:          'Jade의 블로그'
 description:      '<a href="https://github.com/seokjeon" target="_blank">You</a> must try <a href="#">HARDER</a>'
 url:              https://seokjeon.github.io
