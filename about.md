@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-![Ruben >](/assets/img/Ruben_Wiersma_profile.png)
+![Ruben >](/assets/img/profile_ruben.jpg)
 Hi, I'm Ruben! I am a second-year PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). My interests include geometry processing, computer graphics, and storytelling. I am working on applications of computer graphics for painting analysis. I'm also continuing research that I started in my Master on geometric deep learning, advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus). I'm supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik.
 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
