@@ -1,8 +1,8 @@
 ---
-published:true
+published: true
 layout: post
 categories:
-	- 번역
+  - 번역
 ---
 작가님의 허락을 받고 번역한 글입니다.([원문](https://www.maxwellantonucci.com/posts/2017/09/24/the-git-rebase-introduction-i-wish-i'd-had/))
 
