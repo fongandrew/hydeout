@@ -28,7 +28,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-analytics
 
 exclude:
   - Gemfile
@@ -53,13 +52,10 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+google_analytics: "G-9XHGND5TKJ"                                
 
 disqus:
   shortname:      seokjeon
-
-jekyll_analytics:
-  GoogleAnalytics:              # Add, if you want to track with Google Analytics
-    id: "G-9XHGND5TKJ"          # Required - replace with your tracking id
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
