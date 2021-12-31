@@ -58,8 +58,8 @@ disqus:
   shortname:      seokjeon
 
 jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-9XHGND5TKJ          # Required - replace with your tracking id
+  GoogleAnalytics:              # Add, if you want to track with Google Analytics
+    id: "G-9XHGND5TKJ"          # Required - replace with your tracking id
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
