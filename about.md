@@ -89,6 +89,7 @@ _GoPublic_
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
 - Organizing conference coffee event (social event) at SIGGRAPH '21.
+- Media support for SIGGRAPH Thesis Fast Forward '21.
 - Creating and maintaining [committee website](https://research.siggraph.org).
 
 <hr/>
@@ -102,9 +103,8 @@ _ACM Transactions on Graphics, Pacific Graphics_
 _C.S.R. Delft (student association)_
 - Researched and advised on the association leadership election reform.
 - Organised festivities for society anniversary (> 200 participants).
-- Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html).
-- Produced, designed and launched [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
-- Organized several academic debates and hosted lectures (20-200 audience members).
+- Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html) and an [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
+- Organized academic debates and hosted lectures (20-200 audience members).
 
 <hr/>
 
