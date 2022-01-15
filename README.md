@@ -13,13 +13,16 @@ Instructions to build this locally. See [here](https://bundler.io/) and [here](h
 See the bottom of the latter link for stuff to add to `.gitignore`
 
 0. **Install bundler**
-    This may require root privileges, or one can modify with `--install-dir`
+    This may require root privileges, or one can modify with `--install-dir` or
+`--user-install`
 
     ```
-    $ gem install bundler 
+    $ gem install --user-install bundler jekyll
     ```
+    I ran into problems with step 2 at some point, and [this stack
+overflow post](https://stackoverflow.com/a/65636792/7091853) saved the day.
 
-1. **Initialize and configure bundle** 
+1. **Initialize and configure bundle**
     It's a good idea to do this locally for the specific project (website).
     The final line installs the necessary dependencies for the project
     in the local directory `vendor/bundle`
@@ -36,6 +39,14 @@ See the bottom of the latter link for stuff to add to `.gitignore`
     $ bundle exec jekyll new --force --skip-bundle .
     $ bundle install
     ```
+
+    If any of these run into trouble (e.g. the first step gives something like
+    "Your bundle is locked to ...", run
+
+    ```
+    $ bundle update
+    ```
+
 3. **Serve it up**
 
     ```
@@ -44,7 +55,7 @@ See the bottom of the latter link for stuff to add to `.gitignore`
 
     and then open it up at localhost:4000
 
-    
+
 
 ### Usage
 
