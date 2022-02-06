@@ -1,6 +1,6 @@
 ---
 layout: category
-title: News
+title: Publications
 ---
 
-Our News is going to go here
+A list of publications from SPAAM community projects.
