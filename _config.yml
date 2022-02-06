@@ -7,13 +7,13 @@ title:            SPAAM Community
 tagline:          Website for the SPAAM Community
 description:      'An open community for ancient metagenomics researchers'
 url:              https://spaam-community.github.io
-baseurl:          '/'
+baseurl:          '/spaam-community.github.io-dev'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
-remote_theme: fongandrew/hydeout
+#remote_theme: fongandrew/hydeout
 
 author:
   name:           'SPAAM Community'
