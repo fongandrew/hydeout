@@ -3,4 +3,10 @@
 # only main files contain this front matter, not partials.
 ---
 
+@import url("https://fonts.googleapis.com/css?family=Varela+Round:300,400,600");
+
+$sidebar-bg-color: #732a82;
+$link-color: #732a82;
+$sidebar-sticky: false;
+$root-font-family: -apple-system, 'Varela Round', Arial, sans-serif !default;
 @import "hydeout";

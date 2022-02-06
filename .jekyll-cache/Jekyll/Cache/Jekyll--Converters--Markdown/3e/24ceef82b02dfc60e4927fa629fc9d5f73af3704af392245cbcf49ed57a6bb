@@ -1,0 +1,8 @@
+I"(<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it
+  for your own use upon downloading. Carry on!
+</p>
+
+<p>To make pages show up in the sidebar, add <code class="language-plaintext highlighter-rouge">sidebar_link: true</code> to the front
+matter.</p>
+:ET
