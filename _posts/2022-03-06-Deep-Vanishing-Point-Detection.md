@@ -16,14 +16,7 @@ type: "Article"
 img: "/assets/img/publications/dvpd_feature.png"
 bib: "@Article{LinDVPD2022,<br />
   &nbsp;&nbsp;author    = {Yancong Lin, Ruben Wiersma, Silvia L. Pintea, Klaus Hildebrandt, Elmar Eisemann, Jan C. van Gemert},<br />
-  &nbsp;&nbsp;booktitle = {},<br />
   &nbsp;&nbsp;title     = {Deep Vanishing Point Detection: Geometric priors make dataset variations vanish},<br />
-  &nbsp;&nbsp;year      = {2022},<br />
-  &nbsp;&nbsp;month     = {},<br />
-  &nbsp;&nbsp;pages     = {},<br />
-  &nbsp;&nbsp;publisher = {},<br />
-  &nbsp;&nbsp;series    = {},<br />
-  &nbsp;&nbsp;doi       = {},<br />
-  &nbsp;&nbsp;isbn      = {},<br />
+  &nbsp;&nbsp;year      = {2022}
 }"
 ---
