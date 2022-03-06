@@ -22,6 +22,6 @@ bib: "@Article{WiersmaDeltaConv2022,<br />
   &nbsp;&nbsp;author    = {Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt},<br />
   &nbsp;&nbsp;title     = {DeltaConv: Anisotropic Geometric Deep Learning with Exterior Calculus},<br />
   &nbsp;&nbsp;year      = {2022},<br />
-  &nbsp;&nbsp;url      = {https://arxiv.org/abs/2111.08799}
+  &nbsp;&nbsp;url      = {https://arxiv.org/abs/2111.08799}<br />
 }"
 ---
