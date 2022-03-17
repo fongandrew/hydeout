@@ -14,9 +14,12 @@ abstract: "Deep learning has greatly improved vanishing point detection in image
 authors: "Y. Lin, R. Wiersma, S. L. Pintea, K. Hildebrandt, E. Eisemann and J. C. van Gemert"
 type: "Article"
 img: "/assets/img/publications/dvpd_feature.png"
-bib: "@Article{LinDVPD2022,<br />
-  &nbsp;&nbsp;author    = {Yancong Lin, Ruben Wiersma, Silvia L. Pintea, Klaus Hildebrandt, Elmar Eisemann, Jan C. van Gemert},<br />
-  &nbsp;&nbsp;title     = {Deep Vanishing Point Detection: Geometric priors make dataset variations vanish},<br />
-  &nbsp;&nbsp;year      = {2022}<br />
+pdf: "https://arxiv.org/pdf/2203.08586.pdf"
+code: "https://github.com/yanconglin/VanishingPoint_HoughTransform_GaussianSphere"
+bib: "@article{lin2022vpd,
+  &nbsp;&nbsp;title={Deep vanishing point detection: Geometric priors make dataset variations vanish},
+  &nbsp;&nbsp;author={Lin, Yancong and Wiersma, Ruben and and Pintea, Silvia L and Hildebrandt, Klaus and Eisemann, Elmar and van Gemert, Jan C},
+  &nbsp;&nbsp;booktitle={Conference on Computer Vision and Pattern Recognition},
+  year&nbsp;&nbsp;={2022}
 }"
 ---
