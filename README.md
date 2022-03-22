@@ -14,6 +14,7 @@ Quick start:
 
 Adding content:
 
+- To update main home page/entry page, modify `index.html`
 - To add new posts (e.g. news, events, career, meetings) to a news-like page, add your new post to `posts/`, and add the coresponding `categories:` tag.
 - To modify the general information about these pages, update the corresponding `.md` file under `category.md`
 - To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository.
