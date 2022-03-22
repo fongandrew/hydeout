@@ -4,3 +4,35 @@
 ---
 
 @import "hydeout";
+
+// Custom ISBA Styling
+.button-join {
+    background: #4895EF;
+    border: 0px solid #232741;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 20px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+}
+  
+.button-join:hover,
+.button-join:active {
+    background-color: initial;
+    background-position: 0 0;
+    color: #232741;
+}

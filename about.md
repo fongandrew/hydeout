@@ -4,10 +4,8 @@ title: About
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
+The ISBA society is an international community of researchers working on degraded biological remains from a range of contexts.
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+## History
+
+ISBA originally started as a small symposium in the Netherlands in 2004.

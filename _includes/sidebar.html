@@ -10,7 +10,18 @@
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
   </header>
-  {% include sidebar-nav-links.html %}
+
+<a href="/about">About</a> 
+<a href="/category/news">News</a> 
+<a href="/membership">Membership</a> 
+<a href="/category/meetings">Meetings</a>
+<a href="/category/events">Events</a>
+<a href="/awards">Awards</a> 
+<a href="/category/career">Career</a>
+<a href="/board">Board</a> 
+<a href="/code-of-conduct">Code of Conduct</a>
+<a href="/contact">Contact</a>
+
 
   {% if site.version %}
     <span class="site-version">Currently v{{ site.version }}</span>

@@ -1,4 +1,36 @@
-# Hydeout
+# ISBA Website
+
+To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+Quick start:
+
+- Install Ruby, gems, and Bundle (see above).
+- Clone this repository
+- Modify the files in your editor of choice (VSCode is a good option)
+- Run `bundle exec jekyll serve` to check locally (with `127.0.0.1:<IP>` link on your browser)
+  - Refresh page on browser after each change
+  - Fundamental changes e.g. to `_config.yml` _may_ require restarting of the local server (`ctrl+c` and restart)
+- Commit and push
+
+Adding content:
+
+- To add new posts (e.g. news, events, career, meetings) to a news-like page, add your new post to `posts/`, and add the coresponding `categories:` tag.
+- To modify the general information about these pages, update the corresponding `.md` file under `category.md`
+- To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository.
+
+Tips and tricks for theming the website website:
+
+- Import new fonts in `includes/font-includes.html`
+- To change which fonts are actually displayed, update `$root-font-family` in `_sass/hydeout/_layout.scss`
+- To change sidebar background colour, update `$sidebar-bg-color` in `_sass/hydeout/_layout.scss`
+- To change sidebar font colour, update `$sidebar-fg-color` in `_sass/hydeout/_layout.scss`
+- To change order of sidebar pages update `includes/sidebar.html`
+- To add custom CSS classes (e.g. the membership/contact buttons), modify `assets/css/main.scss`
+
+## Acknowledgments
+
+This webpage is based forked from the Hydeout theme originally by
+[Andrew Fong](https://github.com/fongandrew/). The original documentation at time of forking is below.
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.

@@ -15,7 +15,7 @@ baseurl:          '/'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
+  name:           'ISBA Society'
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
