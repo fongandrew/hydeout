@@ -1,6 +1,7 @@
 # ISBA Website
 
 To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Many components also adopted from the [sedaDNA](https://sedadna.github.io) society.
 
 Quick start:
 
@@ -31,7 +32,7 @@ Tips and tricks for theming the website website:
 ## Acknowledgments
 
 This webpage is based forked from the Hydeout theme originally by
-[Andrew Fong](https://github.com/fongandrew/). The original documentation at time of forking is below.
+[Andrew Fong](https://github.com/fongandrew/). The original documentation at time of forking is below. We also adopted a lot of components from the [sedaDNA society](https://sedadna.github.io)
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
