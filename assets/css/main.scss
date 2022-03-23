@@ -5,34 +5,86 @@
 
 @import "hydeout";
 
-// Custom ISBA Styling
+// Custom ISBA Styling - all modified after sedaDNA society
 .button-join {
-    background: #4895EF;
-    border: 0px solid #232741;
-    border-radius: 10px;
-    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
-    box-sizing: border-box;
-    color: #FFFFFF;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 20px;
-    font-weight: 800;
-    line-height: 16px;
-    min-height: 40px;
-    outline: 0;
-    padding: 12px 20px;
-    text-align: center;
-    text-rendering: geometricprecision;
-    text-transform: none;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-    vertical-align: middle;
+  background: #4895ef;
+  border: 0px solid #232741;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 16px;
+  min-height: 40px;
+  outline: 0;
+  padding: 12px 20px;
+  margin: 2px 2px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
 }
-  
+
 .button-join:hover,
 .button-join:active {
-    background-color: initial;
-    background-position: 0 0;
-    color: #232741;
+  background-color: initial;
+  background-position: 0 0;
+  color: #232741;
+}
+
+.member {
+  width: 7rem;
+  text-align: center;
+}
+
+.square {
+  display: inline-block;
+  width: 6rem;
+  height: 6rem;
+  margin: auto;
+  background-color: #fff;
+}
+
+.square img {
+  opacity: 1;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.square:hover img {
+  opacity: 0.5;
+}
+
+.avatar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.avatar img {
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
+
+.member p {
+  text-align: center;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  display: block;
+}
+
+.member p:first-of-type {
+  font-size: 0.8rem;
+  color: #000;
+  font-weight: bold;
 }

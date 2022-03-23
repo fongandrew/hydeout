@@ -1,26 +1,27 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            ISBA
-tagline:          'International Society for Biomolecular Archaeology'
-description:      'International Society for Biomolecular Archaeology'
-url:              https://fongandrew.github.io
-baseurl:          '/'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title: ISBA
+tagline: "International Society for Biomolecular Archaeology"
+description: "International Society for Biomolecular Archaeology"
+url: https://fongandrew.github.io
+baseurl:
+  "/"
+  # the optional subpath of your site, e.g. "/blog"
+  # NB: This applies to all pages in your Jekyll site.
+  # If you want to move just the blog index pages but keep
+  # other pages at root, see the paginate_path and
+  # sidebar_blog_link below.
 
 author:
-  name:           'ISBA Society'
-  url:            https://twitter.com/fongandrewc
+  name: "ISBA Society"
+  url: https://twitter.com/fongandrewc
 
-paginate:         5
+paginate: 5
 # paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+# Or '/blog/page:num' if you want to move your index pages
 
 plugins:
   - jekyll-feed
@@ -28,8 +29,8 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link: true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
+# page. If you change your paginate_path,
+# set this to the root of the paginate_path
+# to enable a separate blog link.

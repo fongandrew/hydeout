@@ -43,21 +43,21 @@ Multi line blockquote with a cite reference:
 ## Tables
 
 | Employee         | Salary |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
+| ---------------- | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
 | [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
 | [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Header1                       | Header2 | Header3 |
+| :---------------------------- | :-----: | ------: |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |  cell5  |   cell6 |
+| ----------------------------- |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |  cell5  |   cell6 |
+| ============================= |
+| Foot1                         |  Foot2  |   Foot3 |
 
 ## Definition Lists
 
@@ -75,33 +75,33 @@ Do It Live
 
 ## Unordered Lists (Nested)
 
-  * List item one
-      * List item one
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+- List item one
+  - List item one
+    - List item one
+    - List item two
+    - List item three
+    - List item four
+  - List item two
+  - List item three
+  - List item four
+- List item two
+- List item three
+- List item four
 
 ## Ordered List (Nested)
 
-  1. List item one
+1. List item one
+   1. List item one
       1. List item one
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
       2. List item two
       3. List item three
       4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+   2. List item two
+   3. List item three
+   4. List item four
+2. List item two
+3. List item three
+4. List item four
 
 ## Address element
 
@@ -117,7 +117,7 @@ This is an example of a [link](http://apple.com "Apple").
 
 The abbreviation CSS stands for "Cascading Style Sheets".
 
-*[CSS]: Cascading Style Sheets
+\*[CSS]: Cascading Style Sheets
 
 ## Cite element
 

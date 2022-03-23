@@ -73,11 +73,11 @@ And the output will look like this:
 
 {% highlight scss %}
 .highlight {
-  margin: 0;
-  padding: 1em;
-  font-family: $monospace;
-  font-size: $type-size-7;
-  line-height: 1.8;
+margin: 0;
+padding: 1em;
+font-family: $monospace;
+font-size: $type-size-7;
+line-height: 1.8;
 }
 {% endhighlight %}
 
@@ -85,12 +85,13 @@ Here's an example of a code snippet using the Liquid tag and `linenos` enabled.
 
 {% highlight html linenos %}
 {% raw %}<nav class="pagination" role="navigation">
-  {% if page.previous %}
-    <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-  {% endif %}
-  {% if page.next %}
-    <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-  {% endif %}
+{% if page.previous %}
+<a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+{% endif %}
+{% if page.next %}
+<a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+{% endif %}
+
 </nav><!-- /.pagination -->{% endraw %}
 {% endhighlight %}
 

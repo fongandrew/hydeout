@@ -30,7 +30,9 @@ h2.page-title {
   opacity: 0.75;
   white-space: nowrap;
 
-  .tag-name { text-transform: capitalize; }
+  .tag-name {
+    text-transform: capitalize;
+  }
 
   &:hover {
     opacity: 1;

@@ -100,40 +100,40 @@ $sidebar-sticky: false;
 @import "hydeout";
 ```
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
+See the [\_variables](_sass/hydeout/_variables.scss) file for other variables
 you can override.
 
 You can see the full set of partials you can replace in the
 [`_includes`](_includes) folder, but there are a few worth noting:
 
-* `_includes/copyright.html` - Insert your own copyright here.
+- `_includes/copyright.html` - Insert your own copyright here.
 
-* `_includes/custom-head.html` - Insert custom head tags (e.g. to load your
+- `_includes/custom-head.html` - Insert custom head tags (e.g. to load your
   own stylesheets)
 
-* `_includes/custom-foot.html` - Insert custom elements at the end of the
+- `_includes/custom-foot.html` - Insert custom elements at the end of the
   body (e.g. for custom JS)
 
-* `_includes/custom-nav-links.html` - Additional nav links to insert at the
+- `_includes/custom-nav-links.html` - Additional nav links to insert at the
   end of the list of links in the sidebar.
 
   Pro-tip: The `nav`s in the sidebar are flexboxes. Use the `order` property
   to order your links.
 
-* `_includes/custom-icon-links.html`- Additional icon links to insert at the
+- `_includes/custom-icon-links.html`- Additional icon links to insert at the
   end of the icon links at the bottom of the sidebar. You can use the `order`
   property to re-order.
 
-* `_includes/favicons.html` - Replace references to `favicon.ico` and
+- `_includes/favicons.html` - Replace references to `favicon.ico` and
   `favicon.png` with your own favicons references.
 
-* `_includes/font-includes.html` - The Abril Fatface font used for the site
+- `_includes/font-includes.html` - The Abril Fatface font used for the site
   title is loaded here. If you're overriding that font in the CSS, be sure
   to also remove the font load reference here.
 
 ### New Features
 
-* Hydeout adds a new tags page (accessible in the sidebar). Just create a
+- Hydeout adds a new tags page (accessible in the sidebar). Just create a
   new page with the tags layout:
 
   ```
@@ -143,7 +143,7 @@ You can see the full set of partials you can replace in the
   ---
   ```
 
-* Hydeout adds a new "category" layout for dedicated category pages.
+- Hydeout adds a new "category" layout for dedicated category pages.
   Category pages are automatically added to the sidebar. All other pages
   must have `sidebar_link: true` in their front matter to show up in
   the sidebar. To create a category page, use the `category` layout"
@@ -157,7 +157,7 @@ You can see the full set of partials you can replace in the
   Description of "My Category"
   ```
 
-* You can control how pages are sorted by using the `sidebar_sort_order`
+- You can control how pages are sorted by using the `sidebar_sort_order`
   parameter in the front matter. This works for both category and non-category
   pages, although non-category pages will always come first. Take a look at
   [`_includes/sidebar-nav-links.html`](./_includes/sidebar-nav-links.html) if
@@ -173,7 +173,7 @@ You can see the full set of partials you can replace in the
   Some content.
   ```
 
-* A simple redirect-to-Google search is available. Just create a page with
+- A simple redirect-to-Google search is available. Just create a page with
   the `search` layout.
 
   ```
@@ -183,7 +183,7 @@ You can see the full set of partials you can replace in the
   ---
   ```
 
-* Disqus integration is ready out of the box. Just add the following to
+- Disqus integration is ready out of the box. Just add the following to
   your config file:
 
   ```yaml
@@ -194,7 +194,7 @@ You can see the full set of partials you can replace in the
   If you don't want Disqus or want to use something else, override
   `comments.html`.
 
-* For Google Analytics support, define a `google_analytics` variable with
+- For Google Analytics support, define a `google_analytics` variable with
   your property ID in your config file.
 
 There's also a bunch of minor tweaks and adjustments throughout the

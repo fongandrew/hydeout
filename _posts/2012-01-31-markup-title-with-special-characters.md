@@ -64,6 +64,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       *
     </td>
+
   </tr>
 
   <tr>
@@ -105,6 +106,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       4
     </td>
+
   </tr>
 
   <tr>
@@ -147,6 +149,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       <
     </td>
+
   </tr>
 
   <tr>
@@ -189,6 +192,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       H
     </td>
+
   </tr>
 
   <tr>
@@ -231,6 +235,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       R
     </td>
+
   </tr>
 
   <tr>
@@ -272,6 +277,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
 
     <td>
     </td>
+
   </tr>
 
   <tr>
@@ -314,6 +320,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       f
     </td>
+
   </tr>
 
   <tr>
@@ -356,6 +363,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       p
     </td>
+
   </tr>
 
   <tr>
@@ -398,6 +406,7 @@ This is a test to see if the fonts used in this theme support basic Latin charac
     <td>
       z
     </td>
+
   </tr>
 
   <tr>
@@ -434,5 +443,6 @@ This is a test to see if the fonts used in this theme support basic Latin charac
 
     <td>
     </td>
+
   </tr>
 </table>

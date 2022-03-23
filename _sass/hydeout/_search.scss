@@ -8,10 +8,12 @@
     border: 0;
   }
 
-  input + input { margin-left: 2px; }
+  input + input {
+    margin-left: 2px;
+  }
 
-  input[type='text'],
-  input[type='search'] {
+  input[type="text"],
+  input[type="search"] {
     flex-grow: 1;
   }
 }

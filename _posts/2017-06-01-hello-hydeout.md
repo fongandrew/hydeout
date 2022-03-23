@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello Hydeout
-excerpt_separator:  <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
@@ -44,7 +44,7 @@ $sidebar-sticky: false;
 @import "hydeout";
 ```
 
-See the [_variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss) file for other variables
+See the [\_variables](https://github.com/fongandrew/hydeout/blob/master/_sass/hydeout/_variables.scss) file for other variables
 you can override.
 
 You can also insert custom head tags (e.g. to load your own stylesheets) by
@@ -54,18 +54,18 @@ of the body (e.g. for custom JS) by defining your own
 
 ### New Features
 
-* Hydeout also adds a new tags page (accessible in the sidebar) and a new
+- Hydeout also adds a new tags page (accessible in the sidebar) and a new
   "category" layout for dedicated category pages.
 
-* Category pages are automatically added to the sidebar. All other pages
+- Category pages are automatically added to the sidebar. All other pages
   must have `sidebar_link: true` in their front matter to show up in
   the sidebar.
 
-* A simple redirect-to-Google search is available. If you want to use
+- A simple redirect-to-Google search is available. If you want to use
   Google Custom Search or Algolia or something with more involved,
   override the `search.html`.
 
-* Disqus integration is ready out of the box. Just add the following to
+- Disqus integration is ready out of the box. Just add the following to
   your config file:
 
   ```yaml
@@ -76,7 +76,7 @@ of the body (e.g. for custom JS) by defining your own
   If you don't want Disqus or want to use something else, override
   `comments.html`.
 
-* For Google Analytics support, define a `google_analytics` variable with
+- For Google Analytics support, define a `google_analytics` variable with
   your property ID in your config file.
 
 There's also a bunch of minor tweaks and adjustments throughout the

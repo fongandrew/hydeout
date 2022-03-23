@@ -53,7 +53,9 @@
   .pagination > a {
     box-shadow: none;
 
-    &:hover { box-shadow: $default-box-shadow; }
+    &:hover {
+      box-shadow: $default-box-shadow;
+    }
   }
 
   .content .pagination:first-child {

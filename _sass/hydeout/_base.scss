@@ -80,24 +80,22 @@ tbody tr:nth-child(odd) th {
 }
 
 button,
-input[type='text'],
-input[type='email'],
-input[type='search'],
-input[type='submit'] {
+input[type="text"],
+input[type="email"],
+input[type="search"],
+input[type="submit"] {
   border: 1px solid $border-color;
   border-radius: $border-radius;
   padding: $padding-v $padding-h;
 }
 
 button,
-input[type='submit'] {
+input[type="submit"] {
   background: transparent;
   border-color: $border-color;
   color: $link-color;
   cursor: pointer;
-  transition:
-    color 0.6s ease-in-out,
-    border-color 0.6s ease-in-out,
+  transition: color 0.6s ease-in-out, border-color 0.6s ease-in-out,
     background 0.6s ease-in-out;
 
   &:hover {
@@ -111,13 +109,13 @@ input[type='submit'] {
 .video-container {
   overflow: hidden;
   position: relative;
-  width:100%;
+  width: 100%;
 }
 
 .video-container::after {
   padding-top: 56.25%;
   display: block;
-  content: '';
+  content: "";
 }
 
 .video-container iframe {

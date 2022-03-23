@@ -4,4 +4,27 @@ title: Board
 sidebar_link: true
 ---
 
-List of board members go here
+Current and past board members are displayed below.
+
+<h2>Current</h2>
+
+Pending...
+
+<h2>Past</h2>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://www.arch.cam.ac.uk/staff/prof-matthew-collins" target="_blank"><img src="{{ "/assets/images/profile_pictures/COLLINS_Matthew.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Matthew Collins</p>
+<p>Copenhagen/Cambridge</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://cagt.cnrs.fr/orlando-ludovic/" target="_blank"><img src="{{ "/assets/images/profile_pictures/ORLANDO_Ludovic.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ludovic Orlando</p>
+<p>Toulouse</p>
+</div>
+
+</div>  
+<br>

@@ -4,14 +4,15 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
   <!-- Enable responsiveness on mobile devices-->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1"
+  />
 
   <title>
-    {% if page.title == "Home" %}
-      {{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
+    {% if page.title == "Home" %} {{ site.title }}{% if site.tagline %} &middot;
+    {{ site.tagline }}{% endif %} {% else %} {{ page.title }} &middot; {{
+    site.title }} {% endif %}
   </title>
 
   {% include google-analytics.html %}
@@ -24,7 +25,12 @@
   {% include favicons.html %}
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.feed.path | default: 'feed.xml' | relative_url }}" />
+  <link
+    rel="alternate"
+    type="application/rss+xml"
+    title="RSS"
+    href="{{ site.feed.path | default: 'feed.xml' | relative_url }}"
+  />
 
   {% include custom-head.html %}
 </head>
