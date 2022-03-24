@@ -64,6 +64,7 @@ body {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
+  padding-top: 200px;
 
   > .content {
     flex-grow: 1;
