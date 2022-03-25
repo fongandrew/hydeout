@@ -6,25 +6,68 @@ sidebar_link: true
 
 Current and past board members are displayed below.
 
-<h2>Current</h2>
+<h2>Board of Trustees</h2>
 
-Pending...
-
-<h2>Past</h2>
+<!-- Admin Roles -->
 
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://www.arch.cam.ac.uk/staff/prof-matthew-collins" target="_blank"><img src="{{ "/assets/images/profile_pictures/COLLINS_Matthew.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Matthew Collins</p>
-<p>Copenhagen/Cambridge</p>
+<div class="square"><a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html" target="_blank"><img src="{{ "/assets/images/profile_pictures/BARNES_Ian.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ian Barnes</p>
+<p><b>President (Provisional)</b></p>
+<p>Natural History Museum, London, UK</p>
+<p></p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://cagt.cnrs.fr/orlando-ludovic/" target="_blank"><img src="{{ "/assets/images/profile_pictures/ORLANDO_Ludovic.jpg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Ludovic Orlando</p>
-<p>Toulouse</p>
+<div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Christina Warinner</p>
+<p><b>Vice President (Provisional)</b></p>
+<p>Harvard University, Cambridge, USA</p>
+<p>MPI-EVA, Leipzig, Germany</p>
 </div>
 
-</div>  
+<div class ="member">
+<div class="square"><a href="https://uk.linkedin.com/in/lisa-briggs-archaeology" target="_blank"><img src="{{ "/assets/images/profile_pictures/BRIGGS_Lisa.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Lisa Briggs</p>
+<p><b>Treasurer (Provisional)</b></p>
+<p>British Museum, London, UK</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.york.ac.uk/archaeology/people/academic-staff/oliver-craig/" target="_blank"><img src="{{ "/assets/images/profile_pictures/CRAIG_Oliver.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Oliver Craig</p>
+<p><b>Secretary (Provisional)</b></p>
+<p>University of York, York, UK</p>
+</div>
+
+</div>
+
+<!-- Normal Members -->
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="https://www.cnrs.fr/fr/personne/marie-balasse-0" target="_blank"><img src="{{ "/assets/images/profile_pictures/BALASSE_Marie.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marie Balassae</p>
+<p>Muséum National d’Histoire Naturelle - CNRS, Paris, France</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="http://palaeogenetics.com/people/36-2/" target="_blank"><img src="{{ "/assets/images/profile_pictures/DALEN_Love.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Love Dalen</p>
+<p>Stockholm University, Stockholm, Sweden</p>
+<p>Swedish Museum of Natural History, Stockholm, Sweden</p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="https://www.durham.ac.uk/staff/a-r-millard/" target="_blank"><img src="{{ "/assets/images/profile_pictures/MILLARD_Andrew.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Andrew Millard</p>
+<p>Durham University, Durham, UK</p>
+
+</div>
+
+</div>
 <br>
+<p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
