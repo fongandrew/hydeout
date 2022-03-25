@@ -4,7 +4,7 @@ title: Board
 sidebar_link: true
 ---
 
-Current and past board members and meeting organizers are displayed below.
+Current and past board members are displayed below.
 
 <h2>Board of Trustees</h2>
 
