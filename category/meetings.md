@@ -10,7 +10,7 @@ The next International Society on Biomolecular Archaeology (ISBA) meeting will b
 ## Past Meetings
 
 - [ISBA9](https://isba9.sciencesconf.org/), University of Toulouse, France, June 1-4, 2021 (online)
-- [ISBA8](https://www.shh.mpg.de/1068358/8th-international-symposium-on-biomolecular-archaeology-isba-2018), Max Planck Institute for the Science of Human History, Jena, Germany
+- [ISBA8](https://www.shh.mpg.de/1068358/8th-international-symposium-on-biomolecular-archaeology-isba-2018), Max Planck Institute for the Science of Human History, Jena, Germany, September 18-21, 2018
 - [ISBA7](https://www.ucl.ac.uk/human-evolution/events/2016/sep/7th-international-symposium-biomolecular-archaeology), Oxford University, UK, September 14-16, 2016
 - ISBA6, University of Basel, Switzerland, August 27-29, 2014
 - ISBA5, Chinese Academy of Social Sciences, Beijing, China, August 2012
