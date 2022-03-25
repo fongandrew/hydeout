@@ -74,7 +74,13 @@ Current and past board members are displayed below.
 <p>Andrew Millard</p>
 <p>Durham University</p>
 <p>Durham, UK</p>
-
+</div>
+  
+<div class ="member">
+<div class="square"><a href="https://scholar.google.co.jp/citations?user=DdExTn4AAAAJ&hl=en" target="_blank"><img src="{{ "/assets/images/profile_pictures/SHODA_Shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Shinya Shoda</p>
+<p>Nara National Research Institute for Cultural Properties</p>
+<p>Nara, Japan</p>
 </div>
 
 </div>
