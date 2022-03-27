@@ -85,4 +85,11 @@ Current and past board members are displayed below.
 
 </div>
 <br>
+
+<p><b>Governing Documents and Structure</b></p>
 <p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
+
+  <p>- Constitution
+    
+<p><b>Past Board Members</b></p>
+<p>XXXXX</p>
