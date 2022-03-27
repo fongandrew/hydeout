@@ -90,7 +90,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
-<p>Leibniz Institute for Natural Product Research and Infection Biology / Max Planck Institute for Evolutionary Anthropology</p>
+<p>Leibniz Institute for Natural Product Research and Infection Biology</p>
 <p>Germany</p>
 </div>
 
@@ -100,12 +100,4 @@ sidebar_link: true
   <p>- Constitution</p>
 
 <h2>Former ISBA Board and Standing Committee Members</h2>
-Matthew Collins
-Andrew Chamberlain
-<p>Carl Heron</p>
-<p>George Maat</p>
-<p>Peter de Knijff</p>
-<p>Henk Kars</p>
-<p>Kerstin Lidén</p>
-<p>Thomas P Gilbert</p>
-<p>Yaowu Hu</p>
+<p>Matthew Collins, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff, Henk Kars, Kerstin Lidén, Thomas P Gilbert, Yaowu Hu</p>
