@@ -17,6 +17,6 @@ The next International Society on Biomolecular Archaeology (ISBA) meeting will b
 - [ISBA4](https://pure.au.dk/ws/files/34337330/ISBA4_FINAL.pdf), University of Copenhagen, Denmark, September 8-10, 2010
 - [ISBA3](https://www.york.ac.uk/archaeology/ISBA3/), University of York, UK, September 14-16, 2008
 - [ISBA2](https://www.archaeology.su.se/polopoly_fs/1.35651.1320940162!/ISBA2_abstracts.pdf), University of Stockholm, Sweden, September 7-9, 2006
-- ISBA1, University of Amsterdam, the Netherlands, 2004
+- [ISBA1](https://www.geo.vu.nl/bioarchaeo/), Vrije Universiteit Amsterdam, the Netherlands, 2004
 
 ## Latest meeting posts
