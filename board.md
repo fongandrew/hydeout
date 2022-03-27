@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Board
+title: Leadership
 sidebar_link: true
 ---
-
-Current and past board members are displayed below.
 
 <h2>Board of Trustees</h2>
 
@@ -84,12 +82,19 @@ Current and past board members are displayed below.
 </div>
 
 </div>
-<br>
 
-<p><b>Governing Documents and Structure</b></p>
+<h2>Prize Committee</h2>
+<p> Coming soon!</p>
+
+<h2>Webmaster</h2>
+<div class ="member">
+<div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>James Fellows Yates</p>
+<p>Leibniz Institute for Natural Product Research and Infection Biology / Max Planck Institute for Evolutionary Anthropology</p>
+<p>Germany</p>
+</div>
+
+<h2>Governing Documents and Structure</h2>
 <p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
 
-  <p>- Constitution
-    
-<p><b>Past Board Members</b></p>
-<p>XXXXX</p>
+  <p>- Constitution</p>
