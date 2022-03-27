@@ -8,7 +8,7 @@ The International Society for Biomolecular Archaeology (ISBA) is an internationa
 
 ISBA is composed of more than XXX members. [Society membership](https://isbarchaeology.github.io/membership) supports our bi-annual research prizes and awards, as well as micro-grants for workshops. Please see our [Meetings](https://isbarchaeology.github.io/category/meetings) page for information about conference registration and abstract submission. 
 
-ISBA uses Twitter ([#ISBArchaeology](https://twitter.com/ISBArchaeology)), as well as our website, to disseminate the [our latest news](https://isbarchaeology.github.io/category/news) about our upcoming meetings, events, and other activities. We also support a [Career](https://isbarchaeology.github.io/category/career) page for advertising studentships and job listings. 
+ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), as well as our website, to disseminate the [our latest news](https://isbarchaeology.github.io/category/news) about our upcoming meetings, events, and other activities. We also support a [Career](https://isbarchaeology.github.io/category/career) page for advertising studentships and job listings. 
 
 ISBA is governed and structured under rules and regulations set by the [Charity Commission](https://www.gov.uk/government/organisations/charity-commission). See our [Board](https://isbarchaeology.github.io/board) page for more information. 
 
