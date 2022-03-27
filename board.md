@@ -100,8 +100,8 @@ sidebar_link: true
   <p>- Constitution</p>
 
 <h2>Former ISBA Board and Standing Committee Members</h2>
-<p>Matthew Collins</p>
-<p>Andrew Chamberlain</p>
+Matthew Collins
+Andrew Chamberlain
 <p>Carl Heron</p>
 <p>George Maat</p>
 <p>Peter de Knijff</p>
