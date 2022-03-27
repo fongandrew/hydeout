@@ -98,3 +98,14 @@ sidebar_link: true
 <p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
 
   <p>- Constitution</p>
+
+<h2>Former ISBA Board and Standing Committee Members</h2>
+<p>Matthew Collins</p>
+<p>Andrew Chamberlain</p>
+<p>Carl Heron</p>
+<p>George Maat</p>
+<p>Peter de Knijff</p>
+<p>Henk Kars</p>
+<p>Kerstin Lidén</p>
+<p>Thomas P Gilbert</p>
+<p>Yaowu Hu</p>
