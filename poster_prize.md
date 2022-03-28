@@ -12,11 +12,9 @@ announced during the closing session of the meeting.
 
 ### Past Poster Prize Winners
 
-<b>2021</b>
-
+<img align="right" width="300" src="/assets/images/PosterPrize2018.png">
 
 <b>2018</b>
-- Ainash Childebayeva, "XXXX"
-- Rita Austin, "XXXX"
 
-<b>2016</b>
+- <b>Ainash Childebayeva</b>, "Signatures of high-altitude adaptati on in ancient Andeans"
+- <b>Rita Austin</b>, "Human skeletal remains and biomolecular preservation at the Smithsonian Natural History Museum "
