@@ -13,7 +13,7 @@ Best conference poster presented by a student or postdoc.
 Best oral presentation presented by a student or postdoc.
 
 ### [Dissertation Award](/dissertation_award)
-Best dissertation by a PhD student. 
+Outstanding dissertation by a PhD student. 
 
 ### [Distinguished Article Award](/article_award)
 Award for an outstanding article in any peer-reviewed journal judged best in the area of biomolecular archaeology. 
