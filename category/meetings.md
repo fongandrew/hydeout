@@ -26,13 +26,9 @@ The 10th International Symposium on Biomolecular Archaeology (ISBA10) will be he
 
 <b>[ISBA6](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=3707060&type=5)</b>, University of Basel, Switzerland, August 27-29, 2014
 - <b>Organizing Committee:</b> Angela Schlumbaum, Sandra Pichler, Julia Elsner, Simone Häberle, Heidemarie Hüster Plogmann, Jörg Schibler
-- <b>Keynote Speaker:</b> 
-- Conference program
   
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
 - <b>Organizing Committee:</b> HU Yaowu, WU Yan, SHANG Xue, YANG Yimin, Zhang Xuelian, JIANG Hongen, WANG Shuzhi, ZHU Jian, ZHANG Jun, LUO Wugan, Zhao Chunyan
-- <b>Keynote Speaker:</b> 
-- Conference program
   
 <b>ISBA4</b>, University of Copenhagen, Denmark, September 8-10, 2010
 - <b>Organizing Committee:</b> Tom Gilbert, Maria Avila, Paula Campos, Enrico Cappellini, Ludovic Orlando, Tracey Pierre, Hannes Schroeder Cristina Valdiosera, Eske Willerslev
@@ -45,8 +41,6 @@ The 10th International Symposium on Biomolecular Archaeology (ISBA10) will be he
 - [Conference program](https://sites.google.com/a/palaeo.eu/isba3/Home)
   
 <b>ISBA2</b>, University of Stockholm, Sweden, September 7-9, 2006
-- <b>Organizing Committee:</b> 
-- <b>Keynote Speaker:</b>
 - [Conference program](https://www.archaeology.su.se/polopoly_fs/1.35651.1320940162!/ISBA2_abstracts.pdf)
   
 <b>[ISBA1](https://www.geo.vu.nl/bioarchaeo/index-en.html)</b>, Vrije Universiteit Amsterdam, the Netherlands, March 18-20, 2004
