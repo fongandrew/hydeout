@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leadership
+title: Board
 sidebar_link: true
 ---
 
@@ -99,5 +99,5 @@ sidebar_link: true
 
   <p>- Constitution</p>
 
-<h2>Former ISBA Board and Standing Committee Members</h2>
+<h2>Former Members of the Standing Committee and Board</h2>
 <p>Matthew Collins, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff, Henk Kars, Kerstin Lidén, Thomas P Gilbert, Yaowu Hu</p>
