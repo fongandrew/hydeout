@@ -91,7 +91,7 @@ sidebar_link: true
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
 <p>Leibniz Institute for Natural Product Research and Infection Biology</p>
-<p>Germany</p>
+<p>Leipzig, Germany</p>
 </div>
 
 <h2>Governing Documents and Structure</h2>
