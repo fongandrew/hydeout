@@ -27,7 +27,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 _TU Delft_
 - Studying applications of Computer Graphics and Machine Learning to painting analysis, generation, and rendering.
 - Studying fundamentals of geometric deep learning.
-- Additional responsibilities: lecturing, lab assistance, creating assignments.
+- Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 10 BSc students (final course), 2 MSc students.
 - Toolkit: C++, OpenGL, Python, PyTorch, Blender.
 
 <hr />
