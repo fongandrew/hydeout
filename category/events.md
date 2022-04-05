@@ -2,5 +2,6 @@
 layout: category
 title: Events
 ---
-<img align="right" width="300" src="/assets/images/bacteria.png">
+![bacteria](/assets/images/bacteria.jpg)
+
 Events related to the ISBA society and it's members.
