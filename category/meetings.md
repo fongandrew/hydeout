@@ -7,6 +7,8 @@ title: Meetings
 
 The 10th International Symposium on Biomolecular Archaeology (ISBA10) will be held in 2023 in Tartu, Estonia.
 
+![Conference speakers](/assets/images/Conferences.png)
+
 ## Past Meetings
 
 <b>[ISBA9](https://isba9.sciencesconf.org/)</b>, University of Toulouse, France, June 1-4, 2021 (online) 
