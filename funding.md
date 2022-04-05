@@ -3,7 +3,6 @@ layout: page
 title: Funding
 sidebar_link: true
 ---
-
 <img align="right" width="300" src="/assets/images/Ecoli.png">
 
 The ISBA society offers micro-grants for workshops supporting educational, training, and organizational workshops aimed at increasing
