@@ -3,7 +3,19 @@
 To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 Many components also adopted from the [sedaDNA](https://sedadna.github.io) society.
 
-Quick start:
+Quick Start (standard):
+
+- On this repository press <kbd>.</kdb> on your keyboard
+- Open the files you want to edit on the left-hand bar
+- Press <kbd>ctrl</kbd>+<kbd>s</kbd> on each file to save your edits
+- Go to the source control tab (on the left, should have a blue badge with a number indicating the number of files changed)
+- Select all the files you want to publish to the website by pressing the `+` next to each file under the `Change` section
+  - Pressing the `+` should then move the files to the `Stage` section
+- Once you've selected all the files to publish, type in a brief description in the `commit message` box
+- Press the `☑` button to publish!
+- Shut the tab to close the workspace
+
+Quick start (advanced):
 
 - Install Ruby, gems, and Bundle (see above).
 - Clone this repository
