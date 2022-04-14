@@ -36,7 +36,7 @@ sidebar_link: true
   
 <b>[ISBA3](https://www.york.ac.uk/archaeology/ISBA3/)</b>, University of York, UK, September 14-16, 2008
 - <b>Organizing Committee:</b> Matthew Collins, Jane Thomas-Oates, Oliver Craig, Jen Harland, Hannah Koon, Enrico Cappellini, YANG Yue, Beatrice Demarchi, Caroline Solazzo, Kirsty Penkman
-- <b>Keynote Speaker:<b/> Keith Dobney
+- <b>Keynote Speaker:</b> Keith Dobney
 - [Conference program](https://sites.google.com/a/palaeo.eu/isba3/Home)
   
 <b>ISBA2</b>, University of Stockholm, Sweden, September 7-9, 2006
