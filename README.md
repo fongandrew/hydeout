@@ -42,6 +42,10 @@ Tips and tricks for theming the website website:
 - To change order of sidebar pages update `includes/sidebar.html`
 - To add custom CSS classes (e.g. the membership/contact buttons), modify `assets/css/main.scss`
 
+Domain forarding stuff
+
+- Set up following this fantastic tutorial: https://emilymdubois.medium.com/using-a-squarespace-domain-with-github-pages-438951d4f5b7
+
 ## Acknowledgments
 
 This webpage is based forked from the Hydeout theme originally by
