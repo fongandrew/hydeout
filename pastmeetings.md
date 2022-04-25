@@ -28,7 +28,7 @@ sidebar_link: true
   
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
 - <b>Organizing Committee:</b> Yaowu Hu, Yan Wu, Xue Shang, Yimin Yang, Xuelian Zhang, Hongen Jiang, Shuzhi Wang, Jian Zhu, Jun Zhang, Wugan Luo, Chunyan Zhao
-- [Conference program] (/assets/images/ISBA5 final)
+- [Conference program] (/assets/images/ISBA5 final programme.pdf)
   
 <b>ISBA4</b>, University of Copenhagen, Denmark, September 8-10, 2010
 - <b>Organizing Committee:</b> Tom Gilbert, Maria Avila, Paula Campos, Enrico Cappellini, Ludovic Orlando, Tracey Pierre, Hannes Schroeder Cristina Valdiosera, Eske Willerslev
