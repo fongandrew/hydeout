@@ -19,7 +19,7 @@ sidebar_link: true
 - [Conference program](https://www.shh.mpg.de/1070374/isba2018_programm.pdf)
 
 <b>[ISBA7](https://www.ucl.ac.uk/human-evolution/events/2016/sep/7th-international-symposium-biomolecular-archaeology)</b>, Oxford University, UK, September 14-16, 2016
-- <b>Organizing Committee:</b> Greger Larson
+- <b>Organizing Committee:</b> Greger Larson, Hannah Ryan, James Haile, Laurent Frantz, Richard Allen, Anna Linderholm, Liisa Loog, Ophelie Lebrasseur, Evan Irving-Pease, Evangelos Dimopoulos, Alexandra Jamieson, Alexandra Trinks, Heidi Eager, Monica Luca, Guo-Dong Wang, Irina Velsko, Claire Perriton, Robyn Mason
 - <b>Keynote Speaker:</b> Matthew Collins
 - [Conference program](http://palaeobarn.com/sites/default/files/documents/ISBA7%20-%20handbook%20120916%20-%20final%20for%20repro.pdf)
 
@@ -27,7 +27,8 @@ sidebar_link: true
 - <b>Organizing Committee:</b> Angela Schlumbaum, Sandra Pichler, Julia Elsner, Simone Häberle, Heidemarie Hüster Plogmann, Jörg Schibler
   
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
-- <b>Organizing Committee:</b> HU Yaowu, WU Yan, SHANG Xue, YANG Yimin, Zhang Xuelian, JIANG Hongen, WANG Shuzhi, ZHU Jian, ZHANG Jun, LUO Wugan, Zhao Chunyan
+- <b>Organizing Committee:</b> Yaowu Hu, Yan Wu, Xue Shang, Yimin Yang, Xuelian Zhang, Hongen Jiang, Shuzhi Wang, Jian Zhu, Jun Zhang, Wugan Luo, Chunyan Zhao
+- [Conference program] (/assets/images/ISBA5 final)
   
 <b>ISBA4</b>, University of Copenhagen, Denmark, September 8-10, 2010
 - <b>Organizing Committee:</b> Tom Gilbert, Maria Avila, Paula Campos, Enrico Cappellini, Ludovic Orlando, Tracey Pierre, Hannes Schroeder Cristina Valdiosera, Eske Willerslev
@@ -40,6 +41,8 @@ sidebar_link: true
 - [Conference program](https://sites.google.com/a/palaeo.eu/isba3/Home)
   
 <b>ISBA2</b>, University of Stockholm, Sweden, September 7-9, 2006
+- <b>Organizing Committee:</b> Gunilla Eriksson, Lena Holmquist, Sven Isaksson
+- <b>Keynote Speaker:</b> Julia Lee-Thorpe
 - [Conference program](https://www.archaeology.su.se/polopoly_fs/1.35651.1320940162!/ISBA2_abstracts.pdf)
   
 <b>[ISBA1](https://www.geo.vu.nl/bioarchaeo/index-en.html)</b>, Vrije Universiteit Amsterdam, the Netherlands, March 18-20, 2004
