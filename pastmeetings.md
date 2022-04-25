@@ -6,8 +6,6 @@ sidebar_link: true
 
 ![Conference speakers](/assets/images/Conferences.png)
 
-## Past Meetings
-
 <b>[ISBA9](https://isba9.sciencesconf.org/)</b>, University of Toulouse, France, June 1-4, 2021 (online) 
 - <b>Organizing Committee:</b> Ludovic Orlando, Clio der Sarkissian, Morgane Gibert, Xavier Mata, Catherine, Mollereau-Manauté, Andaine Seguin-Orlando, Catherine Theves, Stefanie Wagner
 - <b>Keynote Speakers:</b> Tamsin O'Connell, Christina Warinner
