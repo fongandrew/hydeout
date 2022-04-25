@@ -4,6 +4,8 @@ title: Membership
 sidebar_link: true
 ---
 
+![Faunal_bone](/assets/images/faunal_bone.png)
+
 Membership fees are described in the table below.
 
 | Type     | Cost | Duration |
