@@ -37,3 +37,8 @@ sidebar_home_link: true
 
 future: true
 comments: false
+
+membership:
+  paypal:
+    text: Membership # Button text
+    id: 7334HG9754 # PayPal button ID
