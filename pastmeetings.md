@@ -28,7 +28,6 @@ sidebar_link: true
   
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
 - <b>Organizing Committee:</b> Yaowu Hu, Yan Wu, Xue Shang, Yimin Yang, Xuelian Zhang, Hongen Jiang, Shuzhi Wang, Jian Zhu, Jun Zhang, Wugan Luo, Chunyan Zhao
-- <a href="https://github.com/ISBArch/ISBArch.github.io/assets/images/ISBA5_Programme.pdf" target="_blank">Conference program</a>
 - [Conference program](/assets/images/ISBA5_Programme.pdf)
   
 <b>ISBA4</b>, University of Copenhagen, Denmark, September 8-10, 2010
