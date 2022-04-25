@@ -15,8 +15,7 @@ To pay for membership, please select the corresponding membership type from the
 drop down menu below, and press the **Pay Now** button to enter your payment
 details with PayPal.
 
-> Note you **do not** need a PayPal account to pay. Please press 'continue without
-> a guest account' or 'pay with credit or debit card' (or similar).
+> Note you **do not** need a PayPal account to pay. If you choose to pay by a different method, please press 'pay with credit or debit card' or 'continue without a guest account'.
 
 ⚒️ _Temporary button for testing, do not use_
 
