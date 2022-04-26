@@ -4,7 +4,7 @@ title: Poster Prize
 sidebar_link: false
 ---
 
-The <b>Best Poster Prize</b> is awarded by the International Society for Biomolecular Archaeology for the best poster presented at the
+The <b>Future Fellows Poster Prize</b> is awarded by the International Society for Biomolecular Archaeology for the best poster presented at the
 biennial ISBA meetings by a student or postdoc. 
 
 All student and postdoc posters are eligible and are evaluated by the Prize Committee at the biennial meeting. The winners are 
