@@ -83,6 +83,9 @@ sidebar_link: true
 
 </div>
 
+<h2>ISBA10 Organizing Committee</h2>
+<p> Coming soon!</p>
+
 <h2>Prize Committee</h2>
 <p> Coming soon!</p>
 
