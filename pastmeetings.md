@@ -4,7 +4,11 @@ title: Past Meetings
 sidebar_link: true
 ---
 
-![Conference speakers](/assets/images/Conferences.png)
+<p align="right" width="500" style="font-size: 8pt">© Petra K. (@petrathepostdoc)</p>
+<div align="right">
+<img align="right" src="/assets/images/Conferences.png">
+
+</div>
 
 <img align="right" width="200" src="/assets/images/ISBA9_logo.png">
 <b>[ISBA9](https://isba9.sciencesconf.org/)</b>, University of Toulouse, France, June 1-4, 2021 (online) 
@@ -25,14 +29,16 @@ sidebar_link: true
 - [Conference program](http://palaeobarn.com/sites/default/files/documents/ISBA7%20-%20handbook%20120916%20-%20final%20for%20repro.pdf)
 
 <b>[ISBA6](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=3707060&type=5)</b>, University of Basel, Switzerland, August 27-29, 2014
+
 - <b>Organizing Committee:</b> Angela Schlumbaum, Sandra Pichler, Julia Elsner, Simone Häberle, Heidemarie Hüster Plogmann, Jörg Schibler, Barbara Stopp
-- <b>Keynote Speaker:</b> Terry Brown  
+- <b>Keynote Speaker:</b> Terry Brown
 - [Conference program](/assets/images/ISBA6_Programme.pdf)
 
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
+
 - <b>Organizing Committee:</b> Yaowu Hu, Yan Wu, Xue Shang, Yimin Yang, Xuelian Zhang, Hongen Jiang, Shuzhi Wang, Jian Zhu, Jun Zhang, Wugan Luo, Chunyan Zhao
 - [Conference program](/assets/images/ISBA5_Programme.pdf)
-  
+
 <img align="right" width="200" src="/assets/images/ISBA4_logo.png">
 <b>ISBA4</b>, University of Copenhagen, Denmark, September 8-10, 2010
 - <b>Organizing Committee:</b> Tom Gilbert, Maria Avila, Paula Campos, Enrico Cappellini, Ludovic Orlando, Tracey Pierre, Hannes Schroeder Cristina Valdiosera, Eske Willerslev
