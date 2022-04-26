@@ -27,6 +27,7 @@ sidebar_link: true
 <b>[ISBA6](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=3707060&type=5)</b>, University of Basel, Switzerland, August 27-29, 2014
 - <b>Organizing Committee:</b> Angela Schlumbaum, Sandra Pichler, Julia Elsner, Simone Häberle, Heidemarie Hüster Plogmann, Jörg Schibler, Barbara Stopp
 - <b>Keynote Speaker:</b> Terry Brown  
+- [Conference program](/assets/images/ISBA6_Programme.pdf)
 
 <b>[ISBA5](http://www.kaogu.cn/en/International_exchange/Academic_activities___/2013/1025/30986.html)</b>, Chinese Academy of Social Sciences, Beijing, China, August 2012
 - <b>Organizing Committee:</b> Yaowu Hu, Yan Wu, Xue Shang, Yimin Yang, Xuelian Zhang, Hongen Jiang, Shuzhi Wang, Jian Zhu, Jun Zhang, Wugan Luo, Chunyan Zhao
