@@ -14,8 +14,6 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 <img align="left" width="100" src="/assets/images/MeganMichel.jpg">
 <b>Megan Michel</b>, Harvard University & MPI-EVA, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
-
 <br clear="left">
-
 <img align="left" width="100" src="/assets/images/AndersBergstroem.jpg">
   <b>Anders Bergström</b>, Crick Institute, "Pleistocene wolf dynamics and the ancestry of dogs"
