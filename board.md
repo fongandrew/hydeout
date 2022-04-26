@@ -100,4 +100,4 @@ sidebar_link: true
   <p>- Constitution</p>
 
 <h2>Former Members of the Standing Committee and Board</h2>
-<p>Matthew Collins, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff, Henk Kars, Kerstin Lidén, Thomas P Gilbert, Yaowu Hu</p>
+<p>Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff</p>
