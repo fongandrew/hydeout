@@ -11,5 +11,10 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 ### Past Presentation Prize Winners
 
 <b>2021</b>
-- Megan Michel, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
-- Anders Bergström, "Pleistocene wolf dynamics and the ancestry of dogs"
+
+<img align="left" width="100" src="/assets/images/MeganMichel.jpg">
+Megan Michel, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
+
+<br>
+<img align="left" width="100" src="/assets/images/AndersBergstroem.jpg">
+Anders Bergström, "Pleistocene wolf dynamics and the ancestry of dogs"
