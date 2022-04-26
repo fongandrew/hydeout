@@ -18,11 +18,13 @@ announced during the closing session of the meeting.
 <img align="left" width="100" src="/assets/images/ZandraFagernaes.jpg"> 
 <b>Zandra Fagernäs</b>, MPI-EVA, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
 <br clear="left">
+<br clear="left">
 
 <b>2018</b>
 
 <img align="left" width="100" src="/assets/images/AinashChildebayeva.jpg"> 
 <b>Ainash Childebayeva</b>, University of Chicago, "Signatures of high-altitude adaptati on in ancient Andeans"
+<br clear="left">
 <br clear="left">
 
 <img align="left" width="100" src="/assets/images/RitaAustin.jpg"> 
