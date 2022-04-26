@@ -7,10 +7,10 @@ sidebar_link: true
 <img align="right" width="300" src="/assets/images/Tanerella.png">
 The ISBA society presents the following prizes and awards at the biennial ISBA meeting:
 
-### [Poster Prize](/poster_prize)
+### [Future Fellows Poster Prize](/poster_prize)
 Best conference poster presented by a student or postdoc.
 
-### [Presentation Prize](/presentation_prize)
+### [Future Fellows Presentation Prize](/presentation_prize)
 Best oral presentation presented by a student or postdoc.
 
 ### [Dissertation Award](/dissertation_award)
