@@ -13,8 +13,9 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 <b>2021</b>
 
 <img align="left" width="100" src="/assets/images/MeganMichel.jpg">
-Megan Michel, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
+<b>Megan Michel</b>, Harvard University & MPI-EVA, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
 
-<br>
+<br clear="left">
+
 <img align="left" width="100" src="/assets/images/AndersBergstroem.jpg">
-Anders Bergström, "Pleistocene wolf dynamics and the ancestry of dogs"
+  <b>Anders Bergström</b>, Crick Institute, "Pleistocene wolf dynamics and the ancestry of dogs"
