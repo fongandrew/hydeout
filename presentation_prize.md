@@ -13,4 +13,3 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 <b>2021</b>
 - Megan Michel, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
 - Anders Bergström, "Pleistocene wolf dynamics and the ancestry of dogs"
--
