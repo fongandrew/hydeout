@@ -4,6 +4,7 @@ title: Poster Prize
 sidebar_link: false
 ---
 
+<img align="right" width="300" src="/assets/images/PosterPrize2018.png">
 The <b>Future Fellows Poster Prize</b> is awarded by the International Society for Biomolecular Archaeology for the best poster presented at the
 biennial ISBA meetings by a student or postdoc. 
 
@@ -12,12 +13,14 @@ announced during the closing session of the meeting.
 
 ### Past Poster Prize Winners
 
-<b>2019</b>
+<b>2021</b>
 
-- <b>Zandra Fagernäs</b>, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
+<img align="left" width="100" src="/assets/images/ZandraFagernaes.jpg" <b>Zandra Fagernäs</b>, MPI-EVA, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
+<br clear="left">
 
-<img align="right" width="300" src="/assets/images/PosterPrize2018.png">
 <b>2018</b>
 
-- <b>Ainash Childebayeva</b>, "Signatures of high-altitude adaptati on in ancient Andeans"
-- <b>Rita Austin</b>, "Human skeletal remains and biomolecular preservation at the Smithsonian Natural History Museum "
+<img align="left" width="100" src="/assets/images/AinashChildebayeva.jpg" <b>Ainash Childebayeva</b>, University of Chicago, "Signatures of high-altitude adaptati on in ancient Andeans"
+<br clear="left">
+<img align="left" width="100" src="/assets/images/RitaAustin.jpg" <b>Rita Austin</b>, University of Oklahoma, "Human skeletal remains and biomolecular preservation at the Smithsonian Natural History Museum"
+<br clear="left">
