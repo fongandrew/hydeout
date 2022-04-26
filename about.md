@@ -7,7 +7,7 @@ sidebar_link: true
 
 The International Society for Biomolecular Archaeology (ISBA) is an international community of researchers working on degraded biological remains from a range of archaeological, paleoanthropological, and paleontological contexts. The society aims to promote the study of ancient biomolecules to better understand our shared human past. 
 
-ISBA sponsors a biennial [ISBA conference](/category/meetings.md) that has grown to more than 600 international participants since its [founding in 2004](/pastmeetings.md). [Society membership](/membership) supports our biennial [research prizes and awards](/awards), as well as [micro-grants](/funding) for workshops. Please see our [Meetings](/category/meetings) page for information about conference registration and abstract submission. 
+ISBA organizes a biennial [ISBA conference](/category/meetings.md) that has grown to more than 600 international participants since its [founding in 2004](/pastmeetings.md). [Society membership](/membership) supports our biennial [research prizes and awards](/awards), as well as [micro-grants](/funding) for workshops. Please see our [Meetings](/category/meetings) page for information about conference registration and abstract submission. 
 
 ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), as well as our website, to disseminate the [our latest news](/category/news) about our upcoming meetings, events, and other activities. For more information about or upcoming and past events, please see our [Events](/events) page. Information about advertised studentships and job listings are available on our [Career](/category/career) page. 
 
