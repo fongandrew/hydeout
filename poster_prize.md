@@ -14,6 +14,10 @@ announced during the closing session of the meeting.
 
 <img align="right" width="300" src="/assets/images/PosterPrize2018.png">
 
+<b>2019</b>
+
+- <b>Zandra Fagernäs</b>, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
+
 <b>2018</b>
 
 - <b>Ainash Childebayeva</b>, "Signatures of high-altitude adaptati on in ancient Andeans"
