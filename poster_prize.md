@@ -23,7 +23,7 @@ announced during the closing session of the meeting.
 <b>2018</b>
 
 <img align="left" width="100" src="/assets/images/AinashChildebayeva.jpg"> 
-<b>Ainash Childebayeva</b>, University of Chicago, "Signatures of high-altitude adaptati on in ancient Andeans"
+<b>Ainash Childebayeva</b>, University of Chicago, "Signatures of high-altitude adaptation in ancient Andeans"
 <br clear="left">
 <br clear="left">
 
