@@ -11,6 +11,6 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 ### Past Presentation Prize Winners
 
 <b>2021</b>
-- Megan Michel, "XXXX"
+- Megan Michel, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
 -
 -
