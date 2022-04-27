@@ -21,5 +21,5 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 <b>2016</b>
 
-<img align="left" width="100" src="/assets/images/Mikkel_Sinding.jpg">
+<img align="left" width="90" src="/assets/images/Mikkel_Sinding.jpg">
 <b>Mikkel-Holger S. Sinding</b>, University of Copenhagen, "Characterizing ancient and modern genomes with PALEOMIX"
