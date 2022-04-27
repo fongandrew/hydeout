@@ -26,6 +26,7 @@ sidebar_link: true
 <b>[ISBA7](https://www.ucl.ac.uk/human-evolution/events/2016/sep/7th-international-symposium-biomolecular-archaeology)</b>, Oxford University, UK, September 14-16, 2016
 - <b>Organizing Committee:</b> Greger Larson, Hannah Ryan, James Haile, Laurent Frantz, Richard Allen, Anna Linderholm, Liisa Loog, Ophelie Lebrasseur, Evan Irving-Pease, Evangelos Dimopoulos, Alexandra Jamieson, Alexandra Trinks, Heidi Eager, Monica Luca, Guo-Dong Wang, Irina Velsko, Claire Perriton, Robyn Mason
 - <b>Keynote Speaker:</b> Matthew Collins
+- <b>Closing Speaker:</b> Ian Barnes
 - [Conference program](http://palaeobarn.com/sites/default/files/documents/ISBA7%20-%20handbook%20120916%20-%20final%20for%20repro.pdf)
 
 <b>[ISBA6](https://forschdb2.unibas.ch/inf2/rm_projects/object_view.php?r=3707060&type=5)</b>, University of Basel, Switzerland, August 27-29, 2014
