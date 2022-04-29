@@ -97,6 +97,14 @@ sidebar_link: true
 <p>Leipzig, Germany</p>
 </div>
 
+<h2>Social Media Coordinator</h2>
+<div class ="member">
+<div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<p>Sam Brown</p>
+<p>University of Tübingen</p>
+<p>Tübingen, Germany</p>
+</div>
+
 <h2>Governing Documents and Structure</h2>
 <p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
 
