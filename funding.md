@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 <img align="right" width="300" src="/assets/images/PXL_20210915_140350906.jpg">
 
-The ISBA society offers micro-grants for workshops supporting educational, training, and organizational workshops aimed at increasing
+ISBA offers micro-grants for workshops supporting educational, training, and organizational workshops aimed at increasing
 capacity and supporting research in biomolecular archaeology. Typical micro-grants range from 200-600 euros, with a maximum award amount of 1000 euros.
 
 All society members are eligible to apply. Applications are evaluated on a rolling basis. See our upcoming and past ISBA-supported workshops on our [Events](/category/events.md) page.
