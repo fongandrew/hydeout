@@ -99,7 +99,7 @@ sidebar_link: true
 
 <h2>Social Media Coordinator</h2>
 <div class ="member">
-<div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sam Brown</p>
 <p>University of Tübingen</p>
 <p>Tübingen, Germany</p>
