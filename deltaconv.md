@@ -65,6 +65,8 @@ A simple example on images illustrates the difference with other convolution lay
 
 <img src="assets/img/publications/deltaconv/astronaut-20.png" class="featured" width="90%">
 
+*Courtesy [NASA](https://www.flickr.com/photos/nasacommons/16504233985/).*
+
 ## Learn more
 
 Find out more about DeltaConv in our paper, or come see our (virtual) presentation at SIGGRAPH 2022.
