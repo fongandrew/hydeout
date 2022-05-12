@@ -41,9 +41,9 @@ A classical way of creating anisotropic operators is to write the Laplacian as t
 
 <img src="assets/img/publications/deltaconv/deltaconv_schematic.png" class="featured" width="70%">
 
-- **DeltaConv is anisotropic** The building blocks of DeltaConv allow it to construct anisotropic operators. An example is the anisotropic diffusion operator of Perona and Malik.
+- **DeltaConv is anisotropic** The building blocks of DeltaConv allow it to construct anisotropic operators. A simple architecture with only a few DeltaConv blocks demonstrates state-of-the-art performance on several benchmarks.
 
-- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs.
+- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs. Our implementation is [available on github](https://github.com/rubenwiersma/deltaconv) and PyPI: `pip install deltaconv`.
 
 - **DeltaConv generalizes across representations** We implemented DeltaConv for point clouds and images, but the building blocks generalize to other representations. For example, an implementation for meshes could use finite element discretizations or discrete exterior calculus.
 
@@ -55,7 +55,7 @@ The result is an intrinsic and anisotropic convolution layer that can be used in
 
 ## Results
 
-DeltaConv achieves state-of-the-art results in a simple architecture: 93.8% accuracy on ModelNet40, 86.9mIoU on ShapeNet, and 84.7% accuracy on the most difficult variant of ScanObjectNN. Meanwhile, it's faster than previous edge-based convolutions, because it represents directional features at points instead of edges.
+DeltaConv achieves state-of-the-art results in a simple architecture: **93.8% accuracy on ModelNet40, 86.9mIoU on ShapeNet, and 84.7% accuracy on the most difficult variant of ScanObjectNN**. Meanwhile, it's faster than previous edge-based convolutions, because it represents directional features at points instead of edges.
 
 A simple example on images illustrates the difference with other convolution layers for point clouds. We apply a classical anisotropic diffusion operator (Perona-Malik) on images and overfit a ResNet with different convolution layers on the result. DeltaConv is able to approximate the anisotropic diffusion process and is also able to mimic different diffusion times, where other convolutions struggle.
 
