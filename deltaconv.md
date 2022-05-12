@@ -15,7 +15,11 @@ sidebar_link: false
       href="https://github.com/rubenwiersma/deltaconv" target="_blank">
     <i class="fa fa-2x fa-github"></i> Code</a>&nbsp;&nbsp;
 <a id="pdf-link"
-      class="icon" title="HSN PDF" aria-label="PDF link"
+      class="icon" title="DeltaConv PDF" aria-label="PDF link"
+      href="/assets/pdf/DeltaConv.pdf" target="_blank">
+    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
+<a id="pdf-link"
+      class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
       href="/assets/pdf/DeltaConv.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
@@ -71,6 +75,10 @@ Find out more about DeltaConv in our paper, or come see our (virtual) presentati
     <i class="fa fa-2x fa-github"></i> Code</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
+      href="/assets/pdf/DeltaConv.pdf" target="_blank">
+    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
+<a id="pdf-link"
+      class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
       href="/assets/pdf/DeltaConv.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
