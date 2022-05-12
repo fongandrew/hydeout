@@ -18,8 +18,8 @@ authors: "R. Wiersma, A. Nasikun, E. Eisemann and K. Hildebrandt"
 type: "Article"
 doi: "10.1145/3528223.3530166"
 pdf: "https://arxiv.org/abs/2111.08799"
-projectpage: "/hsn"
-code: "https://github.com/rubenwiersma/hsn"
+projectpage: "/deltaconv"
+code: "https://github.com/rubenwiersma/deltaconv"
 img: "/assets/img/publications/deltaconv/deltaconv.png"
 bib: "@Article{WiersmaDeltaConv2022,<br />
   &nbsp;&nbsp;author    = {Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt},<br />
