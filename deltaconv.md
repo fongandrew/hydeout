@@ -27,10 +27,7 @@ sidebar_link: false
 Learning from 3D point-cloud data has rapidly gained momentum, motivated by the success of deep learning on images and the increased availability of 3D data. In this paper, we aim to construct anisotropic convolution layers that work directly on the surface derived from a point cloud. This is challenging because of the lack of a global coordinate system for tangential directions on surfaces. We introduce DeltaConv, a convolution layer that combines geometric operators from vector calculus to enable the construction of anisotropic filters on point clouds. Because these operators are defined on scalar- and vector-fields, we separate the network into a scalar- and a vector-stream, which are connected by the operators. The vector stream enables the network to explicitly represent, evaluate, and process directional information. Our convolutions are robust and simple to implement and match or improve on state-of-the-art approaches on several benchmarks, while also speeding up training and inference.
 
 ## Summary
-Our focus is on constructing intrinsic convolutions which are anisotropic or direction-dependent. This is difficult because of the fundamental challenge that surfaces typically lack a global intrinsic coordinate system.
-
-As an illustration of the problem, consider a CNN on images. Because an image has a globally consistent up-direction, the network can build anisotropic filters that activate the same way across the image.
-For example, one filter can test for vertical edges and the other for horizontal edges. No matter where the edges are in the image, the filter response is consistent. In subsequent layers, the output of these filters can be combined, e.g., to find a corner.
+Anisotropic convolution is a central building block of CNNs but challenging to transfer to surfaces: Consider a CNN on images. Because an image has a globally consistent up-direction, the network can build anisotropic filters that activate the same way across the image.
 
 <img src="assets/img/publications/deltaconv/intro.png" class="featured" width="50%">
 
@@ -44,7 +41,7 @@ A classical way of creating anisotropic operators is to write the Laplacian as t
 
 <img src="assets/img/publications/deltaconv/deltaconv_schematic.png" class="featured" width="70%">
 
-DeltaConv is easy to implement: you only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs.
+**DeltaConv is easy to implement** you only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs.
 
 ## Results
 
