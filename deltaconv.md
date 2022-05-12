@@ -21,7 +21,7 @@ sidebar_link: false
 <a id="pdf-link"
       class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
       href="/assets/pdf/DeltaConv.pdf" target="_blank">
-    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
+    <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
@@ -80,7 +80,7 @@ Find out more about DeltaConv in our paper, or come see our (virtual) presentati
 <a id="pdf-link"
       class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
       href="/assets/pdf/DeltaConv.pdf" target="_blank">
-    <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
+    <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
