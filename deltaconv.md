@@ -55,7 +55,7 @@ The result is an intrinsic and anisotropic convolution layer that can be used in
 
 ## Results
 
-DeltaConv achieves state-of-the-art results in a simple architecture: **93.8% accuracy on ModelNet40, 86.9mIoU on ShapeNet, and 84.7% accuracy on the most difficult variant of ScanObjectNN**. Meanwhile, it's faster than previous edge-based convolutions, because it represents directional features at points instead of edges.
+DeltaConv achieves state-of-the-art results in a simple architecture: **93.8% accuracy** on ModelNet40, **86.9mIoU** on ShapeNet, and **84.7% accuracy** on the most difficult variant of ScanObjectNN. Meanwhile, it's faster than previous edge-based convolutions, because it represents directional features at points instead of edges.
 
 A simple example on images illustrates the difference with other convolution layers for point clouds. We apply a classical anisotropic diffusion operator (Perona-Malik) on images and overfit a ResNet with different convolution layers on the result. DeltaConv is able to approximate the anisotropic diffusion process and is also able to mimic different diffusion times, where other convolutions struggle.
 
