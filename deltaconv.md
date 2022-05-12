@@ -16,7 +16,7 @@ sidebar_link: false
     <i class="fa fa-2x fa-github"></i> Code</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
-      href="https://arxiv.org/abs/2111.08799" target="_blank">
+      href="/assets/pdf/DeltaConv.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
@@ -71,7 +71,7 @@ Find out more about DeltaConv in our paper, or come see our (virtual) presentati
     <i class="fa fa-2x fa-github"></i> Code</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="HSN PDF" aria-label="PDF link"
-      href="https://arxiv.org/abs/2111.08799" target="_blank">
+      href="/assets/pdf/DeltaConv.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Paper PDF</a>&nbsp;&nbsp;
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
