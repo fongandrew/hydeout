@@ -18,7 +18,9 @@ authors: "R. Wiersma, A. Nasikun, E. Eisemann and K. Hildebrandt"
 type: "Article"
 doi: "10.1145/3528223.3530166"
 pdf: "https://arxiv.org/abs/2111.08799"
-img: "/assets/img/publications/deltaconv_feature.png"
+projectpage: "/hsn"
+code: "https://github.com/rubenwiersma/hsn"
+img: "/assets/img/publications/deltaconv/deltaconv.png"
 bib: "@Article{WiersmaDeltaConv2022,<br />
   &nbsp;&nbsp;author    = {Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt},<br />
   &nbsp;&nbsp;title     = {DeltaConv: Anisotropic Geometric Deep Learning with Exterior Calculus},<br />
