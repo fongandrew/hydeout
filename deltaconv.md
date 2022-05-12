@@ -41,11 +41,11 @@ A classical way of creating anisotropic operators is to write the Laplacian as t
 
 <img src="assets/img/publications/deltaconv/deltaconv_schematic.png" class="featured" width="70%">
 
-- **DeltaConv is anisotropic** The building blocks allow DeltaConv to construct anisotropic operators. An example is the anisotropic diffusion operator of Perona and Malik.
+- **DeltaConv is anisotropic** The building blocks of DeltaConv allow it to construct anisotropic operators. An example is the anisotropic diffusion operator of Perona and Malik.
 
 - **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs.
 
-- **DeltaConv works on other representations** We implemented DeltaConv for point clouds and images, but the building blocks generalize to other representations. For example, an implementation for meshes could use finite element discretizations or discrete exterior calculus.
+- **DeltaConv generalizes across representations** We implemented DeltaConv for point clouds and images, but the building blocks generalize to other representations. For example, an implementation for meshes could use finite element discretizations or discrete exterior calculus.
 
 - **DeltaConv is coordinate-independent** Because each geometric operator is coordinate-independent, the network as a whole is independent to local choices of coordinate systems.
 
