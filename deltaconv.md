@@ -59,7 +59,7 @@ DeltaConv achieves state-of-the-art results in a simple architecture: 93.8% accu
 
 A simple example on images illustrates the difference with other convolution layers for point clouds. We apply a classical anisotropic diffusion operator (Perona-Malik) on images and overfit a ResNet with different convolution layers on the result. DeltaConv is able to approximate the anisotropic diffusion process and is also able to mimic different diffusion times, where other convolutions struggle.
 
-<img src="assets/img/publications/deltaconv/astronaut-20.png" class="featured" width="80%">
+<img src="assets/img/publications/deltaconv/astronaut-20.png" class="featured" width="90%">
 
 ## Learn more
 
