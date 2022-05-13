@@ -47,7 +47,7 @@ A classical way of creating anisotropic operators is to write the Laplacian as t
 
 - **DeltaConv is anisotropic** The building blocks of DeltaConv allow it to construct anisotropic operators. A simple architecture with only a few DeltaConv blocks demonstrates state-of-the-art performance on several benchmarks.
 
-- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs. Our implementation is [available on github](https://github.com/rubenwiersma/deltaconv) and soon on PyPI.
+- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs. Our implementation is [available on github](https://github.com/rubenwiersma/deltaconv) and you can install it with pip: `pip install deltaconv`.
 
 - **DeltaConv generalizes across representations** We implemented DeltaConv for point clouds and images, but the building blocks generalize to other representations. For example, an implementation for meshes could use finite element discretizations or discrete exterior calculus.
 
