@@ -19,6 +19,9 @@ announced during the closing session of the meeting.
 <b>Zandra Fagernäs</b>, MPI-EVA, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
 <br clear="left">
 
+<b>Eleanor Green</b>, York?NHM, "Dredging up genomes: leveraging submerged human remains to understand life and death around the River Thames"
+<br clear="left">
+
 <b>2018</b>
 
 <img align="left" width="100" src="/assets/images/AinashChildebayeva.jpg"> 
