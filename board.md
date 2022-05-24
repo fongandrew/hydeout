@@ -4,7 +4,7 @@ title: Board
 sidebar_link: true
 ---
 
-<h2>Board of Trustees</h2>
+## Board of Trustees
 
 <!-- Admin Roles -->
 
@@ -119,15 +119,18 @@ sidebar_link: true
   
 </div>
 
-<h2>Governing Documents and Structure</h2>
-<p>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.<p>
+## Governing Documents and Structure
 
-  <p>- [Constitution](/assets/images/ISBA_CIO_Founding_Constitution.pdf)</p>
+The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.
 
-<h3>Former Members of the Standing Committee and Board</h3>
-<p>Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff</p>
+- [Constitution](/assets/images/ISBA_CIO_Founding_Constitution.pdf)
 
-<h3>Founding Members of the Society Working Groups</h3>
-<p>- <b>Constitution working group:</b> Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler</p>
-<p>- <b>Finance working group:</b> Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib</p>
-<p>- <b>Website working group:</b> Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale, Alice Toso</p>
+### Former Members of the Standing Committee and Board
+
+Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+
+### Founding Members of the Society Working Groups
+
+- **Constitution working group**: Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler
+- **Finance working group**: Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib
+- **Website working group**: Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale, Alice Toso
