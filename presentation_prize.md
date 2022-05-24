@@ -23,3 +23,18 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 <img align="left" width="90" src="/assets/images/Mikkel_Sinding.jpg">
 <b>Mikkel-Holger S. Sinding</b>, University of Copenhagen, "Characterizing ancient and modern genomes with PALEOMIX"
+<br clear="left">
+
+<b>2010</b>
+
+<b>Pete Heintzman</b>, "Phylogeography of Ice Age Beringian Beetles: an Ancient DNA Approach"
+<br clear="left">
+
+<b>2008</b>
+
+<b>Meirav Meiri</b>, "Phylogeography, Ancient DNA and the Post-Glacial Recolonisation of Europe"
+<br clear="left">
+
+<b>Ian Barnes</b>, "Introduction to Population Genetics"
+<br clear="left">
+

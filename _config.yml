@@ -6,7 +6,7 @@ highlighter: rouge
 title: ISBA
 tagline: "International Society for Biomolecular Archaeology"
 description: "International Society for Biomolecular Archaeology"
-url: https://fongandrew.github.io
+url: https://isbarch.org
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -17,7 +17,7 @@ baseurl:
 
 author:
   name: "ISBA Society"
-  url: https://twitter.com/fongandrewc
+  url: https://twitter.com/isbarchaeology
 
 paginate: 5
 # paginate_path:    '/page:num'
