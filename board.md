@@ -125,10 +125,10 @@ sidebar_link: true
 
   <p>- [Constitution](/assets/images/ISBA_CIO_Founding_Constitution.pdf)</p>
 
-<h3>Former Members of the Standing Committee and Board</h2>
+<h3>Former Members of the Standing Committee and Board</h3>
 <p>Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff</p>
 
 <h3>Founding Members of the Society Working Groups</h3>
-- <b>Constitution working group:</b> Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler
-- <b>Finance working group:</b> Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib
-- <b>Website working group:</b> Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale, Alice Toso
+<p>- <b>Constitution working group:</b> Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler</p>
+<p>- <b>Finance working group:</b> Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib</p>
+<p>- <b>Website working group:</b> Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale, Alice Toso</p>
