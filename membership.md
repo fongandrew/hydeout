@@ -38,4 +38,4 @@ details with PayPal.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to XYZ
+👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to the [ISBA Secretary](/board.md). 
