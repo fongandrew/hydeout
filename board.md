@@ -125,11 +125,11 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 - [Constitution](/assets/images/ISBA_CIO_Founding_Constitution.pdf)
 
-### Former Members of the Standing Committee and Board
+#### Former Members of the Standing Committee and Board
 
 Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
-### Founding Members of the Society Working Groups
+#### Founding Members of the Society Working Groups
 
 - **Constitution working group**: Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler
 - **Finance working group**: Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib
