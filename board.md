@@ -89,10 +89,14 @@ sidebar_link: true
 <h2>Prize Committee</h2>
 <p> Coming soon!</p>
 
-<h2>Webmaster</h2>
+<h2>Offices</h2>
+
+<div class="avatar">
+  
 <div class ="member">
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
+<p><b>Webmaster</b></p>
 <p>Leibniz Institute for Natural Product Research and Infection Biology</p>
 <p>Leipzig, Germany</p>
 </div>
@@ -101,8 +105,19 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sam Brown</p>
+<p><b>Social Media Coordinator</b></p>
 <p>University of Tübingen</p>
 <p>Tübingen, Germany</p>
+</div>
+  
+<div class ="member">
+<div class="square"><a href="https://scholar.google.co.jp/citations?user=DdExTn4AAAAJ&hl=en" target="_blank"><img src="{{ "/assets/images/profile_pictures/SHODA_Shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Shinya Shoda</p>
+<p><b>Diversity and Inclusion Officer</b></p>
+<p>Nara National Research Institute for Cultural Properties</p>
+<p>Nara, Japan</p>
+</div>
+  
 </div>
 
 <h2>Governing Documents and Structure</h2>
