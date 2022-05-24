@@ -3,9 +3,9 @@ layout: category
 title: Upcoming Meeting
 ---
 
-<p align="right" width="500" style="font-size: 8pt">© Petra K. (@petrathepostdoc)</p>
-<div align="right">
-<img align="right" width="500" src="/assets/images/meetingheader.png">
+<p align="center" width="500" style="font-size: 8pt">© Petra K. (@petrathepostdoc)</p>
+<div align="center">
+<img align="center" width="500" src="/assets/images/meetingheader.png">
 
 </div>
 
