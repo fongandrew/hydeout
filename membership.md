@@ -7,9 +7,10 @@ sidebar_link: true
 ![Faunal_bone](/assets/images/faunal_bone.png)
 
 ### Benefits of membership
-ISBA sponsors a wide range of initiatves to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts. 
 
-Membership is required for ISBA conference registration. 
+ISBA sponsors a wide range of initiatves to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
+
+Membership is required for ISBA conference registration.
 
 Membership fees are described in the table below.
 
@@ -38,4 +39,4 @@ details with PayPal.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to the [ISBA Treasurer](/board.md). 
+👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to the [ISBA Treasurer](/board).
