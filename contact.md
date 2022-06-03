@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-sidebar_link: true
+sidebar_link: false
 ---
 
 ![Green_tubes](/assets/images/green_tubes.jpg)
