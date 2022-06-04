@@ -55,6 +55,14 @@ layout: default
               border: 0px solid #929292; border-bottom-width: 1px; width:60%; margin:0 auto 20px;
             }
 
+            .cell img {
+              display: block;
+              margin: 0 0 1rem;
+            }
+            .responsive-image {
+              max-width: 100%;
+            }
+
 
 /* tablet version */
   @media screen and (min-width: 600px) {
@@ -75,6 +83,18 @@ layout: default
           text-align: left;
           word-break: break-word;
             }
+
+            .grid {
+              display: flex;
+              flex-wrap: wrap;
+              flex-direction: row;
+              justify-content: center;
+
+            }
+            .cell {
+              width: calc(50% - 2rem);
+              margin: 0 1rem 1rem;
+            }
   }
 
 /* desktop version */
@@ -90,6 +110,19 @@ layout: default
   flex-wrap: nowrap;
   width: 140vh;
   max-height: 100vh;
+    }
+
+.grid {
+      display: flex;
+      /* min-width: 1010px; */
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: center;
+    }
+
+.cell {
+      width: calc(33.3333% - 2rem);
+      margin: 0 1rem 1rem;
     }
 
 .image {
