@@ -22,10 +22,14 @@ sidebar_link: false
       class="icon" title="DeltaConv supplement PDF" aria-label="PDF link"
       href="/assets/pdf/DeltaConv_supplement.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
-<a id="pdf-link"
+<a id="cite-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
-    <i class="fa fa-2x fa-quote-right"></i> Cite</a>
+    <i class="fa fa-2x fa-quote-right"></i> Cite</a>&nbsp;&nbsp;
+<a id="replication-link"
+      class="icon" title="Replicability Stamp" aria-label="Replicability Stamp"
+      href="http://www.replicabilitystamp.org/#https-github-com-rubenwiersma-deltaconv">
+    <i class="fa fa-2x fa-star-o"></i> Replicability Stamp</a>
 
 ## Abstract
 Learning from 3D point-cloud data has rapidly gained momentum, motivated by the success of deep learning on images and the increased availability of 3D data. In this paper, we aim to construct anisotropic convolution layers that work directly on the surface derived from a point cloud. This is challenging because of the lack of a global coordinate system for tangential directions on surfaces. We introduce DeltaConv, a convolution layer that combines geometric operators from vector calculus to enable the construction of anisotropic filters on point clouds. Because these operators are defined on scalar- and vector-fields, we separate the network into a scalar- and a vector-stream, which are connected by the operators. The vector stream enables the network to explicitly represent, evaluate, and process directional information. Our convolutions are robust and simple to implement and match or improve on state-of-the-art approaches on several benchmarks, while also speeding up training and inference.
@@ -47,7 +51,7 @@ A classical way of creating anisotropic operators is to write the Laplacian as t
 
 - **DeltaConv is anisotropic** The building blocks of DeltaConv allow it to construct anisotropic operators. A simple architecture with only a few DeltaConv blocks demonstrates state-of-the-art performance on several benchmarks.
 
-- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs. Our implementation is [available on github](https://github.com/rubenwiersma/deltaconv) and soon on PyPI.
+- **DeltaConv is easy to implement** You only need two sparse matrices that represent gradient and divergence. Everything else can be implemented with matrix multiplication and standard MLPs. Our implementation is [available on github](https://github.com/rubenwiersma/deltaconv) and you can install it with pip: `pip install deltaconv`.
 
 - **DeltaConv generalizes across representations** We implemented DeltaConv for point clouds and images, but the building blocks generalize to other representations. For example, an implementation for meshes could use finite element discretizations or discrete exterior calculus.
 
@@ -86,7 +90,11 @@ Find out more about DeltaConv in our paper, or come see our (virtual) presentati
 <a id="pdf-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
-    <i class="fa fa-2x fa-quote-right"></i> Cite</a>
+    <i class="fa fa-2x fa-quote-right"></i> Cite</a>&nbsp;&nbsp;
+<a id="replication-link"
+      class="icon" title="Replicability Stamp" aria-label="Replicability Stamp"
+      href="http://www.replicabilitystamp.org/#https-github-com-rubenwiersma-deltaconv">
+    <i class="fa fa-2x fa-star-o"></i> Replicability Stamp</a>
 
 ## Contact
 r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
