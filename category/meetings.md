@@ -68,5 +68,7 @@ function showSlides() {
   setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
 </script>
+  
+Conference website and registration information coming soon!
 
 ## Latest meeting posts
