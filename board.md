@@ -116,7 +116,12 @@ The 10th ISBA “New Horizons” will be organized by the [University of Tartu, 
 <p>kadri.irdt@ut.ee</p>
 </div>
 
-
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Marcel_Keller.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Marcel Keller</p>
+<p>Institute of Genomics</p>
+<p>marcel.keller@ut.ee</p>
+</div>
 
 
 
