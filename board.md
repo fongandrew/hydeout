@@ -123,17 +123,43 @@ The 10th ISBA “New Horizons” will be organized by the [University of Tartu, 
 <p>marcel.keller@ut.ee</p>
 </div>
 
-
-
-
-
-
 <div class ="member">
 <div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Aivar_Kriiska.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Aivar Kriiska</p>
 <p>Institute of History and Archaeology</p>
 <p>aivar.kriiska@ut.ee</p>
 </div>
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Alena_Kushniarevich.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alena Kushniarevich</p>
+<p>Institute of Genomics</p>
+<p>alena.kushniarevich@ut.ee</p>
+</div>
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Toni de Dios.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Toni de Dios Martínez</p>
+<p>Institute of Genomics</p>
+<p>toni.de.dios.martinez@ut.ee</p>
+</div>
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Alessandra_Morrone.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Allesandra Morrone</p>
+<p>Institute of History and Archaeology</p>
+<p>alessandra.morrone@ut.ee</p>
+</div>
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Ester_Oras.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ester Oras</p>
+<p>Institute of History and Archaeology</p>
+<p>ester.oras@ut.ee</p>
+</div>
+
+
+
 
 </div>
 
