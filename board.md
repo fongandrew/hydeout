@@ -84,8 +84,39 @@ sidebar_link: true
 </div>
 
 <h2>ISBA10 Organizing Committee</h2>
+The 10th ISBA “New Horizons” will be organized by the [University of Tartu, Estonia](https://ut.ee/en). The organizing committee consists of scientists from the Institute of History and Archaeology, Institute of Genomics and Institute of Chemistry.
 
 <div class="avatar">
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Mait_Metspalu.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mait Metspalu</p>
+<p>Institute of Genomics</p>
+<p>mait.metspalu@ut.ee</p>
+</div>
+  
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Mari_Torv.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Mari Tõrv</p>
+<p>Institute of History and Archaeology, Institute of Chemistry</p>
+<p>mari.torv@ut.ee</p>
+</div>
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Meriam_Guellil.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Meriam Guellil</p>
+<p>Institute of Genomics</p>
+<p>meriam.guellil@ut.ee</p>
+</div>
+
+
+
+
+
+
+
+
+
 
 <div class ="member">
 <div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Aivar_Kriiska.jpg" | relative_url }}" alt="Avatar" /></a></div>
