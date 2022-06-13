@@ -16,10 +16,6 @@ title: Upcoming Meeting
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/Mana Kaasik.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
     <img src="/assets/images/ISBA10/Mana Kaasik_2.jpg" style="width:100%">
   </div>
 
