@@ -109,7 +109,12 @@ The 10th ISBA “New Horizons” will be organized by the [University of Tartu, 
 <p>meriam.guellil@ut.ee</p>
 </div>
 
-
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Kadri_Irdt.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Kadri Irdt</p>
+<p>Institute of Genomics</p>
+<p>kadri.irdt@ut.ee</p>
+</div>
 
 
 
