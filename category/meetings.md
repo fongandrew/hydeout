@@ -11,6 +11,8 @@ title: Upcoming Meeting
 
 ## Next ISBA Meeting
 
+![](/assets/images/ISBA10/51705917198_87fdab0e4a_Mana Kaasik.jpg)
+
 The 10th International Symposium on Biomolecular Archaeology (ISBA10) "New Horizons" will be held on 13-16 September 2023 in Tartu, Estonia at the [Estonian National Museum](https://www.erm.ee/en).
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8363.440008148!2d26.7463007!3d58.3957606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b484674469f1cea!2sEstonian%20National%20Museum!5e0!3m2!1sen!2sde!4v1655117216882!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
