@@ -84,7 +84,17 @@ sidebar_link: true
 </div>
 
 <h2>ISBA10 Organizing Committee</h2>
-<p> Coming soon!</p>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><img src="{{ "/assets/images/ISBA10_organizers/Aivar_Kriiska.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Aivar Kriiska</p>
+<p>Institute of History and Archaeology</p>
+<p>aivar.kriiska@ut.ee</p>
+</div>
+
+</div>
 
 <h2>Prize Committee</h2>
 <p> Coming soon!</p>
