@@ -8,33 +8,39 @@ The <b>Future Fellows Presentation Prize</b> is awarded by the International Soc
 
 All student and postdoc oral presentations are eligible and are evaluated by the Prize Committee at the biennial meeting. The winners are announced during the closing session of the meeting.
 
-### Past Presentation Prize Winners
+## Past Presentation Prize Winners
 
-<b>2021</b>
+### 2021
 
-<img align="left" width="100" src="/assets/images/MeganMichel.jpg">
-<b>Megan Michel</b>, Harvard University & MPI-EVA, "Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"
-<br clear="left">
-<img align="left" width="100" src="/assets/images/AndersBergstroem.jpg">
-<b>Anders Bergström</b>, Crick Institute, "Pleistocene wolf dynamics and the ancestry of dogs"
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/MeganMichel.jpg">
+<b>Megan Michel</b>, Harvard University / Max Planck Institute for Evolutionary Anthropology, <br>
+<i>"Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"</i>
 <br clear="left">
 
-<b>2016</b>
-
-<img align="left" width="90" src="/assets/images/Mikkel_Sinding.jpg">
-<b>Mikkel-Holger S. Sinding</b>, University of Copenhagen, "Characterizing ancient and modern genomes with PALEOMIX"
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/AndersBergstroem.jpg">
+<b>Anders Bergström</b>, Crick Institute, <br>
+<i>"Pleistocene wolf dynamics and the ancestry of dogs"</i>
 <br clear="left">
 
-<b>2010</b>
+### 2016
 
-<b>Pete Heintzman</b>, "Phylogeography of Ice Age Beringian Beetles: an Ancient DNA Approach"
+<img align="left" style="margin-right: 10px;" width="90" src="/assets/images/Mikkel_Sinding.jpg">
+<b>Mikkel-Holger S. Sinding</b>, University of Copenhagen, <br>
+<i>"Population Genomics of Greenlandic polar wolves"</i>
 <br clear="left">
 
-<b>2008</b>
+### 2010
 
-<b>Meirav Meiri</b>, "Phylogeography, Ancient DNA and the Post-Glacial Recolonisation of Europe"
+<b>Pete Heintzman</b>, <br>
+<i>"Phylogeography of Ice Age Beringian Beetles: an Ancient DNA Approach"</i>
 <br clear="left">
 
-<b>Ian Barnes</b>, "Introduction to Population Genetics"
+### 2008
+
+<b>Meirav Meiri</b>, <br>
+<i>"Phylogeography, Ancient DNA and the Post-Glacial Recolonisation of Europe"</i>
 <br clear="left">
 
+<b>Ian Barnes</b>,<br>
+<i>"Introduction to Population Genetics"</i>
+<br clear="left">

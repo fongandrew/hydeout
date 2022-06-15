@@ -6,28 +6,44 @@ sidebar_link: false
 
 <img align="right" width="300" src="/assets/images/PosterPrize2018.png">
 The <b>Future Fellows Poster Prize</b> is awarded by the International Society for Biomolecular Archaeology for the best poster presented at the
-biennial ISBA meetings by a student or postdoc. 
+biennial ISBA meetings by a student or postdoc.
 
-All student and postdoc posters are eligible and are evaluated by the Prize Committee at the biennial meeting. The winners are 
+All student and postdoc posters are eligible and are evaluated by the Prize Committee at the biennial meeting. The winners are
 announced during the closing session of the meeting.
 
-### Past Poster Prize Winners
+## Past Poster Prize Winners
 
-<b>2021</b>
+### 2021
 
-<img align="left" width="100" src="/assets/images/ZandraFagernaes.jpg"> 
-<b>Zandra Fagernäs</b>, MPI-EVA, "Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/ZandraFagernaes.jpg">
+<b>Zandra Fagernäs</b>, Max Planck Institute for Evolutionary Anthropology, <br>
+<i>"Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"</i>
 <br clear="left">
 
-<b>Eleanor Green</b>, York/NHM, "Dredging up genomes: leveraging submerged human remains to understand life and death around the River Thames"
+<b>Eleanor Green</b>, University of York/National History Museum (London, UK), <br>
+<i>"Dredging up genomes: leveraging submerged human remains to understand life and death around the River Thames"</i>
 <br clear="left">
 
-<b>2018</b>
+### 2018
 
-<img align="left" width="100" src="/assets/images/AinashChildebayeva.jpg"> 
-<b>Ainash Childebayeva</b>, University of Chicago, "Signatures of high-altitude adaptation in ancient Andeans"
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/AinashChildebayeva.jpg">
+<b>Ainash Childebayeva</b>, University of Chicago, <br>
+<i>"Signatures of high-altitude adaptation in ancient Andeans"</i>
 <br clear="left">
 
-<img align="left" width="100" src="/assets/images/RitaAustin.jpg"> 
-<b>Rita Austin</b>, University of Oklahoma, "Human skeletal remains and biomolecular preservation at the Smithsonian Natural History Museum"
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/RitaAustin.jpg">
+<b>Rita Austin</b>, University of Oklahoma, <br>
+<i>"Human skeletal remains and biomolecular preservation at the Smithsonian Natural History Museum"</i>
+<br clear="left">
+
+### 2016
+
+<b>Tatiana Feueborn</b>, University of Tübingen, <br>
+<i>"Genetic Identification of Canid in High Altitude Palaeoindian Peruvian Site"</i>
+<br clear="left">
+
+### 2006
+
+<b>Enrico Cappellini</b>, University of York, <br>
+<i>"Proteomics on archaeological samples: A useful approach? Identification of ancient proteins from archaeological grape seeds"</i>
 <br clear="left">
