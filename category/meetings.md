@@ -16,37 +16,33 @@ title: Upcoming Meeting
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/Mana Kaasik_1.jpg" style="width:100%">
+    <div class="text">Mana Kaasik</div>
+  </div>
+
+  <div class="mySlides fade">
     <img src="/assets/images/ISBA10/Mana Kaasik_2.jpg" style="width:100%">
+    <div class="text">Mana Kaasik</div>
   </div>
 
   <div class="mySlides fade">
     <img src="/assets/images/ISBA10/Ragnar Vutt.jpg" style="width:100%">
+    <div class="text">Ragnar Vutt</div>
   </div>
 
   <div class="mySlides fade">
     <img src="/assets/images/ISBA10/Simo Sepp.jpg" style="width:100%">
+    <div class="text">Simo Sepp</div>
   </div>
 
   <div class="mySlides fade">
     <img src="/assets/images/ISBA10/Tarmo Haud.jpg" style="width:100%">
+    <div class="text">Tarmo Haud</div>
   </div>
 
-  <!-- Next and previous buttons -->
-
-<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-<a class="next" onclick="plusSlides(1)">&#10095;</a>
-
 </div>
 
-<!-- The dots/circles -->
-<!--
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-</div>
--->
-
-The 10th International Symposium on Biomolecular Archaeology (ISBA10) "New Horizons" will be held on 13-16 September 2023 in Tartu, Estonia at the [Estonian National Museum](https://www.erm.ee/en).
+The 10th International Symposium on Biomolecular Archaeology (ISBA10) "New Horizons" will be held on 13-16 September 2023 in Tartu, Estonia at the [Estonian National Museum](https://www.erm.ee/en) - the upcoming the culture capital of Europe in 2024
 
 <div align="center">
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d8363.440008148!2d26.7463007!3d58.3957606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b484674469f1cea!2sEstonian%20National%20Museum!5e0!3m2!1sen!2sde!4v1655117216882!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
