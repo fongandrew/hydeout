@@ -169,7 +169,7 @@ The 10th ISBA “New Horizons” will be organized by the [University of Tartu, 
 
 <div class ="member">
 <div class="square"><a href="https://ut.ee/en/institute-history-and-archaeology" target="_blank"><img src="{{ "/assets/images/ISBA10_organizers/Alessandra_Morrone.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Allesandra Morrone</p>
+<p>Alessandra Morrone</p>
 <p>Institute of History and Archaeology</p>
 <p>alessandra.morrone@ut.ee</p>
 </div>
