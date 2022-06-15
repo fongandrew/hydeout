@@ -31,16 +31,16 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 ### 2010
 
-<b>Pete Heintzman</b>, <br>
+<b>Pete Heintzman</b>, Royal Holloway University of London<br>
 <i>"Phylogeography of Ice Age Beringian Beetles: an Ancient DNA Approach"</i>
 <br clear="left">
 
 ### 2008
 
-<b>Meirav Meiri</b>, <br>
+<b>Meirav Meiri</b>, Royal Holloway University of London<br>
 <i>"Phylogeography, Ancient DNA and the Post-Glacial Recolonisation of Europe"</i>
 <br clear="left">
 
-<b>Ian Barnes</b>,<br>
+<b>Ian Barnes</b>, Royal Holloway University of London<br>
 <i>"Introduction to Population Genetics"</i>
 <br clear="left">
