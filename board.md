@@ -120,7 +120,7 @@ sidebar_link: true
 
 The International Society for Biomolecular Archaeology (ISBA) is in the process of becoming a Charitable Incorporated Organisation registered in England.
 
-- [Constitution](/assets/images/ISBA_CIO_Founding_Constitution.pdf)
+- [Constitution](/assets/documents/society/ISBA_CIO_Founding_Constitution.pdf)
 
 #### Former Members of the Standing Committee and Board
 

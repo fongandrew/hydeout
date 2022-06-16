@@ -4,7 +4,7 @@ title: Membership
 sidebar_link: true
 ---
 
-![Faunal_bone](/assets/images/faunal_bone.png)
+![Faunal_bone](/assets/images/banners/faunal_bone.png)
 
 ### Benefits of membership
 

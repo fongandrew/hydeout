@@ -10,32 +10,32 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 ## Past Presentation Prize Winners
 
-### 2021
+### 2021 - ISBA9
 
-<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/MeganMichel.jpg">
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/MICHEL_Megan.jpg">
 <b>Megan Michel</b>, Harvard University / Max Planck Institute for Evolutionary Anthropology, <br>
 <i>"Coevolution and Cariogenicity: Analysis of 80 Ancient Streptococcus mutans Genomes Spanning the Neolithic Transition"</i>
 <br clear="left">
 
-<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/AndersBergstroem.jpg">
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/BERGSTROM_Anders.jpg">
 <b>Anders Bergström</b>, Crick Institute, <br>
 <i>"Pleistocene wolf dynamics and the ancestry of dogs"</i>
 <br clear="left">
 
-### 2016
+### 2016 - ISBA7
 
-<img align="left" style="margin-right: 10px;" width="90" src="/assets/images/Mikkel_Sinding.jpg">
+<img align="left" style="margin-right: 10px;" width="90" src="/assets/images/profile_pictures/SINDING_Mikkel.jpg">
 <b>Mikkel-Holger S. Sinding</b>, University of Copenhagen, <br>
 <i>"Population Genomics of Greenlandic polar wolves"</i>
 <br clear="left">
 
-### 2010
+### 2010 - ISBA4
 
 <b>Pete Heintzman</b>, Royal Holloway University of London<br>
 <i>"Phylogeography of Ice Age Beringian Beetles: an Ancient DNA Approach"</i>
 <br clear="left">
 
-### 2008
+### 2008 - ISBA3
 
 <b>Meirav Meiri</b>, Royal Holloway University of London<br>
 <i>"Phylogeography, Ancient DNA and the Post-Glacial Recolonisation of Europe"</i>

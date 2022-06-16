@@ -4,7 +4,7 @@ title: Code of Conduct
 sidebar_link: true
 ---
 
-![Gas_line](/assets/images/gas_line.jpg)
+![Gas_line](/assets/images/banners/gas_line.jpg)
 
 ## Code of Conduct for ISBA meetings
 
@@ -18,11 +18,10 @@ Certain behaviours are unacceptable, including any form of harassment, intimidat
 
 ### Reporting unacceptable behaviour
 
-If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Diversity and Inclusion Officer Dr. Shinya Shoda (shinya.shoda@york.ac.uk), or any other member of the conference committee. 
+If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Diversity and Inclusion Officer Dr. Shinya Shoda (shinya.shoda@york.ac.uk), or any other member of the conference committee.
 
 Anyone experiencing or witnessing behaviour that constitutes an immediate or serious threat to public safety, or behavior that constitutes a criminal act, is expected to contact the appropriate law enforcement agency. Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.
 
-### Digital images and social media 
+### Digital images and social media
 
 Do not photograph a poster or record a talk without the author’s expressed permission. Our default assumption is to allow open discussion of presentations on social media; however, attendees are expected to respect any request by an author to not disseminate the contents of their talk or poster.
-

@@ -4,7 +4,7 @@ title: Awards
 sidebar_link: true
 ---
 
-<img align="right" width="300" src="/assets/images/Tanerella.png">
+<img align="right" width="300" src="/assets/images/misc/Tanerella.png">
 ISBA presents the following prizes and awards at the biennial ISBA meeting:
 
 ### [Future Fellows Poster Prize](/poster_prize)
