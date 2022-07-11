@@ -34,6 +34,8 @@ sidebar_link: false
 ## Abstract
 Learning from 3D point-cloud data has rapidly gained momentum, motivated by the success of deep learning on images and the increased availability of 3D data. In this paper, we aim to construct anisotropic convolution layers that work directly on the surface derived from a point cloud. This is challenging because of the lack of a global coordinate system for tangential directions on surfaces. We introduce DeltaConv, a convolution layer that combines geometric operators from vector calculus to enable the construction of anisotropic filters on point clouds. Because these operators are defined on scalar- and vector-fields, we separate the network into a scalar- and a vector-stream, which are connected by the operators. The vector stream enables the network to explicitly represent, evaluate, and process directional information. Our convolutions are robust and simple to implement and match or improve on state-of-the-art approaches on several benchmarks, while also speeding up training and inference.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pKVtuz4dG0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" style="margin: 50px auto" allowfullscreen></iframe>
+
 ## Summary
 Anisotropic convolution is a central building block of CNNs but challenging to transfer to surfaces: Consider a CNN on images. Because an image has a globally consistent up-direction, the network can build anisotropic filters that activate the same way across the image.
 

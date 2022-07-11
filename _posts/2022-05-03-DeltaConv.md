@@ -21,10 +21,15 @@ pdf: "https://arxiv.org/abs/2111.08799"
 projectpage: "/deltaconv"
 code: "https://github.com/rubenwiersma/deltaconv"
 img: "/assets/img/publications/deltaconv/deltaconv.png"
-bib: "@Article{WiersmaDeltaConv2022,<br />
-  &nbsp;&nbsp;author    = {Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt},<br />
-  &nbsp;&nbsp;title     = {DeltaConv: Anisotropic Geometric Deep Learning with Exterior Calculus},<br />
-  &nbsp;&nbsp;year      = {2022},<br />
-  &nbsp;&nbsp;url      = {https://arxiv.org/abs/2111.08799}<br />
+bib: "@Article{Wiersma2022DeltaConv,<br />
+  author    = {Ruben Wiersma, Ahmad Nasikun, Elmar Eisemann, Klaus Hildebrandt},<br />
+  journal   = {Transactions on Graphics},<br />
+  title     = {DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds},<br />
+  year      = {2022},<br />
+  month     = jul,<br />
+  number    = {4},<br />
+  volume    = {41},<br />
+  doi       = {10.1145/3528223.3530166},<br />
+  publisher = {ACM},<br />
 }"
 ---
