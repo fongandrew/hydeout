@@ -98,7 +98,7 @@ _SIGGRAPH research and career development committee_
 <hr/>
 
 #### [2020 - present] Reviewer
-_ACM Transactions on Graphics, Pacific Graphics_
+_ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics_
 
 <hr/>
 
