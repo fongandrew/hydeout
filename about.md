@@ -84,7 +84,10 @@ _GoPublic_
 
 <hr/>
 
-<span class="post-type">Volunteering</span>
+<span class="post-type">Service</span>
+
+#### [Summer 2022] Summer Geometry Initiative mentor
+- Mentoring a group of fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
