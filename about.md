@@ -91,6 +91,8 @@ _GoPublic_
 #### [Summer 2022] Summer Geometry Initiative mentor
 - Mentoring a group of fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
+<hr/>
+
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
 - Organizing conference coffee event (social event) at SIGGRAPH '21.
