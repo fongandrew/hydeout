@@ -9,7 +9,8 @@ I am a third-year PhD student at the [Computer Graphics and Visualization group 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
 
 Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
-Profile picture: sculpt, hair, textures in Blender by me; rendered with Cycles.
+
+Profile picture: sculpt, hair, textures in Blender, rendered with Cycles.
 
 ### Contact
 - r.t.wiersma [at] tudelft.nl
