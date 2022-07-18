@@ -6,8 +6,9 @@ highlighter:      rouge
 title:            Yongs Data Homepage
 tagline:          'A Jekyll theme'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+url:              https://fongandrew.github.io
+baseurl:          '/hydeout'
+                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
@@ -29,8 +30,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-# Custom vars
-version:            3.6.0
+# Sidebar link settings
 sidebar_home_link:  true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
