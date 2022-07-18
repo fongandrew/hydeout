@@ -18,8 +18,8 @@
       {% endfor %}
 
       {% if category_page %}
-        <a href="{{ site.baseurl }}{{ category_page.url }}">
-          {{ category }}
+        <a href="{{ category_page.url | relative_url }}">
+          {{ category_page.title | default: category_page.category }}
         </a>
       {% else %}
         {{ category }}

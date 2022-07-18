@@ -26,4 +26,9 @@ Simply wrap embeds with a `<div>` element and the appropriate classes:
 <div class="embed-responsive embed-responsive-4by3">
   <iframe class="embed-responsive-item" src="..."></iframe>
 </div>
+
+<!-- responsive iframe. The framesize reduces proportionately when viewing in mobile -->
+<div class="video-container">
+  <iframe class="embed-responsive-item" src="..."></iframe>
+</div>
 ```
