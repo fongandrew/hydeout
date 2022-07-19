@@ -3,7 +3,7 @@
 To develop this website, you should following the [GitHub Pages documentation](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 Many components also adopted from the [sedaDNA](https://sedadna.github.io) society.
 
-Quick Start (standard):
+Quick Start (standard: edit via github, and wait for website to re-render to test):
 
 - On this repository press <kbd>.</kdb> on your keyboard
 - Open the files you want to edit on the left-hand bar
@@ -15,7 +15,7 @@ Quick Start (standard):
 - Press the `☑` button to publish!
 - Shut the tab to close the workspace
 
-Quick start (advanced):
+Quick start (advanced: run local server on our laptop to see changes in real time):
 
 - Install Ruby, gems, and Bundle (see above).
 - Clone this repository
@@ -31,7 +31,8 @@ Adding content:
 - To add new posts (e.g. news, events, career, meetings) to a news-like page, add your new post to `posts/`, and add the coresponding `categories:` tag.
 - To allow display posts with a date in the future, put `future: true` in `_config.yml` (already set here by defualt)
 - To modify the general information about these pages, update the corresponding `.md` file under `category.md`
-- To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository.
+- To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository
+- Add files/photos under `assets/` however please keep this 'tidy' in sub-folders and informative file names
 
 Tips and tricks for theming the website website:
 
