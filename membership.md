@@ -8,6 +8,8 @@ sidebar_link: true
 
 ### Benefits of membership
 
+<p style="font-size:40px"> ⚠️ Membership is NOT yet live! Please do not send money! </p>
+
 ISBA sponsors a wide range of initiatves to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
 Membership is required for ISBA conference registration.
@@ -24,6 +26,8 @@ drop down menu below, and press the **Pay Now** button to enter your payment
 details with PayPal.
 
 > Note you **do not** need a PayPal account to pay. If you choose to pay by a different method, please press 'pay with credit or debit card' or 'continue without a guest account'.
+
+<p style="font-size:40px"> ⚠️ Membership is NOT yet live! Please do not send money! </p>
 
  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
