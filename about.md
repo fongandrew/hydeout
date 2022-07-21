@@ -14,6 +14,8 @@ ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), the [
 
 ISBA is governed and structured under rules and regulations set by the [Charity Commission](https://www.gov.uk/government/organisations/charity-commission). See our [Board](/board) page for more information.
 
+> 🛈 The International Society for Biomolecular Archaeology (ISBA) is in the process of becoming a Charitable Incorporated Organisation registered in England.
+
 ## History
 
 <img align="right" width="300" src="/assets/images/misc/tube_rack.png">

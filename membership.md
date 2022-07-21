@@ -25,7 +25,7 @@ To pay for membership, please select the corresponding membership type from the
 drop down menu below, and press the **Pay Now** button to enter your payment
 details with PayPal.
 
-> Note you **do not** need a PayPal account to pay. If you choose to pay by a different method, please press 'pay with credit or debit card' or 'continue without a guest account'.
+> 🛈 You **do not** need a PayPal account to pay. If you choose to pay by a different method, please press 'pay with credit or debit card' or 'continue without a guest account'.
 
 <p style="font-size:40px"> ⚠️ Membership is NOT yet live! Please do not send money! </p>
 
@@ -43,4 +43,6 @@ details with PayPal.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to the [ISBA Treasurer](/board).
+👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (letter from supervisor, institutional certificate etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+
+For any other enquiries please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).

@@ -35,6 +35,7 @@ sidebar_link: true
 <p><b>Treasurer (Provisional)</b></p>
 <p>British Museum</p>
 <p>London, UK</p>
+<p><b><a href="mailto: treasurer@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -43,6 +44,7 @@ sidebar_link: true
 <p><b>Secretary (Provisional)</b></p>
 <p>University of York</p>
 <p>York, UK</p>
+<p><b><a href="mailto: board@isbarch.org">Contact</a></b></p>
 </div>
 
 </div>
@@ -91,8 +93,9 @@ sidebar_link: true
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
 <p><b>Webmaster</b></p>
-<p>Leibniz Institute for Natural Product Research and Infection Biology</p>
-<p>Leipzig, Germany</p>
+<p>Leibniz Institute for Natural Product Research and Infection Biology, Jena, Germany</p>
+<p>MPI-EVA, Leipzig, Germany</p>
+<p><b><a href="mailto: webmaster@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -101,6 +104,7 @@ sidebar_link: true
 <p><b>Social Media Coordinator</b></p>
 <p>University of Tübingen</p>
 <p>Tübingen, Germany</p>
+<p><b><a href="mailto: media@isbarch.org">Contact</a></b></p>
 </div>
   
 <div class ="member">
@@ -109,6 +113,7 @@ sidebar_link: true
 <p><b>Diversity and Inclusion Officer</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
 <p>Nara, Japan</p>
+<p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
 </div>
   
 </div>

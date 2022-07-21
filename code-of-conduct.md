@@ -18,7 +18,7 @@ Certain behaviours are unacceptable, including any form of harassment, intimidat
 
 ### Reporting unacceptable behaviour
 
-If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Diversity and Inclusion Officer Dr. Shinya Shoda (shinya.shoda@york.ac.uk), or any other member of the ISBA Board or Conference Committee.
+If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Diversity and Inclusion Officer Dr. Shinya Shoda ([ombudsperson@isbarch.org](mailto:ombudsperson@isbarch.org)), or any other member of the ISBA Board or Conference Committee.
 
 Anyone experiencing or witnessing behaviour that constitutes an immediate or serious threat to public safety, or behavior that constitutes a criminal act, is expected to contact the appropriate law enforcement agency. Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.
 
