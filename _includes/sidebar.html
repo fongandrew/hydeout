@@ -8,7 +8,8 @@
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        {{ site.title }}
+        <img style="display:block;margin-left:auto;margin-right:auto;width:50%" src="/assets/images/logos/ISBA_logo-5-transparentwhite.png" alt="ISBA Society" width="50%"/>
+        <!-- {{ site.title }} -->
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
