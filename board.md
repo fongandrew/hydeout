@@ -79,6 +79,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://scholar.google.co.jp/citations?user=DdExTn4AAAAJ&hl=en" target="_blank"><img src="{{ "/assets/images/profile_pictures/SHODA_Shinya.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Shinya Shoda</p>
+  <p><b>Ombudsperson (Provisional)</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
 <p>Nara, Japan</p>
 </div>
