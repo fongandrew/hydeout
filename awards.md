@@ -21,4 +21,4 @@ Prize for an outstanding publication by a student in a first author role.
 
 ### [Distinguished Article Award](/article_award)
 
-Award for an outstanding article in any peer-reviewed journal judged best in the area of biomolecular archaeology.
+Award for an outstanding article in a peer-reviewed journal in the area of biomolecular archaeology.
