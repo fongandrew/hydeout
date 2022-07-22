@@ -136,4 +136,4 @@ Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Th
 
 - **Constitution working group**: Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler
 - **Finance working group**: Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib
-- **Website working group**: Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale, Alice Toso
+- **Website working group**: Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale
