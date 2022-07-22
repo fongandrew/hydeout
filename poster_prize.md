@@ -20,7 +20,7 @@ announced during the closing session of the meeting.
 <i>"Potential of archaeogenetic studies of dental calculus to shed light on past human migrations in the Pacific"</i>
 <br clear="left">
 
-<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/GREEN_Eleanor.jpg">
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="100" src="/assets/images/profile_pictures/GREEN_Eleanor.jpg">
 <b>Eleanor Green</b>, University of York/National History Museum (London, UK), <br>
 <i>"Dredging up genomes: leveraging submerged human remains to understand life and death around the River Thames"</i>
 <br clear="left">
