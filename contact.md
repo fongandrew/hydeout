@@ -10,7 +10,7 @@ sidebar_link: true
 
 ## Mailing List
 
-You can post relevant announcements (events, jobs, opportunities, etc.) to the ISBA Society mailing list at [isbarch@jiscmail.ac.uk](mailto:isbarch@jiscmail.ac.uk).
+You can post relevant announcements (events, jobs, opportunities, etc.) to the ISBA Society mailing list at [isbarch@jiscmail.ac.uk](mailto:isbarch@jiscmail.ac.uk). To subscribe, visit the [ISBARCH jiscmail homepage](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ISBARCH).
 
 All posts require moderator approval before distribution.
 
