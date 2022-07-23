@@ -39,6 +39,6 @@ details with PayPal.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
 For any other enquiries please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
