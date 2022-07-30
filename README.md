@@ -15,6 +15,14 @@ Quick Start (standard: edit via github, and wait for website to re-render to tes
 - Press the `☑` button to publish!
 - Shut the tab to close the workspace
 
+Quick Start (using gitpod.io)
+
+
+- Press the gitpod button on the repository (assuming extension installed)
+- Make a change
+- Run `bundle exec jekyll serve`, open link
+- Press 'open preview' on prompt (or press Ports: 4000 in bottom right, then split pane icon in sidebar)
+
 Quick start (advanced: run local server on our laptop to see changes in real time):
 
 - Install Ruby, gems, and Bundle (see above).
