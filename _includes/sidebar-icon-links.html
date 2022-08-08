@@ -12,6 +12,12 @@
     </a>
   {% endif %}
 
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+    {% include svg/feed.svg %}
+  </a>
+
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -29,7 +35,7 @@
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
        title="Tags" aria-label="Tags"
-       href="{{ site.baseurl }}{{ tags_page.url }}">
+       href="{{ tags_page.url | relative_url }}">
       {% include svg/tags.svg %}
     </a>
   {% endif %}
@@ -38,7 +44,7 @@
     <a id="search-link"
        class="icon{% if page.url == '/search' %} active{% endif %}"
        title="Search" aria-label="Search"
-       href="{{ site.baseurl }}{{ search_page.url }}">
+       href="{{ search_page.url | relative_url }}">
       {% include svg/search.svg %}
     </a>
   {% endif %}
