@@ -17,4 +17,7 @@ I love most things in life, but I'm particularly fond of hacking, running, podca
 </p>
 
 twitter: [rez0\_\_](https://twitter.com/rez0__)
+
 hackerone: [rez0](https://hackerone.com/rez0)
+
+bugcrowd: [rez0](https://bugcrowd.com/rez0)
