@@ -4,7 +4,7 @@ title: "2022 - SPAAM Summerschool"
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 # SPAAM-WSS Summer School for Ancient Metagenomics

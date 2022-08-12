@@ -5,4 +5,4 @@ categories:
   - News
 ---
 
-Please ignore - testing IFTTT. News post with Eve nts in title.
+Please ignore - testing IFTTT. Eve nts post with Eve nts in title.
