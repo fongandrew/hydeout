@@ -12,7 +12,7 @@ sidebar_link: true
 >
 > Membership is not yet live. Please monitor the [news page](https://www.isbarch.org/category/news), [twitter](https://twitter.com/ISBArchaeology), and [mailing list](http://www.jiscmail.ac.uk/ISBARCH) for updates.
 
-ISBA sponsors a wide range of initiatves to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
+ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
 Membership is required for ISBA conference registration.
 
