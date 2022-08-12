@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: page
 title: Upcoming Meeting
+sidebar_link: true
 ---
 
 <div align="center">
@@ -10,37 +11,6 @@ title: Upcoming Meeting
 </div>
 
 ## Next ISBA Meeting
-
-<!-- Slideshow container - all slideshow related stuff from https://www.w3schools.com/howto/howto_js_slideshow.asp -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/location_photos/Mana Kaasik_1.jpg" style="width:100%">
-    <div class="text">Mana Kaasik</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/location_photos/Mana Kaasik_2.jpg" style="width:100%">
-    <div class="text">Mana Kaasik</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/location_photos/Ragnar Vutt.jpg" style="width:100%">
-    <div class="text">Ragnar Vutt</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/location_photos/Simo Sepp.jpg" style="width:100%">
-    <div class="text">Simo Sepp</div>
-  </div>
-
-  <div class="mySlides fade">
-    <img src="/assets/images/ISBA10/location_photos/Tarmo Haud.jpg" style="width:100%">
-    <div class="text">Tarmo Haud</div>
-  </div>
-
-</div>
 
 The 10th International Symposium on Biomolecular Archaeology (ISBA10) "New Horizons" will be held on 13-16 September 2023 in Tartu, Estonia at the [Estonian National Museum](https://www.erm.ee/en) - the upcoming the culture capital of Europe in 2024.
 
@@ -170,6 +140,41 @@ The 10th ISBA “New Horizons” will be organized by the [University of Tartu, 
 
 </div>
 
+## Tartu
+
+<!-- Slideshow container - all slideshow related stuff from https://www.w3schools.com/howto/howto_js_slideshow.asp -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/location_photos/Mana Kaasik_1.jpg" style="width:100%">
+    <div class="text">Mana Kaasik</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/location_photos/Mana Kaasik_2.jpg" style="width:100%">
+    <div class="text">Mana Kaasik</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/location_photos/Ragnar Vutt.jpg" style="width:100%">
+    <div class="text">Ragnar Vutt</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/location_photos/Simo Sepp.jpg" style="width:100%">
+    <div class="text">Simo Sepp</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="/assets/images/ISBA10/location_photos/Tarmo Haud.jpg" style="width:100%">
+    <div class="text">Tarmo Haud</div>
+  </div>
+
+</div>
+
+<!-- DO NOT PLACE NO CONTENT BELOW THIS LINE! -->
+
 <script>
 let slideIndex = 0;
 showSlides();
@@ -186,5 +191,3 @@ function showSlides() {
   setTimeout(showSlides, 5000); // Change image every 5 seconds
 }
 </script>
-
-## Latest meeting posts
