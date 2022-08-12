@@ -8,7 +8,9 @@ sidebar_link: true
 
 ### Benefits of membership
 
-<p style="font-size:40px"> ⚠️ Membership is NOT yet live! Please do not send money! </p>
+> 🛈 **Coming soon**
+>
+> Membership is not yet live. Please monitor the [news page](https://www.isbarch.org/category/news), [twitter](https://twitter.com/ISBArchaeology), and [mailing list](http://www.jiscmail.ac.uk/ISBARCH) for updates.
 
 ISBA sponsors a wide range of initiatves to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
@@ -27,7 +29,7 @@ details with PayPal.
 
 > 🛈 You **do not** need a PayPal account to pay. If you choose to pay by a different method, please press 'pay with credit or debit card' or 'continue without a guest account'.
 
-<p style="font-size:40px"> ⚠️ Membership is NOT yet live! Please do not send money! </p>
+<!--
 
  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -42,6 +44,8 @@ details with PayPal.
 <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+-->
 
 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
