@@ -17,7 +17,6 @@ Quick Start (standard: edit via github, and wait for website to re-render to tes
 
 Quick Start (using gitpod.io)
 
-
 - Press the gitpod button on the repository (assuming extension installed)
 - Make a change
 - Run `bundle exec jekyll serve`, open link
@@ -41,6 +40,12 @@ Adding content:
 - To modify the general information about these pages, update the corresponding `.md` file under `category.md`
 - To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository
 - Add files/photos under `assets/` however please keep this 'tidy' in sub-folders and informative file names
+
+Notes on news posts:
+
+- Add these to `posts/`
+- File name should be `<yyyy>-<mm>-<dd>-<category>-<title-of-post>.md`
+- For Events or Career posts, the _Title_ of the post (in the markdown header of the `.md` file should start with `[EVENT]` or `[CAREER]` respectively)
 
 Tips and tricks for theming the website website:
 
