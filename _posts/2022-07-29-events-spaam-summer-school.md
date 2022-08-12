@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 - SPAAM Summerschool"
+title: "[EVENT] 2022 - SPAAM Summerschool"
 categories:
   - Events
 tags:
