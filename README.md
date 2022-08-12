@@ -47,6 +47,11 @@ Notes on news posts:
 - File name should be `<yyyy>-<mm>-<dd>-<category>-<title-of-post>.md`
 - For Events or Career posts, the _Title_ of the post (in the markdown header of the `.md` file should start with `[EVENT]` or `[CAREER]` respectively)
 
+Notes on photos:
+
+- If you see very pixelly images, despite being large/high resolution, scale them down to prevent (bad) web compression
+- Profile pictures are ideally at a 200px width. If running on linux, install `imagemagick` and run: `mogrify -resize 200x <file>.png`
+
 Tips and tricks for theming the website website:
 
 - Import new fonts in `includes/font-includes.html`
