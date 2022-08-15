@@ -13,7 +13,7 @@ Displays events, deadlines, and anything related to Biomolecular Archaeology. Po
 
 <iframe src="https://calendar.google.com/calendar/embed?src=webmaster%40isbarch.org&ctz=Europe%2FBerlin" style="border: 0" width="100%" height="300" frameborder="2" scrolling="no"></iframe>
 
-<!-->
+<!--
 
 ## Affiliates and Initiatives
 
