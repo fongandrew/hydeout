@@ -4,7 +4,7 @@ title: Affiliates and Initiatives
 sidebar_link: true
 ---
 
-ISBA aims to support a wide range of researcher communities and projects. Examples are listed below.
+ISBA affiliates with a range of researcher communities and working groups to support education, community-building, and research in biomolecular archaeology.
 
 [**Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community)**](https://spaam-community.github.io/about/): a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a Slack channel, and a yearly workshop. Find out more [here](https://spaam-community.github.io/projects/#minas-mixs-checklist).
 
