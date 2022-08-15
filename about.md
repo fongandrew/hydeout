@@ -88,17 +88,15 @@ _GoPublic_
 
 <span class="post-type">Service</span>
 
-#### [Summer 2022] Summer Geometry Initiative mentor
-- Mentored a group of fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
+#### [Summer 2022] Summer Geometry Initiative (SGI) mentor
+- Mentored fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
 <hr/>
 
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
-- Organizing conference coffee event (social event with over 150 participants) at SIGGRAPH '21, SIGGRAPH Asia '21 and SIGGRAPH '22.
-- Media support for SIGGRAPH Thesis Fast Forward '21.
-- Helped setup the [SIGGRAPH/ToG writing guides](https://research.siggraph.org/guides) and wrote a [blog post on creating figures](https://research.siggraph.org/blog/guides/explanatory-paper-figures-with-illustrator-and-blender/).
-- Creating and maintaining [committee website](https://research.siggraph.org).
+- Organized Conference Coffee at SIGGRAPH '21, SIGGRAPH Asia '21 and SIGGRAPH '22.
+- Production/writing for [website](https://research.siggraph.org), Thesis Fast Forward, and [SIGGRAPH/ToG writing guides](https://research.siggraph.org/blog/guides/explanatory-paper-figures-with-illustrator-and-blender/).
 
 <hr/>
 
@@ -109,16 +107,12 @@ _ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics_
 
 #### [2013 - 2019] Committee member, committee chair
 _C.S.R. Delft (student association)_
-- Researched and advised on the association leadership election reform.
-- Organised festivities for society anniversary (> 200 participants).
+- Organized festivities, academic debates and hosted lectures (20-300 participants).
 - Produced [several](/creative%20portfolio/2015/11/01/La-Serenissima.html) [narrative](/creative%20portfolio/2018/11/01/Motown-Fever.html) [short](/creative%20portfolio/2016/05/01/Onontdekt.html) [films](/creative%20portfolio/2015/02/01/Magnifique.html) and an [anniversary book](/creative%20portfolio/2017/02/01/Pioniers-Book.html).
-- Organized academic debates and hosted lectures (20-200 audience members).
 
 <hr/>
 
 #### [2014 - 2017] Restaurant staff manager, PR
-_Happietaria, Hartige Samaritaan_<br />
-Pop-up restaurant for charity lasting one month. Hartige Samaritaan was set up together with Refugees.
-- Managed the restaurant staff for the Happietaria (November 2014).
+_Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one month.
 - Together with all the volunteers for Happietaria, raised €78.913.
-- Communications manager for Hartige Samaritaan (February 2017).
+- Staff and communications manager for Hartige Samaritaan (November 2014, February 2017).
