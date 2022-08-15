@@ -87,12 +87,13 @@ _GoPublic_
 <span class="post-type">Service</span>
 
 #### [Summer 2022] Summer Geometry Initiative mentor
-- Mentoring a group of fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
+- Mentored a group of fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
 #### [2020 - present] Committee member
 _SIGGRAPH research and career development committee_
-- Organizing conference coffee event (social event) at SIGGRAPH '21.
+- Organizing conference coffee event (social event with over 150 participants) at SIGGRAPH '21, SIGGRAPH Asia '21 and SIGGRAPH '22.
 - Media support for SIGGRAPH Thesis Fast Forward '21.
+- Helped setup the [SIGGRAPH/ToG writing guides](https://research.siggraph.org/guides) and wrote a [blog post on creating figures](https://research.siggraph.org/blog/guides/explanatory-paper-figures-with-illustrator-and-blender/).
 - Creating and maintaining [committee website](https://research.siggraph.org).
 
 <hr/>
