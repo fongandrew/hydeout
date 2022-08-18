@@ -3,9 +3,10 @@ layout: project
 title: "Bruiloft Ruben en Joanne"
 sidebar_link: false
 ---
-## Ruben en Joanne
-# Op 30 september 2022 hopen we te trouwen
-# en dat vieren we graag met jou!
+## Ruben Wiersma en Joanne Dekker
+# Op 30 september 2022 hopen we te trouwen en dat vieren we graag met jou!
+
+<img src="assets/img/bruiloft.png" class="featured" width="100%">
 
 ## Locatie
 <a href="https://www.knus.nl/" target="_blank">Knus</a> - Zavelpad 3, 2616 LH Delft
