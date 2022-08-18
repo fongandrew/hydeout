@@ -8,13 +8,11 @@ sidebar_link: false
 
 ### Programma
 
-<img src="assets/img/bruiloft/molen.png" class="locatie" width="60rem" />
 <a href="https://www.bijderoos.nl" target="_blank">**Molen de Roos -- Daggasten**</a><br />
 **Phoenixstraat 111-112, 2611 AK Delft**<br />
 Start dag - 10:00<br />
 Brunch - 11:30<br />
 
-<img src="assets/img/bruiloft/stadhuis.png" class="locatie" width="75rem" />
 <a href="https://www.delft.nl" target="_blank">**Stadhuis Delft**</a><br />
 **Markt 87, 2611 GS Delft**<br />
 Ceremonie - 14:30
