@@ -31,4 +31,6 @@ Je kan cadeautips vinden op <a href="https://www.lijstje.nl/rubenenjoanne" targe
 Als je graag bij wil dragen aan een cadeau, maar 
 
 ### Contact
-Je kan ons bereiken via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. Stukjes of speeches zijn mogelijk, daarvoor kan je contact opnemen met een van de ceremoniemeesters.
+Je kan ons bereiken via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. We vinden stukjes en speeches leuk! Jullie kunnen doorgeven als jullie dat van plan zijn aan de ceremoniemeesters:<br />
+Vivian Vriend<br />
+Florida Visser
