@@ -8,7 +8,7 @@ sidebar_link: false
 # en dat vieren we graag met jou!
 
 ## Locatie
-Knus, Delft - Zavelpad 3, 2616 LH Delft
+<a href="https://www.knus.nl/" target="_blank">Knus</a> - Zavelpad 3, 2616 LH Delft
 
 ## Datum en tijd
 30 September 2022
