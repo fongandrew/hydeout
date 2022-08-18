@@ -48,7 +48,7 @@
         margin-right: 0.3em;
     }
 
-    @media (min-width: 59rem) {
+    @media (min-width: 100rem) {
         .container {
             max-width: 40rem;
             margin: 0;
@@ -58,7 +58,7 @@
         }
     }
 
-    @media (max-width: 59rem) {
+    @media (max-width: 100rem) {
         font-size: 1em;
         background-size: contain;
         background-position: right top;
@@ -73,7 +73,7 @@
 
         .container {
             max-width: 100%;
-            margin: 20vh 0;
+            margin: 40vw 0 0;
             padding: 4rem 4rem;
         }
         .container > * {
