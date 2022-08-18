@@ -2,16 +2,45 @@
     CSS for dedicated project pages.
 */
 .bruiloft {
-    background-image: none;
-    background-color: white;
+    background-image: url(/assets/img/bruiloft.jpg);
+    background-color: #217a72;
+    background-blend-mode: normal;
+    background-position: right;
+    background-size: cover;
 
-    img.featured {
-        margin: 0 auto;
+    font-family: bicyclette, sans-serif;
+
+    a {
+        color: #217a72;
+    }
+
+    h1 {
+        font-family: freight-text-pro, serif;
+        font-style: italic;
+        font-weight: 300;
+        margin-top: 0;
+    }
+    
+    h2 {
+        font-weight: 800;
+        text-transform: uppercase;
+    }
+
+    h3 {
+        font-weight: 700;
+        text-transform: uppercase;
     }
 
     img.inline {
         display: inline;
-        margin-bottom: -0.5em;
+        vertical-align: top;
+    }
+
+    .container {
+        background: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border-right: 1px solid rgba(255, 255, 255, 0.9);
     }
 
     i {
@@ -20,8 +49,8 @@
 
     @media (min-width: 59rem) {
         .container {
-            max-width: 60rem;
-            margin: 0 auto;
+            max-width: 40rem;
+            margin: 0;
         }
         .container > * {
             max-width: 100%;
@@ -30,6 +59,8 @@
 
     @media (max-width: 59rem) {
         font-size: 1em;
+        background-size: contain;
+        background-position: right top;
         
         h1 {
             font-size: 1.5em;
@@ -40,8 +71,9 @@
         }
 
         .container {
-            max-width: 90%;
-            margin: 0 auto;
+            max-width: 100%;
+            margin: 20vh 0;
+            padding: 4rem 4rem;
         }
         .container > * {
             max-width: 100%;
