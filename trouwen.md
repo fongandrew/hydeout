@@ -3,7 +3,7 @@ layout: bruiloft
 title: "Bruiloft Ruben en Joanne"
 sidebar_link: false
 ---
-## RUBEN <img src="assets/img/ring.png" class="inline" width="30" /> JOANNE
+## RUBEN <img src="assets/img/bruiloft/ring.png" class="inline" width="30" /> JOANNE
 # Op 30 september 2022 hopen we te trouwen en dat vieren we graag met jou!
 
 ### Programma
