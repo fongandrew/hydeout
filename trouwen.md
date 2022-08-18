@@ -17,4 +17,8 @@ Feest - 22:30
 Afscheid - 1:00
 
 ## Cadeautips
-Je kan cadeautips vinden op <a href="https://www.lijstje.nl/RubenJoanne" target="_blank">https://www.lijstje.nl/RubenJoanne</a>
+Je kan cadeautips vinden op <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>.
+Als je graag bij wil dragen aan een cadeau, maar 
+
+## Contact
+Je kan ons bereiken via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. Stukjes of speeches zijn mogelijk, daarvoor kan je contact opnemen met een van de ceremoniemeesters.
