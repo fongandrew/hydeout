@@ -6,16 +6,25 @@ sidebar_link: false
 ## RUBEN <img src="assets/img/ring.png" class="inline" width="30" /> JOANNE
 # Op 30 september 2022 hopen we te trouwen en dat vieren we graag met jou!
 
-### Locatie
-<a href="https://www.knus.nl/" target="_blank">Knus</a> - Zavelpad 3, 2616 LH Delft
+### Programma
 
-### Datum en tijd
-30 September 2022
-<ul>
-<li>Receptie - 20:30</li>
-<li>Feest - 22:30</li>
-<li>Afscheid - 1:00</li>
-</ul>
+<img src="assets/img/bruiloft/molen.png" class="locatie" width="60rem" />
+<a href="https://www.bijderoos.nl" target="_blank">**Molen de Roos -- Daggasten**</a><br />
+**Phoenixstraat 111-112, 2611 AK Delft**<br />
+Start dag - 10:00<br />
+Brunch - 11:30<br />
+
+<img src="assets/img/bruiloft/stadhuis.png" class="locatie" width="75rem" />
+<a href="https://www.delft.nl" target="_blank">**Stadhuis Delft**</a><br />
+**Markt 87, 2611 GS Delft**<br />
+Ceremonie - 14:30
+
+<img src="assets/img/bruiloft/knus.png" class="locatie" width="200rem" />
+<a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
+**Zavelpad 3, 2616 LH Delft**<br />
+Receptie - 20:30<br />
+Feest - 22:30<br />
+Afscheid - 1:00
 
 ### Cadeautips
 Je kan cadeautips vinden op <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>.

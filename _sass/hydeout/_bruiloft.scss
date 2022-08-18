@@ -2,7 +2,7 @@
     CSS for dedicated project pages.
 */
 .bruiloft {
-    background-image: url(/assets/img/bruiloft.jpg);
+    background-image: url(/assets/img/bruiloft/bruiloft.jpg);
     background-color: #217a72;
     background-blend-mode: normal;
     background-position: right;
@@ -35,6 +35,10 @@
     img.inline {
         display: inline;
         vertical-align: top;
+    }
+
+    img.locatie {
+        float: right;
     }
 
     .container {
