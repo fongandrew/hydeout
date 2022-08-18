@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: bruiloft
 title: "Bruiloft Ruben en Joanne"
 sidebar_link: false
 ---
@@ -13,9 +13,9 @@ sidebar_link: false
 
 ## Datum en tijd
 30 September 2022
-Receptie - 20:30
-Feest - 22:30
-Afscheid - 1:00
+- Receptie - 20:30
+- Feest - 22:30
+- Afscheid - 1:00
 
 ## Cadeautips
 Je kan cadeautips vinden op <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>.
