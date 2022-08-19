@@ -6,7 +6,8 @@ sidebar_link: true
 
 ## Recent major reviews and perspectives
 
-XXXXX
+XXXXX. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
+
 - Ancient DNA
 - Ancient Proteins
 - Research Ethics
