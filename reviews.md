@@ -35,6 +35,8 @@ Richter K, Seabrook M, Codlin M, Warinner C. (2022) [A primer for ZooMS applicat
 
 Hendy J. (2021) [Ancient protein analysis in archaeology](https://www.science.org/doi/full/10.1126/sciadv.abb9314). Science Advances 7(3), eabb9314.
 
+Hofman CA, Warinner C. (2019) [Ancient DNA 101: An introductory guide in the era of high-throughput sequencing](http://onlinedigeditions.com/publication/?m=16146&i=563489&p=20&ver=html5). SAA Archaeological Record 19(1):18-25.
+
 Hendy J, Welker F, Demarchi B, Speller C, Warinner C, Collins MJ. (2018) [A guide to ancient protein studies](https://www.nature.com/articles/s41559-018-0510-x). Nature Ecology and Evolution 2:791-799.
 
 ### Research Ethics
