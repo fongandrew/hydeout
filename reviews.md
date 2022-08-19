@@ -19,13 +19,15 @@ Orlando L, Allaby R, Skoglund P, Sarkissian C, Stockhammer PW, Avila M, Fu Q, Kr
 
 Gokcumen O and Frachetti M. (2020) [The impact of ancient genome studies in archaeology](https://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-010220-074353). Annual Review of Anthropology 49(1). ([open access version](https://par.nsf.gov/biblio/10279873))
 
+Mathieson I, Scally A. (2020) [What is ancestry?](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008624) PLoS Genetics 16(3):e1008624.
+
 Spyrou, M. A., Bos, K. I., Herbig, A., & Krause, J. (2019). [Ancient pathogen genomics as an emerging tool for infectious disease research](https://www.nature.com/articles/s41576-019-0119-1). Nature Reviews Genetics 20(6): 323-340.
+
+Hofman CA, Warinner C. (2019) [Ancient DNA 101: An introductory guide in the era of high-throughput sequencing](http://onlinedigeditions.com/publication/?m=16146&i=563489&p=20&ver=html5). SAA Archaeological Record 19(1):18-25.
 
 Skoglund P and Mathieson I. (2018) [Ancient genomics of modern humans: the first decade](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-083117-021749). Annual Review of Genomics and Human Genetics 19: 381-404. ([open access version](https://www.ndsu.edu/pubweb/~mcclean/ctig/ctigspring2019/Skoglund%20and%20Mathieson%20-%20Ancient%20Genomics%20of%20Modern%20Humans%20-%20The%20First%20Decade.pdf))
 
 Warinner C, Herbig A, Mann A, Fellows Yates JA, Weiß CL, Burbano HA, Orlando L, Krause J. (2017) [A robust framework for microbial archaeology](https://www.annualreviews.org/doi/abs/10.1146/annurev-genom-091416-035526). Annual Review of Genomics and Human Genetics 18:321-56.
-
-Mathieson I, Scally A. (2020) [What is ancestry?](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008624) PLoS Genetics 16(3):e1008624.
 
 ### Ancient Proteins
 
@@ -34,8 +36,6 @@ Warinner C, Richter K, Collins, M. (2022) [Paleoproteomics](https://pubs.acs.org
 Richter K, Seabrook M, Codlin M, Warinner C. (2022) [A primer for ZooMS applications in archaeology](https://www.pnas.org/doi/10.1073/pnas.2109323119). PNAS 119(20) e2109323119.
 
 Hendy J. (2021) [Ancient protein analysis in archaeology](https://www.science.org/doi/full/10.1126/sciadv.abb9314). Science Advances 7(3), eabb9314.
-
-Hofman CA, Warinner C. (2019) [Ancient DNA 101: An introductory guide in the era of high-throughput sequencing](http://onlinedigeditions.com/publication/?m=16146&i=563489&p=20&ver=html5). SAA Archaeological Record 19(1):18-25.
 
 Hendy J, Welker F, Demarchi B, Speller C, Warinner C, Collins MJ. (2018) [A guide to ancient protein studies](https://www.nature.com/articles/s41559-018-0510-x). Nature Ecology and Evolution 2:791-799.
 
