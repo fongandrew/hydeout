@@ -8,8 +8,8 @@ sidebar_link: true
 
 Numerous protocols have been published for the study of ancient biomolecules, but few provide step-by-step instructions, making many difficult to implement in practice. Below are open access bench protocols published in accordance with open science principles in order to make each step of the protocol explicit and reproducible. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
 
-- [Ancient DNA](#Ancient-DNA)
-- [Proteomics](#Proteomics)
+- [Ancient DNA](# Ancient-DNA)
+- [Proteomics](# Proteomics)
 
 ### Ancient DNA
 
