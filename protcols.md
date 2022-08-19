@@ -6,9 +6,12 @@ sidebar_link: true
 
 ## Open access bench protocols
 
-Numerous protocols have been published for the study of ancient biomolecules, but few provide step-by-step instructions, making many difficult to implement in practice. Below are open access bench protocols published in accordance with open science principles in order to make each step of the protocol explicit and reproducible.
+Numerous protocols have been published for the study of ancient biomolecules, but few provide step-by-step instructions, making many difficult to implement in practice. Below are open access bench protocols published in accordance with open science principles in order to make each step of the protocol explicit and reproducible. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
 
-### Paleogenomics
+- Paleogenomics
+- Proteomics
+
+### Ancient DNA
 
 **[A-Z of ancient DNA protocols for shotgun Illumina Next Generation Sequencing V.2](https://www.protocols.io/view/a-z-of-ancient-dna-protocols-for-shotgun-illumina-36wgq529xgk5/v2)**: a collection of open-access bench protocols for the extraction and preparaton of ancient DNA (aDNA) for Illumina high throughput sequencing. All protocols have been adapted after published protocols (see each for the corresponding original publication), and are used primarily in the Department of Archaeogenetics at the MPI-EVA (Leipzig, Germany). Protocols in the collection include:
 - [Minimally-invasive sampling of pars petrosa (os temporale) for ancient DNA extraction](https://www.protocols.io/view/minimally-invasive-sampling-of-pars-petrosa-os-tem-bqd8ms9w) (adapted from Pinhasi et al. 2015)
