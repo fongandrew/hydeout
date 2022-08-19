@@ -8,10 +8,10 @@ sidebar_link: true
 
 The study of ancient biomolecules is undergoing rapid development. Below are lists of major reviews and perspectives articles that can help orient you to recent trends, developments, and updates in the field. If you have additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
 
-- [Ancient DNA](# Ancient-DNA)
-- [Ancient Proteins](# Ancient-Proteins)
-- [Research Ethics](# Research-Ethics)
-- [Stable Isotopes](# Stable-Isotopes)
+- [Ancient DNA](#Ancient-DNA)
+- [Ancient Proteins](#Ancient-Proteins)
+- [Research Ethics](#Research-Ethics)
+- [Stable Isotopes](#Stable-Isotopes)
 
 ### Ancient DNA
 
