@@ -6,7 +6,7 @@ sidebar_link: true
 
 ## Data analysis tools and pipelines
 
-XXXXXX. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
+Many tools, programs, pipelines, and software suites are used in the analysis of ancient biomolecules. Below are a collection of commonly used software resources, including with links for their download. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
 - [Ancient DNA](#ancient-dna)
 - [Ancient Proteins](#ancient-proteins)
 - [Stable Isotopes](#stable-isotopes)
