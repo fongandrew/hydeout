@@ -1,0 +1,87 @@
+/*
+    CSS for dedicated project pages.
+*/
+.bruiloft {
+    background-image: url(/assets/img/bruiloft/bruiloft.jpg);
+    background-color: #217a72;
+    background-blend-mode: normal;
+    background-position: right;
+    background-size: cover;
+
+    font-family: bicyclette, sans-serif;
+
+    a {
+        color: #217a72;
+    }
+
+    h1 {
+        font-family: freight-text-pro, serif;
+        font-style: italic;
+        font-weight: 300;
+        margin-top: 0;
+    }
+    
+    h2 {
+        color: #217a72;
+        font-weight: 800;
+        text-transform: uppercase;
+    }
+
+    h3 {
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    img.inline {
+        display: inline;
+        vertical-align: top;
+    }
+
+    img.locatie {
+        float: right;
+    }
+
+    .container {
+        background: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+        border-right: 1px solid rgba(255, 255, 255, 0.9);
+    }
+
+    i {
+        margin-right: 0.3em;
+    }
+
+    @media (min-width: 100rem) {
+        .container {
+            max-width: 40rem;
+            margin: 0;
+        }
+        .container > * {
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 100rem) {
+        font-size: 1em;
+        background-size: contain;
+        background-position: right top;
+        
+        h1 {
+            font-size: 1.5em;
+        }
+
+        h2 {
+            font-size: 1.2em;
+        }
+
+        .container {
+            max-width: 100%;
+            margin: 40vw 0 0;
+            padding: 4rem 4rem;
+        }
+        .container > * {
+            max-width: 100%;
+        }
+    }
+}
