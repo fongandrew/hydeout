@@ -10,4 +10,4 @@ The study of ancient biomolecules is a fast-moving field. Via the links below, w
 - [Open access tools and pipelines](/tools)
 - [Courses and training materials](/training)
 - [Recent major reviews and perspectives](/reviews)
-- [Online lectures, talks, podcasts, and documetaries](/media)
+- [Online lectures, talks, podcasts, and films](/media)
