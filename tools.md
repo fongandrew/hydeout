@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Media
+title: Tools
 sidebar_link: true
 ---
 
