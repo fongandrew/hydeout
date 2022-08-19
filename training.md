@@ -8,9 +8,9 @@ sidebar_link: true
 
 Below are a collection of summer schools, workshops, and online courses offering training in ancient biomolecules. If you have add additional resources to suggest, please send your suggestions to webmaster@isbarch.org.
 
-- [Ancient DNA](# Ancient-DNA)
-- [Ancient proteins](# Ancient-Proteins)
-- [Stable isotopes](# Stable-Isotopes)
+- [Ancient DNA](#Ancient-DNA)
+- [Ancient proteins](#Ancient-Proteins)
+- [Stable isotopes](#Stable-Isotopes)
 
 ### Ancient DNA
 
