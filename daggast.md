@@ -8,15 +8,25 @@ sidebar_link: false
 
 ### Programma
 
+**Bagijnhof 2A**<br />
+09:30 - Ophalen van de bruid<br />
+10:00 - Foto's bruidspaar
+
+<a href="https://www.bijderoos.nl" target="_blank">**Molen de Roos**</a><br />
+**Phoenixstraat 111-112, 2611 AK Delft**<br />
+**Parkeren** [Prinsenhof garage](https://goo.gl/maps/Qhvjh5mmWdu8FAbEA)<br />
+11:30 - Brunch<br />
+
 <a href="https://www.delft.nl" target="_blank">**Stadhuis Delft**</a><br />
 **Markt 87, 2611 GS Delft**<br />
 **Parkeren** [Marktgarage](https://goo.gl/maps/yL3Eju7VQJJXqx2s5)<br />
 14:30 - Ceremonie<br />
-<i>Zou je het willen doorgeven als je hier bij wilt zijn? Dat kan via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>.</i>
 
 <a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
 **Zavelpad 3, 2616 LH Delft**<br />
 **Parkereren** [gratis bij het Delftse Hout](https://goo.gl/maps/6ich4TrDPYESJjiz7)<br />
+16:00 - Taart<br />
+18:00 - Diner<br />
 20:30 - Receptie<br />
 22:30 - Feest<br />
 01:00 - Afscheid
