@@ -22,7 +22,7 @@ sidebar_link: false
 01:00 - Afscheid
 
 ### Cadeautips
-Voor cadeau-inspiratie hebben we een lijstje gemaakt: <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>.
+Voor cadeau-inspiratie hebben we een lijstje gemaakt: <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>. Ook is er de mogelijkheid om met andere gasten samen een tastbaar cadeau te geven. Op de dag zullen er 3 brievenbussen zijn voor 3 grote cadeaus. U kunt op die manier kiezen waar uw cadeau geld heen gaat. 
 
 ### Contact
 Vragen over de dag en het programma kan je sturen naar de ceremoniemeesters (Vivian Vriend en Florida Visser) via <a href="mailto:bruiloftjoanneruben@gmail.com">bruiloftjoanneruben@gmail.com</a>. We vinden stukjes en speeches leuk! Als je een stukje van plan bent, kan je dat ook doorgeven aan de ceremoniemeesters.
