@@ -25,10 +25,10 @@ sidebar_link: false
 Voor cadeau-inspiratie hebben we een lijstje gemaakt: <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>.
 
 ### Contact
-Je kan ons bereiken via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. We vinden stukjes en speeches leuk! Als je een stukje van plan bent, kan je dat doorgeven aan de cermoniemeesters:<br />
-Vivian Vriend<br />
-Florida Visser
+Vragen over de dag en het programma kan je sturen naar de ceremoniemeesters (Vivian Vriend en Florida Visser) via <a href="mailto:bruiloftjoanneruben@gmail.com">bruiloftjoanneruben@gmail.com</a>. We vinden stukjes en speeches leuk! Als je een stukje van plan bent, kan je dat ook doorgeven aan de ceremoniemeesters.
 
-Via de post:<br />
+Wil je Ruben en Joanne zelf bereiken?<br />
+Dat kan via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a><br />
+of per post: <br />
 Bagijnhof 2A<br />
 2611AP, Delft
