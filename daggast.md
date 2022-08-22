@@ -14,17 +14,17 @@ sidebar_link: false
 
 <a href="https://www.bijderoos.nl" target="_blank">**Molen de Roos**</a><br />
 **Phoenixstraat 111-112, 2611 AK Delft**<br />
-**Parkeren** [Prinsenhof garage](https://goo.gl/maps/Qhvjh5mmWdu8FAbEA)<br />
+**Parkeren** <a href="https://goo.gl/maps/Qhvjh5mmWdu8FAbEA" target="_blank">Prinsenhof garage</a><br />
 11:30 - Brunch<br />
 
 <a href="https://www.delft.nl" target="_blank">**Stadhuis Delft**</a><br />
 **Markt 87, 2611 GS Delft**<br />
-**Parkeren** [Marktgarage](https://goo.gl/maps/yL3Eju7VQJJXqx2s5)<br />
+**Parkeren** <a href="https://goo.gl/maps/yL3Eju7VQJJXqx2s5" target="_blank">Marktgarage</a><br />
 14:30 - Ceremonie<br />
 
 <a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
 **Zavelpad 3, 2616 LH Delft**<br />
-**Parkereren** [gratis bij het Delftse Hout](https://goo.gl/maps/6ich4TrDPYESJjiz7)<br />
+**Parkereren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
 16:00 - Taart<br />
 18:00 - Diner<br />
 20:30 - Receptie<br />

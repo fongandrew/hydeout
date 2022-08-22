@@ -10,13 +10,13 @@ sidebar_link: false
 
 <a href="https://www.delft.nl" target="_blank">**Stadhuis Delft**</a><br />
 **Markt 87, 2611 GS Delft**<br />
-**Parkeren** [Marktgarage](https://goo.gl/maps/yL3Eju7VQJJXqx2s5)<br />
+**Parkeren** <a href="https://goo.gl/maps/yL3Eju7VQJJXqx2s5" target="_blank">Marktgarage</a><br />
 14:30 - Ceremonie<br />
 <i>Zou je het willen doorgeven als je hier bij wilt zijn? Dat kan via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>.</i>
 
 <a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
 **Zavelpad 3, 2616 LH Delft**<br />
-**Parkereren** [gratis bij het Delftse Hout](https://goo.gl/maps/6ich4TrDPYESJjiz7)<br />
+**Parkereren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
 20:30 - Receptie<br />
 22:30 - Feest<br />
 01:00 - Afscheid
