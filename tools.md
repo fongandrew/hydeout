@@ -72,6 +72,7 @@ Many tools, programs, pipelines, and software suites are used in the analysis of
 - [PSMC](https://github.com/lh3/psmc) (Pairwise Sequentially Markovian Coalescent) infers population size history from a diploid genome
 - [MSMC](https://github.com/stschiff/msmc) (Multiple Sequentially Markovian Coalescent) infers population size history and gene flow from multiple genomes
 - [RAxML](https://sco.h-its.org/exelixis/software.html)  (Randomized Axelerated Maximum Likelihood) infers phylogeny for large datasets using maximum likelihood
+- [GenErode](https://github.com/NBISweden/GenErode) a bioinformatics pipeline for investigating genome erosion in endangered and extinct species
 
 **Species identification and metagenomics**
 - [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)  (Basic Local Alignment Tool) identifies regions of similarity between a query sequence and reference database
