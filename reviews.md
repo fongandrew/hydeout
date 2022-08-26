@@ -10,6 +10,7 @@ The study of ancient biomolecules is undergoing rapid development. Below are lis
 
 - [Ancient DNA](#ancient-dna)
 - [Ancient Proteins](#ancient-proteins)
+- [Organic Residues](#organic-residues)
 - [Research Ethics](#research-ethics)
 - [Stable Isotopes](#stable-isotopes)
 
@@ -39,6 +40,12 @@ Hendy J. (2021) [Ancient protein analysis in archaeology](https://www.science.or
 
 Hendy J, Welker F, Demarchi B, Speller C, Warinner C, Collins MJ. (2018) [A guide to ancient protein studies](https://www.nature.com/articles/s41559-018-0510-x). Nature Ecology and Evolution 2:791-799.
 
+### Organic Residues
+
+Roffet-Salque, M., Dunne, J., Altoft, D. T., Casanova, E., Cramp, L. J., Smyth, J., Whelton HL, and Evershed, R. P. (2017) [From the inside out: Upscaling organic residue analyses of archaeological ceramics](https://www.sciencedirect.com/science/article/pii/S2352409X16301390). Journal of Archaeological Science: Reports 16:627-640.
+
+[Lipid Maps – a free resource for lipid analysis](https://www.lipidmaps.org/resources/lipidweb/lipidweb_html/index.html). These web pages constitute an introduction to the chemistry and biochemistry of individual lipid classes, together with an incomparable compendium of information on mass spectrometry of fatty acids.
+
 ### Research Ethics
 
 Mangola SM, Lund JR, Schnorr SL, and Crittenden AN. (2022) [Ethical microbiome research with Indigenous communities](https://www.nature.com/articles/s41564-022-01116-w). Nature Microbiology 7:749–756.
@@ -56,3 +63,7 @@ Claw KG, Anderson MZ, Begay RL, Tsosie KS, Fox K, Garrison NA. (2018) [A framewo
 ### Stable Isotopes
 
 Roberts P, Fernandes R, Craig OE, Larsen T, Lucquin A, Swift J, Zech J. (2018) [Calling all archaeologists: guidelines for terminology, methodology, data handling, and reporting when undertaking and reviewing stable isotope applications in archaeology](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/full/10.1002/rcm.8044) Rapid Communications in Mass Spectrometry 32(5):361-72.
+
+Loftus E, Roberts P, and Lee-Thorp JA (2016) [An isotopic generation: four decades of stable isotope analysis in African archaeology](https://www.tandfonline.com/doi/abs/10.1080/0067270X.2016.1150083). Azania: Archaeological Research in Africa 51(1):88-114.
+
+Madgwick R, Lamb A, Sloane H, Nederbragt A, Albarella U, Pearson MP, and Evans J (2021) [A veritable confusion: use and abuse of isotope analysis in archaeology](https://www.tandfonline.com/doi/full/10.1080/00665983.2021.1911099). Archaeological Journal 178:2:361-385.
