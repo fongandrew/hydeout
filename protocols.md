@@ -35,3 +35,5 @@ Numerous protocols have been published for the study of ancient biomolecules, bu
 - [ZooMS for boen material - Acid soluble protocol](https://www.protocols.io/view/zooarchaeology-by-mass-spectrometry-zooms-for-bone-bf5bjq2n)
 
 **[Identifying ZooMS Spectra (mammals) using mMass](https://www.protocols.io/view/identifying-zooms-spectra-mammals-using-mmass-kqdg36rppg25/v1)**: a guide to identifying ZooMS spectra for mammals using the open-source program mMass (Niedermeyer and Strohalm 2012). This guide is intended as a learning tool for students and researchers at the University of Tubingen and is not meant to replace formal ZooMS marker training. 
+
+**[Ancient Proteins Extraction Protocol](https://www.protocols.io/view/ancient-proteins-extraction-protocol-6qpvroed2vmk/v1)**: a FASP-based protocol for ancient protein recovery for LC-MS/MS analysis
