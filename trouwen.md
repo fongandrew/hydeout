@@ -10,12 +10,12 @@ sidebar_link: false
 
 <a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
 **Zavelpad 3, 2616 LH Delft**<br />
-**Parkereren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
+**Parkeren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
 20:30 - Receptie<br />
-22:30 - Feest<br />
+22:30 - Feest - binnen kan je dansen en buiten kan je gezellig praten<br />
 01:00 - Afscheid
 
-Je kunt ook aanwezig zijn bij de *ceremonie in het stadhuis van Delft om 14:30*. Als je erbij wil zijn, kan je dat doorgeven via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. 
+Je kunt ook aanwezig zijn bij de **ceremonie in het stadhuis van Delft om 14:30**. Als je erbij wil zijn, kan je dat doorgeven via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. 
 
 ### Cadeautips
 Voor cadeau-inspiratie hebben we een lijstje gemaakt: <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>. Ook is er de mogelijkheid om met andere gasten samen een tastbaar cadeau te geven. Op de dag zullen er 3 brievenbussen zijn voor 3 grote cadeaus. U kunt op die manier kiezen waar uw cadeau geld heen gaat. 

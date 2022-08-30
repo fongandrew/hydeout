@@ -25,7 +25,7 @@ sidebar_link: false
 
 <a href="https://www.knus.nl/" target="_blank">**Knus**</a><br />
 **Zavelpad 3, 2616 LH Delft**<br />
-**Parkereren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
+**Parkeren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
 16:00 - Taart<br />
 18:00 - Diner<br />
 20:30 - Receptie<br />
