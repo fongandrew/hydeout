@@ -13,7 +13,7 @@ sidebar_link: false
 **Parkeren** <a href="https://goo.gl/maps/6ich4TrDPYESJjiz7" target="_blank">gratis bij het Delftse Hout</a><br />
 20:30 - Receptie<br />
 22:30 - Feest<br />
-*Bij het feest kunnen de voetjes van de vloer op muziek van een live band. Buiten kun je gezellig praten onder de verwarmde overkapping.*
+*Bij het feest kunnen de voetjes van de vloer op muziek van een live band. Buiten kun je gezellig praten onder de verwarmde overkapping.*<br />
 01:00 - Afscheid
 
 Je kunt ook aanwezig zijn bij de **ceremonie in het stadhuis van Delft om 14:30**. Als je erbij wil zijn, kan je dat doorgeven via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. 
