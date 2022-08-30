@@ -17,7 +17,7 @@ sidebar_link: false
 
 Je kunt ook aanwezig zijn bij de **ceremonie in het stadhuis van Delft om 14:30**. Als je erbij wil zijn, kan je dat doorgeven via <a href="mailto:rubenenjoanne@gmail.com">rubenenjoanne@gmail.com</a>. 
 
-*Bij het feest kunnen de voetjes van de vloer op muziek van een live band. Als je liever praat kan je buiten heerlijk zitten onder de overkapping met verwarming van Knus.
+*Bij het feest kunnen de voetjes van de vloer op muziek van een live band. Buiten kun je gezellig praten onder de verwarmde overkapping.
 
 ### Cadeautips
 Voor cadeau-inspiratie hebben we een lijstje gemaakt: <a href="https://www.lijstje.nl/rubenenjoanne" target="_blank">https://www.lijstje.nl/rubenenjoanne</a>. Ook is er de mogelijkheid om met andere gasten samen een tastbaar cadeau te geven. Op de dag zullen er 3 brievenbussen zijn voor 3 grote cadeaus. U kunt op die manier kiezen waar uw cadeau geld heen gaat. 
