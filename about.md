@@ -3,14 +3,14 @@ layout: page
 title: About
 sidebar_link: true
 ---
-![Ruben >](/assets/img/ruben_toon.png)
+![Ruben >](/assets/img/profile_ruben.jpg)
 I am a third-year PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning and painting analysis. I am advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik. 
 
 I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
 
 Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
 
-Profile picture: sculpt, hair, textures in Blender, rendered with Cycles.
+<!-- Profile picture: sculpt, hair, textures in Blender, rendered with Cycles. -->
 
 ### Contact
 - r.t.wiersma [at] tudelft.nl
