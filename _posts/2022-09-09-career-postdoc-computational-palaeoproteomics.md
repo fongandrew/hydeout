@@ -11,6 +11,7 @@ The position is part of the ongoing ERC StG project “PROSPER” that aims to d
 
 More information and application guidelines can be found at:
 [https://employment.ku.dk/faculty/?show=157308](https://employment.ku.dk/faculty/?show=157308)
+
 Don’t hesitate to reach out if you have any questions.
 
 [Frido](mailto:frido.welker@sund.ku.dk)
