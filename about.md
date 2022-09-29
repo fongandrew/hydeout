@@ -10,11 +10,11 @@ The International Society for Biomolecular Archaeology (ISBA) is a community of 
 
 ISBA organizes a biennial [ISBA conference](/category/meetings.md) that has grown to more than 600 international participants since its [founding](/pastmeetings.md) in 2004. [Society membership](/membership) supports our biennial [research prizes and awards](/awards), as well as [micro-grants](/funding) for workshops. Please see our [Meetings](/category/meetings) page for information about conference registration and abstract submission.
 
-ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), the [ISBARCH mailing list](http://www.jiscmail.ac.uk/ISBARCH), as well as our website, to disseminate the [our latest news](/category/news) about our upcoming meetings, events, and other activities. For more information about or upcoming and past events, please see our [Events](/category/events.md) page. 
+ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), the [ISBARCH mailing list](http://www.jiscmail.ac.uk/ISBARCH), as well as our website, to disseminate the [our latest news](/category/news) about our upcoming meetings, events, and other activities. For more information about or upcoming and past events, please see our [Events](/category/events.md) page.
 
 ISBA is governed and structured under rules and regulations set by the [Charity Commission](https://www.gov.uk/government/organisations/charity-commission). See our [Board](/board) page for more information.
 
-> 🛈 The International Society for Biomolecular Archaeology (ISBA) is in the process of becoming a Charitable Incorporated Organisation registered in England.
+ISBA is a Charitable Incorporated Organisation registered in England.
 
 ## History
 
