@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Svante Pääbo"
+title: "Svante Pääbo Wins Nobel Prize"
 categories:
   - News
 ---
