@@ -19,7 +19,7 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
-Currently membership is ony possible through PayPal.
+Currently membership payment is only possible through PayPal.
 
 <blockquote>
 🛈 In some countries it is possible to pay without a PayPal account (see instructions below)! For those who do not have this option, we are working on setting up an alternative payment system, this will be announced on the mailing list and twitter.
