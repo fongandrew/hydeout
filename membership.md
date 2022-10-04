@@ -37,7 +37,9 @@ details with PayPal.
 <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-> 🛈 A PayPal account is _not required_ to pay! If you wish to pay by a different method, you may either see a 'pay with credit or debit card' or 'continue without a guest account' button. If you see neither of these, you may need to type in your email address and the blue 'continue' button (or equivalent). The next page should give you an option to fill in your credit card details (the email is required for receipt purposes).
+> 🛈 A PayPal account is _not required_ to pay! If you wish to pay by a different method, you may either see a 'pay with credit or debit card' or 'continue without a guest account' button.
+
+> ⚠️ If you see neither of these, you may need to type in your email address and the blue 'continue' button (or equivalent). The next page should give you an option to fill in your credit card details (the email is required for receipt purposes).
 
 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
