@@ -23,7 +23,8 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 [Download a PDF version](/assets/pdf/cv_rubenwiersma.pdf) of this resume. An overview of my [publications can be found here](/category/publications.html).
 
-<span class="post-type">Education</span>
+<h3>Education</h3>
+<hr />
 
 #### [2019 - present] PhD Computer Graphics
 _TU Delft_
@@ -54,7 +55,8 @@ _TU Delft_
 
 <hr />
 
-<span class="post-type">Work</span>
+<h3>Professional experience</h3>
+<hr />
 
 #### [2019] Teaching Assistant
 _TU Delft_
@@ -86,7 +88,8 @@ _GoPublic_
 
 <hr/>
 
-<span class="post-type">Service</span>
+<h3>Service</h3>
+<hr />
 
 #### [Summer 2022] Summer Geometry Initiative (SGI) mentor
 - Mentored fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
@@ -116,3 +119,10 @@ _C.S.R. Delft (student association)_
 _Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one month.
 - Together with all the volunteers for Happietaria, raised €78.913.
 - Staff and communications manager for Hartige Samaritaan (November 2014, February 2017).
+
+<hr />
+<h3>Recognition</h3>
+<hr />
+
+#### [September 2022] Best Full Paper Award - GCH 2022
+- Eurographics Workshop on Graphics and Cultural Heritage 2022

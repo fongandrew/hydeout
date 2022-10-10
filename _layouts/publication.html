@@ -6,12 +6,16 @@ layout: default
   <h1 class="post-title">
     {{ page.title }}
   </h1>
+  {% if page.awards %}
+  <h3><i>Awarded {{ page.awards }}</i></h3>
+  {% endif %}
   <span class="post-type">{{ page.type }}</span><br />
   <span class="post-authors">{{ page.authors }}</span>
 </header>
 <div class="content">
 
   <div class="post-body">
+
     {% if page.venue %}
     <h4>Venue</h4>
     {{ page.venue }}

@@ -18,6 +18,9 @@ layout: page
       </a>
     </h3>
     <div class="post-meta">
+      {% if post.awards %}
+      <h4><i>Awarded {{ post.awards }}</i></h4>
+      {% endif %}
       <span class="post-type">{{ post.type }}</span> by <span class="post-authors">{{ post.authors }}</span> in {{ post.venue }}
     </div>
   </article>
