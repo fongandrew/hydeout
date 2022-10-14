@@ -10,7 +10,7 @@ sidebar_link: true
 
 ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
-Membership is required for ISBA conference registration.
+Membership is not required for ISBA conference registration, however members will receive a discount upon registration.
 
 Membership fees are described in the table below.
 
