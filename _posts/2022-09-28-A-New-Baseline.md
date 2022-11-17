@@ -16,6 +16,7 @@ authors: "J. vd Toorn, R. Wiersma, A. Vandivere, R. Marroquim and E. Eisemann"
 type: "InProceedings"
 doi: "10.2312/gch.20221223" 
 pdf: "https://diglib.eg.org/handle/10.2312/gch20221223"
+img: "/assets/img/publications/anewbaseline.png"
 bib: "@InProceedings{Toorn2022,<br />
   author    = {Toorn, Jules van der and Wiersma, Ruben and Vandivere, Abbie and Marroquim, Ricardo and Eisemann, Elmar},<br />
   booktitle = {Eurographics Workshop on Graphics and Cultural Heritage},<br />
