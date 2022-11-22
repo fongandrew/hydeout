@@ -25,6 +25,8 @@ Follow these buttons to pay by PayPal. PayPal should allow you to pay directly t
 
 If this is not available in your region, please see below for information how to pay via bank transfer.
 
+> 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+
 #### Via Paypal
 
 To pay for membership via PayPal please select the corresponding membership type from the drop down menu below, and press the **Pay Now** button to enter your payment details with PayPal.
@@ -81,7 +83,5 @@ If you do not have a PayPal account please see the details in the collapsed sect
 </details>
 
 <br>
-
-> 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
 For any other enquiries please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
