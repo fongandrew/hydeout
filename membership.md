@@ -19,15 +19,15 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
-Currently membership payment is only possible through PayPal.
+### Payment
 
-<blockquote>
-🛈 In some countries it is possible to pay without a PayPal account (see instructions below)! For those who do not have this option, we are working on setting up an alternative payment system, this will be announced on the mailing list and twitter.
-</blockquote>
+Follow these buttons to pay by PayPal. PayPal should allow you to pay directly through your PayPal account, or by credit or debit card (also without an account for some countries). <i>This is our preferred method of payment and will expedite your membership order.</i>
 
-To pay for membership, please select the corresponding membership type from the
-drop down menu below, and press the **Pay Now** button to enter your payment
-details with PayPal.
+If this is not available in your region, please see below for information how to pay via bank transfer.
+
+#### Via Paypal
+
+To pay for membership via PayPal please select the corresponding membership type from the drop down menu below, and press the **Pay Now** button to enter your payment details with PayPal.
 
 If you wish to sign up for ISBA membership with an email other than your paypal account (e.g. institutional account), please put your preferred email address in the SELLER INSTRUCTIONS section!
 
@@ -46,15 +46,42 @@ If you wish to sign up for ISBA membership with an email other than your paypal 
 </form>
 
 <details>
-	<summary>Click here on how to pay without PayPal account!</summary>
-    <br>
-<p>Some countries allow you to pay without a PayPal account..</p>
+<div style="border-style: none none none solid;border-left-color:#4895ef;border-left-width=10px;padding:20px">
+	<summary>Click here on how to pay via PayPal without PayPal account!</summary>
+<p>Some countries allow you to pay without a PayPal account.</p>
 <p>If so, after pressing the 'Buy now' button above, you should see a menu like this</p>
 <img src="/assets/images/membership/payal-uk_de-page.png" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 <p>Here you can simply press the 'pay with credit or debit card' or 'continue without a guest account' button.</p>
 <p>If you <b>do not</b> see such a button, we are currently working on other options for paying for membership. Please watch the ISBA social media/mailing list for updates.</p>
+</div>
 </details>
+
+#### Via other methods
+
+If you do not have a PayPal account please see the details in the collapsed sections below.
+
+<details>
+	<summary>Click here on how to paying via bank transfer</summary>
+<div style="border-style: none none none solid;border-left-color:#4895ef;border-left-width=10px;padding:20px">
+<p>If paying via PayPal (with or withour an PayPal account) is not available in your region, please pay your membership fee by International Bank Transfer to the ISBA Treasurer.</p>
+<p>Please note, International Bank Transfer will take up to 5 working days.</p>
+<ul>
+<li><b>Name (Beneficiary)</b>: Elizabeth Briggs</li>
+<li><b>IBAN</b>: GB76 REVO 0099 7011 6694 57</li>
+<li><b>BIC</b>: REVOGB21</li>
+<li><b>Receiving Bank Details</b>: Revolut Ltd, 7 Westferry Circus, Canary Wharf, London, England, E14 4HD</li>
+</ul>
+<p>If your bank requires 'Correspondent Bank Details' please use the following codes based on your region:</p>
+<ul>
+<li><b>For AUD, NZD, USD, GBP</b> 1) Bank: JPMORGAN 2) BIC: CHASGB2L</li>
+<li><b>For EUR </b> 1) Bank: JPMORGAN_DE 2) BIC: CHASDEFXXXX</li>
+<li><b>For all other source currencies</b> - 1) Bank: Barclays 2) BIC: BARCGB22</li>
+</ul>
+</div>
+</details>
+
 <br>
+
 > 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
 For any other enquiries please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
