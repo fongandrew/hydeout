@@ -10,7 +10,7 @@ sidebar_link: true
 
 ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
-Members also get access to a "Members Only" event at the binennial International Symposium for Biomolecular Archaeology. Membership entitles you to stand for a position on our Board of Trustees, and vote for new Board members. Members are able to nominate their institution to be the host of future biennial International Symposium for Biomolecular Archaeology conference events.
+Members also get access to a "Members Only" event at the biennial International Symposium for Biomolecular Archaeology. Membership entitles you to stand for a position on our Board of Trustees, and vote for new Board members. Members are able to nominate their institution to be the host of future biennial International Symposium for Biomolecular Archaeology conference events.
 
 Membership is not required for ISBA symposium registration, however members will receive a discount upon registration.
 
