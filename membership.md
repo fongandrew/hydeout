@@ -10,7 +10,9 @@ sidebar_link: true
 
 ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
-Membership is not required for ISBA conference registration, however members will receive a discount upon registration.
+Members also get access to a "Members Only" event at the binennial International Symposium for Biomolecular Archaeology. Membership entitles you to stand for a position on our Board of Trustees, and vote for new Board members. Members are able  to nominate their institution to be the host of the next biennial International Symposium for Biomolecular Archaeology.
+
+Membership is not required for ISBA symposium registration, however members will receive a discount upon registration.
 
 Membership fees are described in the table below.
 
@@ -21,11 +23,9 @@ Membership fees are described in the table below.
 
 ### Registration
 
-To sign up, please fill in your details in the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link).
+First, follow the instructions below for paying the membership fee. 
 
-Once submitted, please follow the instructions below for paying the membership fee.
-
-Once both the form and payment are confirmed, you will recieve an email with your membership number.
+Once you have paid, please then fill in your details in the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link).
 
 If you have an issues or questions, please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
 
