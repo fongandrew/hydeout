@@ -95,7 +95,7 @@ sidebar_link: true
 
 </div>
 
-<h2>Offices</h2>
+<h2>Roles</h2>
 
 <div class="avatar">
   
