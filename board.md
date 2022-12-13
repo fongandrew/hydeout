@@ -13,7 +13,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html" target="_blank"><img src="{{ "/assets/images/profile_pictures/BARNES_Ian.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ian Barnes</p>
-<p><b>President (Provisional)</b></p>
+<p><b>President</b></p>
 <p>Natural History Museum</p>
 <p>London, UK</p>
 <p></p>
@@ -22,7 +22,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="http://christinawarinner.com/about-us/christina-warinner/" target="_blank"><img src="{{ "/assets/images/profile_pictures/WARINNER_Christina.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Christina Warinner</p>
-<p><b>Vice President (Provisional)</b></p>
+<p><b>Vice President</b></p>
 <p>Harvard University</p>
 <p>Cambridge, USA</p>
 <p>MPI-EVA</p>
@@ -32,7 +32,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://uk.linkedin.com/in/lisa-briggs-archaeology" target="_blank"><img src="{{ "/assets/images/profile_pictures/BRIGGS_Lisa.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Lisa Briggs</p>
-<p><b>Treasurer (Provisional)</b></p>
+<p><b>Treasurer</b></p>
 <p>British Museum</p>
 <p>London, UK</p>
 <p><b><a href="mailto: treasurer@isbarch.org">Contact</a></b></p>
@@ -41,7 +41,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="https://www.york.ac.uk/archaeology/people/academic-staff/oliver-craig/" target="_blank"><img src="{{ "/assets/images/profile_pictures/CRAIG_Oliver.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Oliver Craig</p>
-<p><b>Secretary (Provisional)</b></p>
+<p><b>Secretary</b></p>
 <p>University of York</p>
 <p>York, UK</p>
 <p><b><a href="mailto: board@isbarch.org">Contact</a></b></p>
