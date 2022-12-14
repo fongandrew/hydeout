@@ -58,9 +58,9 @@ sidebar_link: true
 
 <b>ISBA2</b>, University of Stockholm, Sweden, September 7-9, 2006
 
-- <b>Organizing Committee:</b> Gunilla Eriksson, Lena Holmquist, Sven Isaksson
-- <b>Keynote Speaker:</b> Julia Lee-Thorpe
-- [Conference program](https://www.archaeology.su.se/polopoly_fs/1.35651.1320940162!/ISBA2_abstracts.pdf)
+- <b>Organizing Committee:</b> Kerstin Lidén, Gunilla Eriksson, Lena Holmquist, Sven Isaksson
+- <b>Keynote Speaker:</b> Julia Lee-Thorp
+- [Conference program](/assets/documents/ISBA2/ISBA2_Programme.pdf)
 
 <b>[ISBA1](https://www.geo.vu.nl/bioarchaeo/index-en.html)</b>, Vrije Universiteit Amsterdam, the Netherlands, March 18-20, 2004
 

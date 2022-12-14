@@ -139,7 +139,7 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 #### Former Members of the Standing Committee and Board
 
-Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Gunilla Eriksson, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
 #### Founding Members of the Society Working Groups
 
