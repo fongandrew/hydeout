@@ -1,11 +1,10 @@
+---
 layout: post
 title: "[EVENT] 2023 - Tracing the History of Mediterranean Human-Environmental Systems Using Biomolecular Methods (EAA Session)"
 categories:
-
 - Events
   tags:
 - Upcoming
-
 ---
 
 Abstract submissions are invited for the session #325 “Tracing the History
