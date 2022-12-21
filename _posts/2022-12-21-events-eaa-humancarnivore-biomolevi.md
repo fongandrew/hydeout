@@ -7,7 +7,6 @@ categories:
 - Upcoming
 ---
 
-
 Dear Colleagues,
 
 We would like to invite you to contribute to our session:
