@@ -2,26 +2,25 @@
 layout: post
 title: "[EVENT] 2023 - Companions, Competitors, Fellow Travelers – Biomolecular and Zooarchaeological Evidence of Human-Carnivore Interactions in the Past (EAA Session)"
 categories:
-- Events
-  tags:
-- Upcoming
+  - Events
+tags:
+  - Upcoming
 ---
 
 Dear Colleagues,
 
 We would like to invite you to contribute to our session:
 
-*#298 **Companions, Competitors, Fellow Travelers – Biomolecular and
-Zooarchaeological Evidence of Human-Carnivore Interactions in the Past*
+_#298 \*\*Companions, Competitors, Fellow Travelers – Biomolecular and
+Zooarchaeological Evidence of Human-Carnivore Interactions in the Past_
 
-at the *29th EAA Annual Meeting*, which will take place in Belfast,
+at the _29th EAA Annual Meeting_, which will take place in Belfast,
 Northern Ireland, 30 August – 2 September 2023.
 
 You can now submit your proposals *until 9 February 2023 *at
 
 [https://www.e-a-a.org/EAA2023/Programme](https://www.e-a-a.org/EAA2023/Programme.aspx?WebsiteKey=4c013ea5-de96-432a-85f7-b1800c2303bf&hkey=f73d6cf5-b37e-4836-ad06-2ecea6b58060&Program=3#Program)
 [https://www.e-a-a.org/EAA2023/Programme.aspx?WebsiteKey=4c013ea5-de96-432a-85f7-b1800c2303bf&hkey=f73d6cf5-b37e-4836-ad06-2ecea6b58060&Program=3#Program](https://www.e-a-a.org/EAA2023/Programme.aspx?WebsiteKey=4c013ea5-de96-432a-85f7-b1800c2303bf&hkey=f73d6cf5-b37e-4836-ad06-2ecea6b58060&Program=3#Program)
-
 
 You can find the description of this session’s topic below. Please feel
 free to forward this email to your colleagues and anyone who may be
@@ -31,12 +30,11 @@ Please do not hesitate to contact us if you have any questions.
 
 Looking forward to hearing from you.
 
-
 Best regards,
 
 Danijela Popović ([dpopovic@cent.uw.edu.pl](mailto:dpopovic@cent.uw.edu.pl)), Chris Baumann, Maciej Krajcarz, Magdalena Krajcarz
 
-*Session: #298*
+_Session: #298_
 
 Title: Companions, Competitors, Fellow Travelers – Biomolecular and
 Zooarchaeological Evidence of Human-Carnivore Interactions in the Past
