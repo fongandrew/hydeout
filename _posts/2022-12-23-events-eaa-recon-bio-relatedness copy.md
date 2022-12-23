@@ -11,7 +11,7 @@ Dear colleagues,
 
 The next Annual Meeting of the European Association of Archaeologists (EAA) will take place in Belfast, Northern Ireland, from August 30 to September 2, 2023, fully hybrid again.
 
-We are very pleased to invite your contributions to our session #542 “Reconstructing Biological Relatedness and Inferring Human Relations in the Past”.
+We are very pleased to invite your contributions to our session #542 “Reconstructing Biological Relatedness and Inferring Human Relations in the Past”. The abstract for the session can be seen [here](https://www.researchgate.net/publication/366545198_EAA_2023_Belfast_-_Call_for_papers_542_Reconstructing_Biological_Relatedness_and_Inferring_Human_Relations_in_the_Past).
 
 We aim to bring together social and biological data to understand the complexities of past kinship through integrative discussions. 
 
