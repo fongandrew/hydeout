@@ -12,7 +12,7 @@ sidebar_link: true
 
 ## Next ISBA Meeting
 
-With the upcoming [ISBA10 meetings entitled “New Horizons in Biomolecular Archaeology”](https://isba10.ut.ee/), we look forward to offering you an engaging and inspiring conference to exchange experiences and novel ideas. After three years of virtual-only meetings due to the COVID-19 pandemic, ISBA10 marks a return to in-person conferences. Thus, to provide a productive and engaging environment for scientific exchange and collaboration, and guarantee the best possible experience and synergy we invite you to Tartu, the [City of Good Thoughts](https://tartu.ee/en/city-of-good-thoughts), (Estonia)
+With the upcoming [ISBA10 meetings “New Horizons in Biomolecular Archaeology”](https://isba10.ut.ee/), we look forward to offering you an engaging and inspiring conference to exchange experiences and novel ideas. After three years of virtual-only meetings due to the COVID-19 pandemic, ISBA10 marks a return to in-person conferences. Thus, to provide a productive and engaging environment for scientific exchange and collaboration, and guarantee the best possible experience and synergy we invite you to Tartu, the [City of Good Thoughts](https://tartu.ee/en/city-of-good-thoughts), (Estonia)
 
 The conference will take place on the **13th to the 16th of September 2023** in Tartu, Estonia. Mark your calendars!
 
