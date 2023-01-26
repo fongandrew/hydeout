@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oustanding Publication Prize
+title: Oustanding Publication Student Prize
 sidebar_link: false
 ---
 
