@@ -50,6 +50,8 @@ Many tools, programs, pipelines, and software suites are used in the analysis of
 - [SourceTracker2](https://github.com/biota/sourcetracker2) estimates source contributions to a metagenomic sample and can be used to identify environmental contaminants in mixed microbial communities, such as dental calculus and paleofeces 
 - [SourcePredict](https://github.com/maxibor/sourcepredict) classifies and predicts the origin of metagenomic samples given a reference dataset of known origins using machine learning classification on dimensionally reduced datasets
 - [Decontam](https://benjjneb.github.io/decontam/vignettes/decontam_intro.html) identifes contaminant sequences in a sample based on sequences identified in blansk and controls
+- [AuthentiCT](https://github.com/StephanePeyregne/AuthentiCT) Provides an estimate of proportion of present-day DNA contamination in ancient DNA datasets using deamination patterns (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02123-y).
+-[KIN](https://github.com/DivyaratanPopli/Kinship_Inference): Estimates genetic relatedness from ancient DNA data along with locations of IBD sharing and long runs of homozygosity
 
 **Ancestry and admixture**
 - [ADMIXTURE](http://www.genetics.ucla.edu/software/admixture/) estimates individual ancestries from SNP datasets  
