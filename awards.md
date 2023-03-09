@@ -15,10 +15,10 @@ Best conference poster presented by a student or postdoc.
 
 Best oral presentation presented by a student or postdoc.
 
-### [Outstanding Publication Student Prize](/oustanding_publication_prize)
+### [Outstanding Publication Student Prize](/outstanding_publication_prize)
 
 Prize for an outstanding publication by a student in a first author role.
 
-### [Distinguished Article Award](/article_award)
+### [Distinguished Article Award](/distinguished_article_award)
 
 Award for an outstanding article in a peer-reviewed journal in the area of biomolecular archaeology.
