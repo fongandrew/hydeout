@@ -19,8 +19,9 @@ Quick Start (using gitpod.io)
 
 - Press the gitpod button on the repository (assuming extension installed)
 - Make a change
-- Run `bundle exec jekyll serve`, open link
+- ~~Run `bundle exec jekyll serve`, open link~~ Edit: this will be run in the background now for you on GitPod startup!!
 - Press 'open preview' on prompt (or press Ports: 4000 in bottom right, then split pane icon in sidebar)
+    - If you accidently close the preview or 'simple browser' tab, click ports, copy and the URL displayed, open the command pallette (e.g. `ctrl`/`cmd` + `shift` + `p`), type `simple browser` and then paste in the URL to the URL bar.
 
 Quick start (advanced: run local server on our laptop to see changes in real time):
 
