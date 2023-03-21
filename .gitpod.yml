@@ -14,3 +14,8 @@ github:
     addBadge: false
     # add a label once the prebuild is ready to pull requests (defaults to false)
     addLabel: prebuilt-in-gitpod
+# Commands to start on workspace startup
+tasks:
+  - name: Setup & Serve
+    before: bundle install
+    command: bundle exec jekyll serve
