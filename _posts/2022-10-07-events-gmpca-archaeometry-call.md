@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - GMPCA-Archaeometry symposium"
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 The 24th edition of GMPCA-Archaeometry symposium will take place for the first time in Nice, from 17 to 21 April 2023
