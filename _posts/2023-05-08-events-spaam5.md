@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[EVENT] 2023 - SPAAM Summer School Introduction to Ancient Metagenomics 2023 - Applications Open!"
+title: "[EVENT] 2023 - Fifth Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM5) Meeting"
 categories:
   - Events
   - News
