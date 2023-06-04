@@ -32,7 +32,7 @@ We introduce a geometric multigrid method for solving linear systems arising fro
 
 ## Learn more
 
-Find out more about DeltaConv in our paper, or come see our (virtual) presentation at SIGGRAPH 2023.
+Find out more about Gravo MG in our paper, or come see our (virtual) presentation at SIGGRAPH 2023.
 
 <a id="github-link"
       class="icon" title="Gravo MG Github Repo" aria-label="Github Project"
