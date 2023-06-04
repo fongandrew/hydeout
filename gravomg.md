@@ -8,7 +8,7 @@ sidebar_link: false
 [Ruben Wiersma](https://rubenwiersma.nl/)<sup>1</sup>, [Ahmad Nasikun](https://graphics.tudelft.nl/ahmad-nasikun/)<sup>1, 2</sup> (equal contribution); [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/)<sup>1</sup>; and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<sup>1</sup><br />
 <sup>1</sup>Delft University of Technology, <sup>2</sup>Universitas Gadjah Mada
 
-<img src="assets/img/publications/gravomg/gravomg.png" class="featured" width="60%">
+<img src="assets/img/publications/gravomg/teaser_gravomg.png" class="featured" width="90%">
 
 <a id="github-link"
       class="icon" title="Gravo MG Github Repo" aria-label="Github Project"
