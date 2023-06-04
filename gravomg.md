@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds"
+title: "A Fast Geometric Multigrid Method for Curved Surfaces"
 sidebar_link: false
 ---
 ## SIGGRAPH 2023
