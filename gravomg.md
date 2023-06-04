@@ -5,8 +5,7 @@ sidebar_link: false
 ---
 ## SIGGRAPH 2023
 # A Fast Geometric Multigrid Method for Curved Surfaces
-[Ruben Wiersma*](https://rubenwiersma.nl/)<sup>1</sup>, [Ahmad Nasikun*](https://graphics.tudelft.nl/ahmad-nasikun/)<sup>1, 2</sup>, [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/)<sup>1</sup>, and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<sup>1</sup><br />
-* denotes equal contribution<br />
+[Ruben Wiersma](https://rubenwiersma.nl/)<sup>1</sup>, [Ahmad Nasikun](https://graphics.tudelft.nl/ahmad-nasikun/)<sup>1, 2</sup> (equal contribution); [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/)<sup>1</sup>; and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<sup>1</sup><br />
 <sup>1</sup>Delft University of Technology, <sup>2</sup>Universitas Gadjah Mada
 
 <img src="assets/img/publications/gravomg/gravomg.png" class="featured" width="80%">
