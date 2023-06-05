@@ -21,15 +21,21 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
-### Registration
+Registration can be performed in two steps
 
-First, follow the instructions below for paying the membership fee. 
+### 1. Register
 
-Once you have paid, please then fill in your details in the following [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link).
+First, use the button below to use the Google Form register:
 
-If you have an issues or questions, please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link')" class="button-join">Register</button>
 
-### Payment
+Then make the the membership fee payment using the instructions below.
+
+> ⚠️ Your membership number will only be considered valid once your payment has been sent!
+
+If you have an issues or questions, please contact the webmaster via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org), or the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+
+### 2. Make membership fee payment
 
 Follow these buttons to pay by PayPal. PayPal should allow you to pay directly through your PayPal account, or by credit or debit card (also without an account for some countries). <i>This is our preferred method of payment and will expedite your membership order.</i>
 
