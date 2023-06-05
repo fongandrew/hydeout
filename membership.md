@@ -6,7 +6,7 @@ sidebar_link: true
 
 ![Faunal_bone](/assets/images/banners/faunal_bone.png)
 
-### Benefits of membership
+# Benefits of membership
 
 ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
@@ -21,29 +21,26 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
-Registration can be performed in two steps
+# Steps to Membership
 
-### 1. Register
+Registration can be performed in two steps:
 
-First, use the button below to use the Google Form register:
+1. Make membership fee payment
+2. Register your details
 
-<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link')" class="button-join">Register</button>
+Membership numbers will only be issued after the second step has been completed!
 
-Then make the the membership fee payment using the instructions below.
+> 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [webmaster@isbarch.org](mailto:webmaster@isbarch.org) with [treasurer@isbarch.org](mailto:treasurer@isbarch.org) in cc.
 
-> ⚠️ Your membership number will only be considered valid once your payment has been sent!
-
-If you have an issues or questions, please contact the webmaster via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org), or the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
-
-### 2. Make membership fee payment
+## 1. Make membership fee payment
 
 Follow these buttons to pay by PayPal. PayPal should allow you to pay directly through your PayPal account, or by credit or debit card (also without an account for some countries). <i>This is our preferred method of payment and will expedite your membership order.</i>
 
 If this is not available in your region, please see below for information how to pay via bank transfer.
 
-> 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+In both cases, please note down your PayPal transaction ID or Bank Transfer reference or transaction ID, as you will need this for the second step.
 
-#### Via Paypal
+### Via Paypal
 
 To pay for membership via PayPal please select the corresponding membership type from the drop down menu below, and press the **Pay Now** button to enter your payment details with PayPal.
 
@@ -74,14 +71,14 @@ If you wish to sign up for ISBA membership with an email other than your paypal 
 </div>
 </details>
 
-#### Via other methods
+## Via other methods
 
 If you do not have a PayPal account please see the details in the collapsed sections below.
 
 <details>
 	<summary>Click here on how to paying via bank transfer</summary>
 <div style="border-style: none none none solid;border-left-color:#4895ef;border-left-width=10px;padding:20px">
-<p>If paying via PayPal (with or withour an PayPal account) is not available in your region, please pay your membership fee by International Bank Transfer to the ISBA Treasurer.</p>
+<p>If paying via PayPal (with or without an PayPal account) is not available in your region, please pay your membership fee by International Bank Transfer to the ISBA Treasurer.</p>
 <p>Please note, International Bank Transfer will take up to 5 working days.</p>
 <ul>
 <li><b>Name (Beneficiary)</b>: Elizabeth Briggs</li>
@@ -100,4 +97,18 @@ If you do not have a PayPal account please see the details in the collapsed sect
 
 <br>
 
-For any other enquiries please contact the treasurer via: [treasurer@isbarch.org](mailto:treasurer@isbarch.org).
+For any other enquiries please contact the webmaster and secretary via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org).
+
+## 2. Register
+
+Once the payment has been made, use the button below to use the Google Form to register your details:
+
+<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSd-yKfzXl7B06AoOA5tbXK-QZtT-jFQ8pc5bxmodfTnWOc3dA/viewform?usp=sf_link')" class="button-join">Register</button>
+
+> ⚠️ Your membership number will only be considered valid once your payment has been sent!
+
+## Membership number
+
+You should automatically receive an email with your membership number after registering. If you do not receive this email, please contact the webmaster. The membership number will be valid for two years.
+
+If you have an issues or questions, please contact the webmaster via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org) <!-- or the treasurer via: [webmaster@isbarch.org](mailto:treasurer@isbarch.org). -->.
