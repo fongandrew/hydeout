@@ -14,9 +14,14 @@ ISBA uses Twitter ([@ISBArchaeology](https://twitter.com/ISBArchaeology)), the [
 
 ISBA is governed and structured under rules and regulations set by the [Charity Commission](https://www.gov.uk/government/organisations/charity-commission). See our [Board](/board) page for more information.
 
-ISBA is a Charitable Incorporated Organisation registered in England.
+The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502
 
 ## History
 
 <img align="right" width="300" src="/assets/images/misc/tube_rack.png">
 ISBA, the International Symposium for Biomolecular Archaeology, began as a small, biennial symposium organized by Prof. Henk Kars in the Netherlands in 2004. Nine [international meetings](/pastmeetings.md) were held between 2004 and 2021, attracting hundreds of the world's leading researchers in the emerging field of biomolecular archaeology. In 2022, ISBA was officially founded as an academic society: the International Society for Biomolecular Archaeology. ISBA is a registered charity that promotes the study of biomolecular archaeology and adjacent sciences through the sponsorship of meetings, training workshops, web resources, and a biennial program of research prizes and awards.
+
+<p>
+  <i>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502</i>
+
+</p>

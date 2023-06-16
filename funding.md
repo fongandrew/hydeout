@@ -17,3 +17,8 @@ role="button"
 onclick="window.open('/application','\_blank')"
 type="button">
 Apply for funding </button>
+
+<p>
+  <i>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502</i>
+
+</p>

@@ -146,3 +146,8 @@ Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Th
 - **Constitution working group**: Andrew Millard, Beatrice Demarchi, Alice Toso, Kerstin Kowarik, Michelle Alexander, Shevan Wilkin, Logan Kistler
 - **Finance working group**: Lisa Briggs, Ian Barnes, Oliver Craig, Freddie Scheib
 - **Website working group**: Christina Warinner, James Fellows Yates, Samantha Brown, Maddy Bleasdale
+
+<p>
+  <i>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502</i>
+
+</p>
