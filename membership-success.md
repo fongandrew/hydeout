@@ -4,8 +4,8 @@ title: Membership Success
 sidebar_link: false
 ---
 
-Thank you for joining and supporting the ISBA society.
+Thank you for supporting the ISBA society.
 
-You will be contacted by the Treasurer with confirmation of your membership soon.
+To complete your membership application, please complete step two of the registration process [here](https://www.isbarch.org/membership#2-register).
 
-For any questions, please contact the ISBA Treasurer with any questions at [treasurer@isbarch.org](treasurer@isbarch.org).
+For any questions, please contact the ISBA Webmaster and Treasurer with any questions at [webmaster@isbarch.org](mailto:webmaster@isbarch.org) and [treasurer@isbarch.org](mailto:treasurer@isbarch.org).

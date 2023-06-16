@@ -29,3 +29,8 @@ All posts require moderator approval before distribution.
 ## Webmaster
 
 [webmaster@isbarch.org](mailto:webmaster@isbarch.org)
+
+<p>
+  <i>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502</i>
+
+</p>
