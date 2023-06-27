@@ -23,14 +23,13 @@ Membership fees are described in the table below.
 
 # Steps to Membership
 
-Registration can be performed in two steps:
+Registration can be performed in two to three steps:
 
 1. Make membership fee payment
 2. Register your details
+3. [Students only] Send proof of student status
 
-Membership numbers will only be issued after the second step has been completed!
-
-> 👩🏿‍🎓 If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [webmaster@isbarch.org](mailto:webmaster@isbarch.org) with [treasurer@isbarch.org](mailto:treasurer@isbarch.org) in cc.
+<p style="color: #348aee">⚠️ <b>Membership numbers will only be issued once step two has been completed!</b></p>
 
 ## 1. Make membership fee payment
 
@@ -107,8 +106,12 @@ Once the payment has been made, use the button below to use the Google Form to r
 
 > ⚠️ Your membership number will only be considered valid once your payment has been sent!
 
+## 3. (Students only) Send proof of student status
+
+If you register with a student membership, please send proof of your enrollment status (e.g., photo of student ID, letter from supervisor, institutional certificate, etc.) to [webmaster@isbarch.org](mailto:webmaster@isbarch.org) with [treasurer@isbarch.org](mailto:treasurer@isbarch.org) in cc.
+
 ## Membership number
 
-You should automatically receive an email with your membership number after registering. If you do not receive this email, please contact the webmaster. The membership number will be valid for two years.
+You should automatically receive an email with your membership number after registering (step 2). If you do not receive this email, please contact the webmaster. The membership number will be valid for two years.
 
 If you have an issues or questions, please contact the webmaster via: [webmaster@isbarch.org](mailto:webmaster@isbarch.org) <!-- or the treasurer via: [webmaster@isbarch.org](mailto:treasurer@isbarch.org). -->.
