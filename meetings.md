@@ -14,11 +14,11 @@ sidebar_link: true
 
 With the upcoming [ISBA10 meetings “New Horizons in Biomolecular Archaeology”](https://isba10.ut.ee/), we look forward to offering you an engaging and inspiring conference to exchange experiences and novel ideas. After three years of virtual-only meetings due to the COVID-19 pandemic, ISBA10 marks a return to in-person conferences. Thus, to provide a productive and engaging environment for scientific exchange and collaboration, and guarantee the best possible experience and synergy we invite you to Tartu, the [City of Good Thoughts](https://tartu.ee/en/city-of-good-thoughts), (Estonia)
 
-The conference will take place on the **13th to the 16th of September 2023** in Tartu, Estonia. Mark your calendars!
+The conference will take place on the **13th to the 16th of September 2023** in Tartu, Estonia.
 
-The abstract submission is now open! We are looking forward to your [abstracts](https://isba10.ut.ee/abstract-submission.html) about biomolecular advancements in archaeology. Please submit your abstract ~~**before 15th of March 2023**~~ **before extended deadline of 31st March**. 
+The abstract submission is now closed. 
 
-More information about the conference and updates are available on the ISBA10 conference website: [https://isba10.ut.ee/](https://isba10.ut.ee/).
+More information about the conference and updates are available on the ISBA10 conference website: [https://isba10.ut.ee/](https://isba10.ut.ee/). **An initial program can be seen [HERE](assets/documents/ISBA10/ISBA%2010_program.pdf).**
 
 If you have any questions, feel free to contact us:
 
