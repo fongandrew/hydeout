@@ -1,4 +1,4 @@
-<div style="width: 80px; height: 80px; border-radius: 40px; margin: 0 0 0 20px; float: right; background: url(../img/profile_ruben.jpg); background-position: -2px -5px; background-size: cover"></div>
+<div style="width: 80px; height: 80px; border-radius: 40px; margin: 0 0 0 20px; float: right; background: url(profile_ruben.jpg); background-position: -2px -5px; background-size: cover"></div>
 
 # Ruben Wiersma
 - 7 September 1994
@@ -7,7 +7,7 @@
 - NL
 - [rubenwiersma.nl](https://rubenwiersma.nl)
 
-I am a fourth-year PhD student in computer graphics at the TU Delft. My interests include geometry processing, animation, simulation, and machine learning. I have gathered experience as a [programmer](https://github.com/rubenwiersma), graphic designer, and filmmaker during my undergraduate years. You can find some examples of my creative work [on my portfolio](https://rubenwiersma.nl/category/creative-portfolio.html).
+I am a fourth-year PhD student in computer graphics at the TU Delft. My interests include geometry processing, rendering, simulation, and machine learning. I am currently a research intern at Adobe in San Francisco, studying material capture with differentiable rendering. I have a soft spot for working on tools for artistic work and enjoy working on my own [filmmaking projects, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
 
 ### Skills and qualities
 Strong math understanding • Ability to understand and analyze complex systems • Eye for clean, maintainable, and understandable code - [example project](https://github.com/rubenwiersma/deltaconv) • Creative thinking • Presentation and communication - [example presentation](https://www.youtube.com/watch?v=pKVtuz4dG0g) • Perseverance • C++ • Python • Linux • macOS • Blender • Adobe CC • Piano
@@ -20,7 +20,7 @@ _TU Delft_ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 - Studying fundamentals and applications of geometric deep learning (two SIGGRAPH publications).
 - Studying applications of computer graphics and machine learning for painting analysis.
 - Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 Bsc, 3 MSc).
-- Toolkit: Python, PyTorch, C++, OpenGL.
+- Toolkit: Python, PyTorch, JAX, C++, OpenGL.
 
 #### [2017 - 2019] MSc Computer Science _Cum Laude_ (GPA 4.0)
 _TU Delft_
@@ -39,6 +39,11 @@ _TU Delft_
 _TU Delft_
 
 ## Experience
+
+#### [2023] Research Internship
+_Adobe_
+
+- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
 
 #### [2019] Teaching Assistant
 _TU Delft_
@@ -95,6 +100,9 @@ _Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one m
 - Staff and communications manager for Hartige Samaritaan (November 2014, February 2017).
 
 ## Publications
+
+#### [SIGGRAPH '23] [A Fast Geometric Multigrid Method for Curved Surfaces](https://rubenwiersma.nl/gravomg)
+_July 2023_
 
 #### [GCH '22] [A New Baseline for Feature Description on Multimodal Imaging of Paintings](https://rubenwiersma.nl/publications/2022/09/28/A-New-Baseline.html)
 __Best Full Paper Award__
