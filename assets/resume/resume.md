@@ -17,9 +17,9 @@ Strong math understanding • Ability to understand and analyze complex systems 
 #### [2019 - present] PhD Computer Graphics
 _TU Delft_ Supervised by Elmar Eisemann, Klaus Hildebrandt and Joris Dik
 
-- Studying fundamentals and applications of geometric deep learning (two SIGGRAPH publications).
-- Studying applications of computer graphics and machine learning for painting analysis.
-- Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 Bsc, 3 MSc).
+- Geometry processing and machine learning (3 SIGGRAPH publications).
+- Studying applications of computer graphics and machine learning for painting analysis (1 journal, 1 conference publication).
+- Responsibilities: lecturing, lab assistance, creating assignments, thesis supervision (10 BSc, 3 MSc).
 - Toolkit: Python, PyTorch, JAX, C++, OpenGL.
 
 #### [2017 - 2019] MSc Computer Science _Cum Laude_ (GPA 4.0)

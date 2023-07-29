@@ -28,8 +28,7 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 #### [2019 - present] PhD Computer Graphics
 _TU Delft_
-- Studying applications of Computer Graphics and Machine Learning to painting analysis, generation, and rendering.
-- Studying fundamentals of geometric deep learning.
+- Connecting geometry processing and computer graphics with machine learning and creative applications.
 - Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 10 BSc students (thesis project), 3 MSc students (thesis).
 - Toolkit: C++, OpenGL, Python, PyTorch, Blender.
 
@@ -57,6 +56,11 @@ _TU Delft_
 
 <h3>Professional experience</h3>
 <hr />
+
+#### [2023] Research Internship
+_Adobe_
+
+- Investigating material and appearance capture, mentored by Valentin Deschaintre and Julien Philip.
 
 #### [2019] Teaching Assistant
 _TU Delft_
@@ -104,7 +108,7 @@ _SIGGRAPH research and career development committee_
 <hr/>
 
 #### [2020 - present] Reviewer
-_ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics_
+_ACM Transactions on Graphics, SIGGRAPH Asia, Pacific Graphics, TMAA, Computers & Graphics_
 
 <hr/>
 
