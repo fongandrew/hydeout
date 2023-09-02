@@ -12,8 +12,10 @@ research article on the topic of biomolecular archaeology. The award is made to 
 - Authors are encouraged to nominate their own articles, but nominations of articles by others are also welcome.
 - Articles by authors with close associations to members of the prize committee are not eligible.
 
-The Outstanding Publication Student Prize is presented at the biennial ISBA meeting during the closing session. The judging commitee will be the keynote speakers, invited speakers, and conference organisers of ISBA10.
+The Outstanding Publication Student Prize is presented at the biennial ISBA meeting during the closing session. The judging commitee will be the keynote speakers, invited speakers, and conference organisers of the ISBA meeting.
 
+<!--
 Please use this form to submit your nomination.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWYggKVSKq-7Qz73dSxg2fcVbQOqtIvfmzcOE3N9b5eDdYrg/viewform?embedded=true" width="640" height="1166" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+-->
