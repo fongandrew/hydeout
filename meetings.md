@@ -10,6 +10,20 @@ sidebar_link: true
 
 </div>
 
+## ISBA11 Proposals
+
+As a member of the society, you may have your say where the next ISBA11 meeting in 2025 will be held!
+
+You can see videos summarising the submitted bids in the YouTube playlist below. If you are unable to access YouTube, the videos will also be available on [BiliBili.tv](https://www.bilibili.tv/en/space/1017151148).
+
+All society members will receieve an email containing an anonymous voting link.
+The **deadline is midnight of Thursday 14th September**.
+The winning bid will be announced on last day of ISBA10.
+
+Members of the society who do not attend ISBA11 will still recieve and are eligible to vote.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=xuGsSuQY3jXjuMXx&amp;list=PLAnYs8EECCqouPRyOsgPc3KorSuRLY8R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Next ISBA Meeting
 
 With the upcoming [ISBA10 meetings “New Horizons in Biomolecular Archaeology”](https://isba10.ut.ee/), we look forward to offering you an engaging and inspiring conference to exchange experiences and novel ideas. After three years of virtual-only meetings due to the COVID-19 pandemic, ISBA10 marks a return to in-person conferences. Thus, to provide a productive and engaging environment for scientific exchange and collaboration, and guarantee the best possible experience and synergy we invite you to Tartu, the [City of Good Thoughts](https://tartu.ee/en/city-of-good-thoughts), (Estonia)
