@@ -8,9 +8,10 @@ The <b>Outstanding Publication Student Prize</b> is awarded by the International
 
 - All student members of the society are eligible.
 - Students are encouraged to nominate their publications, and nominations by others are also welcome.
+    - Publications can be in the form of: journal articles, preprints, book chapters, or theses.
 - Nominees must have submitted their publication prior to defending their dissertation.
 - The publication _submission_ must have occurred within the 25 months prior to the ISBA meeting.
-
+- Any articles, if not published (i.e. preprints), must be submitted to a journal no later than 6 months after the thesis/dissertation defence date of the student.
 
 Nominations close one month before the biennial ISBA meeting.
 
