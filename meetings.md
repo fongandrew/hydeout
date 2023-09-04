@@ -12,15 +12,13 @@ sidebar_link: true
 
 ## ISBA11 Proposals
 
-As a member of the society, you may have your say where the next ISBA11 meeting in 2025 will be held!
+As a member of the society, you may have a say where the next ISBA11 meeting in 2025 will be held!
 
-You can see **two** proposals summarising the submitted bids in the Youtube videos below. If you are unable to access YouTube, the videos are also be available on [BiliBili.tv](https://www.bilibili.tv/en/space/1017151148).
+You can see **two** proposals summarising the submitted bids in the YouTube videos below. If you are unable to access YouTube, the videos will also be available on [BiliBili.tv](https://www.bilibili.tv/en/space/1017151148).
 
-All society members will receive an email containing an anonymous voting link.
-The **deadline is midnight of Thursday 14th September**.
-The winning bid will be announced on last day of ISBA10.
+All society members will receive an email containing an anonymous voting link. The **deadline for casting your vote is midnight of Thursday 14th September**. The winning bid will be announced on the last day of ISBA10.
 
-Members of the society who do not attend ISBA11 will still receive and are eligible to vote.
+Members of the society who do not attend ISBA10 will still receive a link and are eligible to vote.
 
 **Turin, Italy**
 
