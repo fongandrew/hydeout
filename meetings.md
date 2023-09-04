@@ -14,15 +14,21 @@ sidebar_link: true
 
 As a member of the society, you may have your say where the next ISBA11 meeting in 2025 will be held!
 
-You can see videos summarising the submitted bids in the YouTube playlist below. If you are unable to access YouTube, the videos will also be available on [BiliBili.tv](https://www.bilibili.tv/en/space/1017151148).
+You can see **two** proposals summarising the submitted bids in the Youtube videos below. If you are unable to access YouTube, the videos are also be available on [BiliBili.tv](https://www.bilibili.tv/en/space/1017151148).
 
-All society members will receieve an email containing an anonymous voting link.
+All society members will receive an email containing an anonymous voting link.
 The **deadline is midnight of Thursday 14th September**.
 The winning bid will be announced on last day of ISBA10.
 
-Members of the society who do not attend ISBA11 will still recieve and are eligible to vote.
+Members of the society who do not attend ISBA11 will still receive and are eligible to vote.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=xuGsSuQY3jXjuMXx&amp;list=PLAnYs8EECCqouPRyOsgPc3KorSuRLY8R8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Turin, Italy**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Budapest, Hungary**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwaRJPRupvU?si=yhIRanpNSKWUKmt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Next ISBA Meeting
 
@@ -30,7 +36,7 @@ With the upcoming [ISBA10 meetings â€œNew Horizons in Biomolecular Archaeologyâ€
 
 The conference will take place on the **13th to the 16th of September 2023** in Tartu, Estonia.
 
-The abstract submission is now closed. 
+The abstract submission is now closed.
 
 More information about the conference and updates are available on the ISBA10 conference website: [https://isba10.ut.ee/](https://isba10.ut.ee/). **An initial program can be seen [HERE](assets/documents/ISBA10/ISBA%2010_program.pdf).**
 
