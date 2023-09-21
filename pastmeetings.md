@@ -10,6 +10,13 @@ sidebar_link: true
 
 </div>
 
+<img align="right" width="200" src="/assets/images/logos/ISBA10-logo.png">
+<b>[ISBA10](https://isba10.ut.ee/)</b>, University of Tartu, Estonia, September 13-16, September, 2023
+
+- <b>Organizing Committee:</b> Mari Tõrv, Mait Metspalu, Biancamaria Bonucci, Meriam Guellil, Meriam Guellil, Kadri Irdt, Marcel Keller, Aivar Kriiska, Alena Kushniarevich, Alessandra Morrone, Ester Oras, Toni de Dios Martínez, Lehti Saag, Stefania Sasso, Tina Saupe, Christiana Lyn Scheib, Kristiina Tambets, Olga Utevska
+- <b>Keynote Speakers:</b> Anne Stone, Carl Heron (feat. Ian Barnes and Oliver Craig)
+- [Conference program](/assets/documents/ISBA10/ISBA_10_program.pdf)
+
 <img align="right" width="200" src="/assets/images/ISBA9/ISBA9_logo.png">
 <b>[ISBA9](https://isba9.sciencesconf.org/)</b>, University of Toulouse, France, June 1-4, 2021 (online)
 
