@@ -10,6 +10,19 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 
 ## Past Presentation Prize Winners
 
+### 2023 - ISBA10
+
+<img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/FAGERNAS_Zandra.jpg">
+<b>Zandra Fagernäs</b>, GLOBE Institute, <br>
+<i>"Cleaning the Dead: Decontamination of skeletal elements for palaeoproteomics"</i>
+<br clear="left">
+
+<img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/ACCOUNT_Anonymous.png">
+<b>Jan Dekker</b>, University of York / University of Copenhagen, <br>
+<i>"Recovering proteins from foodcrust, biased from the start"</i>
+<br clear="left">
+
+
 ### 2021 - ISBA9
 
 <img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/MICHEL_Megan.jpg">

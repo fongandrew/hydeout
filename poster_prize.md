@@ -13,6 +13,18 @@ announced during the closing session of the meeting.
 
 ## Past Poster Prize Winners
 
+### 2023 - ISBA10
+
+<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/ACCOUNT_Anonymous.png">
+<b>Sanni Peltola</b>, University of Helsinki, <br>
+<i>"The Noaidi of Giggajávri (Fi. Kitka) - Life history of a Sámi shaman found in Kuusamo, Finland"</i>
+<br clear="left">
+
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="100" src="/assets/images/profile_pictures/ACCOUNT_Anonymous.png">
+<b>Maxime Borry</b>, Max Planck Institute for Evolutionary Anthropology / Leibniz Institute for Natural Product Research and Infections Biology, <br>
+<i>"Reconstructing ancient microbial genomes from the wine ferments of the Roman biblical king Herod"</i>
+<br clear="left">
+
 ### 2021 - ISBA9
 
 <img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/FAGERNAS_Zandra.jpg">
