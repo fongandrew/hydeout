@@ -28,7 +28,7 @@ Please use this form to submit your nomination.
 ### 2023 - ISBA10
 
 
-<img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/ESSEL_Elena.jpg">
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="110" src="/assets/images/profile_pictures/ESSEL_Elena.jpg">
 <b>Elena Essel</b>, Max Planck Institute for Evolutionary Anthropology, <br>
 <i>Essel, E., Zavala, E.I., Schulz-Kornas, E. et al. Ancient human DNA recovered from a Palaeolithic pendant. Nature 618, 328–332 (2023). <a href="https://doi.org/10.1038/s41586-023-06035-2">https://doi.org/10.1038/s41586-023-06035-2</a></i>
 <br clear="left">

@@ -15,12 +15,12 @@ announced during the closing session of the meeting.
 
 ### 2023 - ISBA10
 
-<img align="left" style="margin-right: 10px;" width="100" src="/assets/images/profile_pictures/ACCOUNT_Anonymous.png">
-<b>Sanni Peltola</b>, University of Helsinki, <br>
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="100" src="/assets/images/profile_pictures/PELTOLA_Sanni.jpg">
+<b>Sanni Peltola</b>, University of Helsinki / Max Planck Institute for Evolutionary Anthropology, <br>
 <i>"The Noaidi of Giggajávri (Fi. Kitka) - Life history of a Sámi shaman found in Kuusamo, Finland"</i>
 <br clear="left">
 
-<img align="left" style="margin-right: 10px;border-radius: 50%;" width="100" src="/assets/images/profile_pictures/ACCOUNT_Anonymous.png">
+<img align="left" style="margin-right: 10px;" width="200" src="/assets/images/profile_pictures/BORRY_Maxime.jpeg">
 <b>Maxime Borry</b>, Max Planck Institute for Evolutionary Anthropology / Leibniz Institute for Natural Product Research and Infections Biology, <br>
 <i>"Reconstructing ancient microbial genomes from the wine ferments of the Roman biblical king Herod"</i>
 <br clear="left">

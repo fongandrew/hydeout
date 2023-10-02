@@ -24,7 +24,7 @@ Please use this form to submit your nomination.
 
 ### 2023 - ISBA10
 
-<img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/POSTH_Cosimo.jpg">
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="110" src="/assets/images/profile_pictures/POSTH_Cosimo.jpg">
 <b>Cosimo Posth</b>, University of Tübingen, <br>
 <i>Ferraz, T., Suarez Villagran, X., Nägele, K., ..., Posth, C., Genomic history of coastal societies from eastern South America. Nat Ecol Evol 7, 1315–1330 (2023). <a href="https://doi.org/10.1038/s41559-023-02114-9">https://doi.org/10.1038/s41559-023-02114-9</a></i>
 <br clear="left">

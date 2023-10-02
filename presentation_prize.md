@@ -17,7 +17,7 @@ All student and postdoc oral presentations are eligible and are evaluated by the
 <i>"Cleaning the Dead: Decontamination of skeletal elements for palaeoproteomics"</i>
 <br clear="left">
 
-<img align="left" style="margin-right: 10px;" width="110" src="/assets/images/profile_pictures/DEKKER_Jan.jpg">
+<img align="left" style="margin-right: 10px;border-radius: 50%;" width="110" src="/assets/images/profile_pictures/DEKKER_Jan.jpg">
 <b>Jan Dekker</b>, University of York / University of Copenhagen, <br>
 <i>"Recovering proteins from foodcrust, biased from the start"</i>
 <br clear="left">
