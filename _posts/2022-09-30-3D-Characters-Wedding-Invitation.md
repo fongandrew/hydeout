@@ -15,6 +15,12 @@ For my wedding, I created wedding invitations inspired by Pixar's UP. I included
 
 ![](/assets/img/portfolio/bruiloft/card_final.jpg)
 
+We 3D-printed the characters and used them as decoration for the cake (photograph by Mies & Juul Fotografie).
+
+![](/assets/img/portfolio/bruiloft/printed_characters.jpg)
+
+## Process
+
 We wanted to create a card with stereoscopic 3D using lenticular lenses. For that, we needed a full 3D scene. It started with a sketch.
 
 ![](/assets/img/portfolio/bruiloft/card_sketch.jpg)
