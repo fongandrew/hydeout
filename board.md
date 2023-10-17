@@ -112,6 +112,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Alicia Ventresca Miller</p>
+<p><b>Deputy Treasurer</b></p>
 <p>University of Michigan</p>
 <p>Ann Arbor, MI, USA</p>
 <p></p>
@@ -120,6 +121,7 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Weyrich</p>
+<p><b>Charity Compliance and Liaison Officer</b></p>
 <p>Pennsylvania State University</p>
 <p>Pennsylvania, PA, USA</p>
 <p></p>
