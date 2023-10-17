@@ -17,7 +17,7 @@ sidebar_link: true
 <p>Harvard University</p>
 <p>Cambridge, USA</p>
 <p>MPI-EVA</p>
-<p>Leipzig, Germany</p>
+<p>Leipzig, DE</p>
 </div>
 
 <div class ="member">
@@ -34,7 +34,7 @@ sidebar_link: true
 <p>Sam Brown</p>
 <p><b>Secretary</b></p>
 <p>University of Tübingen</p>
-<p>Tübingen, Germany</p>
+<p>Tübingen, DE</p>
 <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
@@ -72,8 +72,8 @@ sidebar_link: true
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
 <p><b>Webmaster</b></p>
-<p>Leibniz Institute for Natural Product Research and Infection Biology, Jena, Germany</p>
-<p>MPI-EVA, Leipzig, Germany</p>
+<p>Leibniz Institute for Natural Product Research and Infection Biology, Jena, DE</p>
+<p>MPI-EVA, Leipzig, DE</p>
 <p><b><a href="mailto:webmaster@isbarch.org">Contact</a></b></p>
 </div>  
 
@@ -146,11 +146,22 @@ sidebar_link: true
 <p>Shinya Shoda</p>
 <p><b>Diversity and Inclusion Representative</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
-<p>Nara, Japan</p>
+<p>Nara, JP</p>
 <p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
 </div>
   
 </div>
+
+## Board Alumni
+
+- Andrew Millard (Durham University, Durham, UK)
+- Marie Balassae (Muséum National d’Histoire Naturelle, CNRS, Paris, France)
+- Love Dalén (Stockholm University, Swedish Museum of Natural History, Stockholm, Sweden)
+- Shinya Shoda (Nara National Research Institute for Cultural Properties, Nara, Japan)
+
+## Roles Alumni
+
+- Mari Tõrv, (Conference Representative - Institute of History and Archaeology, Institute of Chemistry, Tartu, Estonia)
 
 <h2>Prize Committee</h2>
 <p> Coming soon!</p>
