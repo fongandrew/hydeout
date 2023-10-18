@@ -38,8 +38,6 @@ sidebar_link: true
 <p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
-
-
 <div class ="member">
 <div class="square"><a href="https://uk.linkedin.com/in/lisa-briggs-archaeology" target="_blank"><img src="{{ "/assets/images/profile_pictures/BRIGGS_Lisa.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Lisa Briggs</p>
@@ -55,17 +53,40 @@ sidebar_link: true
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Hannes Schroeder</p>
-<p><b>Deputy Treasurer</b></p>
+<p><b>Deputy Treasurer for Fundraising</b></p>
 <p>University of Copenhagen</p>
 <p>Copenhagen, DK</p>
 </div>
 
 <div class ="member">
-<div class="square"><a href="https://www.york.ac.uk/archaeology/people/academic-staff/oliver-craig/" target="_blank"><img src="{{ "/assets/images/profile_pictures/CRAIG_Oliver.jpeg" | relative_url }}" alt="Avatar" /></a></div>
-<p>Oliver Craig</p>
-<p><b>Ombudsperson</b></p>
-<p>University of York</p>
-<p>York, UK</p>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Alicia Ventresca Miller</p>
+<p><b>Deputy Treasurer for Membership</b></p>
+<p>University of Michigan</p>
+<p>Ann Arbor, MI, USA</p>
+<p></p>
+</div>
+
+</div>
+
+<div class="avatar">
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Ester Oras</p>
+<p><b>Programming and Affiliate Coordinator</b></p>
+<p>University of Tartu</p>
+<p>Tartu, EE</p>
+<p></p>
+</div>
+
+<div class ="member">
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<p>Laura Weyrich</p>
+<p><b>Charity Compliance and Liaison Officer</b></p>
+<p>Pennsylvania State University</p>
+<p>Pennsylvania, PA, USA</p>
+<p></p>
 </div>
 
 <div class ="member">
@@ -87,43 +108,19 @@ sidebar_link: true
 <p><b><a href="mailto:media@isbarch.org">Contact</a></b></p>
 </div>
 
-</div>
-
-<div class="avatar">
-
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Ester Oras</p>
-<p><b>Programming and Affiliate Coordinator</b></p>
-<p>University of Tartu</p>
-<p>Tartu, EE</p>
-<p></p>
+<div class="square"><a href="https://www.york.ac.uk/archaeology/people/academic-staff/oliver-craig/" target="_blank"><img src="{{ "/assets/images/profile_pictures/CRAIG_Oliver.jpeg" | relative_url }}" alt="Avatar" /></a></div>
+<p>Oliver Craig</p>
+<p><b>Ombudsperson</b></p>
+<p>University of York</p>
+<p>York, UK</p>
 </div>
-
 
 <div class ="member">
 <div class="square"><a href="https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/ian-barnes.html" target="_blank"><img src="{{ "/assets/images/profile_pictures/BARNES_Ian.jpeg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ian Barnes</p>
 <p>Natural History Museum</p>
 <p>London, UK</p>
-<p></p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Alicia Ventresca Miller</p>
-<p><b>Deputy Treasurer</b></p>
-<p>University of Michigan</p>
-<p>Ann Arbor, MI, USA</p>
-<p></p>
-</div>
-
-<div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Laura Weyrich</p>
-<p><b>Charity Compliance and Liaison Officer</b></p>
-<p>Pennsylvania State University</p>
-<p>Pennsylvania, PA, USA</p>
 <p></p>
 </div>
 
