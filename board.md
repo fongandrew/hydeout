@@ -67,10 +67,6 @@ sidebar_link: true
 <p></p>
 </div>
 
-</div>
-
-<div class="avatar">
-
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ester Oras</p>
@@ -89,6 +85,9 @@ sidebar_link: true
 <p></p>
 </div>
 
+</div>
+<div class="avatar">
+
 <div class ="member">
 <div class="square"><a href="https://www.jafy.eu" target="_blank"><img src="{{ "/assets/images/profile_pictures/FELLOWSYATES_JAMES.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>James Fellows Yates</p>
@@ -97,7 +96,6 @@ sidebar_link: true
 <p>MPI-EVA, Leipzig, DE</p>
 <p><b><a href="mailto:webmaster@isbarch.org">Contact</a></b></p>
 </div>  
-
 
 <div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
