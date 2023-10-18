@@ -148,20 +148,6 @@ sidebar_link: true
   
 </div>
 
-## Board Alumni
-
-- Andrew Millard (Durham University, Durham, UK)
-- Marie Balassae (Muséum National d’Histoire Naturelle, CNRS, Paris, France)
-- Love Dalén (Stockholm University, Swedish Museum of Natural History, Stockholm, Sweden)
-- Shinya Shoda (Nara National Research Institute for Cultural Properties, Nara, Japan)
-
-## Roles Alumni
-
-- Mari Tõrv, (Conference Representative - Institute of History and Archaeology, Institute of Chemistry, Tartu, Estonia)
-
-<h2>Prize Committee</h2>
-<p> Coming soon!</p>
-
 ## Governing Documents and Structure
 
 The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.
@@ -170,7 +156,11 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 #### Former Members of the Standing Committee and Board
 
-Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+
+#### Former Representatives
+
+Mari Tõrv (2022-2023)
 
 #### Founding Members of the Society Working Groups
 
