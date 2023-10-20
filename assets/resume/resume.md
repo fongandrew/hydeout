@@ -7,7 +7,7 @@
 - NL
 - [rubenwiersma.nl](https://rubenwiersma.nl)
 
-I am a fourth-year PhD student in computer graphics at the TU Delft. My interests include geometry processing, rendering, simulation, and machine learning. I am currently a research intern at Adobe in San Francisco, studying material capture with differentiable rendering. I have a soft spot for working on tools for artistic work and enjoy working on my own [filmmaking projects, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
+I am a fourth-year PhD student in computer graphics at the TU Delft. My interests include geometry processing, rendering, simulation, and machine learning. I interned at Adobe in San Francisco as a research intern, studying material capture with differentiable rendering. I have a soft spot for working with creatives and enjoy working on my own [filmmaking projects, design and music](https://rubenwiersma.nl/category/creative-portfolio.html).
 
 ### Skills and qualities
 Strong math understanding • Ability to understand and analyze complex systems • Eye for clean, maintainable, and understandable code - [example project](https://github.com/rubenwiersma/deltaconv) • Creative thinking • Presentation and communication - [example presentation](https://www.youtube.com/watch?v=pKVtuz4dG0g) • Perseverance • C++ • Python • Linux • macOS • Blender • Adobe CC • Piano
