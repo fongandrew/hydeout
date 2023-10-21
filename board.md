@@ -50,7 +50,7 @@ sidebar_link: true
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/SCHROEDER_Hannes.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Hannes Schroeder</p>
 <p><b>Deputy Treasurer for Fundraising</b></p>
 <p>University of Copenhagen</p>
@@ -67,7 +67,7 @@ sidebar_link: true
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ORAS_Ester.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ester Oras</p>
 <p><b>Programming and Affiliate Coordinator</b></p>
 <p>University of Tartu</p>
