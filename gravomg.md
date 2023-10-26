@@ -25,7 +25,7 @@ sidebar_link: false
 <a id="presentation-link"
       class="icon" title="Gravo MG Presentation" aria-label="Presentation"
       href="https://graphics.tudelft.nl/Publications-new/2023/WNEH23/siggraph2023_gravo_mg.pptx" target="_blank">
-    <i class="fa fa-2x fa-file-powerpoint"></i> Presentation</a>&nbsp;&nbsp;
+    <i class="fa fa-2x fa-file-powerpoint-o"></i> Presentation</a>&nbsp;&nbsp;
 <a id="cite-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
@@ -52,6 +52,10 @@ Find out more about Gravo MG in our paper, or come see our (virtual) presentatio
       class="icon" title="Gravo MG supplement PDF" aria-label="PDF link"
       href="https://graphics.tudelft.nl/~klaus/papers/Gravo_MG_suppMat.pdf" target="_blank">
     <i class="fa fa-2x fa-file-pdf-o"></i> Supplement PDF</a>&nbsp;&nbsp;
+<a id="presentation-link"
+      class="icon" title="Gravo MG Presentation" aria-label="Presentation"
+      href="https://graphics.tudelft.nl/Publications-new/2023/WNEH23/siggraph2023_gravo_mg.pptx" target="_blank">
+    <i class="fa fa-2x fa-file-powerpoint-o"></i> Presentation</a>&nbsp;&nbsp;
 <a id="cite-link"
       class="icon" title="Cite" aria-label="Cite"
       href="#cite">
