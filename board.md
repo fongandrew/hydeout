@@ -18,6 +18,7 @@ sidebar_link: true
 <p>Cambridge, USA</p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
+<p><b><a href="mailto:president@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -26,6 +27,7 @@ sidebar_link: true
 <p><b>Vice President</b></p>
 <p>Oxford University</p>
 <p>Oxford, UK</p>
+<p><b><a href="mailto:vicepresident@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -34,7 +36,9 @@ sidebar_link: true
 <p><b>Secretary</b></p>
 <p>University of Tübingen</p>
 <p>Tübingen, DE</p>
-<p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:secretary@isbarch.org">Contact</a></b></p>
+
+
 </div>
 
 <div class ="member">
@@ -72,7 +76,7 @@ sidebar_link: true
 <p><b>Programming and Affiliate Coordinator</b></p>
 <p>University of Tartu</p>
 <p>Tartu, EE</p>
-<p></p>
+<p><b><a href="mailto:programming@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -81,7 +85,7 @@ sidebar_link: true
 <p><b>Charity Compliance and Liaison Officer</b></p>
 <p>Pennsylvania State University</p>
 <p>Pennsylvania, PA, USA</p>
-<p></p>
+<p><b><a href="mailto:compliance@isbarch.org">Contact</a></b></p>
 </div>
 
 </div>
@@ -111,6 +115,7 @@ sidebar_link: true
 <p><b>Ombudsperson</b></p>
 <p>University of York</p>
 <p>York, UK</p>
+<p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -143,7 +148,7 @@ sidebar_link: true
 <p><b>Diversity and Inclusion Representative</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
 <p>Nara, JP</p>
-<p><b><a href="mailto: ombudsperson@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:diversity_and_inclusion@isbarch.org@isbarch.org">Contact</a></b></p>
 </div>
   
 </div>
