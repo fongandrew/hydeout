@@ -6,9 +6,9 @@ sidebar_link: true
 
 ![Gas_line](/assets/images/banners/gas_line.jpg)
 
-## Code of Conduct for ISBA meetings
+## Code of Conduct for ISBA Members and ISBA meetings
 
-Our society has its origins in the biennial International Symposium for Biomolecular Archaeology, a meeting which has taken place since 2004. The meetings are the heart of the society, and as such, the society has a code of conduct which describes the expected behaviour of all participants at the biennial meeting, and any of our other organised events.
+Our society has its origins in the biennial International Symposium for Biomolecular Archaeology, a meeting which has taken place since 2004. The meetings are the heart of the society, and as such, the society has a code of conduct which describes the expected behaviour of all ISBA members and participants at the biennial meeting, and any of our other organised events.
 
 ### Behavioural expectations
 
@@ -18,7 +18,7 @@ Certain behaviours are unacceptable, including any form of harassment, intimidat
 
 ### Reporting unacceptable behaviour
 
-If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Diversity and Inclusion Officer Dr. Shinya Shoda ([ombudsperson@isbarch.org](mailto:ombudsperson@isbarch.org)), or any other member of the ISBA Board or Conference Committee.
+If you are the subject of unacceptable behaviour or have witnessed any such behaviour, you can report it to the ISBA Ombudsperson ([ombudsperson@isbarch.org](mailto:ombudsperson@isbarch.org)), or any other member of the ISBA Board or Conference Committee.
 
 Anyone experiencing or witnessing behaviour that constitutes an immediate or serious threat to public safety, or behavior that constitutes a criminal act, is expected to contact the appropriate law enforcement agency. Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.
 
