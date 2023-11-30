@@ -22,7 +22,7 @@ sidebar_link: true
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/LARSON_Greger.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Greger Larson</p>
 <p><b>Vice President</b></p>
 <p>Oxford University</p>
@@ -80,7 +80,7 @@ sidebar_link: true
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/WEYRICH_Laura.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Laura Weyrich</p>
 <p><b>Charity Compliance and Liaison Officer</b></p>
 <p>Pennsylvania State University</p>
