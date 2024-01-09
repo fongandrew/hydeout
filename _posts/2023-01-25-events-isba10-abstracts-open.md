@@ -5,7 +5,7 @@ categories:
   - Events
   - News
 tags:
-  - Upcoming
+  - Past
 ---
 
 With the 10th Meeting of the [ISBA](https://www.isbarch.org/) entitled “New Horizons in Biomolecular Archaeology”, we look forward to offering you an engaging and inspiring conference to exchange experiences and novel ideas. After three years of virtual-only meetings due to the COVID-19 pandemic, ISBA10 marks a return to in-person conferences. Thus, to provide a productive and engaging environment for scientific exchange and collaboration, and guarantee the best possible experience and synergy we invite you to Tartu, the [City of Good Thoughts](https://tartu.ee/en/city-of-good-thoughts), (Estonia)

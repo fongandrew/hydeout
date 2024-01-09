@@ -5,7 +5,7 @@ categories:
   - Events
   - News
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear Colleagues,

@@ -5,7 +5,7 @@ categories:
   - Events
   - News
 tags:
-  - Upcoming
+  - Past
 ---
 
  The SPAAM Community in collaboration with Friedrich Schiller Universität Jena and Harvard University is happy to again offer a new 5 day virtual summer school course sponsored by the Werner Siemens Foundation: **Introduction to Ancient Metagenomics**.
