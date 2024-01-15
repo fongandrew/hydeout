@@ -7,7 +7,7 @@ tags:
   - Upcoming
 ---
 
-D Dear colleagues,
+Dear colleagues,
 
 (Apologies for cross-posting)
 We are pleased to announce the session #848 "The archaeogenetics of ancient Italy: socio-cultural changes, interaction, and mobility from Prehistory to the Middle Ages"  which we are hosting at the Annual Meeting of the European Association of Archaeologists (EAA), taking place August 28-31 2024 in Rome. As in the last years, the meeting is held as a hybrid event, so you also have the possibility to attend remotely.
