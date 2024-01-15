@@ -31,13 +31,13 @@ Best Regards,
 
 The session organizers,
 
-Biancamaria Bonucci - Institute of Genomics, University of Tartu
-Mail: [biancamaria.bonucci@ut.ee](biancamaria.bonucci@ut.ee)
-Maxime Borry - Max Planck Institute for Evolutionary Anthropology, Leibniz Institute for Natural Product Research and Infection Biology Hans Knöll Institute
-Mail: [maxime_borry@eva.mpg.de](maxime_borry@eva.mpg.de)
-Maria Lopopolo - Institut Pasteur, Université Paris Cité, CNRS UMR 2000, Microbial Paleogenomics Unit, F-75015 Paris, France
-Mail: [maria.lopopolo@pasteur.fr](maria.lopopolo@pasteur.fr)
-Aleksandra Laura Pach - Globe Institute, University of Copenhagen
-Mail: [aleksandra.pach@sund.ku.dk](aleksandra.pach@sund.ku.dk)
-Andrea Quagliariello - Dept. Comparative Biomedicine and Food Science, University of Padua
-Mail:[andrea.quagliariello@unipd.it](mailto:andrea.quagliariello@unipd.it)
+- Biancamaria Bonucci - Institute of Genomics, University of Tartu
+  Mail: [biancamaria.bonucci@ut.ee](biancamaria.bonucci@ut.ee)
+- Maxime Borry - Max Planck Institute for Evolutionary Anthropology, Leibniz Institute for Natural Product Research and Infection Biology Hans Knöll Institute
+  Mail: [maxime_borry@eva.mpg.de](maxime_borry@eva.mpg.de)
+- Maria Lopopolo - Institut Pasteur, Université Paris Cité, CNRS UMR 2000, Microbial Paleogenomics Unit, F-75015 Paris, France
+  Mail: [maria.lopopolo@pasteur.fr](maria.lopopolo@pasteur.fr)
+- Aleksandra Laura Pach - Globe Institute, University of Copenhagen
+  Mail: [aleksandra.pach@sund.ku.dk](aleksandra.pach@sund.ku.dk)
+- Andrea Quagliariello - Dept. Comparative Biomedicine and Food Science, University of Padua
+  Mail:[andrea.quagliariello@unipd.it](mailto:andrea.quagliariello@unipd.it)
