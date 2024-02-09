@@ -6,6 +6,8 @@ sidebar_link: true
 
 ISBA partners with affiliate researcher communities and working groups to support education, community-building, and research in biomolecular archaeology.
 
+If you would like your community to become an affiliate of ISBA, please see the instructions [here](/new-affiliates).
+
 ---
 
 <img href="" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/SPAAM-community/spaam-community.github.io/raw/master/assets/media/SPAAM-Logo-Full-Colour.svg">
