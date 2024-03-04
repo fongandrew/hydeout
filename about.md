@@ -95,6 +95,9 @@ _GoPublic_
 <h3>Service</h3>
 <hr />
 
+#### [2023, 2024] Summer Geometry Initiative (SGI) admissions committee
+- Reviewed admissions for SGI program.
+
 #### [Summer 2022] Summer Geometry Initiative (SGI) mentor
 - Mentored fellows of [SGI](https://sgi.mit.edu) in a project on "Learning on Surfaces"
 
