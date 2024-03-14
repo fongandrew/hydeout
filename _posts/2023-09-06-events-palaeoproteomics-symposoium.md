@@ -5,7 +5,7 @@ categories:
   - Events
   - News
 tags:
-  - Upcoming
+  - Past
 ---
 
 Our program is now finalized and as a part of the ISBA Society, the team behind the Pre ISBA Evolutionary Palaeoproteomics Conference, would be very pleased to invite you to The Pre ISBA Evolutionary Palaeoproteomics Conference on September 12th, 2023, in Tartu.

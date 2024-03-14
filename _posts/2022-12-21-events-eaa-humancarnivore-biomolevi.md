@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Companions, Competitors, Fellow Travelers – Biomolecula
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear Colleagues,

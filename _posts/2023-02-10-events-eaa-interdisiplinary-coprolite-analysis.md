@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Interdisciplinary coprolite analysis (EAA Session)"
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 

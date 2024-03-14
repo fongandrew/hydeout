@@ -4,7 +4,7 @@ title: "[EVENT] 2024 - PAASTA Webinar February 2024: Collagen, trypsin and hope?
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 The February webinar of our PAASTA lecture and discussion series will take place over Zoom Weds 7th Feb at 17:00 CET.

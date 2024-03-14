@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Bio-Arch Methodologies to Assess Mobility in the Past: Th
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear colleagues,

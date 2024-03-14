@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - So different, yet so similar: biocultural identity and pl
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear colleagues,  

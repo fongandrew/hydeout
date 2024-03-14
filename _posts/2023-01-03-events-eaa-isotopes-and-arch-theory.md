@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Isotopes and Archaeological Theories of Complexity (EAA S
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear colleagues,

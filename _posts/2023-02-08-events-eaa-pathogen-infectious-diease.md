@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Pathogenic Disease  in the Past(EAA Session)"
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear friends and colleagues,

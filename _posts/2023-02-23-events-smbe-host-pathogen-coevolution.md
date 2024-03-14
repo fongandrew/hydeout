@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Host-pathogen co-evolutionary dynamics through the lens o
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear colleagues, 

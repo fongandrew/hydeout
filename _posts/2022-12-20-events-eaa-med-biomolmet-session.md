@@ -4,7 +4,7 @@ title: "[EVENT] 2023 - Tracing the History of Mediterranean Human-Environmental 
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Abstract submissions are invited for the session #325 “Tracing the History
