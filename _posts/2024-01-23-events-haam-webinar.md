@@ -4,7 +4,7 @@ title: "[EVENT] 2024 - Human Ancient DNA, Ancestry, and Mobility (HAAM) Webinar 
 categories:
   - Events
 tags:
-  - Upcoming
+  - Past
 ---
 
 Dear all
