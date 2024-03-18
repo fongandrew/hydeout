@@ -34,6 +34,8 @@ If you would like your community to become an affiliate of ISBA, please see the 
 
 ---
 
+<img href="https://haam-community.github.io/"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="http://www.mixs-minas.org/assets/images/logos/minas-logo-flat.png">
+
 [**MINAS Working Group**](http://www.mixs-minas.org/): an initiative to develop a MIxS extension checklist designed specifically for ancient metagenomics, as well as collaborating with a working group in ancient human population genetics to develop a more general checklist for ancient DNA, provisionally called the ‘MInAS’ checklist (Minimum INformation about Ancient Sequences’).
 
 ---
