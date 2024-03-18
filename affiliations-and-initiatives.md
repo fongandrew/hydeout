@@ -8,6 +8,8 @@ ISBA partners with affiliate researcher communities and working groups to suppor
 
 If you would like your community to become an affiliate of ISBA, please see the instructions [here](/new-affiliates).
 
+## Affiliates
+
 ---
 
 <img href="" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/SPAAM-community/spaam-community.github.io/raw/master/assets/media/SPAAM-Logo-Full-Colour.svg">
@@ -15,6 +17,8 @@ If you would like your community to become an affiliate of ISBA, please see the 
 [**Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM) Community**](https://spaam-community.github.io/about/): a community of researchers focusing on ancient metagenomics. SPAAM supports open science initiatives to find solutions to common challenges and obstacles in the field. SPAAM sponsors collaborative projects, summer schools, a Slack channel, and a yearly workshop. Find out more [here](https://spaam-community.github.io/projects/).
 
 ---
+
+<img href="" width="50%" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paasta-community.github.io/assets/media/PAASTA-Logo-Full-Colour.png">
 
 [**Palaeoproteomics And Archaeology, Society for Techniques and Advances (PAASTA) Community**](https://paasta-community.github.io/about/): An ECR-led community of researchers working with palaeoproteomics, the study of ancient proteins. An open and supportive environment committed to promoting and facilitating collaborative and open science! Find out more [here](https://paasta-community.github.io/about/).
 
@@ -26,7 +30,11 @@ If you would like your community to become an affiliate of ISBA, please see the 
 
 ---
 
-[**MINAS Working Group**](https://spaam-community.github.io/projects/#minas-mixs-checklist): an initiative to develop a MIxS extension checklist designed specifically for ancient metagenomics, as well as collaborating with a working group in ancient human population genetics to develop a more general checklist for ancient DNA, provisionally called the ‘MInAS’ checklist (Minimum INformation about Ancient Sequences’).
+## Initiatives
+
+---
+
+[**MINAS Working Group**](http://www.mixs-minas.org/): an initiative to develop a MIxS extension checklist designed specifically for ancient metagenomics, as well as collaborating with a working group in ancient human population genetics to develop a more general checklist for ancient DNA, provisionally called the ‘MInAS’ checklist (Minimum INformation about Ancient Sequences’).
 
 ---
 
