@@ -12,7 +12,11 @@ sidebar_link: true
 
 ## Next ISBA Meeting
 
-The next ISBA meeting, ISBA11 is currently scheduled for 2025. The society membership voted at ISBA10 for ISBA11 to be held by the University of Torino, Italy.
+<div align="center">
+<img align="center" width="75%" src="/assets/images/ISBA11/save_the_date.jpg" alt="Save the Date: ISBA11 26-29 August 2025 Turin - Italy, Organising secretariat: Centro Congressi Internazionale Srl a s.u.">
+</div>
+
+The next ISBA meeting, ISBA11 is will be held between the 26th and 29th of August by the University of Torino, Italy as voted by society members at ISBA10
 
 [Members of ISBA](/membership) will recieve a discount upon registration.
 
@@ -41,8 +45,6 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
   </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
 
 <!-- DO NOT PLACE NO CONTENT BELOW THIS LINE! -->
 
