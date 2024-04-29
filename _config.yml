@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Ruben Wiersma
-tagline:          'Computer Graphics, Art, and ML'
-description:      'Computer Graphics, Art, and ML.'
+title:            Qinglan Shan
+tagline:          ' Embodied Learning, and Mixed Reality'
+description:      ' Embodied Learning, and Mixed Reality.'
 url:              https://rubenwiersma.nl/
 baseurl:          '/'
 google_analytics: 'UA-22932336-1'
@@ -16,10 +16,10 @@ google_analytics: 'UA-22932336-1'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Ruben Wiersma'
-  url:            https://twitter.com/rtwiersma
-  github:         https://github.com/rubenwiersma
-  linkedin:       https://linkedin.com/rubenwiersma
+  name:           'Qinglan Shan'
+  url:            https://twitter.com/
+  github:         https://github.com/
+  linkedin:       https://linkedin.com/
 
 paginate:         2
 # paginate_path:    '/page:num'
