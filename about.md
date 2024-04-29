@@ -3,7 +3,7 @@ layout: page
 title: About
 sidebar_link: true
 ---
-![Qinglan >](/assets/img/profile_ruben.jpg)
+![Qinglan >](/assets/img/qinglan_profile.jpg)
 I am a Second-year Ph.D. student at [Microsystem Laboratory at the Swiss Federal Institute Lausanne (EPFL), jointly enrolled in ETHz](http://graphics.tudelft.nl). In my research I seek to connect extended reality- and microengineering techniques to students learning and assessments analysis. I am supervised by [Prof. Dr. Juergen Brugger](https://people.epfl.ch/juergen.brugger)) and co-supervised by [Prof. Dr. Manu Kapur](https://www.manukapur.com/)). 
 
 I have gathered experience as a Human-computer Interaction designer during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [Photography](https://soundcloud.com/rubenwiersma), snowbording and playing badminton, hiking, and reading.
