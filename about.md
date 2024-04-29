@@ -3,19 +3,20 @@ layout: page
 title: About
 sidebar_link: true
 ---
-![Ruben >](/assets/img/profile_ruben.jpg)
-I am a fourth-year PhD student at the [Computer Graphics and Visualization group at the University of Technology Delft](http://graphics.tudelft.nl). In my research I seek to connect computer graphics- and geometry processing techniques to applications in machine learning and painting analysis. I am advised by [Dr. Klaus Hildebrandt](https://graphics.tudelft.nl/~klaus) and supervised by [Prof. Dr. Elmar Eisemann](http://graphics.tudelft.nl/~eisemann) and Prof. Dr. Joris Dik. 
+![Qinglan >](/assets/img/profile_ruben.jpg)
+I am a Second-year Ph.D. student at [Microsystem Laboratory at the Swiss Federal Institute Lausanne (EPFL), jointly enrolled in ETHz](http://graphics.tudelft.nl). In my research I seek to connect extended reality- and microengineering techniques to students learning and assessments analysis. I am supervised by [Prof. Dr. Juergen Brugger](https://people.epfl.ch/juergen.brugger)) and co-supervised by [Prof. Dr. Manu Kapur](https://www.manukapur.com/)). 
 
-I have gathered experience as a graphic designer and filmmaker during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [making music](https://soundcloud.com/rubenwiersma), reading and discussing books, watching movies, biking, and playing soccer.
+I have gathered experience as a Human-computer Interaction designer during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [Photography](https://soundcloud.com/rubenwiersma), snowbording and playing badminton, hiking, and reading.
 
 Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), from the [Rijksmuseum collection](https://www.rijksmuseum.nl/nl/zoeken/objecten?q=stilleven+met+vruchten&p=3&ps=12&st=Objects&ii=3#/SK-A-794,27).
 
 <!-- Profile picture: sculpt, hair, textures in Blender, rendered with Cycles. -->
 
 ### Contact
-- r.t.wiersma [at] tudelft.nl
-- [CGV group TU Delft](http://graphics.tudelft.nl/ruben-wiersma)
-- [LinkedIn](https://www.linkedin.com/in/rubenwiersma)
+- qinglan.shan [at] epfl.ch
+- qinglan.shan [at] gess.ethz.ch
+- [Me @ LMIS1](https://people.epfl.ch/qinglan.shan/?lang=en)
+- [LinkedIn](linkedin.com/in/qinglan-shan-401490258)
 
 <hr/>
 
