@@ -1,6 +1,6 @@
 ---
 layout: project
-title: CNNs on Surfaces using Rotation-Equivariant Features
+title: Embodied Learning with Mixed Reality for physics
 sidebar_link: false
 ---
 

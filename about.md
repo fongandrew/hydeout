@@ -3,10 +3,9 @@ layout: page
 title: About
 sidebar_link: true
 ---
-![Qinglan >](/assets/img/qinglan_profile.jpg)
 <img src="/assets/img/qinglan_profile.jpg" style="width:50%; max-width:1000px; height:auto;" alt="Profile Picture of Qinglan">
 
-I am a Second-year Ph.D. student at [Microsystem Laboratory at the Swiss Federal Institute Lausanne (EPFL), jointly enrolled in ETHz](http://graphics.tudelft.nl). In my research I seek to connect extended reality- and microengineering techniques to students learning and assessments analysis. I am supervised by [Prof. Dr. Juergen Brugger](https://people.epfl.ch/juergen.brugger)) and co-supervised by [Prof. Dr. Manu Kapur](https://www.manukapur.com/)). 
+I am a Second-year Ph.D. student at [Microsystem Laboratory](https://www.epfl.ch/labs/lmis1/) at the Swiss Federal Institute Lausanne [EPFL](https://www.epfl.ch/en/), jointly enrolled in Swiss Federal Institute Zürich [ETHz](https://ethz.ch/en.html). In my research I seek to connect extended reality- and microengineering techniques to students learning and assessments analysis. I am supervised by [Prof. Dr. Juergen Brugger](https://people.epfl.ch/juergen.brugger)) and co-supervised by [Prof. Dr. Manu Kapur](https://www.manukapur.com/)). 
 
 I have gathered experience as a Human-computer Interaction designer during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [Photography](https://soundcloud.com/rubenwiersma), snowbording and playing badminton, hiking, and reading.
 
@@ -22,9 +21,6 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 
 <hr/>
 
-# Resume
-
-[Download a PDF version](/assets/pdf/cv_rubenwiersma.pdf) of this resume. An overview of my [publications can be found here](/category/publications.html).
 
 <h3>Education</h3>
 <hr />
@@ -47,6 +43,11 @@ _Chengdu University of Technology_
 - Focus on industrial design and interaction design.
 - Toolkit: Unity 3D, Rhinoceros, SPSS, Maya, Keyshot 
 
+<!--
+
+# Resume
+
+[Download a PDF version](/assets/pdf/cv_rubenwiersma.pdf) of this resume. An overview of my [publications can be found here](/category/publications.html).
 
 <hr />
 
@@ -129,3 +130,4 @@ _Happietaria, Hartige Samaritaan:_ pop-up restaurants for charity, lasting one m
 
 #### [September 2022] Best Full Paper Award - GCH 2022
 - Eurographics Workshop on Graphics and Cultural Heritage 2022
+-->
