@@ -4,6 +4,9 @@ title: Embodied Learning with Mixed Reality for physics
 sidebar_link: false
 ---
 
+
+## CMi Annul Meeting 2020
+# To be done...
 <!--
 ## SIGGRAPH 2020
 # CNNs on Surfaces using Rotation-Equivariant Features
