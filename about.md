@@ -4,6 +4,8 @@ title: About
 sidebar_link: true
 ---
 ![Qinglan >](/assets/img/qinglan_profile.jpg)
+<img src="/assets/img/qinglan_profile.jpg" style="width:50%; max-width:1000px; height:auto;" alt="Profile Picture of Qinglan">
+
 I am a Second-year Ph.D. student at [Microsystem Laboratory at the Swiss Federal Institute Lausanne (EPFL), jointly enrolled in ETHz](http://graphics.tudelft.nl). In my research I seek to connect extended reality- and microengineering techniques to students learning and assessments analysis. I am supervised by [Prof. Dr. Juergen Brugger](https://people.epfl.ch/juergen.brugger)) and co-supervised by [Prof. Dr. Manu Kapur](https://www.manukapur.com/)). 
 
 I have gathered experience as a Human-computer Interaction designer during my undergraduate years. You can find some examples of [that work on this website](/category/creative-portfolio.html). Outside of academia, I enjoy [Photography](https://soundcloud.com/rubenwiersma), snowbording and playing badminton, hiking, and reading.
@@ -13,8 +15,8 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 <!-- Profile picture: sculpt, hair, textures in Blender, rendered with Cycles. -->
 
 ### Contact
-- qinglan.shan [at] epfl.ch
-- qinglan.shan [at] gess.ethz.ch
+- qinglan.shan@epfl.ch
+- qinglan.shan@gess.ethz.ch
 - [Me @ LMIS1](https://people.epfl.ch/qinglan.shan/?lang=en)
 - [LinkedIn](linkedin.com/in/qinglan-shan-401490258)
 
@@ -27,31 +29,24 @@ Sidebar painting: Ottmar Elliger, 'Stilleven met bloemen en vruchten' (1671), fr
 <h3>Education</h3>
 <hr />
 
-#### [2019 - present] PhD Computer Graphics
-_TU Delft_
-- Connecting geometry processing and computer graphics with machine learning and creative applications.
-- Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 10 BSc students (thesis project), 3 MSc students (thesis).
-- Toolkit: C++, OpenGL, Python, PyTorch, Blender.
+#### [2022 - present] PhD Learning Science
+_EPFL-ETHz_
+- Building Mixed reality and human-computer interaction with microfabrication teaching and creative applications.
+- Additional responsibilities: lecturing, lab assistance, creating assignments, supervised 1 master student project(semester).
+- Toolkit: Sketch, Unity 3D, Python, C#, Blender, Premiere, Photoshop.
 
-<hr />
 
-#### [2017 - 2019] MSc Computer Science _Cum Laude_
-_TU Delft_
-- Focus on data science and computer graphics.
-- Thesis (grade 9/10) "Harmonic Surface Networks" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:931ee653-eb26-40c2-8f54-9c5835fd6fba/datastream/OBJ/download) (Published at SIGGRAPH as a technical paper)
-- Toolkit: C++, Python, PyTorch.
+#### [2019 - 2022] MSc Computer Science _
+_Tsinghua University_
+- Focus on virtual reality design, and EEG assessment.
+- Toolkit: Unity 3D, Python, PyTorch, C#, Matlab.
 
-<hr />
 
-#### [2014 - 2017] BSc Computer Science _Cum Laude_
-_TU Delft_
-- Focus on data science and multimedia.
-- Thesis "Automating Valuations for Real-Estate" [[PDF download]](https://repository.tudelft.nl/islandora/object/uuid:d2a020e3-07b3-42c8-a926-0e0e2f7ed6f0/datastream/OBJ/download)
+#### [2015 - 2019] BSc Industrial Design _National Scholorship_ _Distinction_
+_Chengdu University of Technology_
+- Focus on industrial design and interaction design.
+- Toolkit: Unity 3D, Rhinoceros, SPSS, Maya, Keyshot 
 
-<hr />
-
-#### [2013 - 2014] Propedeuse Industrial Design Engineering _Cum Laude_
-_TU Delft_
 
 <hr />
 
