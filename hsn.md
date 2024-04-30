@@ -3,6 +3,8 @@ layout: project
 title: CNNs on Surfaces using Rotation-Equivariant Features
 sidebar_link: false
 ---
+
+<!--
 ## SIGGRAPH 2020
 # CNNs on Surfaces using Rotation-Equivariant Features
 [Ruben Wiersma](https://rubenwiersma.nl/), [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/), and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<br />
@@ -104,3 +106,4 @@ r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
   publisher = {ACM},
 }
 ```
+-->

@@ -3,6 +3,8 @@ layout: project
 title: "A Fast Geometric Multigrid Method for Curved Surfaces"
 sidebar_link: false
 ---
+
+<!--
 ## SIGGRAPH 2023
 # A Fast Geometric Multigrid Method for Curved Surfaces
 [Ruben Wiersma](https://rubenwiersma.nl/)<sup>1</sup>, [Ahmad Nasikun](https://graphics.tudelft.nl/ahmad-nasikun/)<sup>1, 2</sup> (equal contribution); [Elmar Eisemann](http://graphics.tudelft.nl/~eisemann/)<sup>1</sup>; and [Klaus Hildebrandt](http://graphics.tudelft.nl/~klaus/)<sup>1</sup><br />
@@ -86,3 +88,4 @@ r.t.wiersma [at] tudelft.nl, k.a.hildebrandt [at] tudelft.nl
   publisher = {ACM}
 }
 ```
+-->
