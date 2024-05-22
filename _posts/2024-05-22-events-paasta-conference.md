@@ -7,7 +7,7 @@ tags:
   - Upcoming
 ---
 
-ear all,
+Dear all,
 
 
 We are happy to announce that registration and abstract submission for the first PAASTA (Palaeoproteomics and Archaeology, Society for Techniques and Advances) conference, taking place virtually on September 26th, is now open!
