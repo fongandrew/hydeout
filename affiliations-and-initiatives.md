@@ -8,7 +8,7 @@ ISBA partners with affiliate researcher communities and working groups to suppor
 
 If you would like your community to become an affiliate of ISBA, please see the instructions [here](/new-affiliates).
 
-> For a list of ISBA funded or supported events and other contributions for the affiliate groups, please see [here](supported-affiliate-initatives).
+> For a list of ISBA funded or supported events and other contributions for the affiliate groups, please see [here](funding).
 
 ## Affiliates
 

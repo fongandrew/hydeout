@@ -22,3 +22,25 @@ Apply for funding </button>
   <i>The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.  It has been entered onto the Register of Charities with the Registered Charity Number 1200502</i>
 
 </p>
+
+---
+
+## Previous Awards
+
+A list of ISBA awarded micro-grants are as follows:
+
+### 2024
+
+#### IZAZ Workshop
+
+ISBA awarded €500 to the November 2024 edition of the "Integrating ZooMS and zooarchaeology" (IZAZ) workshop for two student travel bursaries. More information can be seen on the IZAZ website [here](https://izaz2024.sciencesconf.org/).
+
+#### HAAM Summer School
+
+ISBA awarded €450 to the [first HAAM summer school](https://haam-community.github.io/news/2024/04/05/event/), in April 2024. The money was used for a video conference platform gather.town. The flyer can be seen [here](assets/documents/affiliates/haam/haam-summerschool-2024/HAAM_Summer_School_flyer_v7.png).
+
+### 2023
+
+#### SPAAM5
+
+ISBA financially supported the [5th student-lead SPAAM conference](https://www.spaam-community.org/events/2023/04/26/news_SPAAM5-registration/), hosted in person in Tartu, Estonia in September 2024. The program can be downloaded [here](assets/documents/affiliates/spaam/spaam5/SPAAM5%20In-Person%20Meeting%20-%20Program.pdf).
