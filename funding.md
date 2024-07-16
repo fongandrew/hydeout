@@ -33,7 +33,11 @@ A list of ISBA awarded micro-grants are as follows:
 
 #### IZAZ Workshop
 
-ISBA awarded €600 to the '2nd Integrating ZooMS and Zooarchaeology' (IZAZ) workshop to provide two early career researcher travel bursaries. IZAZ 2024 offers a retrospective on the evolution of Zooarchaeology by Mass Spectrometry (ZooMS) over the last fifteen years, while focusing on methodological advances and novel applications of ZooMS in zooarchaeology. More information can be seen on the IZAZ website [here](https://izaz2024.sciencesconf.org/).
+ISBA awarded €600 to the '2nd Integrating ZooMS and Zooarchaeology' (IZAZ) workshop to provide two early career researcher travel bursaries to the workshop in November 2024. IZAZ 2024 offers a retrospective on the evolution of Zooarchaeology by Mass Spectrometry (ZooMS) over the last fifteen years, while focusing on methodological advances and novel applications of ZooMS in zooarchaeology. More information can be seen on the IZAZ website [here](https://izaz2024.sciencesconf.org/).
+
+#### SPAAM6
+
+ISBA awarded €400 to the 6th SPAAM conference, to be held in Rome,Italy in August 2024. SPAAM6 will again provide talks, networking, and general community building for early career researchers in ancient metagenomics.
 
 #### HAAM Summer School
 
