@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[EVENT] 2024 - S2nd Integrating ZooMS and Zooarchaeology"
+title: "[EVENT] 2024 - 2nd Integrating ZooMS and Zooarchaeology"
 categories:
   - Events
 tags:
