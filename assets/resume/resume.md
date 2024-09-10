@@ -1,5 +1,7 @@
-<div style="width: 80px; height: 80px; border-radius: 40px; margin: 0 0 0 20px; float: right; background: url(profile_ruben.jpg); background-position: -2px -5px; background-size: cover"></div>
+<!--
 
+<div style="width: 80px; height: 80px; border-radius: 40px; margin: 0 0 0 20px; float: right; background: url(profile_ruben.jpg); background-position: -2px -5px; background-size: cover"></div>
+githubsina
 # Ruben Wiersma
 - 7 September 1994
 - [rubenwiersma@gmail.com](mailto:rubenwiersma@gmail.com)
@@ -147,3 +149,5 @@ Seminar talk: applications of computer graphics to painting analysis.
 
 #### 14th May 2020, Stanford Guibas Lab
 Invited talk: <a href="/hsn">CNNs on Surfaces using Rotation-Equivariant Features</a>
+
+-->
