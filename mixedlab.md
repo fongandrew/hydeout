@@ -5,8 +5,22 @@ sidebar_link: false
 ---
 
 
-## CMi Annul Meeting 2020
-# To be done...
+## CMi Annual Meeting
+# MIXED REALITY LEARNING FOR MICROFABRICATION
+
+
+Q. Shan, M. Kapur*, C. Hierold*, J. Brugger <br />
+STI-IEM-LMIS1 Microsystems Laboratory, EPFL<br />
+ETH Zurich <br />
+
+# Project objective
+We are developing a new approach to exploit Mixed Reality (MR) affordances for teaching microfabrication processes. Our goal is to design interactive mixed-reality content to improve microfabrication and cleanroom training practices. MR presents a promising avenue as it allows hands-free interaction and diminishes cognitive load during learning complex content. We incorporate diverse learning techniques such as real-time feedback, scaffolding, simulations, inquiries, and multimodal interactions to enhance the efficacy and feasibility of our educational practices. Though MR has shown some effectiveness in personalizing learning experiences, and boosting engagement, questions remain about when and how to integrate MR into microfabrication education.
+
+<img src="assets/img/publications/mixedlab/picuture1.jpg" class="featured" width="90%">
+
+# Funding
+EPFL, Microsystems Laboratory (LMIS-1), The ETH Zurich – EPFL Joint Doctoral Program in the Learning Sciences/Jacobs Foundation, DRIL Fund
+
 <!--
 ## SIGGRAPH 2020
 # CNNs on Surfaces using Rotation-Equivariant Features
