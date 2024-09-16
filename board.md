@@ -62,15 +62,6 @@ sidebar_link: true
 </div>
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
-<p>Alicia Ventresca Miller</p>
-<p><b>Deputy Treasurer for Membership</b></p>
-<p>University of Michigan</p>
-<p>Ann Arbor, MI, USA</p>
-<p></p>
-</div>
-
-<div class ="member">
 <div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ORAS_Ester.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Ester Oras</p>
 <p><b>Programming and Affiliate Coordinator</b></p>
@@ -161,7 +152,7 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 #### Former Members of the Standing Committee and Board
 
-Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
 #### Former Representatives
 
