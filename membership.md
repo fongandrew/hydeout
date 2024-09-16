@@ -77,20 +77,22 @@ If you do not have a PayPal account please see the details in the collapsed sect
 <details>
 	<summary>Click here on how to paying via bank transfer</summary>
 <div style="border-style: none none none solid;border-left-color:#4895ef;border-left-width=10px;padding:20px">
-<p>If paying via PayPal (with or without an PayPal account) is not available in your region, please pay your membership fee by International Bank Transfer to the ISBA Treasurer.</p>
-<p>Please note, International Bank Transfer will take up to 5 working days.</p>
+<p>If it is not possible to pay via PayPal in your region (with or without an PayPal account), please pay your membership fee by International Bank Transfer to the ISBA Treasurer.</p>
+<p>Please note, International Bank Transfer can take up to 5 working days.</p>
 <ul>
-<li><b>Name (Beneficiary)</b>: Elizabeth Briggs</li>
-<li><b>IBAN</b>: GB76 REVO 0099 7011 6694 57</li>
-<li><b>BIC</b>: REVOGB21</li>
-<li><b>Receiving Bank Details</b>: Revolut Ltd, 7 Westferry Circus, Canary Wharf, London, England, E14 4HD</li>
+<li><b>Name (Beneficiary)</b>: ISBA</li>
+<li><b>IBAN</b>: GB26CAFB40524000037289</li>
+<li><b>Sort code</b>: 40-52-20</li>
+<li><b>Account number</b>: 00037289</li>
+<li><b>Receiving Bank Details</b>:
+CAF Bank Limited,
+25 Kings Hill Avenue,
+Kings Hill,
+West Malling,
+Kent ME19 4JQ
+</li>
 </ul>
-<p>If your bank requires 'Correspondent Bank Details' please use the following codes based on your region:</p>
-<ul>
-<li><b>For AUD, NZD, USD, GBP</b> 1) Bank: JPMORGAN 2) BIC: CHASGB2L</li>
-<li><b>For EUR </b> 1) Bank: JPMORGAN_DE 2) BIC: CHASDEFXXXX</li>
-<li><b>For all other source currencies</b> - 1) Bank: Barclays 2) BIC: BARCGB22</li>
-</ul>
+<p>Make sure to note the transaction ID, as this will be required for registration.</p>
 </div>
 </details>
 
