@@ -32,11 +32,19 @@ If you would like your community to become an affiliate of ISBA, please see the 
 
 ---
 
+<img href="https://laardcommunity.github.io/"  style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github.com/LaardCommunity/LaardCommunity.github.io/raw/master/assets/media/LOGO3.png">
+
+[**Lipid Analysis for Archaeological Research Development (LAARD) Community**](https://laardcommunity.github.io/): a community of international researchers focused on the analysis of ancient lipids resulting from human activities. LAARD’s goal is to cultivate spaces for open and cooperative science to overcome common challenges in the field. Find out more here.
+
+---
+
+---
+
 ## Initiatives
 
 ---
 
-<img href="https://haam-community.github.io/"  style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="http://www.mixs-minas.org/assets/images/logos/minas-logo-flat.png">
+<img href="http://www.mixs-minas.org/" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="http://www.mixs-minas.org/assets/images/logos/minas-logo-flat.png">
 
 [**MINAS Working Group**](http://www.mixs-minas.org/): an initiative to develop a MIxS extension checklist designed specifically for ancient metagenomics, as well as collaborating with a working group in ancient human population genetics to develop a more general checklist for ancient DNA, provisionally called the ‘MInAS’ checklist (Minimum INformation about Ancient Sequences’).
 

@@ -27,7 +27,7 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
 <div class="avatar">
 
 <div class ="member">
-<div class="square"><a href="https://genomics.ut.ee/en" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="https://archaeobiomics.com" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatrice Demarchi</p>
 <p>University of Torino</p>
 <p></p>
@@ -41,7 +41,7 @@ The 11th ISBA will be organized by the [University of Torino, Italy](https://en.
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
     <img src="" style="width:100%">
-    <div class="text">Mana Kaasik</div>
+    <div class="text"></div>
   </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fs7_11dAJK8?si=MudW6gz5x1bHVreF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
