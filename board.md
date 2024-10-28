@@ -18,7 +18,7 @@ sidebar_link: true
 <p>Cambridge, USA</p>
 <p>MPI-EVA</p>
 <p>Leipzig, DE</p>
-<p><b><a href="mailto:president@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -27,7 +27,7 @@ sidebar_link: true
 <p><b>Vice President</b></p>
 <p>Oxford University</p>
 <p>Oxford, UK</p>
-<p><b><a href="mailto:vicepresident@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -59,6 +59,7 @@ sidebar_link: true
 <p><b>Deputy Treasurer for Fundraising</b></p>
 <p>University of Copenhagen</p>
 <p>Copenhagen, DK</p>
+<p><b><a href="mailto:treasurer@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -92,12 +93,12 @@ sidebar_link: true
 </div>  
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/IRVINGPEASE_EVAN.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Evan Irving-Pease</p>
 <p><b>Social Media</b></p>
 <p>University of Copenhagen</p>
 <p>Copenhagen, DK</p>
-<p><b><a href="mailto:media@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
 <div class ="member">
@@ -114,7 +115,7 @@ sidebar_link: true
 <p>Ian Barnes</p>
 <p>Natural History Museum</p>
 <p>London, UK</p>
-<p></p>
+<p><b><a href="mailto:board@isbarch.org">Contact</a></b></p>
 </div>
 
 </div>
@@ -124,7 +125,7 @@ sidebar_link: true
 <div class="avatar">
   
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/ACCOUNT_Anonymous.png" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/DEMARCHI_Beatrice.png" | relative_url }}" alt="Avatar" /></a></div>
 <p>Beatrice Demarchi</p>
 <p><b>Conference Representative</b></p>
 <p>University of Turin</p>
@@ -139,7 +140,7 @@ sidebar_link: true
 <p><b>Diversity and Inclusion Representative</b></p>
 <p>Nara National Research Institute for Cultural Properties</p>
 <p>Nara, JP</p>
-<p><b><a href="mailto:diversity_and_inclusion@isbarch.org@isbarch.org">Contact</a></b></p>
+<p><b><a href="mailto:shinya.shoda@york.ac.uk">Contact</a></b></p>
 </div>
   
 </div>
@@ -152,7 +153,7 @@ The International Society for Biomolecular Archaeology (ISBA) is a Charitable In
 
 #### Former Members of the Standing Committee and Board
 
-Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
+Ian Barnes (2022-2024), Oliver Craig (2022-2024), James Fellows Yates (2023-2024), Lisa Briggs (2022-2024) Alicia Ventresca Miller (2023-2024), Andrew Millard (2022-2023), Marie Balassae (2022-2023), Love Dalén (2022-2023), Shinya Shoda (2022-2023), Ludovic Orlando, Johannes Krause, Greger Larson, Angela Schlumbaum, Yaowu Hu, Thomas P Gilbert, Matthew Collins, Kerstin Lidén, Henk Kars, Andrew Chamberlain, Carl Heron, George Maat, Peter de Knijff
 
 #### Former Representatives
 
