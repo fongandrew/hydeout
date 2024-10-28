@@ -93,7 +93,7 @@ sidebar_link: true
 </div>  
 
 <div class ="member">
-<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/IRVINGPEASE_EVAN.jpg" | relative_url }}" alt="Avatar" /></a></div>
+<div class="square"><a href="" target="_blank"><img src="{{ "/assets/images/profile_pictures/IRVINGPEASE_Evan.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Evan Irving-Pease</p>
 <p><b>Social Media</b></p>
 <p>University of Copenhagen</p>
