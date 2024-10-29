@@ -34,7 +34,7 @@ sidebar_link: true
 <div class="square"><a href="https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/geosciences/work-groups-contacts/prehistory-and-archaeological-sciences/ina/early-prehistory-quaternary-ecology/staff/academic-staff/dr-samantha-brown/" target="_blank"><img src="{{ "/assets/images/profile_pictures/BROWN_SAM.jpg" | relative_url }}" alt="Avatar" /></a></div>
 <p>Sam Brown</p>
 <p><b>Secretary</b></p>
-<p>National Research Center on Human Evolution \(CENIEH\)</p>
+<p>National Research Center on Human Evolution (CENIEH)</p>
 <p>Burgos, Spain</p>
 <p><b><a href="mailto:secretary@isbarch.org">Contact</a></b></p>
 
