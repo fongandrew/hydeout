@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Membership
-sidebar_link: true
+title: Become a member
+sidebar_link: false
 ---
 
 ![Faunal_bone](/assets/images/banners/faunal_bone.png)
 
-# Benefits of membership
+## Benefits of membership
 
 ISBA sponsors a wide range of initiatives to support biomolecular archaeology, including a biennial ISBA meeting, student poster and presentation prizes, article awards, and workshop micro-grants. ISBA membership helps to fund these initiatives and to support the maintenance of our website, listserv, and social media accounts.
 
@@ -21,7 +21,7 @@ Membership fees are described in the table below.
 | Student  | £15  | 2 years  |
 | Standard | £30  | 2 years  |
 
-# Steps to Membership
+## Steps to Membership
 
 Registration can be performed in two to three steps:
 
