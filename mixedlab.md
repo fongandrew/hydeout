@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Embodied Learning with Mixed Reality for physics
-sidebar_link: false
+sidebar_link: true
 ---
 
 
