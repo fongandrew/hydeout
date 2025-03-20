@@ -1,3 +1,5 @@
+@use "variables";
+
 // Posts and pages
 //
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
@@ -16,7 +18,7 @@
 .page-title,
 .post-title,
 .post-title a {
-  color: $heading-color;
+  color: variables.$heading-color;
 }
 
 h2.post-title,
@@ -53,7 +55,7 @@ h2.page-title {
   }
 
   li a:hover {
-    color: $link-color;
+    color: variables.$link-color;
     text-decoration: none;
   }
 
@@ -64,9 +66,9 @@ h2.page-title {
 
 article + *,
 .post-body ~ section {
-  border-top: 1px solid $border-color;
-  margin-top: $section-spacing;
-  padding-top: $section-spacing;
+  border-top: 1px solid variables.$border-color;
+  margin-top: variables.$section-spacing;
+  padding-top: variables.$section-spacing;
 
   > h2:first-child,
   > h3:first-child {
@@ -76,7 +78,7 @@ article + *,
 
 // Meta data line below post title
 .post-meta {
-  color: $body-muted;
+  color: variables.$body-muted;
   margin-bottom: 1rem;
   margin-top: -0.5rem;
 }
