@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-hydeout"
-  spec.version       = "4.3.0"
-  spec.authors       = ["Andrew Fong"]
-  spec.email         = ["id@andrewfong.com"]
+  spec.name          = "jekyll-theme-hydeout-funfox"
+  spec.version       = "1.0.0"
+  spec.authors       = ["Functional Fox"]
+  spec.email         = ["functional-fox@narrratio.net"]
 
-  spec.summary       = %q{The Hyde theme for Jekyll, refreshed.}
-  spec.homepage      = "https://github.com/fongandrew/hydeout"
+  spec.summary       = %q{Fork of Andrew Fong's Hyde theme for Jekyll, with updated SASS code.}
+  spec.homepage      = "https://github.com/functional-fox/hydeout"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
@@ -19,6 +19,7 @@ Gem::Specification.new do |spec|
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
 
+  spec.required_ruby_version = ">= 2.6"
   spec.add_runtime_dependency "jekyll", ">= 3.6", "< 5.0"
   spec.add_runtime_dependency "jekyll-gist", "~> 1.4"
   spec.add_runtime_dependency "jekyll-paginate", "~> 1.1"
