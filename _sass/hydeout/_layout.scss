@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "variables";
+
 /*
   Layout
 
@@ -24,9 +27,9 @@
 
 body {
   background-attachment: fixed;
-  background-color: $sidebar-bg-color;
-  background-image: linear-gradient(to bottom, lighten($sidebar-bg-color, 7%), darken($sidebar-bg-color, 7%));
-  color: $sidebar-text-color;
+  background-color: variables.$sidebar-bg-color;
+  background-image: linear-gradient(to bottom, color.adjust(variables.$sidebar-bg-color, $lightness: 7%), color.adjust(variables.$sidebar-bg-color, $lightness: -7%));
+  color: variables.$sidebar-text-color;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -34,13 +37,13 @@ body {
 
 #sidebar {
   flex: 0 0 auto;
-  padding: $section-spacing;
+  padding: variables.$section-spacing;
 
   .site-title {
     font-family: 'Abril Fatface', serif;
-    font-size: $large-font-size;
+    font-size: variables.$large-font-size;
     font-weight: normal;
-    margin-bottom: $heading-spacing;
+    margin-bottom: variables.$heading-spacing;
     margin-top: 0;
   }
 
@@ -48,9 +51,9 @@ body {
 }
 
 .content {
-  background: $body-bg;
-  color: $body-color;
-  padding: $section-spacing;
+  background: variables.$body-bg;
+  color: variables.$body-color;
+  padding: variables.$section-spacing;
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
@@ -61,7 +64,7 @@ body {
 
   > .content {
     flex-grow: 1;
-    padding-bottom: $section-spacing * 2;
+    padding-bottom: variables.$section-spacing * 2;
   }
 }
 
@@ -82,11 +85,11 @@ body {
 // Make header elements blend into sidebar / background
 .container > header {
   background: transparent;
-  color: $sidebar-title-color;
+  color: variables.$sidebar-title-color;
   margin:
-    ($heading-spacing - $section-spacing)
-    $section-spacing
-    $section-spacing;
+    (variables.$heading-spacing - variables.$section-spacing)
+    variables.$section-spacing
+    variables.$section-spacing;
 
   h1,
   h2 {
@@ -134,7 +137,7 @@ body {
   Tablet / Desktop view
 ----------------------------------------------------------- */
 
-@media (min-width: $large-breakpoint) {
+@media (min-width: variables.$large-breakpoint) {
   body {
     flex-direction: row;
     min-height: 100vh;
@@ -152,7 +155,7 @@ body {
   #sidebar,
   .home #sidebar {
     text-align: left;
-    width: $sidebar-width;
+    width: variables.$sidebar-width;
 
     > *:last-child {
       margin-bottom: 0;
@@ -163,7 +166,7 @@ body {
     position: fixed;
 
     // Attach to bottom or top of window
-    @if $sidebar-sticky {
+    @if variables.$sidebar-sticky {
       bottom: 0;
     }
 
@@ -172,7 +175,7 @@ body {
     }
 
     // Attach to right or left of window
-    @if $layout-reverse {
+    @if variables.$layout-reverse {
       right: 0;
     }
 
@@ -199,24 +202,24 @@ body {
 
   // Make entire container background white to contrast against sidebar
   .container {
-    background: $body-bg;
-    color: $body-color;
+    background: variables.$body-bg;
+    color: variables.$body-color;
     min-height: 100vh;
     padding:
-      $section-spacing * 2
-      $section-spacing * 2
+      variables.$section-spacing * 2
+      variables.$section-spacing * 2
       0;
 
-    @if $layout-reverse {
-      margin-right: $sidebar-width;
+    @if variables.$layout-reverse {
+      margin-right: variables.$sidebar-width;
     }
 
     @else {
-      margin-left: $sidebar-width;
+      margin-left: variables.$sidebar-width;
     }
 
     > header {
-      color: $heading-color;
+      color: variables.$heading-color;
       margin: 0;
 
       h1,
@@ -224,7 +227,7 @@ body {
         color: inherit;
 
         &:last-child {
-          margin-bottom: $heading-spacing;
+          margin-bottom: variables.$heading-spacing;
         }
       }
     }
@@ -241,17 +244,17 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: $sidebar-link-color;
+  color: variables.$sidebar-link-color;
 
   svg {
-    fill: $sidebar-icon-color;
+    fill: variables.$sidebar-icon-color;
   }
 }
 
 #sidebar a:hover,
 #sidebar a:focus,
 #sidebar a.active {
-  svg { fill: $sidebar-icon-color; }
+  svg { fill: variables.$sidebar-icon-color; }
 }
 
 #sidebar a:hover,
@@ -268,7 +271,7 @@ body {
 }
 
 #sidebar .site-title {
-  color: $sidebar-title-color;
+  color: variables.$sidebar-title-color;
   a { color: inherit; }
 }
 
@@ -286,7 +289,7 @@ body {
   margin-top: 1rem;
   max-width: 100%;
 
-  @media (min-width: $large-breakpoint) {
+  @media (min-width: variables.$large-breakpoint) {
     justify-content: flex-start;
     margin-left: -0.25em;
   }
