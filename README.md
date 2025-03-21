@@ -1,5 +1,8 @@
 # Hydeout
 
+This project is a fork of the [original Hydeout theme](https://github.com/fongandrew/hydeout) by Andrew Fong.
+This fork exists to remove SASS code that is now considered deprecated.
+
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
@@ -9,12 +12,12 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
 ### Usage
 
-Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 4.1"` to your Gemfile and run
+Hydeout is available as the `jekyll-theme-hydeout-funfox` Ruby Gem.
+Add `gem "jekyll-theme-hydeout-funfox", "~> 1.0"` to your Gemfile and run
 `bundle install`.
 
-If you're installing on Github pages, you may also have to add
-`remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
+If you're installing on GitHub pages, you may also have to add
+`remote_theme: functional-fox/hydeout` to your `_config.yml`. [See the GitHub
 instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
@@ -53,22 +56,40 @@ $layout-reverse: false !default;
 $link-color: #268bd2 !default;
 ```
 
-To override these variables, create your own `assets/css/main.scss` file.
-Define your own variables, then import in Hydeout's SCSS, like so:
+To override these variables, define your own variables inside a SASS file
+in the `assets/css/` directory.
+Then `@use` that file in your own `assets/css/main.scss` file, like so:
 
 ```scss
 ---
 # Jekyll needs front matter for SCSS files
 ---
 
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
-$sidebar-sticky: false;
-@import "hydeout";
+@use "colours";
+@use "hydeout/variables" with (
+  $body-bg:           colours.$grey,
+  $body-color:        white,
+  $heading-color:     colours.$light-pink,
+  $link-color:        colours.$green,
+  $sidebar-bg-color:  colours.$dark-pink,
+  $sidebar-sticky:    false,
+  );
+@use "hydeout";
+```
+
+Example content of `assets/css/colours.scss`:
+
+```scss
+$green:       #61c200;
+$grey:        #363636;
+$dark-pink:   #9f0647;
+$light-pink:  #f0a2c3;
 ```
 
 See the [_variables](_sass/hydeout/_variables.scss) file for other variables
 you can override.
+
+**Pay attention to the namespace of the variables you intend to override, otherwise, you will probably experience errors.**
 
 You can see the full set of partials you can replace in the
 [`_includes`](_includes) folder, but there are a few worth noting:
