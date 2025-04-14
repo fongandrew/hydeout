@@ -2,7 +2,7 @@ name: Build Jekyll Site
 
 on:
   push:
-    branches: [$default-branch]
+    branches: [jekyll-v4]
 
 jobs:
   build:
