@@ -7,15 +7,36 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
 <img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
-### Usage
+## ✅ Jekyll 4.x Branch
+
+**You're viewing the Jekyll 4.x compatible branch (recommended for all new projects).**
+
+This branch includes:
+- Full Jekyll 4.x compatibilityTha
+- GitHub Pages deployment support
+- Modern Sass modules
+- Updated dependencies
+- Performance improvements
+- Bug fixes
+
+## Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
 Add `gem "jekyll-theme-hydeout", "~> 5.0"` to your Gemfile and run
 `bundle install`.
 
-If you're installing on Github pages, you may also have to add
-`remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
-instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
+### GitHub Pages Support
+
+**Important:** Jekyll 4.x requires GitHub Actions for GitHub Pages deployment, as the default GitHub Pages builder only supports Jekyll 3.x.
+
+To use this theme with GitHub Pages, set up a GitHub Actions deployment:
+- Use our [workflow file](https://github.com/fongandrew/hydeout/blob/jekyll-v4/.github/workflows/jekyll-build.yml) as a template.
+- Update the branch name in the workflow to match your main branch
+- Enable GitHub Pages in your repository settings with the source set to "GitHub Actions"
+
+See https://jekyllrb.com/docs/continuous-integration/github-actions/ for more information.
+
+### Pagination Setup
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
 it with an `index.html` that uses the `index` layout:
