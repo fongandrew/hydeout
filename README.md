@@ -7,15 +7,28 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
 <img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
 
-### Usage
+## ⚠️ IMPORTANT: Branch Information ⚠️
 
-Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 4.1"` to your Gemfile and run
-`bundle install`.
+### 👉 For Jekyll 4.x Users (Recommended for New Projects)
 
-If you're installing on Github pages, you may also have to add
-`remote_theme: fongandrew/hydeout` to your `_config.yml`. [See the Github
-instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
+**Use the [jekyll-v4 branch](https://github.com/fongandrew/hydeout/tree/jekyll-v4) for all new projects.**
+
+The jekyll-v4 branch is actively maintained (well, at least more maintained than this branch) and includes full support for Jekyll 4.x with improvements and bug fixes.
+
+```bash
+# Clone with jekyll-v4 branch (recommended)
+git clone -b jekyll-v4 https://github.com/fongandrew/hydeout.git
+```
+
+### Current Branch: Jekyll 3.x Support (master)
+
+**You're currently viewing the README for the legacy Jekyll 3.x version (master branch).**
+
+This master branch is maintained for legacy support and compatibility with older GitHub Pages deployments. It will remain on Jekyll 3.x for as long as [GitHub Pages continues to support this version](https://pages.github.com/versions/).
+
+The master branch exists primarily to avoid breaking existing GitHub Pages sites that use `remote_theme: fongandrew/hydeout` in their `_config.yml` files (see usage below). [See the GitHub instructions for more details.](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/).
+
+## Usage details
 
 Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
 it with an `index.html` that uses the `index` layout:
