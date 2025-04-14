@@ -2,8 +2,7 @@ name: Build Jekyll Site
 
 on:
   push:
-    branches:
-      - gh-pages
+    branches: [$default-branch]
 
 jobs:
   build:
@@ -24,10 +23,16 @@ jobs:
           bundle install
           bundle exec jekyll build
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
-          publish_branch: gh-pages
-          keep_files: true
+        id: deployment
+        uses: actions/deploy-pages@v4
