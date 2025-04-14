@@ -4,6 +4,11 @@ on:
   push:
     branches: [jekyll-v4]
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
