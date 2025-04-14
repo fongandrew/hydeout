@@ -1,5 +1,3 @@
-@use "variables";
-
 // Body resets
 //
 // Update the foundational and global aspects of the page.
@@ -15,12 +13,12 @@ body {
 }
 
 html {
-  font-family: variables.$root-font-family;
-  font-size: variables.$root-font-size;
-  line-height: variables.$root-line-height;
+  font-family: $root-font-family;
+  font-size: $root-font-size;
+  line-height: $root-line-height;
 
-  @media (min-width: variables.$large-breakpoint) {
-    font-size: variables.$large-font-size;
+  @media (min-width: $large-breakpoint) {
+    font-size: $large-font-size;
   }
 }
 
@@ -36,7 +34,7 @@ section {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: variables.$link-color;
+  color: $link-color;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -59,7 +57,7 @@ img {
 }
 
 table {
-  border: 1px solid variables.$border-color;
+  border: 1px solid $border-color;
   border-collapse: collapse;
   font-size: 85%;
   margin-bottom: 1rem;
@@ -68,7 +66,7 @@ table {
 
 td,
 th {
-  border: 1px solid variables.$border-color;
+  border: 1px solid $border-color;
   padding: 0.25rem 0.5rem;
 }
 
@@ -78,7 +76,7 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: variables.$gray-1;
+  background-color: $gray-1;
 }
 
 button,
@@ -86,16 +84,16 @@ input[type='text'],
 input[type='email'],
 input[type='search'],
 input[type='submit'] {
-  border: 1px solid variables.$border-color;
-  border-radius: variables.$border-radius;
-  padding: variables.$padding-v variables.$padding-h;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: $padding-v $padding-h;
 }
 
 button,
 input[type='submit'] {
   background: transparent;
-  border-color: variables.$border-color;
-  color: variables.$link-color;
+  border-color: $border-color;
+  color: $link-color;
   cursor: pointer;
   transition:
     color 0.6s ease-in-out,
@@ -103,9 +101,9 @@ input[type='submit'] {
     background 0.6s ease-in-out;
 
   &:hover {
-    background: variables.$link-color;
-    border-color: variables.$link-color;
-    box-shadow: variables.$default-box-shadow;
+    background: $link-color;
+    border-color: $link-color;
+    box-shadow: $default-box-shadow;
     color: #fff;
   }
 }
@@ -128,9 +126,4 @@ input[type='submit'] {
   left: 0;
   width: 100%;
   height: 100%;
-}
-
-.emoji {
-  display: initial;
-  margin: initial;
 }

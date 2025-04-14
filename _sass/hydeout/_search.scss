@@ -1,8 +1,6 @@
-@use "variables";
-
 .search-row {
-  border: 1px solid variables.$border-color;
-  border-radius: variables.$border-radius;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
   display: flex;
   padding: 2px;
 

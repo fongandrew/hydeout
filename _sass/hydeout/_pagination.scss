@@ -1,5 +1,3 @@
-@use "variables";
-
 /*
   Pagination
 
@@ -9,66 +7,66 @@
 */
 
 .pagination {
-  color: variables.$gray-3;
-  margin-bottom: variables.$section-spacing;
+  color: $gray-3;
+  margin-bottom: $section-spacing;
   text-align: center;
 
   > a {
-    background: variables.$body-bg;
-    border: solid variables.$border-color;
-    border-radius: variables.$border-radius;
+    background: $body-bg;
+    border: solid $border-color;
+    border-radius: $border-radius;
     border-width: 1px;
-    box-shadow: variables.$default-box-shadow;
+    box-shadow: $default-box-shadow;
     display: inline-block;
-    max-width: variables.$sidebar-width;
-    padding: variables.$padding-v variables.$padding-h;
+    max-width: $sidebar-width;
+    padding: $padding-v $padding-h;
     width: 60%;
   }
 
   > a:hover {
-    background-color: variables.$border-color;
+    background-color: $border-color;
   }
 }
 
 // Bottom -> margin-top;
 * + .pagination {
-  margin-top: variables.$section-spacing;
+  margin-top: $section-spacing;
 }
 
 // Push above header if newer on mobile
 .content .pagination:first-child {
-  margin-top: -(variables.$section-spacing) * 2;
+  margin-top: -$section-spacing * 2;
 }
 
 // Make room for larger header by extending margin below title
 .index #sidebar {
-  padding-bottom: calc(#{variables.$section-spacing} + #{variables.$padding-v});
+  padding-bottom: calc(#{$section-spacing} + #{$padding-v});
 }
 
 // But not on page1
 .home.index #sidebar {
-  padding-bottom: variables.$section-spacing;
+  padding-bottom: $section-spacing;
 }
 
 // Undo for larger screens
-@media (min-width: variables.$large-breakpoint) {
+@media (min-width: $large-breakpoint) {
   .pagination > a {
     box-shadow: none;
 
-    &:hover { box-shadow: variables.$default-box-shadow; }
+    &:hover { box-shadow: $default-box-shadow; }
   }
 
   .content .pagination:first-child {
     margin-top: 0;
 
     + * {
-      border-top: 1px solid variables.$border-color;
-      margin-top: variables.$section-spacing;
-      padding-top: variables.$section-spacing;
+      border-top: 1px solid $border-color;
+      margin-top: $section-spacing;
+      padding-top: $section-spacing;
     }
   }
 
   .index #sidebar {
-    padding-bottom: variables.$section-spacing;
+    padding-bottom: $section-spacing;
   }
 }
