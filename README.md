@@ -10,7 +10,7 @@ theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 ### Usage
 
 Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 4.1"` to your Gemfile and run
+Add `gem "jekyll-theme-hydeout", "~> 5.0"` to your Gemfile and run
 `bundle install`.
 
 If you're installing on Github pages, you may also have to add
